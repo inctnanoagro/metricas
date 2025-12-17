@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro de Produções – INCT NanoAgro</title>
+</head>
+<body>
+
+<h1>Registro de Produção Acadêmica – INCT NanoAgro</h1>
+
+<form id="producaoForm">
+
+  <fieldset>
+    <legend>Identificação</legend>
+
+    <label>
+      Título:<br>
+      <input type="text" id="titulo" required>
+    </label><br><br>
+
+    <label>
+      Ano:<br>
+      <input type="number" id="ano" min="2024" max="2025" required>
+    </label><br><br>
+
+    <label>
+      Idioma:<br>
+      <select id="idioma">
+        <option value="pt">Português</option>
+        <option value="en">Inglês</option>
+        <option value="es">Espanhol</option>
+        <option value="outro">Outro</option>
+      </select>
+    </label>
+  </fieldset>
+
+  <br>
+
+  <fieldset>
+    <legend>Tipo de Produção</legend>
+
+    <select id="tipo_producao" required>
+      <option value="">Selecione</option>
+      <option value="artigo_periodico">Artigo em periódico</option>
+      <option value="capitulo_livro">Capítulo de livro</option>
+      <option value="livro">Livro</option>
+      <option value="trabalho_evento">Trabalho em evento</option>
+      <option value="resumo">Resumo</option>
+      <option value="patente">Patente</option>
+      <option value="produto_tecnologico">Produto tecnológico</option>
+      <option value="outro">Outro</option>
+    </select>
+  </fieldset>
+
+  <br>
+
+  <fieldset>
+    <legend>Vínculo institucional</legend>
+
+    <label>
+      Associável ao INCT?
+      <input type="checkbox" id="associavel_inct">
+    </label>
+  </fieldset>
+
+  <br>
+
+  <button type="submit">Gerar JSON</button>
+
+</form>
+
+<pre id="saida"></pre>
+
+<script>
+document.getElementById("producaoForm").addEventListener("submit", function (e) {
+  e.preventDefault();
+
+  const json = {
+    identificacao: {
+      titulo: document.getElementById("titulo").value,
+      ano: Number(document.getElementById("ano").value),
+      idioma: document.getElementById("idioma").value
+    },
+    autores: [
+      {
+        nome_completo: "AUTOR NÃO INFORMADO"
+      }
+    ],
+    tipo_producao: document.getElementById("tipo_producao").value,
+    dados_bibliograficos: {},
+    vinculo_institucional: {
+      associavel_inct: document.getElementById("associavel_inct").checked
+    },
+    metadados_coleta: {
+      fonte: "curriculo_lattes",
+      data_registro: new Date().toISOString().split("T")[0]
+    }
+  };
+
+  document.getElementById("saida").textContent =
+    JSON.stringify(json, null, 2);
+});
+</script>
+
+</body>
+</html>
