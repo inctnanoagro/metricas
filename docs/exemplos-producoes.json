@@ -1,0 +1,26 @@
+{
+"identificacao": {
+"titulo": "Nanotechnology-based strategies for sustainable crop protection",
+"ano": 2025,
+"idioma": "en"
+},
+"autores": [
+{
+"nome_completo": "Ana Pereira",
+"pesquisador_inct": true,
+"instituicao": "Universidade Federal de São Carlos"
+}
+],
+"tipo_producao": "artigo_periodico",
+"dados_bibliograficos": {
+"revista_ou_evento": "Sustainable Agriculture Reviews",
+"doi": "10.5678/sar.2025.045"
+},
+"vinculo_institucional": {
+"associavel_inct": true
+},
+"metadados_coleta": {
+"fonte": "curriculo_lattes",
+"data_registro": "2025-06-02"
+}
+}
