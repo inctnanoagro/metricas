@@ -76,35 +76,32 @@
         <script>
             let producoes = [];
 
+            /* ============================
+           Utils
+        ============================ */
+
             function splitMultiplasProducoes(texto) {
                 return texto
-                    .split(/\n\s*\d+\.\s*\n/)
+                    .split(/\n\s*\d+\.\s*\n|<div class="artigo-completo"/i)
                     .map((t) => t.trim())
-                    .filter((t) => t.length > 20);
+                    .filter((t) => t.length > 30)
+                    .map((t) =>
+                        t.startsWith("<div")
+                            ? t
+                            : '<div class="artigo-completo">' + t,
+                    );
             }
 
             function isHtmlArtigo(input) {
                 return (
-                    input.includes('class="artigo-completo"') ||
-                    input.includes("icone-doi") ||
-                    input.includes("informacao-artigo")
+                    input.includes("artigo-completo") ||
+                    input.includes("icone-doi")
                 );
             }
 
-            function ingestaoAvancada(input, categoria) {
-                const blocos = splitMultiplasProducoes(input);
-                const resultados = [];
-
-                blocos.forEach((bloco) => {
-                    if (isHtmlArtigo(bloco)) {
-                        resultados.push(parseArtigoHTML(bloco, categoria));
-                    } else {
-                        resultados.push(parseLinha(bloco, categoria));
-                    }
-                });
-
-                return resultados;
-            }
+            /* ============================
+           Parser HTML Lattes
+        ============================ */
 
             function parseArtigoHTML(html, categoria) {
                 const wrapper = document.createElement("div");
@@ -124,111 +121,120 @@
                     ? parseInt(anoSpan.textContent.trim(), 10)
                     : null;
 
-                // Autores (texto antes do " . ")
-                const textoCompleto = wrapper.textContent
-                    .replace(/\s+/g, " ")
-                    .trim();
-                const partes = textoCompleto.split(/\s\.\s/, 2);
-                const autores = partes[0]
-                    ? partes[0]
-                          .split(";")
-                          .map((a) => a.trim())
-                          .filter((a) => a.length > 2)
-                          .join("; ")
-                    : null;
+                // Texto limpo (sem spans de ordenação)
+                const clone = wrapper.cloneNode(true);
+                clone
+                    .querySelectorAll(
+                        "[data-tipo-ordenacao], .icone-doi, .citado, sup, img",
+                    )
+                    .forEach((e) => e.remove());
 
-                // Título
-                let titulo = partes[1] || null;
-                if (titulo) {
-                    const corte = titulo.search(
-                        /\.\s+[A-Z0-9][A-Z0-9\s\-&]+,\s*v\./,
-                    );
-                    if (corte > 0) titulo = titulo.slice(0, corte).trim();
-                    titulo = titulo.replace(/\.*$/, "");
+                let texto = clone.textContent.replace(/\s+/g, " ").trim();
+
+                // Remove prefixo "38. "
+                texto = texto.replace(/^\d+\.\s*/, "");
+
+                // Split autores / resto
+                const partes = texto.split(/\s\.\s/, 2);
+
+                let autores = partes[0] || null;
+                if (autores) {
+                    autores = autores
+                        .split(";")
+                        .map((a) => a.trim())
+                        .filter((a) => a.length > 2)
+                        .join("; ");
                 }
+
+                // Resto → título + periódico
+                let resto = partes[1] || "";
+
+                // Veículo, volume e páginas
+                let veiculo = null,
+                    volume = null,
+                    paginas = null;
+
+                const veicMatch = resto.match(
+                    /\.?\s*([A-Z0-9][A-Z0-9\s\-&]+),\s*v\.\s*([\dA-Za-z]+),\s*p\.\s*([\d\-–]+)/,
+                );
+                if (veicMatch) {
+                    veiculo = veicMatch[1].trim();
+                    volume = veicMatch[2];
+                    paginas = veicMatch[3];
+                }
+
+                // Título = antes do veículo
+                let titulo = resto;
+                if (veicMatch && veicMatch.index !== undefined) {
+                    titulo = resto.slice(0, veicMatch.index).trim();
+                }
+                titulo = titulo.replace(/\.*$/, "");
 
                 return {
                     categoria,
-                    titulo,
+                    titulo: titulo || null,
                     autores,
                     ano,
+                    veiculo,
+                    volume,
+                    paginas,
                     doi,
                     vinculo_inct: null,
                 };
             }
 
-            function parseLinha(linha, categoria) {
-                // normaliza quebras de linha e espaços
-                const s = linha.replace(/\s+/g, " ").trim();
+            /* ============================
+           Fallback texto simples
+        ============================ */
 
-                // remove bloco de citações no fim
-                const semCit = s.replace(/\s*Citações:.*$/i, "").trim();
-
-                // ano
-                const anos = semCit.match(/\b(19|20)\d{2}\b/g);
-                const ano = anos ? parseInt(anos[anos.length - 1], 10) : null;
-
-                // DOI (se existir)
-                const doiMatch = semCit.match(
-                    /10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i,
-                );
-                const doi = doiMatch ? doiMatch[0].toLowerCase() : null;
-
-                // 1) Separar AUTORES do RESTO usando o padrão do Lattes: " . " (ponto com espaços)
-                //    Ex.: "... ; ROCHA, C. Q. . Zein Nanoparticles..."
-                const split = semCit.split(/\s\.\s/, 2);
-                const autoresRaw = (split[0] || "").trim();
-                const resto = (split[1] || "").trim();
-
-                // autores (separados por ;)
-                const autores = autoresRaw
-                    .split(";")
-                    .map((a) => a.trim())
-                    .filter((a) => a.length > 2)
-                    .join("; ");
-
-                // 2) Título: pega do início do resto até antes do periódico (caixa alta + ", v.")
-                //    Ex.: "Zein ... Applications. PHARMACEUTICS, v. 16, p. 1603, 2024."
-                let titulo = resto;
-                const mVeic = resto.match(
-                    /\.\s+([A-Z0-9][A-Z0-9\s\-&]+),\s*v\.\s*\d+/,
-                );
-                if (mVeic && mVeic.index !== undefined) {
-                    titulo = resto.slice(0, mVeic.index).trim();
-                } else {
-                    // fallback: primeiro ponto final
-                    const p = resto.indexOf(".");
-                    if (p > 0) titulo = resto.slice(0, p).trim();
-                }
-
-                // remove ponto final do título (se sobrou)
-                titulo = titulo.replace(/\.*\s*$/, "").trim();
-
+            function parseLinha(texto, categoria) {
                 return {
                     categoria,
-                    titulo: titulo || null,
-                    autores: autores || null,
-                    ano,
-                    doi,
+                    titulo: texto,
+                    autores: null,
+                    ano: null,
+                    veiculo: null,
+                    volume: null,
+                    paginas: null,
+                    doi: null,
                     vinculo_inct: null,
                 };
+            }
+
+            /* ============================
+           Ingestão
+        ============================ */
+
+            function ingestaoAvancada(input, categoria) {
+                const blocos = splitMultiplasProducoes(input);
+                const resultados = [];
+
+                blocos.forEach((bloco) => {
+                    if (isHtmlArtigo(bloco)) {
+                        resultados.push(parseArtigoHTML(bloco, categoria));
+                    } else {
+                        resultados.push(parseLinha(bloco, categoria));
+                    }
+                });
+
+                return resultados;
             }
 
             function adicionar() {
                 const texto = document.getElementById("entrada").value.trim();
                 const categoria = document.getElementById("categoria").value;
-
                 if (!texto) return;
 
                 const novos = ingestaoAvancada(texto, categoria);
-
-                novos.forEach((p) => {
-                    producoes.push(p);
-                });
+                novos.forEach((p) => producoes.push(p));
 
                 document.getElementById("entrada").value = "";
                 render();
             }
+
+            /* ============================
+           Render / Download
+        ============================ */
 
             function render() {
                 const lista = document.getElementById("lista");
@@ -237,21 +243,19 @@
                 producoes.forEach((p, i) => {
                     const div = document.createElement("div");
                     div.className = "item readonly";
-
                     div.innerHTML = `
-      <label>Título</label>
-      <input value="${p.titulo}">
-      <label>Autores</label>
-      <input value="${p.autores}">
-      <label>Ano</label>
-      <input value="${p.ano ?? ""}">
-      <label>DOI</label>
-      <input value="${p.doi ?? ""}">
-      <div class="actions">
-        <button onclick="editar(${i})">Editar</button>
-        <button onclick="remover(${i})">Remover</button>
-      </div>
-    `;
+              <label>Título</label><input value="${p.titulo || ""}">
+              <label>Autores</label><input value="${p.autores || ""}">
+              <label>Ano</label><input value="${p.ano || ""}">
+              <label>Veículo</label><input value="${p.veiculo || ""}">
+              <label>Volume</label><input value="${p.volume || ""}">
+              <label>Páginas</label><input value="${p.paginas || ""}">
+              <label>DOI</label><input value="${p.doi || ""}">
+              <div class="actions">
+                <button onclick="editar(${i})">Editar</button>
+                <button onclick="remover(${i})">Remover</button>
+              </div>
+            `;
                     lista.appendChild(div);
                 });
             }
@@ -259,24 +263,28 @@
             function editar(i) {
                 const div = document.getElementsByClassName("item")[i];
                 div.classList.remove("readonly");
-
-                const btns = div.querySelector(".actions");
-                btns.innerHTML = `
-    <button onclick="salvar(${i})">Salvar</button>
-  `;
+                div.querySelector(".actions").innerHTML =
+                    `<button onclick="salvar(${i})">Salvar</button>`;
             }
 
             function salvar(i) {
-                const div = document.getElementsByClassName("item")[i];
-                const inputs = div.querySelectorAll("input");
-
-                producoes[i].titulo = inputs[0].value;
-                producoes[i].autores = inputs[1].value;
-                producoes[i].ano = inputs[2].value
-                    ? parseInt(inputs[2].value)
+                const inputs = document
+                    .getElementsByClassName("item")
+                    [i].querySelectorAll("input");
+                [
+                    "titulo",
+                    "autores",
+                    "ano",
+                    "veiculo",
+                    "volume",
+                    "paginas",
+                    "doi",
+                ].forEach(
+                    (k, idx) => (producoes[i][k] = inputs[idx].value || null),
+                );
+                producoes[i].ano = producoes[i].ano
+                    ? parseInt(producoes[i].ano)
                     : null;
-                producoes[i].doi = inputs[3].value || null;
-
                 render();
             }
 
@@ -291,11 +299,9 @@
                     periodo: document.getElementById("periodo").value,
                     producoes,
                 };
-
                 const blob = new Blob([JSON.stringify(data, null, 2)], {
                     type: "application/json",
                 });
-
                 const a = document.createElement("a");
                 a.href = URL.createObjectURL(blob);
                 a.download = `prefill_${data.pesquisador.replace(/\s+/g, "_")}.json`;
