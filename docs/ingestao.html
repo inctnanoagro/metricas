@@ -76,6 +76,87 @@
         <script>
             let producoes = [];
 
+            function splitMultiplasProducoes(texto) {
+                return texto
+                    .split(/\n\s*\d+\.\s*\n/)
+                    .map((t) => t.trim())
+                    .filter((t) => t.length > 20);
+            }
+
+            function isHtmlArtigo(input) {
+                return (
+                    input.includes('class="artigo-completo"') ||
+                    input.includes("icone-doi") ||
+                    input.includes("informacao-artigo")
+                );
+            }
+
+            function ingestaoAvancada(input, categoria) {
+                const blocos = splitMultiplasProducoes(input);
+                const resultados = [];
+
+                blocos.forEach((bloco) => {
+                    if (isHtmlArtigo(bloco)) {
+                        resultados.push(parseArtigoHTML(bloco, categoria));
+                    } else {
+                        resultados.push(parseLinha(bloco, categoria));
+                    }
+                });
+
+                return resultados;
+            }
+
+            function parseArtigoHTML(html, categoria) {
+                const wrapper = document.createElement("div");
+                wrapper.innerHTML = html;
+
+                // DOI
+                const doiLink = wrapper.querySelector("a.icone-doi");
+                const doi = doiLink
+                    ? doiLink.href.replace(/^https?:\/\/(dx\.)?doi\.org\//, "")
+                    : null;
+
+                // Ano
+                const anoSpan = wrapper.querySelector(
+                    '[data-tipo-ordenacao="ano"]',
+                );
+                const ano = anoSpan
+                    ? parseInt(anoSpan.textContent.trim(), 10)
+                    : null;
+
+                // Autores (texto antes do " . ")
+                const textoCompleto = wrapper.textContent
+                    .replace(/\s+/g, " ")
+                    .trim();
+                const partes = textoCompleto.split(/\s\.\s/, 2);
+                const autores = partes[0]
+                    ? partes[0]
+                          .split(";")
+                          .map((a) => a.trim())
+                          .filter((a) => a.length > 2)
+                          .join("; ")
+                    : null;
+
+                // Título
+                let titulo = partes[1] || null;
+                if (titulo) {
+                    const corte = titulo.search(
+                        /\.\s+[A-Z0-9][A-Z0-9\s\-&]+,\s*v\./,
+                    );
+                    if (corte > 0) titulo = titulo.slice(0, corte).trim();
+                    titulo = titulo.replace(/\.*$/, "");
+                }
+
+                return {
+                    categoria,
+                    titulo,
+                    autores,
+                    ano,
+                    doi,
+                    vinculo_inct: null,
+                };
+            }
+
             function parseLinha(linha, categoria) {
                 // normaliza quebras de linha e espaços
                 const s = linha.replace(/\s+/g, " ").trim();
@@ -135,12 +216,16 @@
 
             function adicionar() {
                 const texto = document.getElementById("entrada").value.trim();
+                const categoria = document.getElementById("categoria").value;
+
                 if (!texto) return;
 
-                const categoria = document.getElementById("categoria").value;
-                const item = parseLinha(texto, categoria);
+                const novos = ingestaoAvancada(texto, categoria);
 
-                producoes.push(item);
+                novos.forEach((p) => {
+                    producoes.push(p);
+                });
+
                 document.getElementById("entrada").value = "";
                 render();
             }
