@@ -107,13 +107,30 @@
                 const wrapper = document.createElement("div");
                 wrapper.innerHTML = html;
 
-                // DOI
+                /* =========================
+             ORDEM (número do Lattes)
+          ========================= */
+
+                let ordem = null;
+                const ordemEl = wrapper.querySelector("b");
+                if (ordemEl) {
+                    const m = ordemEl.textContent.match(/\d+/);
+                    if (m) ordem = parseInt(m[0], 10);
+                }
+
+                /* =========================
+             DOI
+          ========================= */
+
                 const doiLink = wrapper.querySelector("a.icone-doi");
                 const doi = doiLink
                     ? doiLink.href.replace(/^https?:\/\/(dx\.)?doi\.org\//, "")
                     : null;
 
-                // Ano
+                /* =========================
+             Ano
+          ========================= */
+
                 const anoSpan = wrapper.querySelector(
                     '[data-tipo-ordenacao="ano"]',
                 );
@@ -121,20 +138,23 @@
                     ? parseInt(anoSpan.textContent.trim(), 10)
                     : null;
 
-                // Texto limpo (sem spans de ordenação)
+                /* =========================
+             Texto limpo (remove lixo estrutural)
+          ========================= */
+
                 const clone = wrapper.cloneNode(true);
                 clone
                     .querySelectorAll(
-                        "[data-tipo-ordenacao], .icone-doi, .citado, sup, img",
+                        ".layout-cell-1, b, [data-tipo-ordenacao], .icone-doi, .citado, sup, img",
                     )
                     .forEach((e) => e.remove());
 
                 let texto = clone.textContent.replace(/\s+/g, " ").trim();
 
-                // Remove prefixo "38. "
-                texto = texto.replace(/^\d+\.\s*/, "");
+                /* =========================
+             Split autores / resto
+          ========================= */
 
-                // Split autores / resto
                 const partes = texto.split(/\s\.\s/, 2);
 
                 let autores = partes[0] || null;
@@ -146,31 +166,43 @@
                         .join("; ");
                 }
 
-                // Resto → título + periódico
                 let resto = partes[1] || "";
 
-                // Veículo, volume e páginas
+                /* =========================
+             Veículo, volume, páginas
+          ========================= */
+
                 let veiculo = null,
                     volume = null,
                     paginas = null;
 
                 const veicMatch = resto.match(
-                    /\.?\s*([A-Z0-9][A-Z0-9\s\-&]+),\s*v\.\s*([\dA-Za-z]+),\s*p\.\s*([\d\-–]+)/,
+                    /([A-Z][A-Z\s&\-]+),\s*v\.\s*([\dA-Za-z]+),\s*p\.\s*([\d\-–]+)/,
                 );
+
                 if (veicMatch) {
                     veiculo = veicMatch[1].trim();
                     volume = veicMatch[2];
                     paginas = veicMatch[3];
                 }
 
-                // Título = antes do veículo
+                /* =========================
+             Título (antes do veículo)
+          ========================= */
+
                 let titulo = resto;
                 if (veicMatch && veicMatch.index !== undefined) {
                     titulo = resto.slice(0, veicMatch.index).trim();
                 }
+
                 titulo = titulo.replace(/\.*$/, "");
 
+                /* =========================
+             Resultado final
+          ========================= */
+
                 return {
+                    ordem_lattes: ordem,
                     categoria,
                     titulo: titulo || null,
                     autores,
