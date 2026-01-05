@@ -365,29 +365,50 @@
             let nextId = 1;
 
             /* ====================================
-               PARSERS PARA CADA CATEGORIA
+               PARSER DE ARTIGOS (v2 - que funciona)
             ==================================== */
 
-            // ARTIGOS
             function extrairArtigos(html) {
                 const resultados = [];
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, "text/html");
-                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                // Usa o mesmo seletor da v2 que funciona
+                const layoutTabela = doc.querySelectorAll(
+                    'div[class*="layout-cell-pad-5"]',
+                );
 
                 layoutTabela.forEach((celula) => {
                     const nomeClasse = celula.className || "";
-                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao-artigo")) {
+
+                    if (
+                        nomeClasse.includes("title") &&
+                        !nomeClasse.includes("informacao-artigo")
+                    ) {
                         const titulo = celula.textContent.trim();
                         const divPai = celula.closest(".layout-cell");
+
                         if (!divPai) return;
 
-                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
-                        const demaisDiv = divPai.querySelector('div[class*="informacao-artigo"]');
-                        const autores = autoresDiv ? autoresDiv.textContent.trim() : null;
-                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+                        const autoresDiv = divPai.querySelector(
+                            'div[class*="authors"]',
+                        );
+                        const demaisDiv = divPai.querySelector(
+                            'div[class*="informacao-artigo"]',
+                        );
 
-                        let veiculo = null, ano = null, volume = null, paginas = null, doi = null;
+                        const autores = autoresDiv
+                            ? autoresDiv.textContent.trim()
+                            : null;
+                        const demais = demaisDiv
+                            ? demaisDiv.textContent.trim()
+                            : null;
+
+                        let veiculo = null,
+                            ano = null,
+                            volume = null,
+                            paginas = null,
+                            doi = null;
 
                         if (demais) {
                             const match = demais.match(/^(.+?)\s*,\s*v\.\s*(\d+)/);
@@ -397,18 +418,30 @@
                             }
 
                             const anoMatch = demais.match(/,\s*(\d{4})/);
-                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+                            if (anoMatch) {
+                                ano = parseInt(anoMatch[1], 10);
+                            }
 
                             const paginasMatch = demais.match(/p\.\s*([\d\-]+)/);
-                            if (paginasMatch) paginas = paginasMatch[1];
+                            if (paginasMatch) {
+                                paginas = paginasMatch[1];
+                            }
 
                             const doiMatch = demais.match(/DOI:\s*([^\s,]+)/i);
-                            if (doiMatch) doi = doiMatch[1];
+                            if (doiMatch) {
+                                doi = doiMatch[1];
+                            }
                         }
 
                         resultados.push({
                             categoria: "artigo",
-                            titulo, autores, veiculo, ano, volume, paginas, doi
+                            titulo,
+                            autores,
+                            veiculo,
+                            ano,
+                            volume,
+                            paginas,
+                            doi,
                         });
                     }
                 });
@@ -660,25 +693,30 @@
             function ingerir(html, categoria) {
                 let resultados = [];
 
-                switch (categoria) {
-                    case "artigo":
-                        resultados = extrairArtigos(html);
-                        break;
-                    case "capitulo":
-                        resultados = extrairCapitulos(html);
-                        break;
-                    case "livro":
-                        resultados = extrairLivros(html);
-                        break;
-                    case "evento":
-                        resultados = extrairEventos(html);
-                        break;
-                    case "orientacao":
-                        resultados = extrairOrientacoes(html);
-                        break;
-                    default:
-                        console.error("Categoria desconhecida:", categoria);
-                        return [];
+                try {
+                    switch (categoria) {
+                        case "artigo":
+                            resultados = extrairArtigos(html);
+                            break;
+                        case "capitulo":
+                            resultados = extrairCapitulos(html);
+                            break;
+                        case "livro":
+                            resultados = extrairLivros(html);
+                            break;
+                        case "evento":
+                            resultados = extrairEventos(html);
+                            break;
+                        case "orientacao":
+                            resultados = extrairOrientacoes(html);
+                            break;
+                        default:
+                            console.error("Categoria desconhecida:", categoria);
+                            return [];
+                    }
+                } catch (error) {
+                    console.error("Erro ao processar HTML:", error);
+                    return [];
                 }
 
                 return resultados.map((item, index) => ({
