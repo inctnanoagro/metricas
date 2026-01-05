@@ -1,0 +1,1066 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Ingestão Institucional – INCT NanoAgro</title>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family:
+                    -apple-system, BlinkMacSystemFont, "Segoe UI", Arial,
+                    sans-serif;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 20px;
+                background: #f5f7fa;
+                line-height: 1.6;
+            }
+
+            h1 {
+                color: #2c3e50;
+                margin-bottom: 10px;
+            }
+
+            .subtitle {
+                color: #7f8c8d;
+                margin-bottom: 30px;
+            }
+
+            .form-section {
+                background: white;
+                padding: 25px;
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                margin-bottom: 20px;
+            }
+
+            .form-grid {
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                gap: 15px;
+                margin-bottom: 20px;
+            }
+
+            label {
+                font-weight: 600;
+                display: block;
+                margin-bottom: 5px;
+                color: #34495e;
+                font-size: 14px;
+            }
+
+            input[type="text"],
+            select {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #dce1e6;
+                border-radius: 4px;
+                font-size: 14px;
+                transition: border-color 0.3s;
+            }
+
+            input[type="text"]:focus,
+            select:focus,
+            textarea:focus {
+                outline: none;
+                border-color: #3498db;
+            }
+
+            textarea {
+                width: 100%;
+                padding: 12px;
+                border: 1px solid #dce1e6;
+                border-radius: 4px;
+                font-size: 14px;
+                font-family: "Courier New", monospace;
+                resize: vertical;
+                min-height: 150px;
+            }
+
+            .button-group {
+                display: flex;
+                gap: 10px;
+                margin-top: 15px;
+            }
+
+            button {
+                padding: 12px 24px;
+                border: none;
+                border-radius: 4px;
+                font-size: 14px;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.3s;
+            }
+
+            .btn-primary {
+                background: #3498db;
+                color: white;
+            }
+
+            .btn-primary:hover {
+                background: #2980b9;
+            }
+
+            .btn-success {
+                background: #27ae60;
+                color: white;
+            }
+
+            .btn-success:hover {
+                background: #229954;
+            }
+
+            .btn-secondary {
+                background: #95a5a6;
+                color: white;
+            }
+
+            .btn-secondary:hover {
+                background: #7f8c8d;
+            }
+
+            .btn-danger {
+                background: #e74c3c;
+                color: white;
+            }
+
+            .btn-danger:hover {
+                background: #c0392b;
+            }
+
+            .btn-small {
+                padding: 6px 12px;
+                font-size: 13px;
+            }
+
+            .stats {
+                display: flex;
+                gap: 20px;
+                margin-bottom: 20px;
+                flex-wrap: wrap;
+            }
+
+            .stat-card {
+                background: white;
+                padding: 15px 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                flex: 1;
+                min-width: 150px;
+            }
+
+            .stat-label {
+                font-size: 12px;
+                color: #7f8c8d;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+            }
+
+            .stat-value {
+                font-size: 28px;
+                font-weight: bold;
+                color: #2c3e50;
+                margin-top: 5px;
+            }
+
+            .item {
+                background: white;
+                border: 1px solid #dce1e6;
+                border-radius: 8px;
+                padding: 20px;
+                margin-bottom: 15px;
+                transition: box-shadow 0.3s;
+            }
+
+            .item:hover {
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            .item-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 15px;
+                padding-bottom: 10px;
+                border-bottom: 2px solid #ecf0f1;
+            }
+
+            .item-number {
+                font-size: 12px;
+                color: #7f8c8d;
+                font-weight: 600;
+            }
+
+            .item-category {
+                display: inline-block;
+                padding: 4px 12px;
+                border-radius: 12px;
+                font-size: 12px;
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+
+            .cat-artigo {
+                background: #e8f4fd;
+                color: #2980b9;
+            }
+
+            .cat-capitulo {
+                background: #fef5e7;
+                color: #d68910;
+            }
+
+            .cat-livro {
+                background: #e8f8f5;
+                color: #16a085;
+            }
+
+            .cat-evento {
+                background: #f4ecf7;
+                color: #8e44ad;
+            }
+
+            .cat-orientacao {
+                background: #fdedec;
+                color: #c0392b;
+            }
+
+            .field-grid {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 15px;
+            }
+
+            .field-full {
+                grid-column: 1 / -1;
+            }
+
+            .field {
+                margin-bottom: 10px;
+            }
+
+            .field input[type="text"] {
+                background: #f8f9fa;
+            }
+
+            .field.readonly input[type="text"] {
+                background: #f8f9fa;
+                cursor: not-allowed;
+            }
+
+            .field.editable input[type="text"] {
+                background: white;
+            }
+
+            .actions {
+                margin-top: 15px;
+                display: flex;
+                gap: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>🔬 Ingestão Institucional – INCT NanoAgro</h1>
+        <p class="subtitle">
+            Sistema de captura de produções científicas via HTML Lattes
+        </p>
+
+        <!-- FORMULÁRIO DE ENTRADA -->
+        <div class="form-section">
+            <div class="form-grid">
+                <div>
+                    <label for="pesquisador">Pesquisador</label>
+                    <input
+                        type="text"
+                        id="pesquisador"
+                        placeholder="Nome completo"
+                    />
+                </div>
+                <div>
+                    <label for="periodo">Período</label>
+                    <input
+                        type="text"
+                        id="periodo"
+                        placeholder="Ex: 2020-2024"
+                    />
+                </div>
+                <div>
+                    <label for="categoria">Categoria</label>
+                    <select id="categoria">
+                        <option value="artigo">Artigos publicados</option>
+                        <option value="capitulo">Capítulos de livros</option>
+                        <option value="livro">Livros publicados</option>
+                        <option value="evento">Trabalhos em eventos</option>
+                        <option value="orientacao">Orientações</option>
+                    </select>
+                </div>
+            </div>
+
+            <label for="entrada">Cole o HTML da tabela do Lattes</label>
+            <textarea
+                id="entrada"
+                placeholder="Cole aqui o código-fonte HTML da seção desejada..."
+            ></textarea>
+
+            <div class="button-group">
+                <button class="btn-primary" onclick="adicionar()">
+                    ➕ Adicionar Produções
+                </button>
+                <button class="btn-secondary" onclick="limparEntrada()">
+                    🧹 Limpar Entrada
+                </button>
+            </div>
+        </div>
+
+        <!-- ESTATÍSTICAS -->
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-label">Total</div>
+                <div class="stat-value" id="total-count">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Artigos</div>
+                <div class="stat-value" id="artigo-count">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Capítulos</div>
+                <div class="stat-value" id="capitulo-count">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Livros</div>
+                <div class="stat-value" id="livro-count">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Eventos</div>
+                <div class="stat-value" id="evento-count">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Orientações</div>
+                <div class="stat-value" id="orientacao-count">0</div>
+            </div>
+        </div>
+
+        <!-- AÇÕES GLOBAIS -->
+        <div class="form-section">
+            <div class="button-group">
+                <button class="btn-success" onclick="baixarJSON()">
+                    💾 Baixar JSON
+                </button>
+                <button class="btn-danger" onclick="limparTudo()">
+                    🗑️ Limpar Tudo
+                </button>
+            </div>
+        </div>
+
+        <!-- LISTA DE PRODUÇÕES -->
+        <div id="lista"></div>
+
+        <script>
+            let producoes = [];
+            let nextId = 1;
+
+            /* ====================================
+               PARSERS PARA CADA CATEGORIA
+            ==================================== */
+
+            // ARTIGOS
+            function extrairArtigos(html) {
+                const resultados = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                layoutTabela.forEach((celula) => {
+                    const nomeClasse = celula.className || "";
+                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao-artigo")) {
+                        const titulo = celula.textContent.trim();
+                        const divPai = celula.closest(".layout-cell");
+                        if (!divPai) return;
+
+                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
+                        const demaisDiv = divPai.querySelector('div[class*="informacao-artigo"]');
+                        const autores = autoresDiv ? autoresDiv.textContent.trim() : null;
+                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+
+                        let veiculo = null, ano = null, volume = null, paginas = null, doi = null;
+
+                        if (demais) {
+                            const match = demais.match(/^(.+?)\s*,\s*v\.\s*(\d+)/);
+                            if (match) {
+                                veiculo = match[1].trim();
+                                volume = match[2];
+                            }
+
+                            const anoMatch = demais.match(/,\s*(\d{4})/);
+                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+
+                            const paginasMatch = demais.match(/p\.\s*([\d\-]+)/);
+                            if (paginasMatch) paginas = paginasMatch[1];
+
+                            const doiMatch = demais.match(/DOI:\s*([^\s,]+)/i);
+                            if (doiMatch) doi = doiMatch[1];
+                        }
+
+                        resultados.push({
+                            categoria: "artigo",
+                            titulo, autores, veiculo, ano, volume, paginas, doi
+                        });
+                    }
+                });
+
+                return resultados;
+            }
+
+            // CAPÍTULOS DE LIVROS
+            function extrairCapitulos(html) {
+                const resultados = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                layoutTabela.forEach((celula) => {
+                    const nomeClasse = celula.className || "";
+                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao")) {
+                        const titulo = celula.textContent.trim();
+                        const divPai = celula.closest(".layout-cell");
+                        if (!divPai) return;
+
+                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
+                        const demaisDiv = divPai.querySelector('div[class*="informacao"]');
+                        const autores = autoresDiv ? autoresDiv.textContent.trim() : null;
+                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+
+                        let livro = null, ano = null, paginas = null, editora = null, 
+                            edicao = null, isbn = null, doi = null;
+
+                        if (demais) {
+                            const livroMatch = demais.match(/In:\s*(.+?)\./);
+                            if (livroMatch) livro = livroMatch[1].trim();
+
+                            const anoMatch = demais.match(/,\s*(\d{4})/);
+                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+
+                            const paginasMatch = demais.match(/p\.\s*([\d\-]+)/);
+                            if (paginasMatch) paginas = paginasMatch[1];
+
+                            const editoraMatch = demais.match(/:\s*([^,]+),\s*\d{4}/);
+                            if (editoraMatch) editora = editoraMatch[1].trim();
+
+                            const edicaoMatch = demais.match(/(\d+)ed\./i);
+                            if (edicaoMatch) edicao = edicaoMatch[1];
+
+                            const isbnMatch = demais.match(/ISBN:\s*([^\s,\.]+)/i);
+                            if (isbnMatch) isbn = isbnMatch[1];
+
+                            const doiMatch = demais.match(/DOI:\s*([^\s,]+)/i);
+                            if (doiMatch) doi = doiMatch[1];
+                        }
+
+                        resultados.push({
+                            categoria: "capitulo",
+                            titulo, autores, livro, ano, paginas, editora, edicao, isbn, doi
+                        });
+                    }
+                });
+
+                return resultados;
+            }
+
+            // LIVROS PUBLICADOS
+            function extrairLivros(html) {
+                const resultados = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                layoutTabela.forEach((celula) => {
+                    const nomeClasse = celula.className || "";
+                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao")) {
+                        const titulo = celula.textContent.trim();
+                        const divPai = celula.closest(".layout-cell");
+                        if (!divPai) return;
+
+                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
+                        const demaisDiv = divPai.querySelector('div[class*="informacao"]');
+                        const autores = autoresDiv ? autoresDiv.textContent.trim() : null;
+                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+
+                        let ano = null, paginas = null, editora = null, 
+                            edicao = null, isbn = null, doi = null, tipo = null;
+
+                        if (demais) {
+                            const anoMatch = demais.match(/,\s*(\d{4})/);
+                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+
+                            const paginasMatch = demais.match(/(\d+)p\./);
+                            if (paginasMatch) paginas = paginasMatch[1];
+
+                            const editoraMatch = demais.match(/:\s*([^,]+),\s*\d{4}/);
+                            if (editoraMatch) editora = editoraMatch[1].trim();
+
+                            const edicaoMatch = demais.match(/(\d+)\.?\s*ed\./i);
+                            if (edicaoMatch) edicao = edicaoMatch[1];
+
+                            const isbnMatch = demais.match(/ISBN:\s*([^\s,\.]+)/i);
+                            if (isbnMatch) isbn = isbnMatch[1];
+
+                            const doiMatch = demais.match(/DOI:\s*([^\s,]+)/i);
+                            if (doiMatch) doi = doiMatch[1];
+
+                            if (demais.match(/organizador/i)) {
+                                tipo = "Organizador";
+                            } else if (demais.match(/coautor/i)) {
+                                tipo = "Coautor";
+                            } else {
+                                tipo = "Autor";
+                            }
+                        }
+
+                        resultados.push({
+                            categoria: "livro",
+                            titulo, autores, ano, paginas, editora, edicao, isbn, doi, tipo
+                        });
+                    }
+                });
+
+                return resultados;
+            }
+
+            // TRABALHOS EM EVENTOS
+            function extrairEventos(html) {
+                const resultados = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                layoutTabela.forEach((celula) => {
+                    const nomeClasse = celula.className || "";
+                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao")) {
+                        const titulo = celula.textContent.trim();
+                        const divPai = celula.closest(".layout-cell");
+                        if (!divPai) return;
+
+                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
+                        const demaisDiv = divPai.querySelector('div[class*="informacao"]');
+                        const autores = autoresDiv ? autoresDiv.textContent.trim() : null;
+                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+
+                        let evento = null, ano = null, local = null, tipo = null, doi = null;
+
+                        if (demais) {
+                            const eventoMatch = demais.match(/In:\s*(.+?),\s*\d{4}/);
+                            if (eventoMatch) evento = eventoMatch[1].trim();
+
+                            const anoMatch = demais.match(/,\s*(\d{4})/);
+                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+
+                            const localMatch = demais.match(/\d{4},\s*([^\.]+)\./);
+                            if (localMatch) local = localMatch[1].trim();
+
+                            if (demais.match(/Anais/i)) {
+                                tipo = "Anais";
+                            } else if (demais.match(/Resumo/i)) {
+                                tipo = "Resumo";
+                            } else if (demais.match(/Trabalho completo/i)) {
+                                tipo = "Trabalho completo";
+                            } else {
+                                tipo = "Apresentação";
+                            }
+
+                            const doiMatch = demais.match(/DOI:\s*([^\s,]+)/i);
+                            if (doiMatch) doi = doiMatch[1];
+                        }
+
+                        resultados.push({
+                            categoria: "evento",
+                            titulo, autores, evento, ano, local, tipo, doi
+                        });
+                    }
+                });
+
+                return resultados;
+            }
+
+            // ORIENTAÇÕES
+            function extrairOrientacoes(html) {
+                const resultados = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const layoutTabela = doc.querySelectorAll('div[class*="layout-cell-pad-5"]');
+
+                layoutTabela.forEach((celula) => {
+                    const nomeClasse = celula.className || "";
+                    if (nomeClasse.includes("title") && !nomeClasse.includes("informacao")) {
+                        const titulo = celula.textContent.trim();
+                        const divPai = celula.closest(".layout-cell");
+                        if (!divPai) return;
+
+                        const autoresDiv = divPai.querySelector('div[class*="authors"]');
+                        const demaisDiv = divPai.querySelector('div[class*="informacao"]');
+                        const orientando = autoresDiv ? autoresDiv.textContent.trim() : null;
+                        const demais = demaisDiv ? demaisDiv.textContent.trim() : null;
+
+                        let ano = null, tipo = null, instituicao = null, nivel = null, status = null;
+
+                        if (demais) {
+                            const anoMatch = demais.match(/(\d{4})/);
+                            if (anoMatch) ano = parseInt(anoMatch[1], 10);
+
+                            if (demais.match(/Dissertação.*Mestrado/i)) {
+                                tipo = "Dissertação";
+                                nivel = "Mestrado";
+                            } else if (demais.match(/Tese.*Doutorado/i)) {
+                                tipo = "Tese";
+                                nivel = "Doutorado";
+                            } else if (demais.match(/Monografia.*Graduação/i)) {
+                                tipo = "Monografia";
+                                nivel = "Graduação";
+                            } else if (demais.match(/Trabalho.*Conclusão.*Curso/i)) {
+                                tipo = "TCC";
+                                nivel = "Graduação";
+                            } else if (demais.match(/Iniciação Científica/i)) {
+                                tipo = "Iniciação Científica";
+                                nivel = "Graduação";
+                            } else if (demais.match(/Pós-Doutorado/i)) {
+                                tipo = "Supervisão";
+                                nivel = "Pós-Doutorado";
+                            }
+
+                            const instituicaoMatch = demais.match(/\.\s*([^,\.]+)\s*,\s*\d{4}/);
+                            if (instituicaoMatch) instituicao = instituicaoMatch[1].trim();
+
+                            if (demais.match(/Em andamento/i)) {
+                                status = "Em andamento";
+                            } else if (demais.match(/Concluída/i) || demais.match(/Concluído/i)) {
+                                status = "Concluída";
+                            } else {
+                                status = "Concluída";
+                            }
+                        }
+
+                        resultados.push({
+                            categoria: "orientacao",
+                            titulo, orientando, ano, tipo, nivel, instituicao, status
+                        });
+                    }
+                });
+
+                return resultados;
+            }
+
+            /* ====================================
+               FUNÇÃO PRINCIPAL DE INGESTÃO
+            ==================================== */
+
+            function ingerir(html, categoria) {
+                let resultados = [];
+
+                switch (categoria) {
+                    case "artigo":
+                        resultados = extrairArtigos(html);
+                        break;
+                    case "capitulo":
+                        resultados = extrairCapitulos(html);
+                        break;
+                    case "livro":
+                        resultados = extrairLivros(html);
+                        break;
+                    case "evento":
+                        resultados = extrairEventos(html);
+                        break;
+                    case "orientacao":
+                        resultados = extrairOrientacoes(html);
+                        break;
+                    default:
+                        console.error("Categoria desconhecida:", categoria);
+                        return [];
+                }
+
+                return resultados.map((item, index) => ({
+                    id: nextId++,
+                    ordem_lattes: index + 1,
+                    ...item,
+                }));
+            }
+
+            function adicionar() {
+                const htmlInput = document.getElementById("entrada").value.trim();
+                const categoria = document.getElementById("categoria").value;
+
+                if (!htmlInput) {
+                    alert("Por favor, cole o código HTML do Lattes.");
+                    return;
+                }
+
+                const novos = ingerir(htmlInput, categoria);
+
+                if (novos.length === 0) {
+                    alert("Não foi possível extrair produções do HTML fornecido.");
+                    return;
+                }
+
+                producoes.push(...novos);
+                document.getElementById("entrada").value = "";
+
+                atualizarInterface();
+
+                document.getElementById("lista").scrollIntoView({ behavior: "smooth" });
+            }
+
+            function limparEntrada() {
+                document.getElementById("entrada").value = "";
+            }
+
+            /* ====================================
+               INTERFACE
+            ==================================== */
+
+            function atualizarInterface() {
+                atualizarEstatisticas();
+                renderizarLista();
+            }
+
+            function atualizarEstatisticas() {
+                const total = producoes.length;
+                const artigos = producoes.filter(p => p.categoria === "artigo").length;
+                const capitulos = producoes.filter(p => p.categoria === "capitulo").length;
+                const livros = producoes.filter(p => p.categoria === "livro").length;
+                const eventos = producoes.filter(p => p.categoria === "evento").length;
+                const orientacoes = producoes.filter(p => p.categoria === "orientacao").length;
+
+                document.getElementById("total-count").textContent = total;
+                document.getElementById("artigo-count").textContent = artigos;
+                document.getElementById("capitulo-count").textContent = capitulos;
+                document.getElementById("livro-count").textContent = livros;
+                document.getElementById("evento-count").textContent = eventos;
+                document.getElementById("orientacao-count").textContent = orientacoes;
+            }
+
+            function renderizarLista() {
+                const lista = document.getElementById("lista");
+                lista.innerHTML = "";
+
+                producoes.forEach((p, index) => {
+                    const item = criarItemHTML(p, index);
+                    lista.appendChild(item);
+                });
+            }
+
+            function criarItemHTML(producao, index) {
+                const div = document.createElement("div");
+                div.className = "item";
+                div.id = `item-${producao.id}`;
+
+                const categoriaNome = {
+                    artigo: "Artigo",
+                    capitulo: "Capítulo",
+                    livro: "Livro",
+                    evento: "Evento",
+                    orientacao: "Orientação",
+                }[producao.categoria] || producao.categoria;
+
+                let camposHTML = "";
+
+                // Campos comuns
+                camposHTML += `
+                    <div class="field field-full readonly">
+                        <label>Título</label>
+                        <input type="text" value="${producao.titulo || ""}" data-field="titulo">
+                    </div>
+                `;
+
+                // Campos específicos por categoria
+                switch(producao.categoria) {
+                    case "artigo":
+                        camposHTML += `
+                            <div class="field field-full readonly">
+                                <label>Autores</label>
+                                <input type="text" value="${producao.autores || ""}" data-field="autores">
+                            </div>
+                            <div class="field readonly">
+                                <label>Veículo</label>
+                                <input type="text" value="${producao.veiculo || ""}" data-field="veiculo">
+                            </div>
+                            <div class="field readonly">
+                                <label>Ano</label>
+                                <input type="text" value="${producao.ano || ""}" data-field="ano">
+                            </div>
+                            <div class="field readonly">
+                                <label>Volume</label>
+                                <input type="text" value="${producao.volume || ""}" data-field="volume">
+                            </div>
+                            <div class="field readonly">
+                                <label>Páginas</label>
+                                <input type="text" value="${producao.paginas || ""}" data-field="paginas">
+                            </div>
+                            <div class="field field-full readonly">
+                                <label>DOI</label>
+                                <input type="text" value="${producao.doi || ""}" data-field="doi">
+                            </div>
+                        `;
+                        break;
+
+                    case "capitulo":
+                        camposHTML += `
+                            <div class="field field-full readonly">
+                                <label>Autores</label>
+                                <input type="text" value="${producao.autores || ""}" data-field="autores">
+                            </div>
+                            <div class="field field-full readonly">
+                                <label>Livro</label>
+                                <input type="text" value="${producao.livro || ""}" data-field="livro">
+                            </div>
+                            <div class="field readonly">
+                                <label>Editora</label>
+                                <input type="text" value="${producao.editora || ""}" data-field="editora">
+                            </div>
+                            <div class="field readonly">
+                                <label>Ano</label>
+                                <input type="text" value="${producao.ano || ""}" data-field="ano">
+                            </div>
+                            <div class="field readonly">
+                                <label>Edição</label>
+                                <input type="text" value="${producao.edicao || ""}" data-field="edicao">
+                            </div>
+                            <div class="field readonly">
+                                <label>Páginas</label>
+                                <input type="text" value="${producao.paginas || ""}" data-field="paginas">
+                            </div>
+                            <div class="field readonly">
+                                <label>ISBN</label>
+                                <input type="text" value="${producao.isbn || ""}" data-field="isbn">
+                            </div>
+                            <div class="field readonly">
+                                <label>DOI</label>
+                                <input type="text" value="${producao.doi || ""}" data-field="doi">
+                            </div>
+                        `;
+                        break;
+
+                    case "livro":
+                        camposHTML += `
+                            <div class="field field-full readonly">
+                                <label>Autores</label>
+                                <input type="text" value="${producao.autores || ""}" data-field="autores">
+                            </div>
+                            <div class="field readonly">
+                                <label>Editora</label>
+                                <input type="text" value="${producao.editora || ""}" data-field="editora">
+                            </div>
+                            <div class="field readonly">
+                                <label>Ano</label>
+                                <input type="text" value="${producao.ano || ""}" data-field="ano">
+                            </div>
+                            <div class="field readonly">
+                                <label>Tipo</label>
+                                <input type="text" value="${producao.tipo || ""}" data-field="tipo">
+                            </div>
+                            <div class="field readonly">
+                                <label>Edição</label>
+                                <input type="text" value="${producao.edicao || ""}" data-field="edicao">
+                            </div>
+                            <div class="field readonly">
+                                <label>Páginas</label>
+                                <input type="text" value="${producao.paginas || ""}" data-field="paginas">
+                            </div>
+                            <div class="field readonly">
+                                <label>ISBN</label>
+                                <input type="text" value="${producao.isbn || ""}" data-field="isbn">
+                            </div>
+                            <div class="field readonly">
+                                <label>DOI</label>
+                                <input type="text" value="${producao.doi || ""}" data-field="doi">
+                            </div>
+                        `;
+                        break;
+
+                    case "evento":
+                        camposHTML += `
+                            <div class="field field-full readonly">
+                                <label>Autores</label>
+                                <input type="text" value="${producao.autores || ""}" data-field="autores">
+                            </div>
+                            <div class="field field-full readonly">
+                                <label>Evento</label>
+                                <input type="text" value="${producao.evento || ""}" data-field="evento">
+                            </div>
+                            <div class="field readonly">
+                                <label>Ano</label>
+                                <input type="text" value="${producao.ano || ""}" data-field="ano">
+                            </div>
+                            <div class="field readonly">
+                                <label>Local</label>
+                                <input type="text" value="${producao.local || ""}" data-field="local">
+                            </div>
+                            <div class="field readonly">
+                                <label>Tipo</label>
+                                <input type="text" value="${producao.tipo || ""}" data-field="tipo">
+                            </div>
+                            <div class="field readonly">
+                                <label>DOI</label>
+                                <input type="text" value="${producao.doi || ""}" data-field="doi">
+                            </div>
+                        `;
+                        break;
+
+                    case "orientacao":
+                        camposHTML += `
+                            <div class="field field-full readonly">
+                                <label>Orientando</label>
+                                <input type="text" value="${producao.orientando || ""}" data-field="orientando">
+                            </div>
+                            <div class="field field-full readonly">
+                                <label>Instituição</label>
+                                <input type="text" value="${producao.instituicao || ""}" data-field="instituicao">
+                            </div>
+                            <div class="field readonly">
+                                <label>Tipo</label>
+                                <input type="text" value="${producao.tipo || ""}" data-field="tipo">
+                            </div>
+                            <div class="field readonly">
+                                <label>Nível</label>
+                                <input type="text" value="${producao.nivel || ""}" data-field="nivel">
+                            </div>
+                            <div class="field readonly">
+                                <label>Ano</label>
+                                <input type="text" value="${producao.ano || ""}" data-field="ano">
+                            </div>
+                            <div class="field readonly">
+                                <label>Status</label>
+                                <input type="text" value="${producao.status || ""}" data-field="status">
+                            </div>
+                        `;
+                        break;
+                }
+
+                div.innerHTML = `
+                    <div class="item-header">
+                        <div>
+                            <span class="item-number">#${index + 1}</span>
+                            ${producao.ordem_lattes ? ` <span class="item-number">| Lattes: ${producao.ordem_lattes}</span>` : ""}
+                        </div>
+                        <span class="item-category cat-${producao.categoria}">${categoriaNome}</span>
+                    </div>
+
+                    <div class="field-grid">
+                        ${camposHTML}
+                    </div>
+
+                    <div class="actions">
+                        <button class="btn-primary btn-small" onclick="editarItem(${index})">✏️ Editar</button>
+                        <button class="btn-danger btn-small" onclick="removerItem(${index})">🗑️ Remover</button>
+                    </div>
+                `;
+
+                return div;
+            }
+
+            /* ====================================
+               EDIÇÃO E REMOÇÃO
+            ==================================== */
+
+            function editarItem(index) {
+                const itemDiv = document.querySelectorAll(".item")[index];
+                const fields = itemDiv.querySelectorAll(".field");
+                const actions = itemDiv.querySelector(".actions");
+
+                fields.forEach((field) => {
+                    field.classList.remove("readonly");
+                    field.classList.add("editable");
+                });
+
+                actions.innerHTML = `
+                    <button class="btn-success btn-small" onclick="salvarItem(${index})">💾 Salvar</button>
+                    <button class="btn-secondary btn-small" onclick="cancelarEdicao(${index})">❌ Cancelar</button>
+                `;
+            }
+
+            function salvarItem(index) {
+                const itemDiv = document.querySelectorAll(".item")[index];
+                const inputs = itemDiv.querySelectorAll("input[data-field]");
+
+                inputs.forEach((input) => {
+                    const field = input.getAttribute("data-field");
+                    let value = input.value.trim() || null;
+
+                    if (field === "ano" && value) {
+                        value = parseInt(value, 10);
+                    }
+
+                    producoes[index][field] = value;
+                });
+
+                atualizarInterface();
+            }
+
+            function cancelarEdicao(index) {
+                atualizarInterface();
+            }
+
+            function removerItem(index) {
+                if (confirm("Tem certeza que deseja remover esta produção?")) {
+                    producoes.splice(index, 1);
+                    atualizarInterface();
+                }
+            }
+
+            function limparTudo() {
+                if (confirm("Tem certeza que deseja remover TODAS as produções?")) {
+                    producoes = [];
+                    nextId = 1;
+                    atualizarInterface();
+                }
+            }
+
+            /* ====================================
+               DOWNLOAD JSON
+            ==================================== */
+
+            function baixarJSON() {
+                if (producoes.length === 0) {
+                    alert("Adicione pelo menos uma produção antes de baixar o JSON.");
+                    return;
+                }
+
+                const pesquisador = document.getElementById("pesquisador").value.trim();
+                const periodo = document.getElementById("periodo").value.trim();
+
+                const data = {
+                    pesquisador: pesquisador,
+                    periodo: periodo,
+                    data_ingestao: new Date().toISOString(),
+                    total_producoes: producoes.length,
+                    producoes: producoes.map((p) => {
+                        const { id, ...resto } = p;
+                        return resto;
+                    }),
+                };
+
+                const blob = new Blob([JSON.stringify(data, null, 2)], {
+                    type: "application/json",
+                });
+
+                const nomeArquivo = `prefill_${pesquisador.replace(/\s+/g, "_").toLowerCase()}.json`;
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = nomeArquivo;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            }
+
+            /* ====================================
+               INICIALIZAÇÃO
+            ==================================== */
+
+            atualizarEstatisticas();
+        </script>
+    </body>
+</html>
