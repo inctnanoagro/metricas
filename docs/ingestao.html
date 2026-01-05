@@ -110,9 +110,8 @@
                 /* =========================
              ORDEM (número do Lattes)
           ========================= */
-
                 let ordem = null;
-                const ordemEl = wrapper.querySelector("b");
+                const ordemEl = wrapper.querySelector(".layout-cell-1 b");
                 if (ordemEl) {
                     const m = ordemEl.textContent.match(/\d+/);
                     if (m) ordem = parseInt(m[0], 10);
@@ -121,7 +120,6 @@
                 /* =========================
              DOI
           ========================= */
-
                 const doiLink = wrapper.querySelector("a.icone-doi");
                 const doi = doiLink
                     ? doiLink.href.replace(/^https?:\/\/(dx\.)?doi\.org\//, "")
@@ -130,7 +128,6 @@
                 /* =========================
              Ano
           ========================= */
-
                 const anoSpan = wrapper.querySelector(
                     '[data-tipo-ordenacao="ano"]',
                 );
@@ -139,25 +136,37 @@
                     : null;
 
                 /* =========================
-             Texto limpo (remove lixo estrutural)
+             TEXTO BASE LIMPO
+             (remove tudo que NÃO é conteúdo semântico)
           ========================= */
-
                 const clone = wrapper.cloneNode(true);
                 clone
                     .querySelectorAll(
-                        ".layout-cell-1, b, [data-tipo-ordenacao], .icone-doi, .citado, sup, img",
+                        ".layout-cell-1, [data-tipo-ordenacao], .icone-doi, .citado, sup, img, a",
                     )
                     .forEach((e) => e.remove());
 
-                let texto = clone.textContent.replace(/\s+/g, " ").trim();
+                let texto = clone.textContent
+                    .replace(/\s+/g, " ")
+                    .replace(/^>/, "")
+                    .trim();
+
+                // Remove qualquer lixo numérico no início
+                texto = texto.replace(/^\d+\.\s*/, "");
 
                 /* =========================
-             Split autores / resto
+             AUTORES
+             (sempre antes do primeiro ' . ')
           ========================= */
+                const idxAutoresFim = texto.indexOf(" . ");
+                let autores = null;
+                let resto = texto;
 
-                const partes = texto.split(/\s\.\s/, 2);
+                if (idxAutoresFim !== -1) {
+                    autores = texto.slice(0, idxAutoresFim).trim();
+                    resto = texto.slice(idxAutoresFim + 3).trim();
+                }
 
-                let autores = partes[0] || null;
                 if (autores) {
                     autores = autores
                         .split(";")
@@ -166,40 +175,34 @@
                         .join("; ");
                 }
 
-                let resto = partes[1] || "";
+                /* =========================
+             TÍTULO
+             (até antes de ', v.')
+          ========================= */
+                let titulo = resto;
+                const idxVol = resto.indexOf(", v.");
+                if (idxVol !== -1) {
+                    titulo = resto.slice(0, idxVol).trim();
+                }
+
+                // Remove ponto final
+                titulo = titulo.replace(/\.$/, "");
 
                 /* =========================
-             Veículo, volume, páginas
+             VEÍCULO / VOLUME / PÁGINAS
           ========================= */
-
                 let veiculo = null,
                     volume = null,
                     paginas = null;
 
-                const veicMatch = resto.match(
-                    /([A-Z][A-Z\s&\-]+),\s*v\.\s*([\dA-Za-z]+),\s*p\.\s*([\d\-–]+)/,
+                const metaMatch = resto.match(
+                    /(.+?),\s*v\.\s*([\dA-Za-z]+),\s*p\.\s*([\d\-–]+)/,
                 );
-
-                if (veicMatch) {
-                    veiculo = veicMatch[1].trim();
-                    volume = veicMatch[2];
-                    paginas = veicMatch[3];
+                if (metaMatch) {
+                    veiculo = metaMatch[1].trim();
+                    volume = metaMatch[2];
+                    paginas = metaMatch[3];
                 }
-
-                /* =========================
-             Título (antes do veículo)
-          ========================= */
-
-                let titulo = resto;
-                if (veicMatch && veicMatch.index !== undefined) {
-                    titulo = resto.slice(0, veicMatch.index).trim();
-                }
-
-                titulo = titulo.replace(/\.*$/, "");
-
-                /* =========================
-             Resultado final
-          ========================= */
 
                 return {
                     ordem_lattes: ordem,
