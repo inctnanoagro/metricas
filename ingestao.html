@@ -1,0 +1,21 @@
+<h1>Ingestão institucional – INCT NanoAgro</h1>
+
+<label>Categoria das produções</label>
+<select id="categoria">
+    <option value="artigo">Artigos em periódicos</option>
+    <option value="capitulo">Capítulos de livro</option>
+    <option value="livro">Livros</option>
+    <option value="trabalho_evento">Trabalhos em eventos</option>
+    <option value="apresentacao">Apresentações</option>
+    <option value="patente">Patentes / Software / Cultivares</option>
+    <option value="orientacao">Orientações</option>
+</select>
+
+<label>Produções (1 por linha)</label>
+<textarea id="entrada" rows="15"></textarea>
+
+<button onclick="gerarJSON()">Gerar JSON pré-carregado</button>
+
+<pre id="saida"></pre>
+
+<button onclick="downloadJSON()">Download JSON</button>
