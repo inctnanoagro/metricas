@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ingestão Institucional – INCT NanoAgro</title>
+    <style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background: #f5f7fa; line-height: 1.6; }
+h1 { color: #2c3e50; margin-bottom: 10px; }
+.subtitle { color: #7f8c8d; margin-bottom: 30px; }
+.form-section { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+.form-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin-bottom: 20px; }
+label { font-weight: 600; display: block; margin-bottom: 5px; color: #34495e; font-size: 14px; }
+input[type="text"], select { width: 100%; padding: 10px; border: 1px solid #dce1e6; border-radius: 4px; font-size: 14px; transition: border-color 0.3s; }
+input[type="text"]:focus, select:focus, textarea:focus { outline: none; border-color: #3498db; }
+textarea { width: 100%; padding: 12px; border: 1px solid #dce1e6; border-radius: 4px; font-size: 14px; font-family: "Courier New", monospace; resize: vertical; min-height: 150px; }
+.button-group { display: flex; gap: 10px; margin-top: 15px; }
+button { padding: 12px 24px; border: none; border-radius: 4px; font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.3s; }
+.btn-primary { background: #3498db; color: white; } .btn-primary:hover { background: #2980b9; }
+.btn-success { background: #27ae60; color: white; } .btn-success:hover { background: #229954; }
+.btn-secondary { background: #95a5a6; color: white; } .btn-secondary:hover { background: #7f8c8d; }
+.btn-danger { background: #e74c3c; color: white; } .btn-danger:hover { background: #c0392b; }
+.btn-small { padding: 6px 12px; font-size: 13px; }
+.stats { display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap; }
+.stat-card { background: white; padding: 15px 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); flex: 1; min-width: 150px; }
+.stat-label { font-size: 12px; color: #7f8c8d; text-transform: uppercase; letter-spacing: 0.5px; }
+.stat-value { font-size: 28px; font-weight: bold; color: #2c3e50; margin-top: 5px; }
+.item { background: white; border: 1px solid #dce1e6; border-radius: 8px; padding: 20px; margin-bottom: 15px; transition: box-shadow 0.3s; }
+.item:hover { box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+.item-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; padding-bottom: 10px; border-bottom: 2px solid #ecf0f1; }
+.item-number { font-size: 12px; color: #7f8c8d; font-weight: 600; }
+.item-category { display: inline-block; padding: 4px 12px; border-radius: 12px; font-size: 12px; font-weight: 600; text-transform: uppercase; }
+.cat-artigo { background: #e8f4fd; color: #2980b9; }
+.cat-capitulo { background: #fef5e7; color: #d68910; }
+.cat-livro { background: #e8f8f5; color: #16a085; }
+.cat-evento { background: #f4ecf7; color: #8e44ad; }
+.cat-orientacao { background: #fdedec; color: #c0392b; }
+.field-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+.field-full { grid-column: 1 / -1; }
+.field { margin-bottom: 10px; }
+.field input[type="text"] { background: #f8f9fa; }
+.field.readonly input[type="text"] { background: #f8f9fa; cursor: not-allowed; }
+.field.editable input[type="text"] { background: white; }
+.actions { margin-top: 15px; display: flex; gap: 10px; }
+    </style>
+</head>
+<body>
+    <h1>🔬 Ingestão Institucional – INCT NanoAgro v3</h1>
+    <p class="subtitle">Sistema de captura de produções científicas via HTML Lattes</p>
+
+    <div class="form-section">
+        <div class="form-grid">
+            <div><label for="pesquisador">Pesquisador</label><input type="text" id="pesquisador" placeholder="Nome completo" /></div>
+            <div><label for="periodo">Período</label><input type="text" id="periodo" placeholder="Ex: 2020-2024" /></div>
+            <div><label for="categoria">Categoria</label>
+                <select id="categoria">
+                    <option value="artigo">Artigos publicados</option>
+                    <option value="capitulo">Capítulos de livros</option>
+                    <option value="livro">Livros publicados</option>
+                    <option value="evento">Trabalhos em eventos</option>
+                    <option value="orientacao">Orientações</option>
+                </select>
+            </div>
+        </div>
+        <label for="entrada">Cole o HTML da tabela do Lattes</label>
+        <textarea id="entrada" placeholder="Cole aqui o código-fonte HTML da seção desejada..."></textarea>
+        <div class="button-group">
+            <button class="btn-primary" onclick="adicionar()">➕ Adicionar Produções</button>
+            <button class="btn-secondary" onclick="limparEntrada()">🧹 Limpar Entrada</button>
+        </div>
+    </div>
+
+    <div class="stats">
+        <div class="stat-card"><div class="stat-label">Total</div><div class="stat-value" id="total-count">0</div></div>
+        <div class="stat-card"><div class="stat-label">Artigos</div><div class="stat-value" id="artigo-count">0</div></div>
+        <div class="stat-card"><div class="stat-label">Capítulos</div><div class="stat-value" id="capitulo-count">0</div></div>
+        <div class="stat-card"><div class="stat-label">Livros</div><div class="stat-value" id="livro-count">0</div></div>
+        <div class="stat-card"><div class="stat-label">Eventos</div><div class="stat-value" id="evento-count">0</div></div>
+        <div class="stat-card"><div class="stat-label">Orientações</div><div class="stat-value" id="orientacao-count">0</div></div>
+    </div>
+
+    <div class="form-section">
+        <div class="button-group">
+            <button class="btn-success" onclick="baixarJSON()">💾 Baixar JSON</button>
+            <button class="btn-danger" onclick="limparTudo()">🗑️ Limpar Tudo</button>
+        </div>
+    </div>
+
+    <div id="lista"></div>
+
+    <script>
+let producoes = [];
+let nextId = 1;
+
+function extrairArtigos(html) {
+    const resultados = [];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const artigos = doc.querySelectorAll('.artigo-completo');
+    
+    artigos.forEach((artigoDiv) => {
+        const transformSpan = artigoDiv.querySelector('span.transform');
+        if (!transformSpan) return;
+        const texto = transformSpan.textContent.trim();
+        if (!texto) return;
+        
+        const perVolumeMatch = texto.match(/\.\s+([^.]+),\s+v\.\s+(\d+)/);
+        if (!perVolumeMatch) return;
+        const periodico = perVolumeMatch[1].trim();
+        const volume = perVolumeMatch[2];
+        
+        const tituloMatch = texto.match(/\.\s+([^.]+)\.\s+[^.]+,\s+v\./);
+        if (!tituloMatch) return;
+        const titulo = tituloMatch[1].trim();
+        
+        const autoresMatch = texto.match(/^(.+?)\.\s+[^.]+\.\s+[^.]+,\s+v\./);
+        const autores = autoresMatch ? autoresMatch[1].trim() : null;
+        
+        const paginasMatch = texto.match(/p\.\s*([\d\-]+)/);
+        const paginas = paginasMatch ? paginasMatch[1] : null;
+        
+        const anoMatch = texto.match(/,\s+(\d{4})\s*\.?\s*$/);
+        const ano = anoMatch ? parseInt(anoMatch[1], 10) : null;
+        
+        let doi = null;
+        const doiLink = artigoDiv.querySelector('a.icone-doi');
+        if (doiLink) {
+            const href = doiLink.getAttribute('href');
+            const doiMatch = href.match(/10\.\d+\/[^\s]+/);
+            if (doiMatch) doi = doiMatch[0];
+        }
+        
+        resultados.push({ categoria: "artigo", titulo, autores, veiculo: periodico, ano, volume, paginas, doi });
+    });
+    return resultados;
+}
+
+function extrairCapitulos(html) {
+    const resultados = [];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const celulas = doc.querySelectorAll('.layout-cell-11');
+    
+    celulas.forEach((div) => {
+        const transformSpan = div.querySelector('span.transform');
+        if (!transformSpan) return;
+        const texto = transformSpan.textContent.trim();
+        if (!texto.includes('In:') || !texto.includes('(Org.)')) return;
+        
+        const tituloMatch = texto.match(/\.\s+([^.]+)\.\s+In:/);
+        if (!tituloMatch) return;
+        const titulo = tituloMatch[1].trim();
+        
+        const autoresMatch = texto.match(/^(.+?)\.\s+[^.]+\.\s+In:/);
+        const autores = autoresMatch ? autoresMatch[1].trim() : null;
+        
+        const livroMatch = texto.match(/\(Org\.\)\.\s+([^.]+)\.\s+(\d+)ed/);
+        let livro = null, edicao = null;
+        if (livroMatch) { livro = livroMatch[1].trim(); edicao = livroMatch[2]; }
+        
+        const editoraMatch = texto.match(/:\s+([^,]+),\s+\d{4}/);
+        const editora = editoraMatch ? editoraMatch[1].trim() : null;
+        
+        const anoMatch = texto.match(/,\s+(\d{4}),/);
+        const ano = anoMatch ? parseInt(anoMatch[1], 10) : null;
+        
+        const paginasMatch = texto.match(/p\.\s+([\d\-]+)/);
+        const paginas = paginasMatch ? paginasMatch[1] : null;
+        
+        let doi = null;
+        const doiLink = div.querySelector('a.icone-doi');
+        if (doiLink) {
+            const href = doiLink.getAttribute('href');
+            const doiMatch = href.match(/10\.\d+\/[^\s]+/);
+            if (doiMatch) doi = doiMatch[0];
+        }
+        
+        const isbnMatch = texto.match(/ISBN[:\s]*([\d\-]+)/i);
+        const isbn = isbnMatch ? isbnMatch[1] : null;
+        
+        resultados.push({ categoria: "capitulo", titulo, autores, livro, editora, edicao, ano, paginas, isbn, doi });
+    });
+    return resultados;
+}
+
+function extrairLivros(html) {
+    const resultados = [];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const celulas = doc.querySelectorAll('.layout-cell-11');
+    
+    celulas.forEach((div) => {
+        const transformSpan = div.querySelector('span.transform');
+        if (!transformSpan) return;
+        const texto = transformSpan.textContent.trim();
+        
+        if (!texto.includes('(Org.)') && !texto.includes('(Org)')) return;
+        if (texto.includes('In:')) return;
+        
+        const tipo = (texto.includes('(Org.)') || texto.includes('(Org)')) ? "Organizador" : "Autor";
+        
+        const autoresMatch = texto.match(/^(.+?)\s+\./);
+        const autores = autoresMatch ? autoresMatch[1].trim() : null;
+        
+        const tituloMatch = texto.match(/\.\s+([^.]+)\.\s+(\d+\.\s+ed\.|[A-Z])/);
+        const titulo = tituloMatch ? tituloMatch[1].trim() : null;
+        
+        const edicaoMatch = texto.match(/(\d+)\.\s+ed\./);
+        const edicao = edicaoMatch ? edicaoMatch[1] : null;
+        
+        const editoraMatch = texto.match(/ed\.\s+([^,]+),\s+\d{4}/);
+        const editora = editoraMatch ? editoraMatch[1].trim() : null;
+        
+        const anoMatch = texto.match(/,\s+(\d{4})\./);
+        const ano = anoMatch ? parseInt(anoMatch[1], 10) : null;
+        
+        const paginasMatch = texto.match(/(\d+)p\s*\./);
+        const paginas = paginasMatch ? paginasMatch[1] : null;
+        
+        let doi = null;
+        const doiLink = div.querySelector('a.icone-doi');
+        if (doiLink) {
+            const href = doiLink.getAttribute('href');
+            const doiMatch = href.match(/10\.\d+\/[^\s]+/);
+            if (doiMatch) doi = doiMatch[0];
+        }
+        
+        const isbnMatch = texto.match(/ISBN[:\s]*([\d\-]+)/i);
+        const isbn = isbnMatch ? isbnMatch[1] : null;
+        
+        if (titulo && autores) {
+            resultados.push({ categoria: "livro", titulo, autores, editora, edicao, ano, paginas, tipo, isbn, doi });
+        }
+    });
+    return resultados;
+}
+
+function extrairEventos(html) {
+    const resultados = [];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const celulas = doc.querySelectorAll('.layout-cell-11');
+    
+    celulas.forEach((div) => {
+        const transformSpan = div.querySelector('span.transform');
+        if (!transformSpan) return;
+        const texto = transformSpan.textContent.trim();
+        
+        if (!texto.includes('In:')) return;
+        const inIndex = texto.indexOf('In:');
+        const orgIndex = texto.indexOf('(Org.)', inIndex);
+        if (orgIndex !== -1 && orgIndex - inIndex < 100) return;
+        if (!texto.match(/Anais|Congresso|Simpósio|Conferência|Workshop|Encontro/i)) return;
+        
+        const tituloMatch = texto.match(/\.\s+([^.]+)\.\s+In:/);
+        const titulo = tituloMatch ? tituloMatch[1].trim() : null;
+        
+        const autoresMatch = texto.match(/^(.+?)\.\s+[^.]+\.\s+In:/);
+        const autores = autoresMatch ? autoresMatch[1].trim() : null;
+        
+        const eventoMatch = texto.match(/In:\s+([^,]+),\s+\d{4}/);
+        const evento = eventoMatch ? eventoMatch[1].trim() : null;
+        
+        const anoMatch = texto.match(/In:[^,]+,\s+(\d{4})/);
+        const ano = anoMatch ? parseInt(anoMatch[1], 10) : null;
+        
+        const localMatch = texto.match(/,\s+\d{4},\s+([^.]+)\./);
+        const local = localMatch ? localMatch[1].trim() : null;
+        
+        let tipo = "Apresentação";
+        if (texto.includes('Anais')) tipo = "Anais";
+        if (texto.includes('Resumo')) tipo = "Resumo";
+        
+        let doi = null;
+        const doiLink = div.querySelector('a.icone-doi');
+        if (doiLink) {
+            const href = doiLink.getAttribute('href');
+            const doiMatch = href.match(/10\.\d+\/[^\s]+/);
+            if (doiMatch) doi = doiMatch[0];
+        }
+        
+        if (titulo && autores) {
+            resultados.push({ categoria: "evento", titulo, autores, evento, ano, local, tipo, doi });
+        }
+    });
+    return resultados;
+}
+
+function extrairOrientacoes(html) {
+    const resultados = [];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const celulas = doc.querySelectorAll('.layout-cell-11');
+    
+    celulas.forEach((div) => {
+        const transformSpan = div.querySelector('span.transform');
+        if (!transformSpan) return;
+        const texto = transformSpan.textContent.trim();
+        if (!texto.match(/Início:|Dissertação|Tese|Monografia|Orientador|Coorientador/)) return;
+        
+        const orientandoMatch = texto.match(/^([^.]+)\./);
+        const orientando = orientandoMatch ? orientandoMatch[1].trim() : null;
+        
+        const tituloMatch = texto.match(/\.\s+([^.]+)\.\s+(Início:|Dissertação|Tese|Monografia)/);
+        const titulo = tituloMatch ? tituloMatch[1].trim() : null;
+        
+        const anoMatch = texto.match(/Início:\s+(\d{4})|(\d{4})\./);
+        const ano = anoMatch ? parseInt(anoMatch[1] || anoMatch[2], 10) : null;
+        
+        let tipo = null, nivel = null;
+        if (texto.match(/Dissertação.+Mestrado/)) { tipo = "Dissertação"; nivel = "Mestrado"; }
+        else if (texto.match(/Tese.+Doutorado/)) { tipo = "Tese"; nivel = "Doutorado"; }
+        else if (texto.includes('Iniciação Científica')) { tipo = "Iniciação Científica"; nivel = "Graduação"; }
+        else if (texto.match(/Monografia|Trabalho de Conclusão/)) { tipo = "TCC"; nivel = "Graduação"; }
+        else if (texto.includes('Pós-Doutorado')) { tipo = "Supervisão"; nivel = "Pós-Doutorado"; }
+        
+        const instituicaoMatch = texto.match(/\)\s+-\s+([^.]+)\./);
+        const instituicao = instituicaoMatch ? instituicaoMatch[1].trim() : null;
+        
+        const status = texto.includes('Início:') ? "Em andamento" : "Concluída";
+        
+        if (orientando && titulo) {
+            resultados.push({ categoria: "orientacao", titulo, orientando, ano, tipo, nivel, instituicao, status });
+        }
+    });
+    return resultados;
+}
+
+function ingerir(html, categoria) {
+    let resultados = [];
+    try {
+        switch (categoria) {
+            case "artigo": resultados = extrairArtigos(html); break;
+            case "capitulo": resultados = extrairCapitulos(html); break;
+            case "livro": resultados = extrairLivros(html); break;
+            case "evento": resultados = extrairEventos(html); break;
+            case "orientacao": resultados = extrairOrientacoes(html); break;
+            default: console.error("Categoria desconhecida:", categoria); return [];
+        }
+    } catch (error) {
+        console.error("Erro ao processar HTML:", error);
+        return [];
+    }
+
+    const unicos = [];
+    const vistos = new Set();
+    resultados.forEach(item => {
+        const chave = `${item.titulo}|${item.autores || item.orientando}`;
+        if (!vistos.has(chave)) {
+            vistos.add(chave);
+            unicos.push(item);
+        }
+    });
+
+    return unicos.map((item, index) => ({ id: nextId++, ordem_lattes: index + 1, ...item }));
+}
+
+function adicionar() {
+    const htmlInput = document.getElementById("entrada").value.trim();
+    const categoria = document.getElementById("categoria").value;
+    if (!htmlInput) { alert("Por favor, cole o código HTML do Lattes."); return; }
+    const novos = ingerir(htmlInput, categoria);
+    if (novos.length === 0) { alert("Não foi possível extrair produções do HTML fornecido."); return; }
+    producoes.push(...novos);
+    document.getElementById("entrada").value = "";
+    atualizarInterface();
+    document.getElementById("lista").scrollIntoView({ behavior: "smooth" });
+}
+
+function limparEntrada() { document.getElementById("entrada").value = ""; }
+function atualizarInterface() { atualizarEstatisticas(); renderizarLista(); }
+
+function atualizarEstatisticas() {
+    const total = producoes.length;
+    document.getElementById("total-count").textContent = total;
+    document.getElementById("artigo-count").textContent = producoes.filter(p => p.categoria === "artigo").length;
+    document.getElementById("capitulo-count").textContent = producoes.filter(p => p.categoria === "capitulo").length;
+    document.getElementById("livro-count").textContent = producoes.filter(p => p.categoria === "livro").length;
+    document.getElementById("evento-count").textContent = producoes.filter(p => p.categoria === "evento").length;
+    document.getElementById("orientacao-count").textContent = producoes.filter(p => p.categoria === "orientacao").length;
+}
+
+function renderizarLista() {
+    const lista = document.getElementById("lista");
+    lista.innerHTML = "";
+    producoes.forEach((p, index) => { lista.appendChild(criarItemHTML(p, index)); });
+}
+
+function criarItemHTML(producao, index) {
+    const div = document.createElement("div");
+    div.className = "item";
+    div.id = `item-${producao.id}`;
+    const categoriaNome = { artigo: "Artigo", capitulo: "Capítulo", livro: "Livro", evento: "Evento", orientacao: "Orientação" }[producao.categoria];
+    let camposHTML = `<div class="field field-full readonly"><label>Título</label><input type="text" value="${producao.titulo || ""}" data-field="titulo"></div>`;
+    
+    switch(producao.categoria) {
+        case "artigo":
+            camposHTML += `<div class="field field-full readonly"><label>Autores</label><input type="text" value="${producao.autores || ""}" data-field="autores"></div>
+            <div class="field readonly"><label>Veículo</label><input type="text" value="${producao.veiculo || ""}" data-field="veiculo"></div>
+            <div class="field readonly"><label>Ano</label><input type="text" value="${producao.ano || ""}" data-field="ano"></div>
+            <div class="field readonly"><label>Volume</label><input type="text" value="${producao.volume || ""}" data-field="volume"></div>
+            <div class="field readonly"><label>Páginas</label><input type="text" value="${producao.paginas || ""}" data-field="paginas"></div>
+            <div class="field field-full readonly"><label>DOI</label><input type="text" value="${producao.doi || ""}" data-field="doi"></div>`;
+            break;
+        case "capitulo":
+            camposHTML += `<div class="field field-full readonly"><label>Autores</label><input type="text" value="${producao.autores || ""}" data-field="autores"></div>
+            <div class="field field-full readonly"><label>Livro</label><input type="text" value="${producao.livro || ""}" data-field="livro"></div>
+            <div class="field readonly"><label>Editora</label><input type="text" value="${producao.editora || ""}" data-field="editora"></div>
+            <div class="field readonly"><label>Ano</label><input type="text" value="${producao.ano || ""}" data-field="ano"></div>
+            <div class="field readonly"><label>Edição</label><input type="text" value="${producao.edicao || ""}" data-field="edicao"></div>
+            <div class="field readonly"><label>Páginas</label><input type="text" value="${producao.paginas || ""}" data-field="paginas"></div>
+            <div class="field readonly"><label>ISBN</label><input type="text" value="${producao.isbn || ""}" data-field="isbn"></div>
+            <div class="field readonly"><label>DOI</label><input type="text" value="${producao.doi || ""}" data-field="doi"></div>`;
+            break;
+        case "livro":
+            camposHTML += `<div class="field field-full readonly"><label>Autores</label><input type="text" value="${producao.autores || ""}" data-field="autores"></div>
+            <div class="field readonly"><label>Editora</label><input type="text" value="${producao.editora || ""}" data-field="editora"></div>
+            <div class="field readonly"><label>Ano</label><input type="text" value="${producao.ano || ""}" data-field="ano"></div>
+            <div class="field readonly"><label>Tipo</label><input type="text" value="${producao.tipo || ""}" data-field="tipo"></div>
+            <div class="field readonly"><label>Edição</label><input type="text" value="${producao.edicao || ""}" data-field="edicao"></div>
+            <div class="field readonly"><label>Páginas</label><input type="text" value="${producao.paginas || ""}" data-field="paginas"></div>
+            <div class="field readonly"><label>ISBN</label><input type="text" value="${producao.isbn || ""}" data-field="isbn"></div>
+            <div class="field readonly"><label>DOI</label><input type="text" value="${producao.doi || ""}" data-field="doi"></div>`;
+            break;
+        case "evento":
+            camposHTML += `<div class="field field-full readonly"><label>Autores</label><input type="text" value="${producao.autores || ""}" data-field="autores"></div>
+            <div class="field field-full readonly"><label>Evento</label><input type="text" value="${producao.evento || ""}" data-field="evento"></div>
+            <div class="field readonly"><label>Ano</label><input type="text" value="${producao.ano || ""}" data-field="ano"></div>
+            <div class="field readonly"><label>Local</label><input type="text" value="${producao.local || ""}" data-field="local"></div>
+            <div class="field readonly"><label>Tipo</label><input type="text" value="${producao.tipo || ""}" data-field="tipo"></div>
+            <div class="field readonly"><label>DOI</label><input type="text" value="${producao.doi || ""}" data-field="doi"></div>`;
+            break;
+        case "orientacao":
+            camposHTML += `<div class="field field-full readonly"><label>Orientando</label><input type="text" value="${producao.orientando || ""}" data-field="orientando"></div>
+            <div class="field field-full readonly"><label>Instituição</label><input type="text" value="${producao.instituicao || ""}" data-field="instituicao"></div>
+            <div class="field readonly"><label>Tipo</label><input type="text" value="${producao.tipo || ""}" data-field="tipo"></div>
+            <div class="field readonly"><label>Nível</label><input type="text" value="${producao.nivel || ""}" data-field="nivel"></div>
+            <div class="field readonly"><label>Ano</label><input type="text" value="${producao.ano || ""}" data-field="ano"></div>
+            <div class="field readonly"><label>Status</label><input type="text" value="${producao.status || ""}" data-field="status"></div>`;
+            break;
+    }
+    
+    div.innerHTML = `<div class="item-header"><div><span class="item-number">#${index + 1}</span>${producao.ordem_lattes ? ` <span class="item-number">| Lattes: ${producao.ordem_lattes}</span>` : ""}</div>
+        <span class="item-category cat-${producao.categoria}">${categoriaNome}</span></div>
+        <div class="field-grid">${camposHTML}</div>
+        <div class="actions"><button class="btn-primary btn-small" onclick="editarItem(${index})">✏️ Editar</button>
+        <button class="btn-danger btn-small" onclick="removerItem(${index})">🗑️ Remover</button></div>`;
+    return div;
+}
+
+function editarItem(index) {
+    const itemDiv = document.querySelectorAll(".item")[index];
+    const fields = itemDiv.querySelectorAll(".field");
+    const actions = itemDiv.querySelector(".actions");
+    fields.forEach(f => { f.classList.remove("readonly"); f.classList.add("editable"); });
+    actions.innerHTML = `<button class="btn-success btn-small" onclick="salvarItem(${index})">💾 Salvar</button>
+        <button class="btn-secondary btn-small" onclick="cancelarEdicao(${index})">❌ Cancelar</button>`;
+}
+
+function salvarItem(index) {
+    const itemDiv = document.querySelectorAll(".item")[index];
+    itemDiv.querySelectorAll("input[data-field]").forEach(input => {
+        const field = input.getAttribute("data-field");
+        let value = input.value.trim() || null;
+        if (field === "ano" && value) value = parseInt(value, 10);
+        producoes[index][field] = value;
+    });
+    atualizarInterface();
+}
+
+function cancelarEdicao(index) { atualizarInterface(); }
+
+function removerItem(index) {
+    if (confirm("Tem certeza que deseja remover esta produção?")) {
+        producoes.splice(index, 1);
+        atualizarInterface();
+    }
+}
+
+function limparTudo() {
+    if (confirm("Tem certeza que deseja remover TODAS as produções?")) {
+        producoes = [];
+        nextId = 1;
+        atualizarInterface();
+    }
+}
+
+function baixarJSON() {
+    if (producoes.length === 0) { alert("Adicione pelo menos uma produção antes de baixar o JSON."); return; }
+    const pesquisador = document.getElementById("pesquisador").value.trim();
+    const periodo = document.getElementById("periodo").value.trim();
+    const data = {
+        pesquisador, periodo,
+        data_ingestao: new Date().toISOString(),
+        total_producoes: producoes.length,
+        producoes: producoes.map(p => { const { id, ...resto } = p; return resto; })
+    };
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+    const nomeArquivo = `prefill_${pesquisador.replace(/\s+/g, "_").toLowerCase()}.json`;
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = nomeArquivo;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
+atualizarEstatisticas();
+    </script>
+</body>
+</html>
