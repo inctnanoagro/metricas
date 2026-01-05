@@ -1,21 +1,190 @@
-<h1>Ingestão institucional – INCT NanoAgro</h1>
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Ingestão Institucional – INCT NanoAgro</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                max-width: 900px;
+                margin: auto;
+            }
+            h1 {
+                margin-top: 20px;
+            }
+            label {
+                font-weight: bold;
+                display: block;
+                margin-top: 15px;
+            }
+            textarea,
+            input,
+            select {
+                width: 100%;
+                padding: 6px;
+                margin-top: 5px;
+            }
+            button {
+                margin-top: 10px;
+                padding: 6px 10px;
+            }
+            .item {
+                border: 1px solid #ccc;
+                padding: 10px;
+                margin-top: 10px;
+            }
+            .item input {
+                margin-bottom: 5px;
+            }
+            .readonly input {
+                background: #f5f5f5;
+                border: 1px solid #ddd;
+            }
+            .actions button {
+                margin-right: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Ingestão Institucional – INCT NanoAgro</h1>
 
-<label>Categoria das produções</label>
-<select id="categoria">
-    <option value="artigo">Artigos em periódicos</option>
-    <option value="capitulo">Capítulos de livro</option>
-    <option value="livro">Livros</option>
-    <option value="trabalho_evento">Trabalhos em eventos</option>
-    <option value="apresentacao">Apresentações</option>
-    <option value="patente">Patentes / Software / Cultivares</option>
-    <option value="orientacao">Orientações</option>
-</select>
+        <label>Pesquisador</label>
+        <input id="pesquisador" value="Leonardo Fernandes Fraceto" />
 
-<label>Produções (1 por linha)</label>
-<textarea id="entrada" rows="15"></textarea>
+        <label>Período</label>
+        <input id="periodo" value="2024-2025" />
 
-<button onclick="gerarJSON()">Gerar JSON pré-carregado</button>
+        <label>Categoria</label>
+        <select id="categoria">
+            <option value="artigo">Artigos em periódicos</option>
+            <option value="capitulo">Capítulos de livro</option>
+            <option value="livro">Livros</option>
+            <option value="evento">Trabalhos em eventos</option>
+            <option value="orientacao">Orientações</option>
+        </select>
 
-<pre id="saida"></pre>
+        <label>Produção (1 por linha)</label>
+        <textarea id="entrada" rows="4"></textarea>
 
-<button onclick="downloadJSON()">Download JSON</button>
+        <button onclick="adicionar()">Adicionar</button>
+
+        <h2>Produções adicionadas</h2>
+        <div id="lista"></div>
+
+        <button onclick="baixarJSON()">Baixar JSON pré-carregado</button>
+
+        <script>
+            let producoes = [];
+
+            function parseLinha(linha, categoria) {
+                const anoMatch = linha.match(/\b(19|20)\d{2}\b/);
+                const ano = anoMatch ? parseInt(anoMatch[0]) : null;
+
+                const doiMatch = linha.match(/10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i);
+                const doi = doiMatch ? doiMatch[0].toLowerCase() : null;
+
+                const autores = linha
+                    .split(".", 1)[0]
+                    .split(";")
+                    .map((a) => a.trim())
+                    .filter((a) => a.length > 3);
+
+                const resto = linha.split(".", 1)[1] || "";
+                const titulo = resto.split(".").shift().trim();
+
+                return {
+                    categoria,
+                    titulo,
+                    autores: autores.join("; "),
+                    ano,
+                    doi,
+                    vinculo_inct: null,
+                };
+            }
+
+            function adicionar() {
+                const texto = document.getElementById("entrada").value.trim();
+                if (!texto) return;
+
+                const categoria = document.getElementById("categoria").value;
+                const item = parseLinha(texto, categoria);
+
+                producoes.push(item);
+                document.getElementById("entrada").value = "";
+                render();
+            }
+
+            function render() {
+                const lista = document.getElementById("lista");
+                lista.innerHTML = "";
+
+                producoes.forEach((p, i) => {
+                    const div = document.createElement("div");
+                    div.className = "item readonly";
+
+                    div.innerHTML = `
+      <label>Título</label>
+      <input value="${p.titulo}">
+      <label>Autores</label>
+      <input value="${p.autores}">
+      <label>Ano</label>
+      <input value="${p.ano ?? ""}">
+      <label>DOI</label>
+      <input value="${p.doi ?? ""}">
+      <div class="actions">
+        <button onclick="editar(${i})">Editar</button>
+        <button onclick="remover(${i})">Remover</button>
+      </div>
+    `;
+                    lista.appendChild(div);
+                });
+            }
+
+            function editar(i) {
+                const div = document.getElementsByClassName("item")[i];
+                div.classList.remove("readonly");
+
+                const btns = div.querySelector(".actions");
+                btns.innerHTML = `
+    <button onclick="salvar(${i})">Salvar</button>
+  `;
+            }
+
+            function salvar(i) {
+                const div = document.getElementsByClassName("item")[i];
+                const inputs = div.querySelectorAll("input");
+
+                producoes[i].titulo = inputs[0].value;
+                producoes[i].autores = inputs[1].value;
+                producoes[i].ano = inputs[2].value
+                    ? parseInt(inputs[2].value)
+                    : null;
+                producoes[i].doi = inputs[3].value || null;
+
+                render();
+            }
+
+            function remover(i) {
+                producoes.splice(i, 1);
+                render();
+            }
+
+            function baixarJSON() {
+                const data = {
+                    pesquisador: document.getElementById("pesquisador").value,
+                    periodo: document.getElementById("periodo").value,
+                    producoes,
+                };
+
+                const blob = new Blob([JSON.stringify(data, null, 2)], {
+                    type: "application/json",
+                });
+
+                const a = document.createElement("a");
+                a.href = URL.createObjectURL(blob);
+                a.download = `prefill_${data.pesquisador.replace(/\s+/g, "_")}.json`;
+                a.click();
+            }
+        </script>
+    </body>
+</html>
