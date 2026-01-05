@@ -77,25 +77,56 @@
             let producoes = [];
 
             function parseLinha(linha, categoria) {
-                const anoMatch = linha.match(/\b(19|20)\d{2}\b/);
-                const ano = anoMatch ? parseInt(anoMatch[0]) : null;
+                // normaliza quebras de linha e espaços
+                const s = linha.replace(/\s+/g, " ").trim();
 
-                const doiMatch = linha.match(/10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i);
+                // remove bloco de citações no fim
+                const semCit = s.replace(/\s*Citações:.*$/i, "").trim();
+
+                // ano
+                const anos = semCit.match(/\b(19|20)\d{2}\b/g);
+                const ano = anos ? parseInt(anos[anos.length - 1], 10) : null;
+
+                // DOI (se existir)
+                const doiMatch = semCit.match(
+                    /10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i,
+                );
                 const doi = doiMatch ? doiMatch[0].toLowerCase() : null;
 
-                const autores = linha
-                    .split(".", 1)[0]
+                // 1) Separar AUTORES do RESTO usando o padrão do Lattes: " . " (ponto com espaços)
+                //    Ex.: "... ; ROCHA, C. Q. . Zein Nanoparticles..."
+                const split = semCit.split(/\s\.\s/, 2);
+                const autoresRaw = (split[0] || "").trim();
+                const resto = (split[1] || "").trim();
+
+                // autores (separados por ;)
+                const autores = autoresRaw
                     .split(";")
                     .map((a) => a.trim())
-                    .filter((a) => a.length > 3);
+                    .filter((a) => a.length > 2)
+                    .join("; ");
 
-                const resto = linha.split(".", 1)[1] || "";
-                const titulo = resto.split(".").shift().trim();
+                // 2) Título: pega do início do resto até antes do periódico (caixa alta + ", v.")
+                //    Ex.: "Zein ... Applications. PHARMACEUTICS, v. 16, p. 1603, 2024."
+                let titulo = resto;
+                const mVeic = resto.match(
+                    /\.\s+([A-Z0-9][A-Z0-9\s\-&]+),\s*v\.\s*\d+/,
+                );
+                if (mVeic && mVeic.index !== undefined) {
+                    titulo = resto.slice(0, mVeic.index).trim();
+                } else {
+                    // fallback: primeiro ponto final
+                    const p = resto.indexOf(".");
+                    if (p > 0) titulo = resto.slice(0, p).trim();
+                }
+
+                // remove ponto final do título (se sobrou)
+                titulo = titulo.replace(/\.*\s*$/, "").trim();
 
                 return {
                     categoria,
-                    titulo,
-                    autores: autores.join("; "),
+                    titulo: titulo || null,
+                    autores: autores || null,
                     ano,
                     doi,
                     vinculo_inct: null,
