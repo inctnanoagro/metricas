@@ -99,9 +99,20 @@ def _group_by_production_type(items: List[Dict[str, Any]]) -> Dict[str, List[Dic
     grouped: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
     for item in items:
         source = item.get('source') or {}
-        production_type = source.get('production_type') or 'Desconhecido'
+        production_type = _normalize_section_name(source.get('production_type'))
         grouped[production_type].append(item)
     return grouped
+
+
+def _normalize_section_name(value: Any) -> str:
+    name = _safe_text(value or '').strip()
+    if not name:
+        return 'Desconhecido'
+    if name.startswith('temp__'):
+        name = name[len('temp__'):]
+        name = name.replace('_', ' ')
+        name = name.lower().strip()
+    return name or 'Desconhecido'
 
 
 def _sorted_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:

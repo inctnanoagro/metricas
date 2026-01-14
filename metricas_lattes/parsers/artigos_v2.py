@@ -6,6 +6,8 @@ import logging
 from typing import Optional, List, Dict, Any
 from bs4 import BeautifulSoup
 
+from .utils import clean_autores
+
 logger = logging.getLogger(__name__)
 
 
@@ -101,7 +103,7 @@ class ArtigoParser:
     def _parse_from_span(self, transform_span, numero_item: int, parent_div) -> Optional[Dict[str, Any]]:
         """Parse article from transform span"""
         # Get raw text
-        raw_text = self.clean_text(transform_span.get_text())
+        raw_text = self.clean_text(transform_span.get_text(separator=' '))
 
         if not raw_text:
             return None
@@ -159,7 +161,7 @@ class ArtigoParser:
             return None
 
         # Get cleaned text
-        texto_completo = self.clean_text(transform_span.get_text())
+        texto_completo = self.clean_text(transform_span.get_text(separator=' '))
         raw_text = texto_completo
 
         # 5. Parse autores
@@ -250,13 +252,14 @@ class ArtigoParser:
             if len(autor_clean) > 2:
                 autores_list.append(autor_clean)
 
-        return '; '.join(autores_list) if autores_list else None
+        cleaned = '; '.join(autores_list) if autores_list else None
+        return clean_autores(cleaned) if cleaned else None
 
     def _normalize_author_name(self, name: str) -> str:
         """Clean author name"""
         # Remove HTML tags
         name = re.sub(r'<[^>]+>', '', name)
-        return self.clean_text(name)
+        return clean_autores(self.clean_text(name))
 
     def _extract_metadata(self, texto: str, autores: Optional[str]) -> tuple:
         """Extract title, venue, volume, pages from text"""

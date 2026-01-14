@@ -16,6 +16,7 @@ from bs4 import BeautifulSoup
 from .parsers.artigos_v2 import ArtigoParser
 from .parsers.capitulos_v2 import CapituloParser
 from .parsers.textos_jornais import TextoJornalParser
+from .parsers.utils import clean_autores
 
 
 class GenericParser:
@@ -125,12 +126,12 @@ class GenericParser:
             autores_list = []
             for autor in autores_raw.split(';'):
                 autor_clean = re.sub(r'<[^>]+>', '', autor)  # Remove HTML tags
-                autor_clean = self._clean_text(autor_clean)
+                autor_clean = clean_autores(self._clean_text(autor_clean))
                 if len(autor_clean) > 2:
                     autores_list.append(autor_clean)
 
             if autores_list:
-                return '; '.join(autores_list)
+                return clean_autores('; '.join(autores_list))
 
         return None
 
@@ -248,6 +249,80 @@ def get_parser_for_file(filepath: Path) -> Any:
     return GenericParser()
 
 
+def _normalize_tipo_producao(value: str) -> str:
+    normalized = value or ''
+    if normalized.startswith('temp__'):
+        normalized = normalized[len('temp__'):]
+    normalized = normalized.replace('_', ' ')
+    normalized = normalized.lower()
+    normalized = unicodedata.normalize('NFD', normalized)
+    normalized = ''.join(c for c in normalized if unicodedata.category(c) != 'Mn')
+    normalized = re.sub(r'\s+', ' ', normalized).strip()
+    return normalized
+
+
+def _split_raw_blocks(raw: str) -> List[str]:
+    if not raw:
+        return []
+    normalized = re.sub(r'\s+', ' ', raw).strip()
+    if not normalized:
+        return []
+    parts = re.split(r'\s+\.\s+', normalized)
+    if len(parts) < 2:
+        parts = re.split(r'\s*\.\s+', normalized)
+    return [part.strip() for part in parts if part.strip()]
+
+
+def _title_for_validation(item: Dict[str, Any]) -> Optional[str]:
+    titulo = item.get('titulo')
+    if titulo:
+        return titulo
+    raw = item.get('raw') or ''
+    parts = _split_raw_blocks(raw)
+    if len(parts) >= 2:
+        return parts[1]
+    return raw.strip() if raw else None
+
+
+def _is_invalid_title(title: str) -> bool:
+    if not title:
+        return False
+    cleaned = re.sub(r'\s+', ' ', title).strip()
+    if len(cleaned) == 1 and cleaned.isalpha():
+        return True
+    if len(cleaned) < 5:
+        return True
+    if cleaned.upper() == cleaned and any(ch.isalpha() for ch in cleaned):
+        keywords = [
+            'APRESENT', 'ESTUDO', 'ANALIS', 'AVALIAC', 'DESENV', 'PROJETO',
+            'ORIENT', 'PARTICIP', 'DEFESA', 'BANCA', 'EVENTO', 'CONGRESS',
+            'SEMIN', 'SIMPOS', 'ENCONTRO', 'EXAME', 'QUALIFIC',
+        ]
+        if not any(keyword in cleaned for keyword in keywords):
+            return True
+    return False
+
+
+def _filter_invalid_items(tipo_producao: str, items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    normalized = _normalize_tipo_producao(tipo_producao)
+    if 'banca' not in normalized and 'evento' not in normalized:
+        return items
+
+    filtered: List[Dict[str, Any]] = []
+    for item in items:
+        title = _title_for_validation(item)
+        if title and _is_invalid_title(title):
+            continue
+        filtered.append(item)
+    return filtered
+
+
+def _renumber_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    for index, item in enumerate(items, start=1):
+        item['numero_item'] = index
+    return items
+
+
 def parse_fixture(filepath: Path) -> Dict[str, Any]:
     """
     Main entry point for parsing a Lattes HTML fixture.
@@ -279,6 +354,10 @@ def parse_fixture(filepath: Path) -> Dict[str, Any]:
 
     # Get tipo_producao from filename
     tipo_producao = Path(filepath).stem
+
+    # Filter invalid items for specific sections and renumber sequentially
+    items = _filter_invalid_items(tipo_producao, items)
+    items = _renumber_items(items)
 
     # Build result conforming to schema
     result = {
