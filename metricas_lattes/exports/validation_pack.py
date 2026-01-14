@@ -4,12 +4,28 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import shutil
 from collections import defaultdict
 from datetime import datetime
 from html import escape
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Tuple
+
+COLUMN_ORDER = [
+    'numero_item',
+    'ano',
+    'titulo',
+    'autores',
+    'veiculo_ou_livro',
+    'doi',
+    'paginas',
+    'volume',
+    'source_file',
+    'section',
+    'pertence_INCT',
+    'observacoes',
+]
 
 
 def _load_json(path: Path) -> Dict[str, Any]:
@@ -29,6 +45,54 @@ def _extract_field(item: Dict[str, Any], keys: Iterable[str]) -> str:
         if value not in (None, ''):
             return _safe_text(value)
     return ''
+
+
+def _looks_like_author_list(text: str) -> bool:
+    if not text or ';' not in text:
+        return False
+    matches = re.findall(r'\b[A-ZÀ-Ú]{2,},\s*[A-Z]\.', text)
+    return len(matches) >= 2
+
+
+def _split_raw_blocks(raw: str) -> List[str]:
+    normalized = re.sub(r'\s+', ' ', raw).strip()
+    if not normalized:
+        return []
+    parts = re.split(r'\s+\.\s+', normalized)
+    if len(parts) < 2:
+        parts = re.split(r'\s*\.\s+', normalized)
+    return [part.strip() for part in parts if part.strip()]
+
+
+def _compute_display_fields(item: Dict[str, Any]) -> Tuple[str, str]:
+    raw = _safe_text(item.get('raw') or '')
+    titulo = _extract_field(item, ['titulo', 'title'])
+    autores = _extract_field(item, ['autores'])
+
+    display_titulo = titulo
+    display_autores = autores
+
+    titulo_precisa_fallback = (
+        not display_titulo
+        or (raw and display_titulo.strip() == raw.strip())
+        or _looks_like_author_list(display_titulo)
+    )
+
+    if raw and titulo_precisa_fallback:
+        parts = _split_raw_blocks(raw)
+        if len(parts) >= 2:
+            display_titulo = parts[1]
+            if not display_autores:
+                display_autores = parts[0]
+        elif not display_titulo:
+            display_titulo = raw
+
+    if raw and not display_autores and _looks_like_author_list(raw):
+        parts = _split_raw_blocks(raw)
+        if parts:
+            display_autores = parts[0]
+
+    return display_titulo, display_autores
 
 
 def _group_by_production_type(items: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
@@ -80,8 +144,7 @@ def _render_html_researcher(
         rows = []
         for item in items:
             numero_item = _safe_text(item.get('numero_item'))
-            titulo = _extract_field(item, ['titulo', 'title', 'raw'])
-            autores = _extract_field(item, ['autores'])
+            display_titulo, display_autores = _compute_display_fields(item)
             veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
             ano = _safe_text(item.get('ano') or '')
             rows.append(
@@ -97,8 +160,8 @@ def _render_html_researcher(
                 </tr>
                 """.format(
                     numero_item=escape(numero_item),
-                    titulo=escape(titulo),
-                    autores=escape(autores),
+                    titulo=escape(display_titulo),
+                    autores=escape(display_autores),
                     veiculo=escape(veiculo),
                     ano=escape(ano),
                 )
@@ -227,15 +290,7 @@ def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
     workbook.remove(default_sheet)
 
     used_names: set = set()
-    headers = [
-        'numero_item',
-        'titulo',
-        'autores',
-        'veiculo_ou_livro',
-        'ano',
-        'pertence_INCT',
-        'observacoes',
-    ]
+    headers = COLUMN_ORDER[:]
 
     for section_name in sorted(grouped.keys()):
         sheet_name = _sanitize_sheet_name(section_name, used_names)
@@ -243,20 +298,37 @@ def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
         sheet.append(headers)
 
         for item in _sorted_items(grouped[section_name]):
-            numero_item = item.get('numero_item')
-            titulo = _extract_field(item, ['titulo', 'title', 'raw'])
-            autores = _extract_field(item, ['autores'])
-            veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
-            ano = item.get('ano')
-            sheet.append([
-                numero_item,
-                titulo,
-                autores,
-                veiculo,
-                ano,
-                '',
-                '',
-            ])
+            display_titulo, display_autores = _compute_display_fields(item)
+            source = item.get('source') or {}
+            row = []
+            for column in COLUMN_ORDER:
+                if column == 'numero_item':
+                    row.append(item.get('numero_item'))
+                elif column == 'ano':
+                    row.append(item.get('ano'))
+                elif column == 'titulo':
+                    row.append(display_titulo)
+                elif column == 'autores':
+                    row.append(display_autores)
+                elif column == 'veiculo_ou_livro':
+                    row.append(_extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista']))
+                elif column == 'doi':
+                    row.append(item.get('doi'))
+                elif column == 'paginas':
+                    row.append(item.get('paginas'))
+                elif column == 'volume':
+                    row.append(item.get('volume'))
+                elif column == 'source_file':
+                    row.append(source.get('file'))
+                elif column == 'section':
+                    row.append(section_name)
+                elif column == 'pertence_INCT':
+                    row.append('')
+                elif column == 'observacoes':
+                    row.append('')
+                else:
+                    row.append('')
+            sheet.append(row)
 
     workbook.save(output_path)
 

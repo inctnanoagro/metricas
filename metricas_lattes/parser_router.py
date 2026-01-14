@@ -57,7 +57,7 @@ class GenericParser:
                     continue
 
                 # Get raw text
-                raw_text = self._clean_text(transform_span.get_text())
+                raw_text = self._clean_text(transform_span.get_text(separator=' '))
 
                 # Heuristic extractions
                 autores = self._extract_autores_heuristic(transform_span)
@@ -104,6 +104,8 @@ class GenericParser:
         """Normalize whitespace and remove non-breaking spaces"""
         text = text.replace('\xa0', ' ')
         text = re.sub(r'\s+', ' ', text)
+        text = re.sub(r'([A-Z]\.)\s*(\d{4})([A-Z]{2,},)', r'\1 \2 \3', text)
+        text = re.sub(r'(\b[A-Z]{2,},\s*[A-Z]\.)\s*(\d{4})\s*\1', r'\1 \2', text)
         return text.strip()
 
     def _extract_autores_heuristic(self, transform_span) -> Optional[str]:
@@ -112,7 +114,7 @@ class GenericParser:
         Authors usually appear at the beginning, separated by semicolons.
         """
         # Get text before first sentence ending
-        full_text = self._clean_text(transform_span.get_text())
+        full_text = self._clean_text(transform_span.get_text(separator=' '))
 
         # Try to find author pattern: ends with " . " followed by uppercase
         match = re.search(r'^(.+?)\s+\.\s+[A-ZÀ-Ú]', full_text)
