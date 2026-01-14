@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Outputs gerados
+outputs/
+
+# Pacotes
+*.tar.gz
+
+# Dados brutos (se forem perfis reais)
+data/
+

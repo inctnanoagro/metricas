@@ -1,0 +1,97 @@
+feat: Implementar sistema completo de parsing de produções Lattes
+
+Implementação robusta de sistema de parsing para extrair produções
+científicas de arquivos HTML exportados da Plataforma Lattes.
+
+## Principais funcionalidades
+
+- Parser router com registry extensível
+- 4 parsers específicos (artigos, capítulos, jornais)
+- Parser genérico como fallback
+- Schema JSON canônico v2.0.0
+- Suite completa de testes (165 testes passando)
+- Validação contra JSON Schema
+- Garantia de determinismo
+- Fingerprints SHA1 para deduplicação
+
+## Cobertura
+
+- 27 fixtures processados com sucesso (100%)
+- 3137 items extraídos
+- Performance: ~540 items/segundo
+
+## Arquivos criados
+
+### Core
+- metricas_lattes/parser_router.py (router + generic parser)
+- metricas_lattes/parsers/artigos_v2.py
+- metricas_lattes/parsers/capitulos_v2.py
+- metricas_lattes/parsers/textos_jornais.py
+
+### Schema
+- schema/producoes.schema.json (v2.0.0)
+- schema/archive/ (schema legado arquivado)
+
+### Testes
+- tests/test_parse_fixtures.py (suite completa)
+- tests/fixtures/expected/ (diretório para golden files)
+
+### Scripts
+- scripts/test_parsers_manual.py (teste rápido)
+- scripts/generate_golden_files.py (gera golden files)
+- scripts/exemplo_uso.py (exemplos práticos)
+
+### Documentação
+- docs/PARSER_SYSTEM.md (documentação técnica completa)
+- IMPLEMENTATION_SUMMARY.md (resumo da implementação)
+- QUICKSTART.md (guia rápido de início)
+- CLAUDE.MD (atualizado)
+
+## Arquivos modificados
+
+- requirements.txt (adicionadas lxml, jsonschema)
+- schema/producoes.schema.json (nova versão v2.0.0)
+
+## Arquivos preservados
+
+Parsers e testes antigos mantidos intactos para compatibilidade:
+- metricas_lattes/parsers/artigos.py
+- metricas_lattes/parsers/capitulos.py
+- metricas_lattes/parsers/base.py
+- tests/test_parsers_*.py
+
+## Validação
+
+- 165 testes passando (1 skipped)
+- Validação de schema: 27/27 (100%)
+- Determinismo: 27/27 (100%)
+- Performance: 5.78s para processar todos fixtures
+
+## Testes executados
+
+```bash
+pytest tests/test_parse_fixtures.py -v
+# 165 passed, 1 skipped in 5.78s
+```
+
+## Uso básico
+
+```python
+from pathlib import Path
+from metricas_lattes.parser_router import parse_fixture
+
+result = parse_fixture(Path('arquivo.html'))
+print(f"Items: {len(result['items'])}")
+```
+
+## Próximos passos sugeridos
+
+1. Adicionar parsers para tipos prioritários (anais, livros, patentes)
+2. Melhorar normalização de nomes de autores
+3. Criar pipeline de processamento em batch
+4. Gerar golden files para testes de regressão
+
+---
+
+Implementado por: Claude (Sonnet 4.5)
+Data: 2026-01-14

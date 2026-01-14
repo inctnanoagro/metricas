@@ -1,0 +1,46 @@
+{
+  "pesquisador": "test_sorting",
+  "generated_at": "2026-01-14T12:36:51.997064+00:00",
+  "source_html": "mixed_ordem.html",
+  "producoes": {
+    "artigos": [
+      {
+        "categoria": "artigo",
+        "titulo": ". Alpha title",
+        "ano": 2024,
+        "ordem_lattes": 1,
+        "raw_text": "AUTHOR, B. . Alpha title. Journal, v. 1, p. 1-5, 2024.",
+        "html_snippet": "<div class=\"artigo-completo\">\n<div class=\"layout-cell-1\"><b>1.</b></div>\n<div class=\"layout-cell-pad-5\"><span data-tipo-ordenacao=\"ano\">2024</span></div>\n<div class=\"layout-cell-11\">\n<span class=\"transform\">\n                AUTHOR, B. . Alpha title. Journal, v. 1, p. 1-5, 2024.\n            </span>\n</div>\n</div>",
+        "autores": "AUTHOR, B.",
+        "veiculo": "Journal",
+        "volume": "1",
+        "paginas": "1-5"
+      },
+      {
+        "categoria": "artigo",
+        "titulo": ". Beta title",
+        "ano": 2024,
+        "raw_text": "AUTHOR, C. . Beta title. Journal, v. 1, p. 1-5, 2024.",
+        "html_snippet": "<div class=\"artigo-completo\">\n<div class=\"layout-cell-pad-5\"><span data-tipo-ordenacao=\"ano\">2024</span></div>\n<div class=\"layout-cell-11\">\n<span class=\"transform\">\n                AUTHOR, C. . Beta title. Journal, v. 1, p. 1-5, 2024.\n            </span>\n</div>\n</div>",
+        "autores": "AUTHOR, C.",
+        "veiculo": "Journal",
+        "volume": "1",
+        "paginas": "1-5"
+      },
+      {
+        "categoria": "artigo",
+        "titulo": ". Zebra title",
+        "ano": 2024,
+        "raw_text": "AUTHOR, A. . Zebra title. Journal, v. 1, p. 1-5, 2024.",
+        "html_snippet": "<div class=\"artigo-completo\">\n<div class=\"layout-cell-pad-5\"><span data-tipo-ordenacao=\"ano\">2024</span></div>\n<div class=\"layout-cell-11\">\n<span class=\"transform\">\n                AUTHOR, A. . Zebra title. Journal, v. 1, p. 1-5, 2024.\n            </span>\n</div>\n</div>",
+        "autores": "AUTHOR, A.",
+        "veiculo": "Journal",
+        "volume": "1",
+        "paginas": "1-5"
+      }
+    ]
+  },
+  "counts": {
+    "artigos": 3
+  }
+}

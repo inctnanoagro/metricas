@@ -1,0 +1,474 @@
+"""Generate human validation packs from canonical researcher JSONs."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import shutil
+from collections import defaultdict
+from datetime import datetime
+from html import escape
+from pathlib import Path
+from typing import Any, Dict, Iterable, List, Tuple
+
+
+def _load_json(path: Path) -> Dict[str, Any]:
+    with path.open('r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def _safe_text(value: Any) -> str:
+    if value is None:
+        return ''
+    return str(value)
+
+
+def _extract_field(item: Dict[str, Any], keys: Iterable[str]) -> str:
+    for key in keys:
+        value = item.get(key)
+        if value not in (None, ''):
+            return _safe_text(value)
+    return ''
+
+
+def _group_by_production_type(items: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
+    grouped: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    for item in items:
+        source = item.get('source') or {}
+        production_type = source.get('production_type') or 'Desconhecido'
+        grouped[production_type].append(item)
+    return grouped
+
+
+def _sorted_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return sorted(
+        items,
+        key=lambda item: (
+            item.get('numero_item') is None,
+            item.get('numero_item') if item.get('numero_item') is not None else 0,
+        ),
+    )
+
+
+def _sanitize_sheet_name(name: str, used: set) -> str:
+    base = ''.join(ch for ch in name if ch not in '[]:*?/\\')
+    if not base:
+        base = 'Sheet'
+    base = base[:31]
+    candidate = base
+    counter = 1
+    while candidate in used:
+        suffix = f"_{counter}"
+        candidate = (base[: 31 - len(suffix)] + suffix) if len(base) > len(suffix) else base + suffix
+        counter += 1
+    used.add(candidate)
+    return candidate
+
+
+def _render_html_researcher(
+    researcher: Dict[str, Any],
+    productions: List[Dict[str, Any]],
+) -> str:
+    full_name = _safe_text(researcher.get('full_name') or 'Pesquisador(a)')
+    lattes_id = _safe_text(researcher.get('lattes_id') or 'N/A')
+
+    grouped = _group_by_production_type(productions)
+    sections = []
+
+    for section_name in sorted(grouped.keys()):
+        items = _sorted_items(grouped[section_name])
+        rows = []
+        for item in items:
+            numero_item = _safe_text(item.get('numero_item'))
+            titulo = _extract_field(item, ['titulo', 'title', 'raw'])
+            autores = _extract_field(item, ['autores'])
+            veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
+            ano = _safe_text(item.get('ano') or '')
+            rows.append(
+                """
+                <tr>
+                  <td class="numero">{numero_item}</td>
+                  <td>{titulo}</td>
+                  <td>{autores}</td>
+                  <td>{veiculo}</td>
+                  <td class="ano">{ano}</td>
+                  <td class="checkbox"><input type="checkbox" aria-label="Pertence ao INCT"></td>
+                  <td><textarea rows="2" placeholder="Observacoes"></textarea></td>
+                </tr>
+                """.format(
+                    numero_item=escape(numero_item),
+                    titulo=escape(titulo),
+                    autores=escape(autores),
+                    veiculo=escape(veiculo),
+                    ano=escape(ano),
+                )
+            )
+
+        sections.append(
+            """
+            <section>
+              <h2>{section_name}</h2>
+              <table>
+                <thead>
+                  <tr>
+                    <th>numero_item</th>
+                    <th>titulo</th>
+                    <th>autores</th>
+                    <th>veiculo/livro</th>
+                    <th>ano</th>
+                    <th>Pertence ao INCT?</th>
+                    <th>observacoes</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {rows}
+                </tbody>
+              </table>
+            </section>
+            """.format(
+                section_name=escape(section_name),
+                rows='\n'.join(rows),
+            )
+        )
+
+    return """<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Validacao - {full_name}</title>
+  <style>
+    :root {{
+      color-scheme: light;
+      --bg: #f7f5ef;
+      --ink: #1f1f1f;
+      --accent: #2f6f3e;
+      --muted: #5f5f5f;
+      --table: #ffffff;
+      --border: #d9d3c7;
+    }}
+    body {{
+      margin: 0;
+      padding: 24px;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+    }}
+    h1 {{
+      margin: 0 0 4px;
+      font-size: 28px;
+    }}
+    .meta {{
+      margin-bottom: 24px;
+      color: var(--muted);
+    }}
+    section {{
+      margin-bottom: 32px;
+    }}
+    h2 {{
+      margin-bottom: 8px;
+      font-size: 20px;
+      color: var(--accent);
+    }}
+    table {{
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--table);
+      border: 1px solid var(--border);
+    }}
+    th, td {{
+      border: 1px solid var(--border);
+      padding: 8px;
+      vertical-align: top;
+      font-size: 14px;
+    }}
+    th {{
+      background: #efe9dd;
+      text-align: left;
+    }}
+    textarea {{
+      width: 100%;
+      border: 1px solid var(--border);
+      resize: vertical;
+      font-family: inherit;
+      font-size: 13px;
+    }}
+    .numero, .ano {{
+      white-space: nowrap;
+      text-align: center;
+    }}
+    .checkbox {{
+      text-align: center;
+    }}
+  </style>
+</head>
+<body>
+  <h1>{full_name}</h1>
+  <div class="meta">Lattes ID: {lattes_id}</div>
+  {sections}
+</body>
+</html>
+""".format(
+        full_name=escape(full_name),
+        lattes_id=escape(lattes_id),
+        sections='\n'.join(sections),
+    )
+
+
+def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
+    try:
+        from openpyxl import Workbook
+    except ImportError as exc:  # pragma: no cover - dependency guard
+        raise RuntimeError("openpyxl nao esta instalado. Adicione em requirements.txt") from exc
+
+    grouped = _group_by_production_type(productions)
+    workbook = Workbook()
+    default_sheet = workbook.active
+    workbook.remove(default_sheet)
+
+    used_names: set = set()
+    headers = [
+        'numero_item',
+        'titulo',
+        'autores',
+        'veiculo_ou_livro',
+        'ano',
+        'pertence_INCT',
+        'observacoes',
+    ]
+
+    for section_name in sorted(grouped.keys()):
+        sheet_name = _sanitize_sheet_name(section_name, used_names)
+        sheet = workbook.create_sheet(title=sheet_name)
+        sheet.append(headers)
+
+        for item in _sorted_items(grouped[section_name]):
+            numero_item = item.get('numero_item')
+            titulo = _extract_field(item, ['titulo', 'title', 'raw'])
+            autores = _extract_field(item, ['autores'])
+            veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
+            ano = item.get('ano')
+            sheet.append([
+                numero_item,
+                titulo,
+                autores,
+                veiculo,
+                ano,
+                '',
+                '',
+            ])
+
+    workbook.save(output_path)
+
+
+def _collect_json_files(input_dir: Path) -> List[Path]:
+    return sorted(p for p in input_dir.iterdir() if p.is_file() and p.suffix.lower() == '.json')
+
+
+def _resolve_lattes_id(researcher: Dict[str, Any], filename: str) -> str:
+    lattes_id = researcher.get('lattes_id')
+    if lattes_id:
+        return str(lattes_id)
+    if '__' in filename:
+        return filename.split('__', 1)[0]
+    return 'unknown'
+
+
+def generate_validation_pack(input_dir: Path, output_dir: Path, formats: List[str]) -> Dict[str, Any]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    researchers_root = output_dir / 'researchers'
+    researchers_root.mkdir(parents=True, exist_ok=True)
+
+    json_files = _collect_json_files(input_dir)
+    if not json_files:
+        print(f"Nenhum JSON encontrado em {input_dir}")
+
+    manifest_entries = []
+    index_rows = []
+
+    for json_path in json_files:
+        try:
+            data = _load_json(json_path)
+        except json.JSONDecodeError as exc:
+            print(f"Falha ao ler {json_path.name}: {exc}")
+            continue
+
+        researcher = data.get('researcher', {})
+        productions = data.get('productions', [])
+        lattes_id = _resolve_lattes_id(researcher, json_path.name)
+        full_name = _safe_text(researcher.get('full_name') or json_path.stem)
+
+        researcher_dir = researchers_root / f"{lattes_id}__"
+        researcher_dir.mkdir(parents=True, exist_ok=True)
+
+        dados_path = researcher_dir / 'dados.json'
+        shutil.copyfile(json_path, dados_path)
+
+        if 'html' in formats:
+            html_content = _render_html_researcher(researcher, productions)
+            (researcher_dir / 'VALIDACAO.html').write_text(html_content, encoding='utf-8')
+
+        if 'xlsx' in formats:
+            _write_xlsx(researcher_dir / 'VALIDACAO.xlsx', productions)
+
+        total_items = len(productions)
+        index_rows.append(
+            {
+                'lattes_id': lattes_id,
+                'full_name': full_name,
+                'total_items': total_items,
+                'html_path': f"researchers/{lattes_id}__/VALIDACAO.html",
+            }
+        )
+        manifest_entries.append(
+            {
+                'lattes_id': lattes_id,
+                'full_name': full_name,
+                'total_items': total_items,
+                'source_json': json_path.name,
+                'output_dir': f"researchers/{lattes_id}__/",
+            }
+        )
+
+    index_rows.sort(key=lambda row: row['lattes_id'])
+    manifest_entries.sort(key=lambda row: row['lattes_id'])
+
+    index_html = _render_index(index_rows, formats)
+    (output_dir / 'index.html').write_text(index_html, encoding='utf-8')
+
+    manifest = {
+        'generated_at': datetime.now().isoformat(),
+        'formats': sorted(set(formats)),
+        'researchers': manifest_entries,
+    }
+    (output_dir / 'manifest.json').write_text(
+        json.dumps(manifest, indent=2, ensure_ascii=False),
+        encoding='utf-8',
+    )
+
+    return manifest
+
+
+def _render_index(rows: List[Dict[str, Any]], formats: List[str]) -> str:
+    rows_html = []
+    for row in rows:
+        link = escape(row['html_path'])
+        name = escape(row['full_name'])
+        lattes_id = escape(row['lattes_id'])
+        total = escape(str(row['total_items']))
+        if 'html' in formats:
+            name_html = f"<a href=\"{link}\">{name}</a>"
+        else:
+            name_html = name
+        rows_html.append(
+            f"<tr><td>{lattes_id}</td><td>{name_html}</td><td>{total}</td></tr>"
+        )
+
+    return """<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pacote de Validacao</title>
+  <style>
+    body {{
+      margin: 0;
+      padding: 24px;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: #f7f5ef;
+      color: #1f1f1f;
+    }}
+    h1 {{
+      margin-bottom: 8px;
+    }}
+    table {{
+      width: 100%;
+      border-collapse: collapse;
+      background: #ffffff;
+      border: 1px solid #d9d3c7;
+    }}
+    th, td {{
+      border: 1px solid #d9d3c7;
+      padding: 8px;
+      text-align: left;
+      font-size: 14px;
+    }}
+    th {{
+      background: #efe9dd;
+    }}
+  </style>
+</head>
+<body>
+  <h1>Pacote de Validacao</h1>
+  <p>Total de pesquisadores: {total}</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Lattes ID</th>
+        <th>Pesquisador</th>
+        <th>Total de producoes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {rows}
+    </tbody>
+  </table>
+</body>
+</html>
+""".format(
+        total=len(rows),
+        rows='\n'.join(rows_html),
+    )
+
+
+def _parse_args(argv: List[str] | None = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description='Gera pacote de validacao humana a partir de JSONs canonicos.',
+    )
+    parser.add_argument(
+        '--in',
+        dest='input_dir',
+        required=True,
+        help='Pasta contendo os JSONs canonicos (researchers/)',
+    )
+    parser.add_argument(
+        '--out',
+        dest='output_dir',
+        required=True,
+        help='Pasta de saida do pacote de validacao',
+    )
+    parser.add_argument(
+        '--format',
+        dest='formats',
+        nargs='+',
+        choices=['html', 'xlsx'],
+        default=['html'],
+        help='Formatos a gerar (html, xlsx)',
+    )
+    return parser.parse_args(argv)
+
+
+def main(argv: List[str] | None = None) -> int:
+    args = _parse_args(argv)
+    input_dir = Path(args.input_dir)
+    output_dir = Path(args.output_dir)
+
+    formats = [fmt.lower() for fmt in args.formats]
+    print(f"Lendo JSONs em: {input_dir}")
+    print(f"Saida: {output_dir}")
+    print(f"Formatos: {', '.join(formats)}")
+
+    if not input_dir.exists():
+        print(f"Erro: pasta de entrada nao existe: {input_dir}")
+        return 1
+    if not input_dir.is_dir():
+        print(f"Erro: entrada nao e uma pasta: {input_dir}")
+        return 1
+
+    generate_validation_pack(input_dir, output_dir, formats)
+    print("Pacote de validacao gerado com sucesso.")
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())

@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inct-nanoagro.example/schemas/lattes_producao_v1.schema.json",
+  "title": "Lattes Production Record (INCT NanoAgro) - v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "record_id",
+    "record_type",
+    "provenance",
+    "content",
+    "fingerprints"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+
+    "record_id": {
+      "type": "string",
+      "description": "Stable identifier for the record within the dataset. Recommended: sha1(provenance.source_doc_id + '|' + provenance.section_key + '|' + provenance.item_number + '|' + fingerprints.text_sha1)."
+    },
+
+    "record_type": {
+      "type": "string",
+      "enum": [
+        "LIVRO",
+        "CAPITULO_DE_LIVRO",
+        "TRABALHO_COMPLETO_EM_ANAIS",
+        "RESUMO_EXPANDIDO_EM_ANAIS",
+        "ARTIGO_ACEITO_PARA_PUBLICACAO"
+      ]
+    },
+
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_system",
+        "source_doc_id",
+        "extraction_timestamp_utc",
+        "section_title_raw",
+        "section_key",
+        "item_number"
+      ],
+      "properties": {
+        "source_system": {
+          "type": "string",
+          "const": "LATTES_HTML"
+        },
+        "source_doc_id": {
+          "type": "string",
+          "description": "Identifier of the HTML source (file name, Lattes CV URI, or internal doc ID)."
+        },
+        "source_doc_uri": {
+          "type": ["string", "null"],
+          "description": "Optional URI for traceability (e.g., original Lattes page or internal storage URL)."
+        },
+        "extraction_timestamp_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+
+        "section_title_raw": {
+          "type": "string",
+          "description": "Raw visible title of the section (may contain encoding artifacts)."
+        },
+        "section_title_normalized": {
+          "type": ["string", "null"],
+          "description": "Normalized section title (UTF-8 fixed, trimmed, normalized whitespace)."
+        },
+        "section_key": {
+          "type": "string",
+          "description": "Canonical key derived from section title, used for classification and grouping.",
+          "enum": [
+            "LIVROS_PUBLICADOS_ORGANIZADOS",
+            "CAPITULOS_DE_LIVROS_PUBLICADOS",
+            "TRABALHOS_COMPLETOS_EM_ANAIS",
+            "RESUMOS_EXPANDIDOS_EM_ANAIS",
+            "ARTIGOS_ACEITOS"
+          ]
+        },
+
+        "item_number": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Ordinal number shown by Lattes (e.g., 1., 2., 3.). Mandatory for audit."
+        },
+
+        "html_context": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Optional: stores HTML-level context to allow forensic reconstruction.",
+          "properties": {
+            "anchor_name": { "type": ["string", "null"] },
+            "tabindex": { "type": ["integer", "null"] },
+            "layout_cell_path": { "type": ["string", "null"] }
+          }
+        }
+      }
+    },
+
+    "content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["raw_text"],
+      "properties": {
+        "raw_text": {
+          "type": "string",
+          "description": "Exact textContent extracted from span.transform, preserving punctuation and spacing as seen after HTML decoding."
+        },
+        "raw_html": {
+          "type": ["string", "null"],
+          "description": "Raw HTML snippet containing the record (recommended: the full layout-cell-11 or the enclosing div for artigo-completo)."
+        },
+
+        "doi_url": {
+          "type": ["string", "null"],
+          "description": "DOI URL if present (from a.icone-doi[href])."
+        },
+
+        "people": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Optional parsed people fields. Keep raw_text as source of truth.",
+          "properties": {
+            "authors_raw": { "type": ["string", "null"] },
+            "authors": {
+              "type": ["array", "null"],
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["name_raw"],
+                "properties": {
+                  "name_raw": { "type": "string" },
+                  "lattes_uri": { "type": ["string", "null"] },
+                  "roles": {
+                    "type": ["array", "null"],
+                    "items": { "type": "string", "enum": ["ORG", "AUTOR"] }
+                  },
+                  "is_highlighted_in_html": { "type": ["boolean", "null"] }
+                }
+              }
+            }
+          }
+        },
+
+        "bibliography": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Optional parsed bibliographic fields. All fields must be derivable from raw_text.",
+          "properties": {
+            "title_raw": { "type": ["string", "null"] },
+            "title_normalized": { "type": ["string", "null"] },
+
+            "year": { "type": ["integer", "null"], "minimum": 1800, "maximum": 2100 },
+
+            "edition_raw": { "type": ["string", "null"], "description": "e.g., '1. ed.' if present." },
+
+            "place_raw": { "type": ["string", "null"], "description": "e.g., 'Cham', 'Boca Raton', 'Sorocaba'." },
+            "publisher_raw": { "type": ["string", "null"], "description": "e.g., 'Springer', 'Elsevier', 'CRC'." },
+
+            "volume_raw": { "type": ["string", "null"], "description": "e.g., 'v. 1'." },
+
+            "pages_raw": {
+              "type": ["string", "null"],
+              "description": "Pages string as in raw_text: e.g., '425p', 'p. 325-348', 'p. VI-431'."
+            },
+
+            "in_container_raw": {
+              "type": ["string", "null"],
+              "description": "For chapters/anais: the 'In:' container segment if present."
+            },
+
+            "journal_or_event_raw": {
+              "type": ["string", "null"],
+              "description": "For artigos aceitos or anais: venue string if present."
+            }
+          }
+        }
+      }
+    },
+
+    "fingerprints": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text_sha1", "text_sha256", "dedupe_key"],
+      "properties": {
+        "text_sha1": { "type": "string", "pattern": "^[a-f0-9]{40}$" },
+        "text_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "dedupe_key": {
+          "type": "string",
+          "description": "Deterministic dedupe key. Recommended: sha1(normalize_whitespace(raw_text))."
+        },
+        "html_sha1": { "type": ["string", "null"], "pattern": "^[a-f0-9]{40}$" }
+      }
+    },
+
+    "quality": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Audit flags and parsing confidence.",
+      "properties": {
+        "parse_confidence": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "warnings": {
+          "type": ["array", "null"],
+          "items": { "type": "string" }
+        },
+        "deduped": { "type": ["boolean", "null"] }
+      }
+    }
+  }
+}

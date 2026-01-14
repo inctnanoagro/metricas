@@ -1,136 +1,212 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/inctnanoagro/metricas/schema/producoes.schema.json",
-  "title": "Registro de Produção Acadêmica – INCT NanoAgro",
-  "description": "Schema para registro padronizado de produções acadêmicas associáveis ao INCT NanoAgro, com base em dados declarados a partir do Currículo Lattes, para fins de prestação de contas, análise institucional e relatórios de impacto.",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inct-nanoagro.example/schemas/producoes_v2.schema.json",
+  "title": "Lattes Productions Collection Schema (INCT NanoAgro) - v2",
+  "description": "Schema for validating parsed Lattes production records by type",
   "type": "object",
+  "additionalProperties": false,
   "required": [
-    "identificacao",
-    "autores",
+    "schema_version",
     "tipo_producao",
-    "dados_bibliograficos",
-    "vinculo_institucional",
-    "metadados_coleta"
+    "source_file",
+    "items"
   ],
   "properties": {
-    "identificacao": {
-      "type": "object",
-      "required": ["titulo", "ano"],
-      "properties": {
-        "titulo": {
-          "type": "string",
-          "minLength": 3
-        },
-        "ano": {
-          "type": "integer",
-          "minimum": 2024,
-          "maximum": 2025
-        },
-        "idioma": {
-          "type": "string",
-          "enum": ["pt", "en", "es", "outro"]
-        }
-      }
+    "schema_version": {
+      "type": "string",
+      "const": "2.0.0",
+      "description": "Schema version identifier"
     },
 
-    "autores": {
+    "tipo_producao": {
+      "type": "string",
+      "description": "Type of production - derived from source filename"
+    },
+
+    "source_file": {
+      "type": "string",
+      "description": "Source HTML filename for audit trail"
+    },
+
+    "extraction_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of extraction"
+    },
+
+    "items": {
       "type": "array",
-      "minItems": 1,
+      "description": "List of parsed production items",
       "items": {
         "type": "object",
-        "required": ["nome_completo"],
+        "additionalProperties": false,
+        "required": [
+          "numero_item",
+          "raw"
+        ],
         "properties": {
-          "nome_completo": {
-            "type": "string"
+          "numero_item": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Ordinal number from Lattes (1., 2., 3., etc)"
           },
-          "pesquisador_inct": {
-            "type": "boolean",
-            "description": "Indica se o autor é pesquisador vinculado ao INCT NanoAgro."
+
+          "raw": {
+            "type": "string",
+            "description": "Raw text extracted from span.transform for audit"
           },
+
+          "autores": {
+            "type": ["string", "null"],
+            "description": "Authors semicolon-separated, normalized"
+          },
+
+          "titulo": {
+            "type": ["string", "null"],
+            "description": "Title when identifiable"
+          },
+
+          "ano": {
+            "type": ["integer", "null"],
+            "minimum": 1800,
+            "maximum": 2100,
+            "description": "Publication year"
+          },
+
+          "mes": {
+            "type": ["string", "null"],
+            "description": "Month abbreviation (jan., fev., mar., etc) when available"
+          },
+
+          "veiculo": {
+            "type": ["string", "null"],
+            "description": "Journal/newspaper/venue name"
+          },
+
+          "volume": {
+            "type": ["string", "null"],
+            "description": "Volume information"
+          },
+
+          "paginas": {
+            "type": ["string", "null"],
+            "description": "Page range or page information"
+          },
+
+          "doi": {
+            "type": ["string", "null"],
+            "description": "DOI identifier without URL prefix"
+          },
+
+          "isbn": {
+            "type": ["string", "null"],
+            "description": "ISBN for books/chapters"
+          },
+
+          "livro": {
+            "type": ["string", "null"],
+            "description": "Book name for chapters"
+          },
+
+          "editora": {
+            "type": ["string", "null"],
+            "description": "Publisher name"
+          },
+
+          "edicao": {
+            "type": ["string", "null"],
+            "description": "Edition information"
+          },
+
+          "local": {
+            "type": ["string", "null"],
+            "description": "Publication location/city"
+          },
+
+          "evento": {
+            "type": ["string", "null"],
+            "description": "Event name for congress papers"
+          },
+
           "instituicao": {
-            "type": "string"
+            "type": ["string", "null"],
+            "description": "Institution for thesis/dissertations"
+          },
+
+          "orientador": {
+            "type": ["string", "null"],
+            "description": "Advisor name for thesis/dissertations"
+          },
+
+          "tipo_orientacao": {
+            "type": ["string", "null"],
+            "description": "Type of supervision/participation"
+          },
+
+          "natureza": {
+            "type": ["string", "null"],
+            "description": "Nature/type of work"
+          },
+
+          "issn": {
+            "type": ["string", "null"],
+            "description": "ISSN for journals"
+          },
+
+          "url": {
+            "type": ["string", "null"],
+            "description": "URL if available"
+          },
+
+          "html_snippet": {
+            "type": ["string", "null"],
+            "description": "First 500 chars of HTML for debugging"
+          },
+
+          "fingerprint_sha1": {
+            "type": ["string", "null"],
+            "pattern": "^[a-f0-9]{40}$",
+            "description": "SHA1 hash of raw text for deduplication"
+          },
+
+          "parse_warnings": {
+            "type": ["array", "null"],
+            "items": {
+              "type": "string"
+            },
+            "description": "Warnings during parsing"
           }
         }
       }
     },
 
-    "tipo_producao": {
-      "type": "string",
-      "enum": [
-        "artigo_periodico",
-        "capitulo_livro",
-        "livro",
-        "trabalho_evento",
-        "resumo",
-        "patente",
-        "produto_tecnologico",
-        "outro"
-      ]
-    },
-
-    "dados_bibliograficos": {
+    "parse_metadata": {
       "type": "object",
+      "additionalProperties": false,
+      "description": "Metadata about the parsing process",
       "properties": {
-        "revista_ou_evento": {
-          "type": "string"
-        },
-        "issn_isbn": {
-          "type": "string"
-        },
-        "doi": {
-          "type": "string"
-        },
-        "editora": {
-          "type": "string"
-        }
-      }
-    },
-
-    "vinculo_institucional": {
-      "type": "object",
-      "required": ["associavel_inct"],
-      "properties": {
-        "associavel_inct": {
-          "type": "boolean",
-          "description": "Indica se a produção pode ser associada ao INCT NanoAgro para fins institucionais."
-        },
-        "observacao_vinculo": {
+        "parser_version": {
           "type": "string",
-          "description": "Justificativa ou observação sobre o vínculo institucional."
-        }
-      }
-    },
-
-    "indicadores_basicos": {
-      "type": "object",
-      "properties": {
-        "qualis": {
-          "type": "string"
+          "description": "Parser version used"
         },
-        "fator_impacto": {
-          "type": "number",
-          "minimum": 0
-        }
-      }
-    },
-
-    "metadados_coleta": {
-      "type": "object",
-      "required": ["fonte", "data_registro"],
-      "properties": {
-        "fonte": {
-          "type": "string",
-          "enum": ["curriculo_lattes"]
+        "total_items": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total items parsed"
         },
-        "data_registro": {
-          "type": "string",
-          "format": "date"
+        "parse_errors": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of items that failed to parse"
         },
-        "responsavel_registro": {
-          "type": "string"
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Global parsing warnings"
         }
       }
     }
-  },
-  "additionalProperties": false
+  }
 }
