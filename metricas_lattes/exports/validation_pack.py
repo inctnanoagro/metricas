@@ -178,17 +178,38 @@ def _sanitize_sheet_name(name: str, used: set) -> str:
     return candidate
 
 
+def _ordered_section_names(
+    sections_metadata: List[Dict[str, Any]],
+    grouped: Dict[str, List[Dict[str, Any]]],
+) -> List[str]:
+    grouped_keys = list(grouped.keys())
+    ordered: List[str] = []
+    for section in sections_metadata:
+        title = section.get('section_title') or section.get('tipo_producao')
+        name = _normalize_section_name(title)
+        if name in grouped and name not in ordered:
+            ordered.append(name)
+    for name in grouped_keys:
+        if name not in ordered:
+            ordered.append(name)
+    return ordered
+
+
 def _render_html_researcher(
     researcher: Dict[str, Any],
     productions: List[Dict[str, Any]],
+    section_order: List[str] | None = None,
 ) -> str:
     full_name = _safe_text(researcher.get('full_name') or 'Pesquisador(a)')
     lattes_id = _safe_text(researcher.get('lattes_id') or 'N/A')
 
     grouped = _group_by_production_type(productions)
+    section_names = section_order or sorted(grouped.keys())
     sections = []
 
-    for section_name in sorted(grouped.keys()):
+    for section_name in section_names:
+        if section_name not in grouped:
+            continue
         items = _sorted_items(grouped[section_name])
         rows = []
         for item in items:
@@ -327,7 +348,11 @@ def _render_html_researcher(
     )
 
 
-def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
+def _write_xlsx(
+    output_path: Path,
+    productions: List[Dict[str, Any]],
+    section_order: List[str] | None = None,
+) -> None:
     try:
         from openpyxl import Workbook
     except ImportError as exc:  # pragma: no cover - dependency guard
@@ -336,12 +361,21 @@ def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
     grouped = _group_by_production_type(productions)
     workbook = Workbook()
     default_sheet = workbook.active
-    workbook.remove(default_sheet)
-
     used_names: set = set()
     headers = COLUMN_ORDER[:]
 
-    for section_name in sorted(grouped.keys()):
+    if not grouped:
+        default_sheet.title = "Produções"
+        default_sheet.append(headers)
+        workbook.save(output_path)
+        return
+
+    workbook.remove(default_sheet)
+
+    section_names = section_order or sorted(grouped.keys())
+    for section_name in section_names:
+        if section_name not in grouped:
+            continue
         sheet_name = _sanitize_sheet_name(section_name, used_names)
         sheet = workbook.create_sheet(title=sheet_name)
         sheet.append(headers)
@@ -419,6 +453,10 @@ def generate_validation_pack(input_dir: Path, output_dir: Path, formats: List[st
         lattes_id = _resolve_lattes_id(researcher, json_path.name)
         full_name = _safe_text(researcher.get('full_name') or json_path.stem)
 
+        sections_metadata = (data.get('metadata') or {}).get('sections', [])
+        grouped = _group_by_production_type(productions)
+        section_order = _ordered_section_names(sections_metadata, grouped)
+
         researcher_dir = researchers_root / f"{lattes_id}__"
         researcher_dir.mkdir(parents=True, exist_ok=True)
 
@@ -426,11 +464,19 @@ def generate_validation_pack(input_dir: Path, output_dir: Path, formats: List[st
         shutil.copyfile(json_path, dados_path)
 
         if 'html' in formats:
-            html_content = _render_html_researcher(researcher, productions)
+            html_content = _render_html_researcher(
+                researcher,
+                productions,
+                section_order=section_order,
+            )
             (researcher_dir / 'VALIDACAO.html').write_text(html_content, encoding='utf-8')
 
         if 'xlsx' in formats:
-            _write_xlsx(researcher_dir / 'VALIDACAO.xlsx', productions)
+            _write_xlsx(
+                researcher_dir / 'VALIDACAO.xlsx',
+                productions,
+                section_order=section_order,
+            )
 
         total_items = len(productions)
         index_rows.append(

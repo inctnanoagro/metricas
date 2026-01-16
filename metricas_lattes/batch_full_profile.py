@@ -18,7 +18,7 @@ import sys
 import re
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Iterable
 from bs4 import BeautifulSoup
 import unicodedata
 import hashlib
@@ -26,6 +26,8 @@ import hashlib
 # Import existing parser infrastructure
 from metricas_lattes.parser_router import parse_fixture, PARSER_REGISTRY
 from metricas_lattes.parsers.utils import split_citacao
+
+DEFAULT_ALLOWED_YEARS = [2024, 2025]
 
 
 def slugify(text: str) -> str:
@@ -266,10 +268,43 @@ def _apply_citacao_fallbacks(items: List[Dict[str, Any]]) -> None:
                     item['veiculo'] = veiculo_ou_livro
 
 
+def _infer_year_from_item(item: Dict[str, Any]) -> Optional[int]:
+    ano = item.get('ano')
+    if isinstance(ano, int):
+        return ano
+    if isinstance(ano, str) and ano.strip().isdigit():
+        return int(ano.strip())
+
+    raw = item.get('raw') or ''
+    matches = re.findall(r'\b(?:19|20)\d{2}\b', raw)
+    if matches:
+        return int(matches[-1])
+    return None
+
+
+def filter_productions_by_year(
+    items: List[Dict[str, Any]],
+    allowed_years: Optional[Iterable[int]],
+) -> List[Dict[str, Any]]:
+    if allowed_years is None:
+        return list(items)
+
+    allowed_set = {int(year) for year in allowed_years}
+    filtered: List[Dict[str, Any]] = []
+    for item in items:
+        year = _infer_year_from_item(item)
+        if year is None:
+            continue
+        if year in allowed_set:
+            filtered.append(item)
+    return filtered
+
+
 def process_researcher_file(
     filepath: Path,
     output_dir: Path,
-    schema: Optional[Dict] = None
+    schema: Optional[Dict] = None,
+    allowed_years: Optional[Iterable[int]] = DEFAULT_ALLOWED_YEARS,
 ) -> Dict[str, Any]:
     """
     Process a single researcher full_profile HTML.
@@ -360,10 +395,25 @@ def process_researcher_file(
                 import shutil
                 shutil.rmtree(temp_dir)
 
+        _apply_citacao_fallbacks(all_productions)
+        all_productions = filter_productions_by_year(all_productions, allowed_years)
+
+        section_counts: Dict[str, int] = {}
+        for item in all_productions:
+            source = item.get('source') or {}
+            section_name = source.get('production_type')
+            if section_name:
+                section_counts[section_name] = section_counts.get(section_name, 0) + 1
+
+        for section in sections_metadata:
+            section_name = section.get('section_title')
+            if section_name in section_counts:
+                section['item_count'] = section_counts[section_name]
+            else:
+                section['item_count'] = 0
+
         result['sections'] = sections_metadata
         result['total_items'] = len(all_productions)
-
-        _apply_citacao_fallbacks(all_productions)
 
         # Step 4: Create researcher JSON
         researcher_json = {
@@ -378,7 +428,10 @@ def process_researcher_file(
                 'extracted_at': datetime.now().isoformat(),
                 'source_file': filepath.name,
                 'total_productions': len(all_productions),
-                'sections': sections_metadata
+                'sections': sections_metadata,
+                'filters': {
+                    'years': 'all' if allowed_years is None else list(allowed_years)
+                },
             },
             'productions': all_productions
         }
@@ -443,6 +496,23 @@ def generate_audit_report(results: List[Dict], output_dir: Path) -> None:
     print(f"✓ Audit report saved: {report_path}")
 
 
+def parse_years_arg(value: Optional[str]) -> Optional[List[int]]:
+    if value is None:
+        return list(DEFAULT_ALLOWED_YEARS)
+    normalized = value.strip().lower()
+    if normalized == 'all':
+        return None
+    parts = [part.strip() for part in value.split(',') if part.strip()]
+    if not parts:
+        raise ValueError("Parametro --years invalido: forneca anos ou 'all'")
+    years: List[int] = []
+    for part in parts:
+        if not part.isdigit():
+            raise ValueError(f"Parametro --years invalido: {part}")
+        years.append(int(part))
+    return years
+
+
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
@@ -463,8 +533,18 @@ def main():
         default='schema/producoes.schema.json',
         help='Path to JSON Schema (default: schema/producoes.schema.json)'
     )
+    parser.add_argument(
+        '--years', dest='years',
+        default=None,
+        help="Filtro de anos (ex: 2024,2025) ou 'all' para desativar"
+    )
 
     args = parser.parse_args()
+    try:
+        allowed_years = parse_years_arg(args.years)
+    except ValueError as exc:
+        print(f"✗ {exc}", file=sys.stderr)
+        return 1
 
     # Paths
     input_dir = Path(args.input_dir)
@@ -512,7 +592,12 @@ def main():
     # Process files
     results = []
     for filepath in html_files:
-        result = process_researcher_file(filepath, output_dir, schema)
+        result = process_researcher_file(
+            filepath,
+            output_dir,
+            schema,
+            allowed_years=allowed_years,
+        )
         results.append(result)
 
     # Generate summary

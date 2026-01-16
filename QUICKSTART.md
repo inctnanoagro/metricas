@@ -39,6 +39,20 @@ python3 scripts/validate_folder.py --in tests/fixtures/lattes --out outputs
 ./scripts/package_clean.sh
 ```
 
+### 4. Pipeline automatizado (testar)
+
+```bash
+# Execucao completa (batch + validacao)
+make testar
+
+# Execucao direta com parametros
+./scripts/testar.sh --in data/full_profiles_20250114
+
+# Habilitar comando testar no shell atual
+source scripts/shell/testar.zsh
+testar --dry-run
+```
+
 ## 📖 Uso Básico
 
 ### Parse um arquivo
@@ -83,6 +97,24 @@ python3 -m metricas_lattes.batch_full_profile \
   --in data/pesquisadores \
   --out outputs/batch_real \
   --schema schema/producoes.schema.json
+```
+
+### Escopo oficial (2024–2025)
+
+Por padrão, o batch filtra apenas produções dos anos 2024 e 2025.
+
+```bash
+# Desativar filtro (comportamento antigo)
+python3 -m metricas_lattes.batch_full_profile \
+  --in data/pesquisadores \
+  --out outputs/batch_real \
+  --years all
+
+# Usar filtro customizado
+python3 -m metricas_lattes.batch_full_profile \
+  --in data/pesquisadores \
+  --out outputs/batch_real \
+  --years 2023,2024
 ```
 
 ### Formato de Entrada
