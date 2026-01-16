@@ -25,6 +25,7 @@ import hashlib
 
 # Import existing parser infrastructure
 from metricas_lattes.parser_router import parse_fixture, PARSER_REGISTRY
+from metricas_lattes.parsers.utils import split_citacao
 
 
 def slugify(text: str) -> str:
@@ -226,6 +227,45 @@ def add_provenance_to_items(
     return items
 
 
+def _autores_tem_ano(autores: Optional[str]) -> bool:
+    if not autores:
+        return False
+    return re.search(r'(?:\b|\.)\s*(19|20)\d{2}\b', autores) is not None
+
+
+def _autores_parecem_lista(autores: Optional[str]) -> bool:
+    if not autores:
+        return False
+    if ';' in autores:
+        return True
+    return re.search(r'\b[A-ZÀ-Ú]{2,},\s*[A-Z]', autores) is not None
+
+
+def _item_parece_capitulo(raw_text: str) -> bool:
+    return 'In:' in (raw_text or '')
+
+
+def _apply_citacao_fallbacks(items: List[Dict[str, Any]]) -> None:
+    for item in items:
+        raw_text = item.get('raw') or ''
+        autores, titulo, veiculo_ou_livro = split_citacao(raw_text)
+
+        if autores and _autores_parecem_lista(autores):
+            if not item.get('autores') or _autores_tem_ano(item.get('autores')):
+                item['autores'] = autores
+
+        if titulo and not item.get('titulo'):
+            item['titulo'] = titulo
+
+        if veiculo_ou_livro:
+            if _item_parece_capitulo(raw_text):
+                if not item.get('livro'):
+                    item['livro'] = veiculo_ou_livro
+            else:
+                if not item.get('veiculo'):
+                    item['veiculo'] = veiculo_ou_livro
+
+
 def process_researcher_file(
     filepath: Path,
     output_dir: Path,
@@ -322,6 +362,8 @@ def process_researcher_file(
 
         result['sections'] = sections_metadata
         result['total_items'] = len(all_productions)
+
+        _apply_citacao_fallbacks(all_productions)
 
         # Step 4: Create researcher JSON
         researcher_json = {

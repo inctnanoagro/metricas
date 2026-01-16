@@ -12,6 +12,8 @@ from html import escape
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Tuple
 
+from metricas_lattes.parsers.utils import split_citacao
+
 COLUMN_ORDER = [
     'numero_item',
     'ano',
@@ -64,13 +66,33 @@ def _split_raw_blocks(raw: str) -> List[str]:
     return [part.strip() for part in parts if part.strip()]
 
 
+def _autores_tem_ano(autores: str) -> bool:
+    if not autores:
+        return False
+    return re.search(r'(?:\b|\.)\s*(19|20)\d{2}\b', autores) is not None
+
+
+def _autores_parecem_lista(autores: str) -> bool:
+    if not autores:
+        return False
+    if ';' in autores:
+        return True
+    return re.search(r'\b[A-ZÀ-Ú]{2,},\s*[A-Z]', autores) is not None
+
+
 def _compute_display_fields(item: Dict[str, Any]) -> Tuple[str, str]:
     raw = _safe_text(item.get('raw') or '')
     titulo = _extract_field(item, ['titulo', 'title'])
     autores = _extract_field(item, ['autores'])
+    split_autores, split_titulo, _split_veiculo = split_citacao(raw)
 
     display_titulo = titulo
     display_autores = autores
+
+    if split_autores and _autores_parecem_lista(split_autores):
+        if not display_autores or _autores_tem_ano(display_autores):
+            display_autores = split_autores
+        display_autores = split_autores
 
     titulo_precisa_fallback = (
         not display_titulo
@@ -79,20 +101,36 @@ def _compute_display_fields(item: Dict[str, Any]) -> Tuple[str, str]:
     )
 
     if raw and titulo_precisa_fallback:
-        parts = _split_raw_blocks(raw)
-        if len(parts) >= 2:
-            display_titulo = parts[1]
-            if not display_autores:
-                display_autores = parts[0]
-        elif not display_titulo:
-            display_titulo = raw
+        if split_titulo:
+            display_titulo = split_titulo
+        else:
+            parts = _split_raw_blocks(raw)
+            if len(parts) >= 2:
+                display_titulo = parts[1]
+            elif not display_titulo:
+                display_titulo = raw
+
+        if not display_autores and split_autores:
+            display_autores = split_autores
 
     if raw and not display_autores and _looks_like_author_list(raw):
-        parts = _split_raw_blocks(raw)
-        if parts:
-            display_autores = parts[0]
+        if split_autores:
+            display_autores = split_autores
+        else:
+            parts = _split_raw_blocks(raw)
+            if parts:
+                display_autores = parts[0]
 
     return display_titulo, display_autores
+
+
+def _compute_veiculo_ou_livro(item: Dict[str, Any]) -> str:
+    veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
+    if veiculo:
+        return veiculo
+    raw = _safe_text(item.get('raw') or '')
+    _, _, split_veiculo = split_citacao(raw)
+    return split_veiculo
 
 
 def _group_by_production_type(items: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
@@ -156,7 +194,7 @@ def _render_html_researcher(
         for item in items:
             numero_item = _safe_text(item.get('numero_item'))
             display_titulo, display_autores = _compute_display_fields(item)
-            veiculo = _extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista'])
+            veiculo = _compute_veiculo_ou_livro(item)
             ano = _safe_text(item.get('ano') or '')
             rows.append(
                 """
@@ -322,7 +360,7 @@ def _write_xlsx(output_path: Path, productions: List[Dict[str, Any]]) -> None:
                 elif column == 'autores':
                     row.append(display_autores)
                 elif column == 'veiculo_ou_livro':
-                    row.append(_extract_field(item, ['veiculo', 'livro', 'veiculo_ou_livro', 'periodico', 'revista']))
+                    row.append(_compute_veiculo_ou_livro(item))
                 elif column == 'doi':
                     row.append(item.get('doi'))
                 elif column == 'paginas':
