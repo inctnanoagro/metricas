@@ -153,16 +153,6 @@ def _normalize_section_name(value: Any) -> str:
     return name or 'Desconhecido'
 
 
-def _sorted_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    return sorted(
-        items,
-        key=lambda item: (
-            item.get('numero_item') is None,
-            item.get('numero_item') if item.get('numero_item') is not None else 0,
-        ),
-    )
-
-
 def _sanitize_sheet_name(name: str, used: set) -> str:
     base = ''.join(ch for ch in name if ch not in '[]:*?/\\')
     if not base:
@@ -204,13 +194,13 @@ def _render_html_researcher(
     lattes_id = _safe_text(researcher.get('lattes_id') or 'N/A')
 
     grouped = _group_by_production_type(productions)
-    section_names = section_order or sorted(grouped.keys())
+    section_names = section_order or list(grouped.keys())
     sections = []
 
     for section_name in section_names:
         if section_name not in grouped:
             continue
-        items = _sorted_items(grouped[section_name])
+        items = grouped[section_name]
         rows = []
         for item in items:
             numero_item = _safe_text(item.get('numero_item'))
@@ -372,7 +362,7 @@ def _write_xlsx(
 
     workbook.remove(default_sheet)
 
-    section_names = section_order or sorted(grouped.keys())
+    section_names = section_order or list(grouped.keys())
     for section_name in section_names:
         if section_name not in grouped:
             continue
@@ -380,7 +370,7 @@ def _write_xlsx(
         sheet = workbook.create_sheet(title=sheet_name)
         sheet.append(headers)
 
-        for item in _sorted_items(grouped[section_name]):
+        for item in grouped[section_name]:
             display_titulo, display_autores = _compute_display_fields(item)
             source = item.get('source') or {}
             row = []

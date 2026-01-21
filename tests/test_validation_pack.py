@@ -58,17 +58,19 @@ def test_validation_pack_section_order(tmp_path: Path) -> None:
 
     headings = re.findall(r'<h2>(.*?)</h2>', html)
     productions = data.get('productions', [])
-    grouped = set()
+    grouped = []
     for item in productions:
         source = item.get('source') or {}
-        grouped.add(_normalize_section_name(source.get('production_type')))
+        name = _normalize_section_name(source.get('production_type'))
+        if name not in grouped:
+            grouped.append(name)
 
     expected = []
     for section in data.get('metadata', {}).get('sections', []):
         name = _normalize_section_name(section.get('section_title'))
         if name in grouped and name not in expected:
             expected.append(name)
-    for name in sorted(grouped):
+    for name in grouped:
         if name not in expected:
             expected.append(name)
 
