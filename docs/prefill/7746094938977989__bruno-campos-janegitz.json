@@ -1,0 +1,2325 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "7746094938977989",
+    "full_name": "Bruno Campos Janegitz",
+    "slug": "bruno-campos-janegitz",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:40.449115",
+    "source_file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+    "total_productions": 126,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 92,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 7,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 5,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 17,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 3,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 5,
+      "raw": "SILVA, LUIZ R.G. 2025 SILVA, LUIZ R.G. ; BERTOLIM, LUCAS VENTOSA ; STEFANO, JÉSSICA S. ; BONACIN, JULIANO A. ; RICHTER, EDUARDO M. ; MUNOZ, RODRIGO A.A. ; JANEGITZ, BRUNO C. . New route for the production of lab-made composite filaments based on soybean oil, polylactic acid and carbon black nanoparticles, and its application in the additive manufacturing of electrochemical sensors. ELECTROCHIMICA ACTA , v. 513, p. 145566, 2025.",
+      "autores": "SILVA, LUIZ R.G. SILVA, LUIZ R.G.; BERTOLIM, LUCAS VENTOSA; STEFANO, JÉSSICA S.; BONACIN, JULIANO A.; RICHTER, EDUARDO M.; MUNOZ, RODRIGO A.A.; JANEGITZ, BRUNO C.",
+      "titulo": "New route for the production of lab-made composite filaments based on soybean oil, polylactic acid and carbon black nanoparticles, and its application in the additive manufacturing of electrochemical sensors",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2024.145566",
+      "fingerprint_sha1": "1ec3a82d46ee3c44d114788e61669acf6da43123",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, LUIZ R.G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2024.145566\" target=\"_blank\"></a>SILVA, LUIZ R.G. ; BERTOLIM, LUCAS VENTOSA ; STEFANO, JÉSSICA S. ; BONACIN, JULIANO A. ; RICHTER, ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 6,
+      "raw": "SILVA, LUIZ RICARDO G. 2025 SILVA, LUIZ RICARDO G. ; ROCHA, RAQUEL G. ; ROCHA, DIEGO P. ; NOSSOL, EDSON ; JANEGITZ, BRUNO C. ; RICHTER, EDUARDO M. ; MUNOZ, RODRIGO A.A. ; STEFANO, JESSICA S. . Laser-induced cobalt oxide entrapment within 3D-printed carbon electrodes for amperometric sensing. ELECTROCHIMICA ACTA , v. 514, p. 145635, 2025.",
+      "autores": "SILVA, LUIZ RICARDO G. SILVA, LUIZ RICARDO G.; ROCHA, RAQUEL G.; ROCHA, DIEGO P.; NOSSOL, EDSON; JANEGITZ, BRUNO C.; RICHTER, EDUARDO M.; MUNOZ, RODRIGO A.A.; STEFANO, JESSICA S.",
+      "titulo": "Laser-induced cobalt oxide entrapment within 3D-printed carbon electrodes for amperometric sensing",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2024.145635",
+      "fingerprint_sha1": "dfd7bcffc14c774cab9895f54df4b802146cf1b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, LUIZ RICARDO G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2024.145635\" target=\"_blank\"></a>SILVA, LUIZ RICARDO G. ; ROCHA, RAQUEL G. ; ROCHA, DIEGO P. ; NOSSOL, EDSON ; <b>JANEGITZ, B",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 7,
+      "raw": "HENRIQUES, B. F. 2025 HENRIQUES, B. F. ; NEUMANN, A. ; BERTOLIM, L. V. ; FREITAS, R. C. ; SILVA, L. R. ; STEFANO, J. S. ; JANEGITZ, B. C. . Development and Application of 3D-Printed Electrochemical Sensors for Ciprofloxacin Detection. ELECTROANALYSIS , v. 37, p. e12008, 2025.",
+      "autores": "HENRIQUES, B. F. HENRIQUES, B. F.; NEUMANN, A.; BERTOLIM, L. V.; FREITAS, R. C.; SILVA, L. R.; STEFANO, J. S.; JANEGITZ, B. C.",
+      "titulo": "Development and Application of 3D-Printed Electrochemical Sensors for Ciprofloxacin Detection",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1002/elan.12008",
+      "fingerprint_sha1": "5e5d436dd901d19ffd1a38bd39e816bfa45be330",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HENRIQUES, B. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/elan.12008\" target=\"_blank\"></a>HENRIQUES, B. F. ; NEUMANN, A. ; BERTOLIM, L. V. ; FREITAS, R. C. ; SILVA, L. R. ; STEFANO, J. S. ; <b>JANEGITZ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROANALYSIS"
+    },
+    {
+      "numero_item": 8,
+      "raw": "ORZARI, LUIZ O. 2025 ORZARI, LUIZ O. ; KALINKE, CRISTIANE ; SILVA-NETO, HABDIAS A. ; ROCHA, DANIELLY S. ; CAMARGO, JÉSSICA R. ; COLTRO, WENDELL K.T. ; JANEGITZ, BRUNO C. . Screen-Printing vs Additive Manufacturing Approaches: Recent Aspects and Trends Involving the Fabrication of Electrochemical Sensors. ANALYTICAL CHEMISTRY , v. xx, p. xx-xx, 2025.",
+      "autores": "ORZARI, LUIZ O. ORZARI, LUIZ O.; KALINKE, CRISTIANE; SILVA-NETO, HABDIAS A.; ROCHA, DANIELLY S.; CAMARGO, JÉSSICA R.; COLTRO, WENDELL K.T.; JANEGITZ, BRUNO C.",
+      "titulo": "Screen-Printing vs Additive Manufacturing Approaches: Recent Aspects and Trends Involving the Fabrication of Electrochemical Sensors",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acs.analchem.4c05786",
+      "fingerprint_sha1": "d1aae86062abcb788645444aa8d3c99a5390ca2b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ORZARI, LUIZ O.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acs.analchem.4c05786\" target=\"_blank\"></a>ORZARI, LUIZ O. ; KALINKE, CRISTIANE ; SILVA-NETO, HABDIAS A. ; ROCHA, DANIELLY S. ; CAMARGO, JÉSSICA ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ANALYTICAL CHEMISTRY"
+    },
+    {
+      "numero_item": 9,
+      "raw": "LOMBA, KALISTON A. 2025 LOMBA, KALISTON A. ; CARVALHO, JEFFERSON H.S. ; PIMENTEL, DILTON M. ; COSTA, LÍVIA M.F. ; ARANTES, LUCIANO C. ; JANEGITZ, BRUNO C. ; DOS SANTOS, WALLANS T.P. . Detection of the synthetic cathinone 4-methyl-pentedrone using lab-made screen-printed electrodes: A simple and environmentally friendly screening method for forensic applications. SENSORS AND ACTUATORS B-CHEMICAL , v. 433, p. 137513, 2025.",
+      "autores": "LOMBA, KALISTON A. LOMBA, KALISTON A.; CARVALHO, JEFFERSON H.S.; PIMENTEL, DILTON M.; COSTA, LÍVIA M.F.; ARANTES, LUCIANO C.; JANEGITZ, BRUNO C.; DOS SANTOS, WALLANS T.P.",
+      "titulo": "Detection of the synthetic cathinone 4-methyl-pentedrone using lab-made screen-printed electrodes: A simple and environmentally friendly screening method for forensic applications",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.snb.2025.137513",
+      "fingerprint_sha1": "8ffbb90c782be13743f60c658608d143c88e6496",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LOMBA, KALISTON A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.snb.2025.137513\" target=\"_blank\"></a>LOMBA, KALISTON A. ; CARVALHO, JEFFERSON H.S. ; PIMENTEL, DILTON M. ; COSTA, LÍVIA M.F. ; ARANTES, LUC",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "SENSORS AND ACTUATORS B-CHEMICAL"
+    },
+    {
+      "numero_item": 10,
+      "raw": "NEUMANN, AMANDA 2025 NEUMANN, AMANDA ; ORZARI, LUIZ OTÁVIO ; BONACIN, JULIANO ALVES ; JANEGITZ, BRUNO CAMPOS . Properties Evaluation of Different Graphite Brands through the Development of Electrochemical Sensors for Phenolic Compounds Detection. ACS Omega , v. xx, p. xx, 2025.",
+      "autores": "NEUMANN, AMANDA NEUMANN, AMANDA; ORZARI, LUIZ OTÁVIO; BONACIN, JULIANO ALVES; JANEGITZ, BRUNO CAMPOS",
+      "titulo": "Properties Evaluation of Different Graphite Brands through the Development of Electrochemical Sensors for Phenolic Compounds Detection",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.4c10281",
+      "fingerprint_sha1": "bbe498c4b4230779c159d4ae3d0a81d927f10f08",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NEUMANN, AMANDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c10281\" target=\"_blank\"></a>NEUMANN, AMANDA ; ORZARI, LUIZ OTÁVIO ; BONACIN, JULIANO ALVES ; <b>JANEGITZ, BRUNO CAMPOS</b> . Propertie",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 11,
+      "raw": "R CAMARGO, JÉSSICA 2025 R CAMARGO, JÉSSICA ; CRAPNELL, ROBERT D. ; BERNALTE, ELENA ; JANEGITZ, BRUNO C. ; BANKS, CRAIG E. . Water-Based Conductive Ink for the Production of Carbon Black Screen-Printed Electrodes and the Detection of Tryptophan. Acs Applied Electronic Materials , v. xx, p. xx, 2025.",
+      "autores": "R CAMARGO, JÉSSICA R CAMARGO, JÉSSICA; CRAPNELL, ROBERT D.; BERNALTE, ELENA; JANEGITZ, BRUNO C.; BANKS, CRAIG E.",
+      "titulo": "Water-Based Conductive Ink for the Production of Carbon Black Screen-Printed Electrodes and the Detection of Tryptophan",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsaelm.5c00550",
+      "fingerprint_sha1": "2174f88cbae8abcc0c1eadff4072e6f03ce7d034",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">R CAMARGO, JÉSSICA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsaelm.5c00550\" target=\"_blank\"></a>R CAMARGO, JÉSSICA ; CRAPNELL, ROBERT D. ; BERNALTE, ELENA ; <b>JANEGITZ, BRUNO C.</b> ; BANKS, CRAIG E.",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Acs Applied Electronic Materials"
+    },
+    {
+      "numero_item": 12,
+      "raw": "CEZAR, ANA LUIZA MOLINA DE 2025 CEZAR, ANA LUIZA MOLINA DE ; FREITAS, RAFAELA CRISTINA ; NEUMANN, AMANDA ; JANEGITZ, BRUNO CAMPOS . Disposable Printed Electrode Made with Chinese Shellac and Carbon Black for Melatonin Detection. Acs Measurement Science Au , v. xx, p. xx, 2025.",
+      "autores": "CEZAR, ANA LUIZA MOLINA DE CEZAR, ANA LUIZA MOLINA DE; FREITAS, RAFAELA CRISTINA; NEUMANN, AMANDA; JANEGITZ, BRUNO CAMPOS",
+      "titulo": "Disposable Printed Electrode Made with Chinese Shellac and Carbon Black for Melatonin Detection",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsmeasuresciau.5c00056",
+      "fingerprint_sha1": "0167fd333e85a497fe73e0522ec02697d05d576f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CEZAR, ANA LUIZA MOLINA DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsmeasuresciau.5c00056\" target=\"_blank\"></a>CEZAR, ANA LUIZA MOLINA DE ; FREITAS, RAFAELA CRISTINA ; NEUMANN, AMANDA ; <b>JANEGITZ, ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Acs Measurement Science Au"
+    },
+    {
+      "numero_item": 13,
+      "raw": "CLETO, SABRINA 2025 CLETO, SABRINA ; NEUMANN, AMANDA ; V. BERTOLIM, LUCAS ; C. DE FREITAS, RAFAELA ; R. CAMARGO, JÉSSICA ; JANEGITZ, BRUNO C. . Treatment with CO laser in SPE with Two Working Electrodes for Electrochemical Detection of Propranolol. JOURNAL OF THE ELECTROCHEMICAL SOCIETY , v. 172, p. 087506, 2025.",
+      "autores": "CLETO, SABRINA CLETO, SABRINA; NEUMANN, AMANDA; V. BERTOLIM, LUCAS; C. DE FREITAS, RAFAELA; R. CAMARGO, JÉSSICA; JANEGITZ, BRUNO C.",
+      "titulo": "Treatment with CO laser in SPE with Two Working Electrodes for Electrochemical Detection of Propranolol",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1149/1945-7111/adf511",
+      "fingerprint_sha1": "37d7bba1ec2288ec9dbade063fd615c00b69da79",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CLETO, SABRINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1149/1945-7111/adf511\" target=\"_blank\"></a>CLETO, SABRINA ; NEUMANN, AMANDA ; V. BERTOLIM, LUCAS ; C. DE FREITAS, RAFAELA ; R. CAMARGO, JÉSSICA ; <b>J",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "JOURNAL OF THE ELECTROCHEMICAL SOCIETY"
+    },
+    {
+      "numero_item": 14,
+      "raw": "BERTOLIM, LUCAS V. 2025 BERTOLIM, LUCAS V. ; SILVA, LUIZ R.G. ; Stefano, Jéssica Santos ; JANEGITZ, BRUNO C. . Tailoring ultra-flexibility in eco-friendly conductive filaments: The use of polypropylene in the development of a 3D-printed carbon black-based electrochemical sensor. JOURNAL OF ELECTROANALYTICAL CHEMISTRY , v. 996, p. 119439, 2025.",
+      "autores": "BERTOLIM, LUCAS V. BERTOLIM, LUCAS V.; SILVA, LUIZ R.G.; Stefano, Jéssica Santos; JANEGITZ, BRUNO C.",
+      "titulo": "Tailoring ultra-flexibility in eco-friendly conductive filaments: The use of polypropylene in the development of a 3D-printed carbon black-based electrochemical sensor",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.jelechem.2025.119439",
+      "fingerprint_sha1": "9951ab09f5762b6f6247b2cb7012142fd423a359",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BERTOLIM, LUCAS V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jelechem.2025.119439\" target=\"_blank\"></a>BERTOLIM, LUCAS V. ; SILVA, LUIZ R.G. ; Stefano, Jéssica Santos ; <b>JANEGITZ, BRUNO C.</b> . Tai",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "JOURNAL OF ELECTROANALYTICAL CHEMISTRY"
+    },
+    {
+      "numero_item": 15,
+      "raw": "GERMINARE, BEATRIZ F. 2025 GERMINARE, BEATRIZ F. ; CAMARGO, JÉSSICA R. ; FERNANDES-JUNIOR, WILSON S. ; JANEGITZ, BRUNO C. . Sustainable electrochemical sensor from CO2 laser pyrolyzed green leaves for carbendazim detection. MICROCHEMICAL JOURNAL , v. 218, p. 115136, 2025.",
+      "autores": "GERMINARE, BEATRIZ F. GERMINARE, BEATRIZ F.; CAMARGO, JÉSSICA R.; FERNANDES-JUNIOR, WILSON S.; JANEGITZ, BRUNO C.",
+      "titulo": "Sustainable electrochemical sensor from CO2 laser pyrolyzed green leaves for carbendazim detection",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.microc.2025.115136",
+      "fingerprint_sha1": "bc230b353fdc6200507f6b5be4792148d2d028b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GERMINARE, BEATRIZ F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.microc.2025.115136\" target=\"_blank\"></a>GERMINARE, BEATRIZ F. ; CAMARGO, JÉSSICA R. ; FERNANDES-JUNIOR, WILSON S. ; <b>JANEGITZ, BRUNO C",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 16,
+      "raw": "DA SILVA, LARISSA S. 2025 DA SILVA, LARISSA S. ; SILVA, LUIZ R.G. ; PITTNER, HELOYSA S. ; STEFANO, JÉSSICA S. ; VANZIN, DOUGLAS ; DORNELLAS, RAFAEL M. ; JANEGITZ, BRUNO C. ; DE FARIA, LUCAS V. ; GALLI, ANDRESSA ; HANDA, CÍNTIA L. ; ROCHA, DIEGO P. . Carbon black-integrated polylactic acid 3D-printed sensors for the voltammetric determination of pyrogallic acid: Experimental and computational insights. ELECTROCHIMICA ACTA , v. xx, p. 147339, 2025.",
+      "autores": "DA SILVA, LARISSA S. DA SILVA, LARISSA S.; SILVA, LUIZ R.G.; PITTNER, HELOYSA S.; STEFANO, JÉSSICA S.; VANZIN, DOUGLAS; DORNELLAS, RAFAEL M.; JANEGITZ, BRUNO C.; DE FARIA, LUCAS V.; GALLI, ANDRESSA; HANDA, CÍNTIA L.; ROCHA, DIEGO P.",
+      "titulo": "Carbon black-integrated polylactic acid 3D-printed sensors for the voltammetric determination of pyrogallic acid: Experimental and computational insights",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2025.147339",
+      "fingerprint_sha1": "b435075964bd06f8774d0fcbb17501b9dc016793",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, LARISSA S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2025.147339\" target=\"_blank\"></a>DA SILVA, LARISSA S. ; SILVA, LUIZ R.G. ; PITTNER, HELOYSA S. ; STEFANO, JÉSSICA S. ; VANZIN, ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 17,
+      "raw": "MARINHO, FELIPE MAGALHÃES 2025 MARINHO, FELIPE MAGALHÃES ; DE OLIVEIRA LOPES, DÉBORAH ; PAPI, MAURÍCIO ALBERTO POLETTI ; CAMARGO, JÉSSICA ROCHA ; BOTELHO, GLEICE ; MARCOLINO-JÚNIOR, LUIZ HUMBERTO ; BERGAMINI, MÁRCIO FERNANDO ; Fatibello-Filho, Orlando ; JANEGITZ, BRUNO CAMPOS ; DE OLIVEIRA, GEISER GABRIEL . Advanced electrochemical platform based on graphitic carbon nitride for monitoring chloramphenicol in complex matrices. JOURNAL OF SOLID STATE ELECTROCHEMISTRY , v. xx, p. 1, 2025.",
+      "autores": "MARINHO, FELIPE MAGALHÃES MARINHO, FELIPE MAGALHÃES; DE OLIVEIRA LOPES, DÉBORAH; PAPI, MAURÍCIO ALBERTO POLETTI; CAMARGO, JÉSSICA ROCHA; BOTELHO, GLEICE; MARCOLINO-JÚNIOR, LUIZ HUMBERTO; BERGAMINI, MÁRCIO FERNANDO; Fatibello-Filho, Orlando; JANEGITZ, BRUNO CAMPOS; DE OLIVEIRA, GEISER GABRIEL",
+      "titulo": "Advanced electrochemical platform based on graphitic carbon nitride for monitoring chloramphenicol in complex matrices",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10008-025-06460-5",
+      "fingerprint_sha1": "c0f4208b0c2bd4de6ea982cd64f08f6394738e2f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MARINHO, FELIPE MAGALHÃES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10008-025-06460-5\" target=\"_blank\"></a>MARINHO, FELIPE MAGALHÃES ; DE OLIVEIRA LOPES, DÉBORAH ; PAPI, MAURÍCIO ALBERTO POLETTI ; CAMA",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "JOURNAL OF SOLID STATE ELECTROCHEMISTRY"
+    },
+    {
+      "numero_item": 18,
+      "raw": "VON ZUBEN, THEODORA W. 2025 VON ZUBEN, THEODORA W. ; CAMARGO, JÉSSICA R. ; ROCHA, RAQUEL G. ; DOS SANTOS, PÃMYLA L. ; RICHTER, EDUARDO M. ; JANEGITZ, BRUNO C. ; MUNOZ, RODRIGO A.'A. ; BONACIN, JULIANO A. . Advances and the growing role of additive manufacturing in the development of 3D-printed electrochemical sensors. ELECTROCHIMICA ACTA , v. 543, p. 147566, 2025.",
+      "autores": "VON ZUBEN, THEODORA W. VON ZUBEN, THEODORA W.; CAMARGO, JÉSSICA R.; ROCHA, RAQUEL G.; DOS SANTOS, PÃMYLA L.; RICHTER, EDUARDO M.; JANEGITZ, BRUNO C.; MUNOZ, RODRIGO A.'A.; BONACIN, JULIANO A.",
+      "titulo": "Advances and the growing role of additive manufacturing in the development of 3D-printed electrochemical sensors",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2025.147566",
+      "fingerprint_sha1": "9e1df8eb8bbb52e68a833a5dd5758bdad9ccaddc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VON ZUBEN, THEODORA W.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2025.147566\" target=\"_blank\"></a>VON ZUBEN, THEODORA W. ; CAMARGO, JÉSSICA R. ; ROCHA, RAQUEL G. ; DOS SANTOS, PÃMYLA L. ; RI",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 19,
+      "raw": "CARVALHO, JEFFERSON H. S. 2025 CARVALHO, JEFFERSON H. S. ; FARIA, BRUNA S. ; FREITAS, RAFAELA C. ; BRAZACA, LAÍS C. ; JANEGITZ, BRUNO C. . Paper-Based Electrochemical Device Modified with Palladium: Sensor for the Detection of Serotonin and an Immunosensor for the Detection of SOD1. ACS Omega , v. xx, p. xx, 2025.",
+      "autores": "CARVALHO, JEFFERSON H. S. CARVALHO, JEFFERSON H. S.; FARIA, BRUNA S.; FREITAS, RAFAELA C.; BRAZACA, LAÍS C.; JANEGITZ, BRUNO C.",
+      "titulo": "Paper-Based Electrochemical Device Modified with Palladium: Sensor for the Detection of Serotonin and an Immunosensor for the Detection of SOD1",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.5c07375",
+      "fingerprint_sha1": "ee3266e2080aa20c481cdbd1059d7366c8fcf24d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARVALHO, JEFFERSON H. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c07375\" target=\"_blank\"></a>CARVALHO, JEFFERSON H. S. ; FARIA, BRUNA S. ; FREITAS, RAFAELA C. ; BRAZACA, LAÍS C. ; <b>JANEGI",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 20,
+      "raw": "CASTRO, KARLA 2025 CASTRO, KARLA ; MATIAS, RAFAEL ; CARDOSO, Arielly ; FREITAS, RAFAELA C. ; DE OLIVEIRA, ALINE MARTINS ; SILVA, TIAGO ALMEIDA ; JANEGITZ, BRUNO C. . Exploring Lactate Electrochemical Biosensors: From Current Technologies to Future Market Impact. CHEMOSENSORS , v. 13, p. 402, 2025.",
+      "autores": "CASTRO, KARLA CASTRO, KARLA; MATIAS, RAFAEL; CARDOSO, Arielly; FREITAS, RAFAELA C.; DE OLIVEIRA, ALINE MARTINS; SILVA, TIAGO ALMEIDA; JANEGITZ, BRUNO C.",
+      "titulo": "Exploring Lactate Electrochemical Biosensors: From Current Technologies to Future Market Impact",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/chemosensors13110402",
+      "fingerprint_sha1": "870afa3d5da0e601f2c212b614b78c5fb60ef9b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CASTRO, KARLA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/chemosensors13110402\" target=\"_blank\"></a>CASTRO, KARLA ; MATIAS, RAFAEL ; CARDOSO, Arielly ; FREITAS, RAFAELA C. ; DE OLIVEIRA, ALINE MARTINS ; S",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "CHEMOSENSORS"
+    },
+    {
+      "numero_item": 21,
+      "raw": "GERMINARE, BEATRIZ F. 2025 GERMINARE, BEATRIZ F. ; FERNANDES-JUNIOR, WILSON S. ; CAMARGO, JÉSSICA R. ; JANEGITZ, BRUNO C. . Cork-based electrochemical sensors obtained by laser-induced graphene: A green alternative for sodium nitrite detection in beverage samples. MICROCHIMICA ACTA , v. 192, p. 1, 2025.",
+      "autores": "GERMINARE, BEATRIZ F. GERMINARE, BEATRIZ F.; FERNANDES-JUNIOR, WILSON S.; CAMARGO, JÉSSICA R.; JANEGITZ, BRUNO C.",
+      "titulo": "Cork-based electrochemical sensors obtained by laser-induced graphene: A green alternative for sodium nitrite detection in beverage samples",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s00604-025-07471-9",
+      "fingerprint_sha1": "7fdd67bf176cca40d389aa21ac22cc42e3c3694f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GERMINARE, BEATRIZ F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-025-07471-9\" target=\"_blank\"></a>GERMINARE, BEATRIZ F. ; FERNANDES-JUNIOR, WILSON S. ; CAMARGO, JÉSSICA R. ; <b>JANEGITZ, BRUNO C.<",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 22,
+      "raw": "BRAZACA, L. C. 2024 BRAZACA, L. C. ; IMAMURA, AMANDA HIKARI ; CAMARGO, J. R. ; BLASQUES, RODRIGO V. ; JANEGITZ, B. C. ; CARRILHO, E. . The use of biological fluids in microfluidic paper-based analytical devices (µPADs): recent advances, challenges and future perspectives. BIOSENSORS & BIOELECTRONICS , v. 246, p. 115846, 2024.",
+      "autores": "BRAZACA, L. C. BRAZACA, L. C.; IMAMURA, AMANDA HIKARI; CAMARGO, J. R.; BLASQUES, RODRIGO V.; JANEGITZ, B. C.; CARRILHO, E.",
+      "titulo": "The use of biological fluids in microfluidic paper-based analytical devices (µPADs): recent advances, challenges and future perspectives",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.bios.2023.115846",
+      "fingerprint_sha1": "007e7e2ddb0dd6dfb0ddd94b43a8ae99ae2b14d6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAZACA, L. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.bios.2023.115846\" target=\"_blank\"></a>BRAZACA, L. C. ; IMAMURA, AMANDA HIKARI ; CAMARGO, J. R. ; BLASQUES, RODRIGO V. ; <b>JANEGITZ, B. C.</b> ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "BIOSENSORS & BIOELECTRONICS"
+    },
+    {
+      "numero_item": 23,
+      "raw": "ORZARI, L. O. 2024 ORZARI, L. O. ; SILVA, L. R. ; FREITAS, R. C. ; BRAZACA, L. C. ; JANEGITZ, B. C. . Lab-made disposable screen-printed electrochemical sensors and immunosensors modified with Pd nanoparticles for Parkinsons disease diagnostics. MICROCHIMICA ACTA , v. 191, p. 76, 2024.",
+      "autores": "ORZARI, L. O. ORZARI, L. O.; SILVA, L. R.; FREITAS, R. C.; BRAZACA, L. C.; JANEGITZ, B. C.",
+      "titulo": "Lab-made disposable screen-printed electrochemical sensors and immunosensors modified with Pd nanoparticles for Parkinsons disease diagnostics",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00604-023-06158-3",
+      "fingerprint_sha1": "81ce901cbb54ee4bc647c976b17f714fa14250c9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ORZARI, L. O.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-023-06158-3\" target=\"_blank\"></a>ORZARI, L. O. ; SILVA, L. R. ; FREITAS, R. C. ; BRAZACA, L. C. ; <b>JANEGITZ, B. C.</b> . Lab-made disposa",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 24,
+      "raw": "CRAPNELL, R. D. 2024 CRAPNELL, R. D. ; ARANTES, I. V. ; CAMARGO, J. R. ; BERNALTE, E. ; WHITTINGHAM, M. ; JANEGITZ, BRUNO CAMPOS ; PAIXAO, T. R. L. C. ; BANKS, C. B. . Multi-walled carbon nanotubes/carbon black/rPLA for high-performance conductive additive manufacturing filament and the simultaneous detection of acetaminophen and phenylephrine. MICROCHIMICA ACTA , v. 191, p. 1, 2024.",
+      "autores": "CRAPNELL, R. D. CRAPNELL, R. D.; ARANTES, I. V.; CAMARGO, J. R.; BERNALTE, E.; WHITTINGHAM, M.; JANEGITZ, BRUNO CAMPOS; PAIXAO, T. R. L. C.; BANKS, C. B.",
+      "titulo": "Multi-walled carbon nanotubes/carbon black/rPLA for high-performance conductive additive manufacturing filament and the simultaneous detection of acetaminophen and phenylephrine",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00604-023-06175-2",
+      "fingerprint_sha1": "1a4e129b8cf1d3eb08f5619dac8081ca232de288",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CRAPNELL, R. D.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-023-06175-2\" target=\"_blank\"></a>CRAPNELL, R. D. ; ARANTES, I. V. ; CAMARGO, J. R. ; BERNALTE, E. ; WHITTINGHAM, M. ; <b>JANEGITZ, BRUNO ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 25,
+      "raw": "CAMARGO, J. R. 2024 CAMARGO, J. R. ; CLETO, S. ; NEUMANN, A. ; AZZI, D. C. ; CRAPNELL, R. D. ; BANKS, C. B. ; JANEGITZ, B. C. . Edible gold leaf as a viable modification method for screen-printed sensors. ELECTROCHIMICA ACTA , v. 478, p. 143825, 2024.",
+      "autores": "CAMARGO, J. R. CAMARGO, J. R.; CLETO, S.; NEUMANN, A.; AZZI, D. C.; CRAPNELL, R. D.; BANKS, C. B.; JANEGITZ, B. C.",
+      "titulo": "Edible gold leaf as a viable modification method for screen-printed sensors",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2024.143825",
+      "fingerprint_sha1": "0cc4bd31acdd053068d6d4b5de4b8800b537199c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMARGO, J. R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2024.143825\" target=\"_blank\"></a>CAMARGO, J. R. ; CLETO, S. ; NEUMANN, A. ; AZZI, D. C. ; CRAPNELL, R. D. ; BANKS, C. B. ; <b>JANEGIT",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 26,
+      "raw": "BLASQUES, RODRIGO V. 2024 BLASQUES, RODRIGO V. ; CAMARGO, J. R. ; VELOSO, W. B. ; MELONI, G. N. ; FERNANDES, F. A. ; GERMINARE, B. F. ; SILVA, LUIZ R. G. ; SIERVO, A. ; PAIXAO, T. R. L. C. ; JANEGITZ, B. C. . Green Fabrication and Analytical Application of Disposable Carbon Electrodes Made from Fallen Tree Leaves Using a CO 2 Laser. ACS Sustainable Chemistry & Engineering , v. 12, p. 3061-3072, 2024.",
+      "autores": "BLASQUES, RODRIGO V. BLASQUES, RODRIGO V.; CAMARGO, J. R.; VELOSO, W. B.; MELONI, G. N.; FERNANDES, F. A.; GERMINARE, B. F.; SILVA, LUIZ R. G.; SIERVO, A.; PAIXAO, T. R. L. C.; JANEGITZ, B. C.",
+      "titulo": "Green Fabrication and Analytical Application of Disposable Carbon Electrodes Made from Fallen Tree Leaves Using a CO 2 Laser",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acssuschemeng.3c06526",
+      "fingerprint_sha1": "18c3e157f7736bc6301132d6807bcd93cb2dad9a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BLASQUES, RODRIGO V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acssuschemeng.3c06526\" target=\"_blank\"></a>BLASQUES, RODRIGO V. ; CAMARGO, J. R. ; VELOSO, W. B. ; MELONI, G. N. ; FERNANDES, F. A. ; GERMI",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ACS Sustainable Chemistry & Engineering"
+    },
+    {
+      "numero_item": 27,
+      "raw": "SA, B. S. 2024 SA, B. S. ; STEFANO, JÉSSICA S. ; SILVA, L. R. ; PERFECTO, T. M. ; MAZON, T. ; VOLANTI, D. P. ; CAMPOS JANEGITZ, BRUNO ; RIBEIRO, C. . Methane-derived electrochemical sensor for determination of paracetamol and diquat. MATERIALS CHEMISTRY AND PHYSICS , v. 315, p. 129025, 2024.",
+      "autores": "SA, B. S. SA, B. S.; STEFANO, JÉSSICA S.; SILVA, L. R.; PERFECTO, T. M.; MAZON, T.; VOLANTI, D. P.; CAMPOS JANEGITZ, BRUNO; RIBEIRO, C.",
+      "titulo": "Methane-derived electrochemical sensor for determination of paracetamol and diquat",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.matchemphys.2024.129025",
+      "fingerprint_sha1": "5f9100def6b05c7ecff5886acc4e554a06303c73",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SA, B. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.matchemphys.2024.129025\" target=\"_blank\"></a>SA, B. S. ; STEFANO, JÉSSICA S. ; SILVA, L. R. ; PERFECTO, T. M. ; MAZON, T. ; VOLANTI, D. P. ; <b>CAMP",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MATERIALS CHEMISTRY AND PHYSICS"
+    },
+    {
+      "numero_item": 28,
+      "raw": "OLIVEIRA, P. R. 2024 OLIVEIRA, P. R. ; FREITAS, R. C. ; CARVALHO, J. H. S. ; CAMARGO, J. R. ; GUTERRES E SILVA, LUIZ RICARDO ; JANEGITZ, B. C. . Overcoming disposable sensors pollution: using of circular economy in electrodes application. Current Opinion in Environmental Science & Health , v. 38, p. 100540, 2024.",
+      "autores": "OLIVEIRA, P. R. OLIVEIRA, P. R.; FREITAS, R. C.; CARVALHO, J. H. S.; CAMARGO, J. R.; GUTERRES E SILVA, LUIZ RICARDO; JANEGITZ, B. C.",
+      "titulo": "Overcoming disposable sensors pollution: using of circular economy in electrodes application",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.coesh.2024.100540",
+      "fingerprint_sha1": "79dadf22940a06961d4f3acdece50d3dc9095b43",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, P. R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.coesh.2024.100540\" target=\"_blank\"></a>OLIVEIRA, P. R. ; FREITAS, R. C. ; CARVALHO, J. H. S. ; CAMARGO, J. R. ; GUTERRES E SILVA, LUIZ RICARDO",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Current Opinion in Environmental Science & Health"
+    },
+    {
+      "numero_item": 29,
+      "raw": "BRAZACA, L. C. 2024 BRAZACA, L. C. ; BONACIN, J. A. ; MUNOZ, R. A. A. ; CAMPOS JANEGITZ, BRUNO ; CARRILHO, E. . Electrochemical Biosensors for the Detection of Viruses: Must-Have Products or Just Science for Publication?. Brazilian Journal of Analytical Chemistry - BrJAC (Online) , v. XX, p. XX, 2024.",
+      "autores": "BRAZACA, L. C. BRAZACA, L. C.; BONACIN, J. A.; MUNOZ, R. A. A.; CAMPOS JANEGITZ, BRUNO; CARRILHO, E.",
+      "titulo": "Electrochemical Biosensors for the Detection of Viruses: Must-Have Products or Just Science for Publication?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.30744/brjac.2179-3425.letter.brazacaLC",
+      "fingerprint_sha1": "80e4dc4feb501bef57e39a751febb58061b37e02",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAZACA, L. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.30744/brjac.2179-3425.letter.brazacaLC\" target=\"_blank\"></a>BRAZACA, L. C. ; BONACIN, J. A. ; MUNOZ, R. A. A. ; <b>CAMPOS JANEGITZ, BRUNO</b> ; CARRIL",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Brazilian Journal of Analytical Chemistry - BrJAC (Online)"
+    },
+    {
+      "numero_item": 30,
+      "raw": "BLASQUES, RODRIGO V. 2024 BLASQUES, RODRIGO V. ; SILVA, V. A. O. P. ; STEFANO, J. S. ; BRAZACA, L. C. ; CAMPOS JANEGITZ, BRUNO . Reusable graphite-based electrochemical sensors for L-dopa and dopamine detection. MICROCHIMICA ACTA , v. 191, p. 197, 2024.",
+      "autores": "BLASQUES, RODRIGO V. BLASQUES, RODRIGO V.; SILVA, V. A. O. P.; STEFANO, J. S.; BRAZACA, L. C.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Reusable graphite-based electrochemical sensors for L-dopa and dopamine detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00604-024-06271-x",
+      "fingerprint_sha1": "016abd220f9f92dbe0afce839b98d647765abddc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BLASQUES, RODRIGO V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-024-06271-x\" target=\"_blank\"></a>BLASQUES, RODRIGO V. ; SILVA, V. A. O. P. ; STEFANO, J. S. ; BRAZACA, L. C. ; <b>CAMPOS JANEGITZ, B",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 31,
+      "raw": "BRIX, A. C. 2024 BRIX, A. C. ; ORZARI, L. O. ; KRYSIAK, O. A. ; CECHANAVICIUTE, I. A. ; BANKO, L. ; LUDWIG, A. ; JANEGITZ, BRUNO C. ; SCHUHMANN, W. . Design¿of¿Experiments¿Based Optimisation of Vanillin Yield from Kraft Lignin Using Pulse Electrolysis and Thermolysis. ChemElectroChem , v. XX, p. e202300853, 2024.",
+      "autores": "BRIX, A. C. BRIX, A. C.; ORZARI, L. O.; KRYSIAK, O. A.; CECHANAVICIUTE, I. A.; BANKO, L.; LUDWIG, A.; JANEGITZ, BRUNO C.; SCHUHMANN, W.",
+      "titulo": "Design¿of¿Experiments¿Based Optimisation of Vanillin Yield from Kraft Lignin Using Pulse Electrolysis and Thermolysis",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/celc.202300853",
+      "fingerprint_sha1": "40b806d67f8b72ff6b73fe1135d2aff328337768",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRIX, A. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/celc.202300853\" target=\"_blank\"></a>BRIX, A. C. ; ORZARI, L. O. ; KRYSIAK, O. A. ; CECHANAVICIUTE, I. A. ; BANKO, L. ; LUDWIG, A. ; <b>JANEGITZ, BRU",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ChemElectroChem"
+    },
+    {
+      "numero_item": 32,
+      "raw": "KALINKE, C. 2024 ; CRAPNELL, R. D. ; OLIVEIRA, P. R. ; CAMPOS JANEGITZ, BRUNO ; BONACIN, J. A. ; BANKS, CRAIG E. . How to Improve Sustainability in Fused Filament Fabrication (3D Printing) Research?. Global Challenges , v. 230040, p. 1-13, 2024.",
+      "autores": "KALINKE, C.; CRAPNELL, R. D.; OLIVEIRA, P. R.; CAMPOS JANEGITZ, BRUNO; BONACIN, J. A.; BANKS, CRAIG E.",
+      "titulo": "How to Improve Sustainability in Fused Filament Fabrication (3D Printing) Research?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/gch2.202300408",
+      "fingerprint_sha1": "a298ab6cefb350f70e16b973d08b3755dc86d82b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">KALINKE, C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/gch2.202300408\" target=\"_blank\"></a>KALINKE, C. ; CRAPNELL, R. D. ; OLIVEIRA, P. R. ; <b>CAMPOS JANEGITZ, BRUNO</b> ; BONACIN, J. A. ; BANKS, CRAIG ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Global Challenges"
+    },
+    {
+      "numero_item": 33,
+      "raw": "FERNANDES JUNIOR, W. S. 2024 FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; KALINKE, C. ; BONACIN, J. A. ; CAMPOS JANEGITZ, BRUNO . A miniaturized additive-manufactured carbon black/PLA electrochemical sensor for pharmaceuticals detection. TALANTA , v. 275, p. 126154, 2024.",
+      "autores": "FERNANDES JUNIOR, W. S. FERNANDES JUNIOR, W. S.; ORZARI, L. O.; KALINKE, C.; BONACIN, J. A.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "A miniaturized additive-manufactured carbon black/PLA electrochemical sensor for pharmaceuticals detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.talanta.2024.126154",
+      "fingerprint_sha1": "c3f7562c57559a2000705be10990405108b7b579",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES JUNIOR, W. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.talanta.2024.126154\" target=\"_blank\"></a>FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; KALINKE, C. ; BONACIN, J. A. ; <b>CAMPOS JANEGITZ, ",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "TALANTA"
+    },
+    {
+      "numero_item": 34,
+      "raw": "CAMARGO, JÉSSICA R. 2024 CAMARGO, JÉSSICA R. ; CRAPNELL, ROBERT D. ; BERNALTE, ELENA ; CUNLIFFE, ALEXANDER J. ; REDFERN, JAMES ; JANEGITZ, BRUNO C. ; BANKS, CRAIG E. . Conductive recycled PETg additive manufacturing filament for sterilisable electroanalytical healthcare sensors. Applied Materials Today , v. 39, p. 102285, 2024.",
+      "autores": "CAMARGO, JÉSSICA R. CAMARGO, JÉSSICA R.; CRAPNELL, ROBERT D.; BERNALTE, ELENA; CUNLIFFE, ALEXANDER J.; REDFERN, JAMES; JANEGITZ, BRUNO C.; BANKS, CRAIG E.",
+      "titulo": "Conductive recycled PETg additive manufacturing filament for sterilisable electroanalytical healthcare sensors",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.apmt.2024.102285",
+      "fingerprint_sha1": "add7dca0bed837b6dbd1efb3073bac8c1cb25862",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMARGO, JÉSSICA R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.apmt.2024.102285\" target=\"_blank\"></a>CAMARGO, JÉSSICA R. ; CRAPNELL, ROBERT D. ; BERNALTE, ELENA ; CUNLIFFE, ALEXANDER J. ; REDFERN, JAME",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Applied Materials Today"
+    },
+    {
+      "numero_item": 35,
+      "raw": "SILVA, L. R. 2024 SILVA, L. R. ; STEFANO, J. S. ; KALINKE, C. ; CRAPNELL, R. D. ; MARCOLINO-JUNIOR, L. H. ; BERGAMINI, M. F. ; BANKS, CRAIG E. ; CAMPOS JANEGITZ, BRUNO . Dual-Target Additively Manufactured Electrochemical Sensor for the Multiplexed Detection of Protein A29 and DNA of Human Monkeypox Virus. ACS Omega , p. 33099-33110, 2024.",
+      "autores": "SILVA, L. R. SILVA, L. R.; STEFANO, J. S.; KALINKE, C.; CRAPNELL, R. D.; MARCOLINO-JUNIOR, L. H.; BERGAMINI, M. F.; BANKS, CRAIG E.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Dual-Target Additively Manufactured Electrochemical Sensor for the Multiplexed Detection of Protein A29 and DNA of Human Monkeypox Virus",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsomega.4c04460",
+      "fingerprint_sha1": "4be59c662705be8db3ba5af51e5001f5e849e8e3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, L. R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c04460\" target=\"_blank\"></a>SILVA, L. R. ; STEFANO, J. S. ; KALINKE, C. ; CRAPNELL, R. D. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.b",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 36,
+      "raw": "SOUZA, D. C. 2024 SOUZA, D. C. ; CARVALHO, J. H. S. ; FREITAS, R. C. ; BELLETTINI, I. C. ; CAMPOS JANEGITZ, BRUNO . Production of conductive microfibers based on Polybutylene adipate terephthalate and graphite using a 3D printed electrospinning system and their application as electrochemical dopamine sensor. MICROCHEMICAL JOURNAL , v. 206, p. 111520, 2024.",
+      "autores": "SOUZA, D. C. SOUZA, D. C.; CARVALHO, J. H. S.; FREITAS, R. C.; BELLETTINI, I. C.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Production of conductive microfibers based on Polybutylene adipate terephthalate and graphite using a 3D printed electrospinning system and their application as electrochemical dopamine sensor",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6ac636c1eab09ea2b30ae8d7cbb508c1a01b036a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOUZA, D. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>SOUZA, D. C. ; CARVALHO, J. H. S. ; FREITAS, R. C. ; BELLETTINI, I. C. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Production of conductive microfibers based on Polybutylene adipate terephthalate and graphite using a 3D print",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 37,
+      "raw": "CAMARGO, JÉSSICA ROCHA 2024 CAMARGO, JÉSSICA ROCHA ; ORZARI, LUIZ OTÁVIO ; DE SOUZA RODRIGUES, JÉSSICA ; FELIPE DE LIMA, LUCAS ; LONGO CESAR PAIXÃO, THIAGO REGIS ; FRACETO, LEONARDO FERNANDES ; JANEGITZ, BRUNO CAMPOS . Advancements in Disposable Electrochemical Systems for Sustainable Agriculture Monitoring: Trends, Gaps, and Applied Examples. TRAC-TRENDS IN ANALYTICAL CHEMISTRY , v. 180, p. 117968, 2024.",
+      "autores": "CAMARGO, JÉSSICA ROCHA CAMARGO, JÉSSICA ROCHA; ORZARI, LUIZ OTÁVIO; DE SOUZA RODRIGUES, JÉSSICA; FELIPE DE LIMA, LUCAS; LONGO CESAR PAIXÃO, THIAGO REGIS; FRACETO, LEONARDO FERNANDES; JANEGITZ, BRUNO CAMPOS",
+      "titulo": "Advancements in Disposable Electrochemical Systems for Sustainable Agriculture Monitoring: Trends, Gaps, and Applied Examples",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.trac.2024.117968",
+      "fingerprint_sha1": "9e969916df727cea3ca1e282a47a4ca8d5c02c1a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMARGO, JÉSSICA ROCHA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.trac.2024.117968\" target=\"_blank\"></a>CAMARGO, JÉSSICA ROCHA ; ORZARI, LUIZ OTÁVIO ; DE SOUZA RODRIGUES, JÉSSICA ; FELIPE DE LIMA, LUCA",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "TRAC-TRENDS IN ANALYTICAL CHEMISTRY"
+    },
+    {
+      "numero_item": 38,
+      "raw": "ORZARI, L. O. 2024 ORZARI, L. O. ; BRAZACA, L. C. ; CAMPOS JANEGITZ, BRUNO . Parkinson biomarker determination with an Au microflower?enhanced electrochemical immunosensor using non-Faradaic capacitance measurements. MICROCHIMICA ACTA , v. 191, p. 663, 2024.",
+      "autores": "ORZARI, L. O. ORZARI, L. O.; BRAZACA, L. C.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Parkinson biomarker determination with an Au microflower?enhanced electrochemical immunosensor using non-Faradaic capacitance measurements",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00604-024-06747",
+      "fingerprint_sha1": "2a556602bcda436891cc59d002b56593d30ae294",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ORZARI, L. O.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-024-06747\" target=\"_blank\"></a>ORZARI, L. O. ; BRAZACA, L. C. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Parkinson biomarker determination with an A",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 39,
+      "raw": "SILVA, MICHELE V. C. O. 2024 SILVA, MICHELE V. C. O. ; CARVALHO, MAYANE S. ; SILVA, LUIZ R. G. ; ROCHA, RAQUEL G. ; CAMBRAIA, LUCIANA V. ; JANEGITZ, BRUNO C. ; NOSSOL, EDSON ; MUÑOZ, RODRIGO A. A. ; RICHTER, EDUARDO M. ; STEFANO, JÉSSICA S. . Tailoring 3D-printed sensor properties with reduced-graphene oxide: improved conductive filaments. MICROCHIMICA ACTA , v. 191, p. 663, 2024.",
+      "autores": "SILVA, MICHELE V. C. O. SILVA, MICHELE V. C. O.; CARVALHO, MAYANE S.; SILVA, LUIZ R. G.; ROCHA, RAQUEL G.; CAMBRAIA, LUCIANA V.; JANEGITZ, BRUNO C.; NOSSOL, EDSON; MUÑOZ, RODRIGO A. A.; RICHTER, EDUARDO M.; STEFANO, JÉSSICA S.",
+      "titulo": "Tailoring 3D-printed sensor properties with reduced-graphene oxide: improved conductive filaments",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00604-024-06720-7",
+      "fingerprint_sha1": "d1c4184497c105c4e522193be4347d6c43e6a795",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, MICHELE V. C. O.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00604-024-06720-7\" target=\"_blank\"></a>SILVA, MICHELE V. C. O. ; CARVALHO, MAYANE S. ; SILVA, LUIZ R. G. ; ROCHA, RAQUEL G. ; CAMBRAIA,",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "MICROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 40,
+      "raw": "CAMPOS JANEGITZ, BRUNO 2024 CAMPOS JANEGITZ, BRUNO . Electrochemical Sensing/Biosensing ¿ Bench to Market. ELECTROANALYSIS , v. xx, p. xx, 2024.",
+      "autores": "CAMPOS JANEGITZ, BRUNO CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Electrochemical Sensing/Biosensing ¿ Bench to Market",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/elan.202400320",
+      "fingerprint_sha1": "bfded6a1a5dd8e0c25555bfa862b3b3a8965c7b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMPOS JANEGITZ, BRUNO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/elan.202400320\" target=\"_blank\"></a><b>CAMPOS JANEGITZ, BRUNO</b>. Electrochemical Sensing/Biosensing ¿ Bench to Market. ELECTROANALYSIS<",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "ELECTROANALYSIS"
+    },
+    {
+      "numero_item": 41,
+      "raw": "DE OLIVEIRA LOPES, DÉBORAH 2024 DE OLIVEIRA LOPES, DÉBORAH ; MAGALHÃES MARINHO, FELIPE ; BATISTA DEROCO, PATRICIA ; NEUMANN, AMANDA ; ROCHA CAMARGO, JESSICA ; CRISTINA DE FREITAS, RAFAELA ; VENTOSA BERTOLIM, LUCAS ; FATIBELLO FILHO, ORLANDO ; CAMPOS JANEGITZ, BRUNO ; OLIVEIRA, GEISER GABRIEL DE . A Nanodiamond-Based Electrochemical Sensor for the Determination of Paracetamol in Pharmaceutical Samples. CHEMOSENSORS , v. 12, p. 243, 2024.",
+      "autores": "DE OLIVEIRA LOPES, DÉBORAH DE OLIVEIRA LOPES, DÉBORAH; MAGALHÃES MARINHO, FELIPE; BATISTA DEROCO, PATRICIA; NEUMANN, AMANDA; ROCHA CAMARGO, JESSICA; CRISTINA DE FREITAS, RAFAELA; VENTOSA BERTOLIM, LUCAS; FATIBELLO FILHO, ORLANDO; CAMPOS JANEGITZ, BRUNO; OLIVEIRA, GEISER GABRIEL DE",
+      "titulo": "A Nanodiamond-Based Electrochemical Sensor for the Determination of Paracetamol in Pharmaceutical Samples",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3390/chemosensors12110243",
+      "fingerprint_sha1": "5f592307382a3bf5b6e979a8af290ca360fe6965",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA LOPES, DÉBORAH</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/chemosensors12110243\" target=\"_blank\"></a>DE OLIVEIRA LOPES, DÉBORAH ; MAGALHÃES MARINHO, FELIPE ; BATISTA DEROCO, PATRICIA ; NEUMANN",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "CHEMOSENSORS"
+    },
+    {
+      "numero_item": 186,
+      "raw": "FERNANDES JUNIOR, W. S. ; SOARES, J. M. L. ; CAMPOS JANEGITZ, BRUNO ; BONACIN, J. A. . Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica. 1. ed. Araras: UFSCar, 2024. v. 1.",
+      "autores": "FERNANDES JUNIOR, W. S.; SOARES, J. M. L.; CAMPOS JANEGITZ, BRUNO; BONACIN, J. A.",
+      "titulo": "Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.13140/RG.2.2.27886.22083",
+      "fingerprint_sha1": "4829fe4cfd496208ec6b923a63c8f70417254b38",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.13140/RG.2.2.27886.22083\" target=\"_blank\"></a>FERNANDES JUNIOR, W. S. ; SOARES, J. M. L. ; <b>CAMPOS JANEGITZ, BRUNO</b> ; BONACIN, J. A. . Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica. 1. ed. Araras: UFSCar, 2024. v. 1. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "1. ed. Araras: UFSCar"
+    },
+    {
+      "numero_item": 189,
+      "raw": "KALINKE, CRISTIANE ; DE OLIVEIRA, PAULO ROBERTO ; BONACIN, JULIANO ALVES ; JANEGITZ, BRUNO CAMPOS . Biosensors: an introduction. Biosensors in Precision Medicine. 1ed.: Elsevier, 2024, v. , p. 61-104.",
+      "autores": "KALINKE, CRISTIANE; DE OLIVEIRA, PAULO ROBERTO; BONACIN, JULIANO ALVES; JANEGITZ, BRUNO CAMPOS",
+      "titulo": "Biosensors: an introduction",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/B978-0-443-15380-8.00004-7",
+      "fingerprint_sha1": "fda10997403fad6fcf484e879e183cdcd20b02c3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/B978-0-443-15380-8.00004-7\" target=\"_blank\"></a>KALINKE, CRISTIANE ; DE OLIVEIRA, PAULO ROBERTO ; BONACIN, JULIANO ALVES ; <b>JANEGITZ, BRUNO CAMPOS</b> . Biosensors: an introduction. Biosensors in Precision Medicine. 1ed.: Elsevier, 2024, v. , p. 61-104. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "Biosensors in Precision Medicine. 1ed.: Elsevier"
+    },
+    {
+      "numero_item": 202,
+      "raw": "CARDOSO, Arielly ; CAMPOS JANEGITZ, BRUNO . Electrochemical sensor fabricated via additive manufacturing using a conductive CB/PP filament with babassu oil. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "CARDOSO, Arielly; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Electrochemical sensor fabricated via additive manufacturing using a conductive CB/PP filament with babassu oil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7b9f4a1696f8d9ac1a8e8269607e460731a46f1e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARDOSO, Arielly ; <b>CAMPOS JANEGITZ, BRUNO</b> . Electrochemical sensor fabricated via additive manufacturing using a conductive CB/PP filament with babassu oil. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 203,
+      "raw": "CAMARGO, J. R. ; CAMPOS JANEGITZ, BRUNO . Multiplex screen-printed electrodes using carbon black and glossy acrylic varnish for electrochemical detection of diuron. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "CAMARGO, J. R.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Multiplex screen-printed electrodes using carbon black and glossy acrylic varnish for electrochemical detection of diuron",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "71ceb1d3c8d5d7164389f412a77e5e6f6ae37780",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, J. R. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Multiplex screen-printed electrodes using carbon black and glossy acrylic varnish for electrochemical detection of diuron. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 204,
+      "raw": "FERNANDES JUNIOR, W. S. ; GUTERRES E SILVA, LUIZ RICARDO ; STEFANO, J. S. ; CRAPNELL, R. D. ; BANKS, CRAIG E. ; CAMPOS JANEGITZ, BRUNO . Portable eletrochemical detection of SARS-CoV-2 spike S1 protein using 3D- printed immunosensors with covalent immobilization on carbon black. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais,, 2024.",
+      "autores": "FERNANDES JUNIOR, W. S.; GUTERRES E SILVA, LUIZ RICARDO; STEFANO, J. S.; CRAPNELL, R. D.; BANKS, CRAIG E.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Portable eletrochemical detection of SARS-CoV-2 spike S1 protein using 3D- printed immunosensors with covalent immobilization on carbon black",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d6e9a34a8c38fef9089f021329209ae1bad66afe",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES JUNIOR, W. S. ; GUTERRES E SILVA, LUIZ RICARDO ; STEFANO, J. S. ; CRAPNELL, R. D. ; BANKS, CRAIG E. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Portable eletrochemical detection of SARS-CoV-2 spike S1 protein using 3D- printed immunosensors with covalent immobilization on carbon black. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materia",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais"
+    },
+    {
+      "numero_item": 227,
+      "raw": "GERMINARE, B. F. ; FERNANDES JUNIOR, W. S. ; CAMPOS JANEGITZ, BRUNO . Cork-based green electrochemical sensors utilizing CO2 laser pyrolysis for nitrite detection in wine samples. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025.",
+      "autores": "GERMINARE, B. F.; FERNANDES JUNIOR, W. S.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Cork-based green electrochemical sensors utilizing CO2 laser pyrolysis for nitrite detection in wine samples",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a1b4da91ec73059aa26d60cd3e32112475adb90d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GERMINARE, B. F. ; FERNANDES JUNIOR, W. S. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Cork-based green electrochemical sensors utilizing CO2 laser pyrolysis for nitrite detection in wine samples. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXIII B-MRS Meeting"
+    },
+    {
+      "numero_item": 228,
+      "raw": "JESUS, M. A. ; SILVA, L. A. ; CAMARGO, J. R. ; CAMPOS JANEGITZ, BRUNO . Development of a 3D electrochemical cell with two working electrodes for the detection of mesalamine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "JESUS, M. A.; SILVA, L. A.; CAMARGO, J. R.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Development of a 3D electrochemical cell with two working electrodes for the detection of mesalamine",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7feae33f4c0437b07df74f1a87e5f899ed7db3c4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JESUS, M. A. ; SILVA, L. A. ; CAMARGO, J. R. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Development of a 3D electrochemical cell with two working electrodes for the detection of mesalamine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 229,
+      "raw": "CALDAS, Natália Marinho ; BATISTA, Amanda Garcia ; CAMARGO, J. R. ; ALVES, Daniel Mac-Dowell Lopes ; OLIVEIRA, Guilherme Pessoa ; LEITE, Dayenny Louise D'Amato ; RONCONI, Célia Machado ; SEMAAN, Felipe Silva ; ROCHA, D. P. ; CAMPOS JANEGITZ, BRUNO ; FARIA, Lucas Vinicius de ; DORNELLAS, R. M. . Recycling Polystyrene and Integrating Graphite Particles: A Circular Economy Strategy for Sustainable and Enhanced Electrochemical Sensor Manufacturing.. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "CALDAS, Natália Marinho; BATISTA, Amanda Garcia; CAMARGO, J. R.; ALVES, Daniel Mac-Dowell Lopes; OLIVEIRA, Guilherme Pessoa; LEITE, Dayenny Louise D'Amato; RONCONI, Célia Machado; SEMAAN, Felipe Silva; ROCHA, D. P.; CAMPOS JANEGITZ, BRUNO; FARIA, Lucas Vinicius de; DORNELLAS, R. M.",
+      "titulo": "Recycling Polystyrene and Integrating Graphite Particles: A Circular Economy Strategy for Sustainable and Enhanced Electrochemical Sensor Manufacturing",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8c3f5c9dea4a7e948d9006f78a325584165b13cb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CALDAS, Natália Marinho ; BATISTA, Amanda Garcia ; CAMARGO, J. R. ; ALVES, Daniel Mac-Dowell Lopes ; OLIVEIRA, Guilherme Pessoa ; LEITE, Dayenny Louise D'Amato ; RONCONI, Célia Machado ; SEMAAN, Felipe Silva ; ROCHA, D. P. ; <b>CAMPOS JANEGITZ, BRUNO</b> ; FARIA, Lucas Vinicius de ; DORNELLAS, R. M. . Recycling Polystyrene and Integrating Graphite Particles: A Circular Economy Strategy for Sustainable and Enhanced Electrochemical Se",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 230,
+      "raw": "FARIA, B. S. ; CAMARGO, J. R. ; CAMPOS JANEGITZ, BRUNO . Hybrid Systems for Rapid Diagnostics: Application of Screen Printing and 3D Printing Sensors for the Detection of 3-Nitro-L-Tyrosine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "FARIA, B. S.; CAMARGO, J. R.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Hybrid Systems for Rapid Diagnostics: Application of Screen Printing and 3D Printing Sensors for the Detection of 3-Nitro-L-Tyrosine",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2b3774a5d500c4b8f99ecac52c0e7f62728452b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FARIA, B. S. ; CAMARGO, J. R. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Hybrid Systems for Rapid Diagnostics: Application of Screen Printing and 3D Printing Sensors for the Detection of 3-Nitro-L-Tyrosine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 231,
+      "raw": "PIASECKI, E. S. K. ; FARIA, B. S. ; CAMARGO, J. R. ; AZZI, D. C. ; GATTI, A. ; CAMPOS JANEGITZ, BRUNO . Commercial electrodes modified with a thin film containing graphene and starch for melatonin determination. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "PIASECKI, E. S. K.; FARIA, B. S.; CAMARGO, J. R.; AZZI, D. C.; GATTI, A.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Commercial electrodes modified with a thin film containing graphene and starch for melatonin determination",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eca7b17109b60de352e8f1a2590b75b3ce4bab2a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PIASECKI, E. S. K. ; FARIA, B. S. ; CAMARGO, J. R. ; AZZI, D. C. ; GATTI, A. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Commercial electrodes modified with a thin film containing graphene and starch for melatonin determination. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 232,
+      "raw": "SILVA, João Pedro de Carvalho ; SILVA, L. R. ; STEFANO, J. S. ; DANTAS, Luiza Maria Ferreira ; SILVA, Iranaldo Santos da ; CAMPOS JANEGITZ, BRUNO . Development of a laser-induced graphene electrode sensor modified with CoPc for electrochemical determination of Rutin. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "SILVA, João Pedro de Carvalho; SILVA, L. R.; STEFANO, J. S.; DANTAS, Luiza Maria Ferreira; SILVA, Iranaldo Santos da; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Development of a laser-induced graphene electrode sensor modified with CoPc for electrochemical determination of Rutin",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8935b21bf554b8756095597d7dc13098f1ea8c26",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, João Pedro de Carvalho ; SILVA, L. R. ; STEFANO, J. S. ; DANTAS, Luiza Maria Ferreira ; SILVA, Iranaldo Santos da ; <b>CAMPOS JANEGITZ, BRUNO</b> . Development of a laser-induced graphene electrode sensor modified with CoPc for electrochemical determination of Rutin. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroan",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 233,
+      "raw": "CAMARGO, J. R. ; FREITAS, R. C. ; CRAPNELL, R. D. ; BERNALTE, E. ; REDFERN, JAMES ; CUNLIFFE, ALEXANDER J. ; BANKS, CRAIG E. ; CAMPOS JANEGITZ, BRUNO . Conductive rPETg filament for electrochemical detection of uric acid. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025.",
+      "autores": "CAMARGO, J. R.; FREITAS, R. C.; CRAPNELL, R. D.; BERNALTE, E.; REDFERN, JAMES; CUNLIFFE, ALEXANDER J.; BANKS, CRAIG E.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Conductive rPETg filament for electrochemical detection of uric acid",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "825e0622e94456f05ad60d8aaf86c91d6f68195b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, J. R. ; FREITAS, R. C. ; CRAPNELL, R. D. ; BERNALTE, E. ; REDFERN, JAMES ; CUNLIFFE, ALEXANDER J. ; BANKS, CRAIG E. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Conductive rPETg filament for electrochemical detection of uric acid. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXIII B-MRS Meeting"
+    },
+    {
+      "numero_item": 234,
+      "raw": "FREITAS, R. C. ; CAMARGO, J. R. ; BRAZACA, L. C. ; ANGNES, L. ; FATIBELLO O ; CAMPOS JANEGITZ, BRUNO . Eco-Friendly Screen-Printed Electrochemical Sensor by Using Tapioca-Based Conductive Ink. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025.",
+      "autores": "FREITAS, R. C.; CAMARGO, J. R.; BRAZACA, L. C.; ANGNES, L.; FATIBELLO O; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Eco-Friendly Screen-Printed Electrochemical Sensor by Using Tapioca-Based Conductive Ink",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7c03a16209029001dced1eaef6d2dbe133e2802f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FREITAS, R. C. ; CAMARGO, J. R. ; BRAZACA, L. C. ; ANGNES, L. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9859737944357808\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FATIBELLO O</a> ; <b>CAMPOS JANEGITZ, BRUNO</b> . Eco-Friendly Screen-Printed Electrochemical Sensor by Using Tapioca-Based Conductive Ink. In: XXIII B-MRS Meeting, 2025, Salvador-BA. Proceedings of the XXIII B-MRS Meeting, 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXIII B-MRS Meeting"
+    },
+    {
+      "numero_item": 235,
+      "raw": "SILVA, V. A. O. P. ; BERNALTE, E. ; CRAPNELL, R. D. ; CAMPOS JANEGITZ, BRUNO ; BANKS, CRAIG E. . Preparation of metal-modified 3D Printable Conductive Thermoplastic Filaments for Electrochemical Sensing Applications. In: Materials Today Conference 2025, 2025, Sitges, Espanha. Proceedings of the Materials Today Conference 2025, 2025.",
+      "autores": "SILVA, V. A. O. P.; BERNALTE, E.; CRAPNELL, R. D.; CAMPOS JANEGITZ, BRUNO; BANKS, CRAIG E.",
+      "titulo": "Preparation of metal-modified 3D Printable Conductive Thermoplastic Filaments for Electrochemical Sensing Applications",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5602c68704820d83396830141b05864d18b7412a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, V. A. O. P. ; BERNALTE, E. ; CRAPNELL, R. D. ; <b>CAMPOS JANEGITZ, BRUNO</b> ; BANKS, CRAIG E. . Preparation of metal-modified 3D Printable Conductive Thermoplastic Filaments for Electrochemical Sensing Applications. In: Materials Today Conference 2025, 2025, Sitges, Espanha. Proceedings of the Materials Today Conference 2025, 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "Materials Today Conference 2025"
+    },
+    {
+      "numero_item": 236,
+      "raw": "SILVA, V. A. O. P. ; BERNALTE, E. ; CRAPNELL, R. D. ; JANEGITZ, BRUNO C. ; BANKS, CRAIG E. . Development of Iron-Modified Conductive Additive Manufacturing Filament for Electrochemical Sensing of Hydrogen Peroxide. In: Electrochemistry Community Northern Regional Butler Meeting 2025, 2025, Heslington, York. Proceedings of the Electrochemistry Community Northern Regional Butler Meeting 2025, 2025.",
+      "autores": "SILVA, V. A. O. P.; BERNALTE, E.; CRAPNELL, R. D.; JANEGITZ, BRUNO C.; BANKS, CRAIG E.",
+      "titulo": "Development of Iron-Modified Conductive Additive Manufacturing Filament for Electrochemical Sensing of Hydrogen Peroxide",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dd9aa9763bb2cbf2723452003fab762bcb2a2c3f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, V. A. O. P. ; BERNALTE, E. ; CRAPNELL, R. D. ; <b>JANEGITZ, BRUNO C.</b> ; BANKS, CRAIG E. . Development of Iron-Modified Conductive Additive Manufacturing Filament for Electrochemical Sensing of Hydrogen Peroxide. In: Electrochemistry Community Northern Regional Butler Meeting 2025, 2025, Heslington, York. Proceedings of the Electrochemistry Community Northern Regional Butler Meeting 2025, 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "Electrochemistry Community Northern Regional Butler Meeting 2025"
+    },
+    {
+      "numero_item": 237,
+      "raw": "BERTOLIM, L. V. ; SILVA, L. R. ; STEFANO, J. S. ; CAMPOS JANEGITZ, BRUNO . Tailoring ultra-flexibility in eco-friendly conductive filaments: the use of polypropylene in the development of a 3d-printed carbon black-based electrochemical sensor. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "BERTOLIM, L. V.; SILVA, L. R.; STEFANO, J. S.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Tailoring ultra-flexibility in eco-friendly conductive filaments: the use of polypropylene in the development of a 3d-printed carbon black-based electrochemical sensor",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "669c3bf1bd755611cdd92cfbb50c19e63b7f3db3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BERTOLIM, L. V. ; SILVA, L. R. ; STEFANO, J. S. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Tailoring ultra-flexibility in eco-friendly conductive filaments: the use of polypropylene in the development of a 3d-printed carbon black-based electrochemical sensor. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. <",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 238,
+      "raw": "FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; PEREIRA, M. V. ; SILVA, V. A. O. P. ; STEFANO, J. S. ; BONACIN, J. A. ; CAMPOS JANEGITZ, BRUNO . Development of a conductive PLA-based filament for electrochemical detection of sulfadiazine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "FERNANDES JUNIOR, W. S.; ORZARI, L. O.; PEREIRA, M. V.; SILVA, V. A. O. P.; STEFANO, J. S.; BONACIN, J. A.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Development of a conductive PLA-based filament for electrochemical detection of sulfadiazine",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b120766cc91cb312bbafc2d7f4a6ab2bb7a464b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; PEREIRA, M. V. ; SILVA, V. A. O. P. ; STEFANO, J. S. ; BONACIN, J. A. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Development of a conductive PLA-based filament for electrochemical detection of sulfadiazine. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 239,
+      "raw": "ROJAS, A. J. R. ; NEUMANN, A. ; ORZARI, L. O. ; CAMPOS JANEGITZ, BRUNO . Desenvolvimento de sensor eletroquímico serigrafado multiplexado para detecção de ácido gálico. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025.",
+      "autores": "ROJAS, A. J. R.; NEUMANN, A.; ORZARI, L. O.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Desenvolvimento de sensor eletroquímico serigrafado multiplexado para detecção de ácido gálico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "28bd05720f6ee787c001bdac78d2011907918070",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROJAS, A. J. R. ; NEUMANN, A. ; ORZARI, L. O. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Desenvolvimento de sensor eletroquímico serigrafado multiplexado para detecção de ácido gálico. In: XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025, Águas de Lindóia - SP. Anais do XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE), 2025. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXV Simpósio Brasileiro de Eletroquímica e Eletroanalítica (SIBEE)"
+    },
+    {
+      "numero_item": 240,
+      "raw": "FREITAS, R. C. ; CAMPOS JANEGITZ, BRUNO . Produção e caracterização de tinta condutiva à base de cola comercial e pó de grafite para fabricação de sensores eletroquímicos serigrafados,. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais,, 2024.",
+      "autores": "FREITAS, R. C.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Produção e caracterização de tinta condutiva à base de cola comercial e pó de grafite para fabricação de sensores eletroquímicos serigrafados,",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f49ec5cdd11a17c4f486dff2d3caad91a87afc3e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FREITAS, R. C. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Produção e caracterização de tinta condutiva à base de cola comercial e pó de grafite para fabricação de sensores eletroquímicos serigrafados,. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais,, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais"
+    },
+    {
+      "numero_item": 241,
+      "raw": "GERMINARE, B. F. ; CAMARGO, JÉSSICA R. ; CAMPOS JANEGITZ, BRUNO . Developing green electrochemical sensors for guaiacol detection through CO2 laser pyrolysis on dehydrated green leaf substrates. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais,, 2024.",
+      "autores": "GERMINARE, B. F.; CAMARGO, JÉSSICA R.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "Developing green electrochemical sensors for guaiacol detection through CO2 laser pyrolysis on dehydrated green leaf substrates",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50421bd4f4646bd16434a5a9f30177f7cf16f118",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GERMINARE, B. F. ; CAMARGO, JÉSSICA R. ; <b>CAMPOS JANEGITZ, BRUNO</b> . Developing green electrochemical sensors for guaiacol detection through CO2  laser pyrolysis on dehydrated green leaf substrates. In: X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais, 2024, Sorocaba. Anais do X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais,, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "X Workshop de Pesquisa e Tecnologia em Ciência dos Materiais"
+    },
+    {
+      "numero_item": 242,
+      "raw": "STEFANO, J. S. ; SILVA, M. V. C. O. ; CARVALHO, M. S. ; SILVA, L. R. ; ROCHA, R. G. ; CAMBRAIA, L. V. ; JANEGITZ, B. C. ; NOSSOL, E. ; MUNOZ, RODRIGO A.A. ; RICHTER, E. M. . TAILORING 3D-PRINTED SENSOR PROPERTIES WITH REDUCED-GRAPHENE OXIDE FOR ENHANCED DETECTION OF 2,4,6-TRINITROTOLUENE. In: XXI Encontro Nacional de Química Analítica, 2024, Belém. Anais do XXI Encontro Nacional de Química Analítica, 2024.",
+      "autores": "STEFANO, J. S.; SILVA, M. V. C. O.; CARVALHO, M. S.; SILVA, L. R.; ROCHA, R. G.; CAMBRAIA, L. V.; JANEGITZ, B. C.; NOSSOL, E.; MUNOZ, RODRIGO A.A.; RICHTER, E. M.",
+      "titulo": "TAILORING 3D-PRINTED SENSOR PROPERTIES WITH REDUCED-GRAPHENE OXIDE FOR ENHANCED DETECTION OF 2,4,6-TRINITROTOLUENE",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "218ad8798820edfb6121438c83a6cb6b3e1525c4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">STEFANO, J. S. ; SILVA, M. V. C. O. ; CARVALHO, M. S. ; SILVA, L. R. ; ROCHA, R. G. ; CAMBRAIA, L. V. ; <b>JANEGITZ, B. C.</b> ; NOSSOL, E. ; MUNOZ, RODRIGO A.A. ; RICHTER, E. M. . TAILORING 3D-PRINTED SENSOR PROPERTIES WITH REDUCED-GRAPHENE OXIDE FOR ENHANCED DETECTION OF 2,4,6-TRINITROTOLUENE. In: XXI Encontro Nacional de Química Analítica, 2024, Belém. Anais do XXI Encontro Nacional de Química Analítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXI Encontro Nacional de Química Analítica"
+    },
+    {
+      "numero_item": 243,
+      "raw": "PIO, W. T. ; CARVALHO, J. H. S. ; MACEDO, A. A. ; PIMENTEL, D. M. ; ARANTES, L. C. ; JANEGITZ, B. C. . Selective detection of 4-methyl-pentedrone in forensic samples using a lab-made screen-printed sensor with carbon nanotubes and glass varnish. In: XXI Encontro Nacional de Química Analítica, 2024, Belém. Anais do XXI Encontro Nacional de Química Analítica, 2024.",
+      "autores": "PIO, W. T.; CARVALHO, J. H. S.; MACEDO, A. A.; PIMENTEL, D. M.; ARANTES, L. C.; JANEGITZ, B. C.",
+      "titulo": "Selective detection of 4-methyl-pentedrone in forensic samples using a lab-made screen-printed sensor with carbon nanotubes and glass varnish",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e30ddf91bf44a974dda4a1058f9bd2ebf12bed53",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PIO, W. T. ; CARVALHO, J. H. S. ; MACEDO, A. A. ; PIMENTEL, D. M. ; ARANTES, L. C. ; <b>JANEGITZ, B. C.</b> . Selective detection of 4-methyl-pentedrone in forensic samples using a lab-made screen-printed sensor with carbon nanotubes and glass varnish. In: XXI Encontro Nacional de Química Analítica, 2024, Belém. Anais do XXI Encontro Nacional de Química Analítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXI Encontro Nacional de Química Analítica"
+    },
+    {
+      "numero_item": 244,
+      "raw": "STEFANO, J. S. ; SILVA, L. R. ; CARVALHO, M. S. ; SILVA, M. V. C. O. ; ROCHA, R. G. ; MOURA, V. ; JANEGITZ, B. C. ; MUNOZ, R. A. A. ; RICHTER, E. M. . Aplicação da tecnologia de impressão 3D em análises forenses: Fabricação de filamentos condutores melhorados para a detecção eletroquímica de cocaína e TNT. In: XXVII CONGRESSO NACIONAL DE CRIMINALÍSTICA, X CONGRESSO INTERNACIONAL DE PERÍCIA CRIMINAL E DA XXVII EXPOSIÇÃO DE TECNOLOGIAS APLICADAS À CRIMINALÍSTICA, 2024, São Luiz. Anais do XXVII CONGRESSO NACIONAL DE CRIMINALÍSTICA, X CONGRESSO INTERNACIONAL DE PERÍCIA CRIMINAL E DA XXVII EXPOSIÇÃO DE TECNOLOGIAS APLICADAS À CRIMINALÍSTICA, 2024.",
+      "autores": "STEFANO, J. S.; SILVA, L. R.; CARVALHO, M. S.; SILVA, M. V. C. O.; ROCHA, R. G.; MOURA, V.; JANEGITZ, B. C.; MUNOZ, R. A. A.; RICHTER, E. M.",
+      "titulo": "Aplicação da tecnologia de impressão 3D em análises forenses: Fabricação de filamentos condutores melhorados para a detecção eletroquímica de cocaína e TNT",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "30f9867fe4921c9f01f26829c361b09a16a294cc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">STEFANO, J. S. ; SILVA, L. R. ; CARVALHO, M. S. ; SILVA, M. V. C. O. ; ROCHA, R. G. ; MOURA, V. ; <b>JANEGITZ, B. C.</b> ; MUNOZ, R. A. A. ; RICHTER, E. M. . Aplicação da tecnologia de impressão 3D em análises forenses: Fabricação de filamentos condutores melhorados para a detecção eletroquímica de cocaína e TNT. In: XXVII CONGRESSO NACIONAL DE CRIMINALÍSTICA, X CONGRESSO INTERNACIONAL DE PERÍCIA CRIMINAL E DA XXVII EXPOSIÇÃO DE TEC",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "XXVII CONGRESSO NACIONAL DE CRIMINALÍSTICA"
+    },
+    {
+      "numero_item": 245,
+      "raw": "AZZI, D. C. ; SILVA, L. R. ; NEUMANN, A. ; GATTI, ALEXANDRE ; JANEGITZ, B. C. . Disposable Carbon Electrochemical Sensor Modified with Gold Nanoparticles for Creatinine Detection. In: The Electrochemical Society, 2024, San Francisco, CA. Proceedings from the 245th ECS Meeting, 2024.",
+      "autores": "AZZI, D. C.; SILVA, L. R.; NEUMANN, A.; GATTI, ALEXANDRE; JANEGITZ, B. C.",
+      "titulo": "Disposable Carbon Electrochemical Sensor Modified with Gold Nanoparticles for Creatinine Detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9aaacdcc7592cfc3d01c0ed66934329c281ec26a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AZZI, D. C. ; SILVA, L. R. ; NEUMANN, A. ; GATTI, ALEXANDRE ; <b>JANEGITZ, B. C.</b> . Disposable Carbon Electrochemical Sensor Modified with Gold Nanoparticles for Creatinine Detection. In: The Electrochemical Society, 2024, San Francisco, CA. Proceedings from the 245th ECS Meeting, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "The Electrochemical Society"
+    },
+    {
+      "numero_item": 246,
+      "raw": "JANEGITZ, B. C. ; SILVA, L. ; CRAPNELL, R. D. ; STEFANO, J. S. ; BRAZACA, L. C. ; BANKS, C. B. . Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection. In: The Electrochemical Society, 2024, San Francisco, CA. Proceedings from the 245th ECS Meeting, 2024.",
+      "autores": "JANEGITZ, B. C.; SILVA, L.; CRAPNELL, R. D.; STEFANO, J. S.; BRAZACA, L. C.; BANKS, C. B.",
+      "titulo": "Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "09aa3a25ea9cda0c6163c2a26a723b7bcd6e8c20",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>; SILVA, L. ; CRAPNELL, R. D. ; STEFANO, J. S. ; BRAZACA, L. C. ; BANKS, C. B. . Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection. In: The Electrochemical Society, 2024, San Francisco, CA. Proceedings from the 245th ECS Meeting, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "The Electrochemical Society"
+    },
+    {
+      "numero_item": 247,
+      "raw": "ORZARI, L. O. ; JANEGITZ, B. C. . Capacitive electrochemical lab-made immunosensor modified with Au microflowers for the determination of PARK7/DJ-1. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024.",
+      "autores": "ORZARI, L. O.; JANEGITZ, B. C.",
+      "titulo": "Capacitive electrochemical lab-made immunosensor modified with Au microflowers for the determination of PARK7/DJ-1",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4a4c0aa55276bc0ab0a79d762a1899045f3d8557",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ORZARI, L. O. ; <b>JANEGITZ, B. C.</b> . Capacitive electrochemical lab-made immunosensor modified with Au microflowers for the determination of PARK7/DJ-1. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "47ª Reunião Anual da Sociedade Brasileira de Química"
+    },
+    {
+      "numero_item": 248,
+      "raw": "SILVA, V. A. O. P. ; DUARTE, L. C. ; SILVA, R. R. ; COLTRO, WENDELL K.T. ; JANEGITZ, B. C. . 3D-printed hyphenated sensor using dual extrusion for catechol detection. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024.",
+      "autores": "SILVA, V. A. O. P.; DUARTE, L. C.; SILVA, R. R.; COLTRO, WENDELL K.T.; JANEGITZ, B. C",
+      "titulo": "3D-printed hyphenated sensor using dual extrusion for catechol detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b884b9cf56f98ee199d4a16099b143855935eff8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, V. A. O. P. ; DUARTE, L. C. ; SILVA, R. R. ; COLTRO, WENDELL K.T. ; <b>JANEGITZ, B. C.</b> . 3D-printed hyphenated sensor using dual extrusion for catechol detection. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "47ª Reunião Anual da Sociedade Brasileira de Química"
+    },
+    {
+      "numero_item": 249,
+      "raw": "CAMARGO, J. R. ; BERNALTE, E. ; CRAPNELL, R. D. ; BANKS, C. B. ; JANEGITZ, B. C. . Development of an electrochemical Screen-Printed sensor using a new Carbon Black Super P Water-Based Ink for Tryptophan Detection. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024.",
+      "autores": "CAMARGO, J. R.; BERNALTE, E.; CRAPNELL, R. D.; BANKS, C. B.; JANEGITZ, B. C.",
+      "titulo": "Development of an electrochemical Screen-Printed sensor using a new Carbon Black Super P Water-Based Ink for Tryptophan Detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e225a98a3e79a46f824dda98a1667a9c61255f6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, J. R. ; BERNALTE, E. ; CRAPNELL, R. D. ; BANKS, C. B. ; <b>JANEGITZ, B. C.</b> . Development of an electrochemical Screen-Printed sensor using a new Carbon Black Super P Water-Based Ink for Tryptophan Detection. In: 47ª Reunião Anual da Sociedade Brasileira de Química, 2024, Águas de Lindóia, SP. Anais da 47ª Reunião Anual da Sociedade Brasileira de Química, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "47ª Reunião Anual da Sociedade Brasileira de Química"
+    },
+    {
+      "numero_item": 250,
+      "raw": "FREITAS, R. C. ; FONSECA, W. T. ; AZZI, D. C. ; RAYMUNDO-PEREIRA, P. A. ; OLIVEIRA JUNIOR, O. N. ; JANEGITZ, B. C. . Development of screen-printed electrode with conductive based on comercial glue and graphite powder for sensing dopamine. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "FREITAS, R. C.; FONSECA, W. T.; AZZI, D. C.; RAYMUNDO-PEREIRA, P. A.; OLIVEIRA JUNIOR, O. N.; JANEGITZ, B. C.",
+      "titulo": "Development of screen-printed electrode with conductive based on comercial glue and graphite powder for sensing dopamine",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "92548c6cb9da8037bdf5bf7d3d8b0d77b94c135b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FREITAS, R. C. ; FONSECA, W. T. ; AZZI, D. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2013239426070931\" target=\"_blank\" title=\"Clique para visualizar o currículo\">RAYMUNDO-PEREIRA, P. A.</a> ; OLIVEIRA JUNIOR, O. N. ; <b>JANEGITZ, B. C.</b> . Development of screen-printed electrode with conductive based on comercial glue and graphite powder for sensing dopamine. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 251,
+      "raw": "BERTOLIM, LUCAS VENTOSA ; GUTERRES E SILVA, LUIZ RICARDO ; STEFANO, J. S. ; JANEGITZ, B. C. . New route for the production of lab-made composite filaments based on soybean oil, polylactic acid and carbon black nanoparticles, and its application in the additive manufacturing of electrochemical sensors. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "BERTOLIM, LUCAS VENTOSA; GUTERRES E SILVA, LUIZ RICARDO; STEFANO, J. S.; JANEGITZ, B. C.",
+      "titulo": "New route for the production of lab-made composite filaments based on soybean oil, polylactic acid and carbon black nanoparticles, and its application in the additive manufacturing of electrochemical sensors",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e44402d796f87de4adb5754b89a8fee620cd3cd5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BERTOLIM, LUCAS VENTOSA ; GUTERRES E SILVA, LUIZ RICARDO ; STEFANO, J. S. ; <b>JANEGITZ, B. C.</b> . New route for the production of lab-made composite filaments based on soybean oil, polylactic acid and carbon black nanoparticles, and its application in the additive manufacturing of electrochemical sensors. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 252,
+      "raw": "JESUS, M. A. ; SILVA, L. A. ; CAMARGO, J. R. ; JANEGITZ, B. C. . Desenvolvimento de célula eletroquímica em 3D com dois eletrodos de trabalho para detecção de ciprofibrato. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "JESUS, M. A.; SILVA, L. A.; CAMARGO, J. R.; JANEGITZ, B. C.",
+      "titulo": "Desenvolvimento de célula eletroquímica em 3D com dois eletrodos de trabalho para detecção de ciprofibrato",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0ecd24c4bf3bda3fa74932ac074b5245b10e8753",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JESUS, M. A. ; SILVA, L. A. ; CAMARGO, J. R. ; <b>JANEGITZ, B. C.</b> . Desenvolvimento de célula eletroquímica em 3D com dois eletrodos de trabalho para detecção de ciprofibrato. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 253,
+      "raw": "NEUMANN, A. ; ORZARI, L. O. ; BONACIN, J. A. ; JANEGITZ, B. C. . Characterization of different graphite brands through the development of eletrochemical sensors for CA detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "NEUMANN, A.; ORZARI, L. O.; BONACIN, J. A.; JANEGITZ, B. C.",
+      "titulo": "Characterization of different graphite brands through the development of eletrochemical sensors for CA detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ce1938656bd0d7cd17bee30623346aef080d89d2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NEUMANN, A. ; ORZARI, L. O. ; BONACIN, J. A. ; <b>JANEGITZ, B. C.</b> . Characterization of different graphite brands through the development of eletrochemical sensors for CA detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 254,
+      "raw": "GERMINARE, B. F. ; CAMARGO, J. R. ; JANEGITZ, B. C. . Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for paracetamol detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "GERMINARE, B. F.; CAMARGO, J. R.; JANEGITZ, B. C.",
+      "titulo": "Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for paracetamol detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a10e53a763d170a8a37c67f74bb742144368b30a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GERMINARE, B. F. ; CAMARGO, J. R. ; <b>JANEGITZ, B. C.</b> . Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for paracetamol detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 255,
+      "raw": "FARIA, B. S. ; PIASECKI, E. S. K. ; AZZI, D. C. ; GATTI, A. ; JANEGITZ, B. C. . Comparison of disposable electrochemical sensors fabricated using different commercially available conductive inks for L-Dopa determination. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "FARIA, B. S.; PIASECKI, E. S. K.; AZZI, D. C.; GATTI, A.; JANEGITZ, B. C.",
+      "titulo": "Comparison of disposable electrochemical sensors fabricated using different commercially available conductive inks for L-Dopa determination",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "85be10c22d39bf8e70e494fce0ffe86a62e1f3b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FARIA, B. S. ; PIASECKI, E. S. K. ; AZZI, D. C. ; GATTI, A. ; <b>JANEGITZ, B. C.</b> . Comparison of disposable electrochemical sensors fabricated using different commercially available conductive inks for L-Dopa determination. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 256,
+      "raw": "ARTIBANO, G. C. S. ; CAMARGO, J. R. ; NEUMANN, A. ; JANEGITZ, B. C. . Development of a multiplex screen printed electrochemical sensor made of Carbon Black and Bitumen conductive ink for Catechol detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "ARTIBANO, G. C. S.; CAMARGO, J. R.; NEUMANN, A.; JANEGITZ, B. C.",
+      "titulo": "Development of a multiplex screen printed electrochemical sensor made of Carbon Black and Bitumen conductive ink for Catechol detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ca5c129a15fcc21662e9093052b06ba660f63425",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARTIBANO, G. C. S. ; CAMARGO, J. R. ; NEUMANN, A. ; <b>JANEGITZ, B. C.</b> . Development of a multiplex screen printed electrochemical sensor made of Carbon Black and Bitumen conductive ink for Catechol detection. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 257,
+      "raw": "CEZAR, A. L. M. ; FREITAS, R. C. ; JANEGITZ, B. C. . Eletrodo impresso descartável a base de goma laca chinesa e carbon black para detecção de melatonina. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "CEZAR, A. L. M.; FREITAS, R. C.; JANEGITZ, B. C.",
+      "titulo": "Eletrodo impresso descartável a base de goma laca chinesa e carbon black para detecção de melatonina",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7a3b06fdf7d32839a02405e5a1894569154d38f7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CEZAR, A. L. M. ; FREITAS, R. C. ; <b>JANEGITZ, B. C.</b> . Eletrodo impresso descartável a base de goma laca chinesa e carbon black para detecção de melatonina. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 258,
+      "raw": "CAMARGO, J. R. ; CRAPNELL, R. D. ; BERNALTE, E. ; CUNLIFFE, ALEXANDER J. ; REDFERN, JAMES ; JANEGITZ, B. C. ; BANKS, C. B. . Conductive rPETg filament for electrochemical detection of uric acid. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "CAMARGO, J. R.; CRAPNELL, R. D.; BERNALTE, E.; CUNLIFFE, ALEXANDER J.; REDFERN, JAMES; JANEGITZ, B. C.; BANKS, C. B.",
+      "titulo": "Conductive rPETg filament for electrochemical detection of uric acid",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "87562f3f5d416881fd841e90b5cae24989331527",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, J. R. ; CRAPNELL, R. D. ; BERNALTE, E. ; CUNLIFFE, ALEXANDER J. ; REDFERN, JAMES ; <b>JANEGITZ, B. C.</b> ; BANKS, C. B. . Conductive rPETg filament for electrochemical detection of uric acid. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 259,
+      "raw": "LIMEIRA, G. S. ; BERTOLIM, L. V. ; CAMARGO, J. R. ; JANEGITZ, B. C. . Desenvolvimento de sensor eletroquímico por impressão 3D para detecção do ácido gálico. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "LIMEIRA, G. S.; BERTOLIM, L. V.; CAMARGO, J. R.; JANEGITZ, B. C.",
+      "titulo": "Desenvolvimento de sensor eletroquímico por impressão 3D para detecção do ácido gálico",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e40ec220fa6a2993963f7eb36f2b422c519591cc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LIMEIRA, G. S. ; BERTOLIM, L. V. ; CAMARGO, J. R. ; <b>JANEGITZ, B. C.</b> . Desenvolvimento de sensor eletroquímico por impressão 3D para detecção do ácido gálico. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 260,
+      "raw": "PIASECKI, E. S. K. ; FARIA, B. S. ; AZZI, D. C. ; GATTI, A. ; JANEGITZ, B. C. . Commercial eletrochemical sensors used in the determination of serotonin. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024.",
+      "autores": "PIASECKI, E. S. K.; FARIA, B. S.; AZZI, D. C.; GATTI, A.; JANEGITZ, B. C.",
+      "titulo": "Commercial eletrochemical sensors used in the determination of serotonin",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6543c717b98dd7ab04aa45bdd7d530fe80bda2dc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PIASECKI, E. S. K. ; FARIA, B. S. ; AZZI, D. C. ; GATTI, A. ; <b>JANEGITZ, B. C.</b> . Commercial eletrochemical sensors used in the determination of serotonin. In: IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024, Araras, SP. Anais da IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "IV Reunião Bienal da Sociedade Brasileira de Eletroquímica e Eletroanalítica"
+    },
+    {
+      "numero_item": 261,
+      "raw": "MOSCARDI, A. P. Z. ; FERREIRA, L. M. C. ; FERNANDES JUNIOR, W. S. ; JANEGITZ, B. C. ; BERGAMINI, M. F. ; MARCOLINO-JUNIOR, L. H. . Plataforma multiplex baseada em eletrodos impressos de carbono e aplicação no desenvolvimento de sensores eletroquímicos. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "MOSCARDI, A. P. Z.; FERREIRA, L. M. C.; FERNANDES JUNIOR, W. S.; JANEGITZ, B. C.; BERGAMINI, M. F.; MARCOLINO-JUNIOR, L. H.",
+      "titulo": "Plataforma multiplex baseada em eletrodos impressos de carbono e aplicação no desenvolvimento de sensores eletroquímicos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b941b9c652807004378946b2422969a48fd9f43c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MOSCARDI, A. P. Z. ; FERREIRA, L. M. C. ; FERNANDES JUNIOR, W. S. ; <b>JANEGITZ, B. C.</b> ; BERGAMINI, M. F. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0495683068319877\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MARCOLINO-JUNIOR, L. H.</a> . Plataforma multiplex baseada em eletrodos impressos de carbono e aplicação no desenvolvimento de sensores eletroquímicos. In: 1° Encontro Brasileiro Sobre Sensores e Bios",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 262,
+      "raw": "GERMINARE, B. F. ; CAMARGO, J. R. ; FERNANDES JUNIOR, W. S. ; JANEGITZ, B. C. . Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for carbendazim detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "GERMINARE, B. F.; CAMARGO, J. R.; FERNANDES JUNIOR, W. S.; JANEGITZ, B. C.",
+      "titulo": "Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for carbendazim detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d64cd978d158e235e1b838e6c10fa8d0fad75f39",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GERMINARE, B. F. ; CAMARGO, J. R. ; FERNANDES JUNIOR, W. S. ; <b>JANEGITZ, B. C.</b> . Green electrochemical sensors using CO2 laser pyrolysis on dehydrated green leaves substrates for carbendazim detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 263,
+      "raw": "SILVA, L. A. ; CAMARGO, J. R. ; JANEGITZ, B. C. . Development and application of electrochemical sensors using conductive ink with carbon black and shellac for the detection of Paraquat. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "SILVA, L. A.; CAMARGO, J. R.; JANEGITZ, B. C.",
+      "titulo": "Development and application of electrochemical sensors using conductive ink with carbon black and shellac for the detection of Paraquat",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "38754ae8dae6a527e0088deb1a184e9d43332128",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, L. A. ; CAMARGO, J. R. ; <b>JANEGITZ, B. C.</b> . Development and application of electrochemical sensors using conductive ink with carbon black and shellac for the detection of Paraquat. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 264,
+      "raw": "FARIA, B. S. ; PIASECKI, E. S. K. ; AZZI, D. C. ; GATTI, A. ; JANEGITZ, B. C. . Screen-printed disposable electrochemical sensors used for the biomarker L-dopa determination. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "FARIA, B. S.; PIASECKI, E. S. K.; AZZI, D. C.; GATTI, A.; JANEGITZ, B. C.",
+      "titulo": "Screen-printed disposable electrochemical sensors used for the biomarker L-dopa determination",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c9d4dce1f78e94f50c5f5d8d36c751bef80ebfc7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FARIA, B. S. ; PIASECKI, E. S. K. ; AZZI, D. C. ; GATTI, A. ; <b>JANEGITZ, B. C.</b> . Screen-printed disposable electrochemical sensors used for the biomarker L-dopa determination. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 265,
+      "raw": "CEZAR, A. L. M. ; FREITAS, R. C. ; JANEGITZ, B. C. . Disposable Printed Electrode Based on Chinese Shellac and Carbon Black for Melatonin Detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "CEZAR, A. L. M.; FREITAS, R. C.; JANEGITZ, B. C.",
+      "titulo": "Disposable Printed Electrode Based on Chinese Shellac and Carbon Black for Melatonin Detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bb1dad431e82485716ab7c096ac57414c863447f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CEZAR, A. L. M. ; FREITAS, R. C. ; <b>JANEGITZ, B. C.</b> . Disposable Printed Electrode Based on Chinese Shellac and Carbon Black for Melatonin Detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 266,
+      "raw": "FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; SILVA, V. A. O. P. ; CAMARGO, J. R. ; JANEGITZ, B. C. . Development of a novel conductive filament for electrochemical purposes and its application for sulfamethoxazole detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "FERNANDES JUNIOR, W. S.; ORZARI, L. O.; SILVA, V. A. O. P.; CAMARGO, J. R.; JANEGITZ, B. C.",
+      "titulo": "Development of a novel conductive filament for electrochemical purposes and its application for sulfamethoxazole detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c5bcc54b0f418be3240b1eff206be7ec11a81968",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES JUNIOR, W. S. ; ORZARI, L. O. ; SILVA, V. A. O. P. ; CAMARGO, J. R. ; <b>JANEGITZ, B. C.</b> . Development of a novel conductive filament for electrochemical purposes and its application for sulfamethoxazole detection. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 267,
+      "raw": "PIASECKI, E. S. K. ; FARIA, B. S. ; AZZI, D. C. ; GATTI, A. ; JANEGITZ, B. C. . Determination of Serotonin using commercial disposable electrodes. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024.",
+      "autores": "PIASECKI, E. S. K.; FARIA, B. S.; AZZI, D. C.; GATTI, A.; JANEGITZ, B. C.",
+      "titulo": "Determination of Serotonin using commercial disposable electrodes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c3397d05bec232bbb8bd0dbc8077232dca290904",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PIASECKI, E. S. K. ; FARIA, B. S. ; AZZI, D. C. ; GATTI, A. ; <b>JANEGITZ, B. C.</b> . Determination of Serotonin using commercial disposable electrodes. In: 1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos, 2024, Rio de Janeiro, RJ. Anais do 1° ENSBE 2024, 2024. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "livro": "1° Encontro Brasileiro Sobre Sensores e Biossensores Eletroquímicos"
+    },
+    {
+      "numero_item": 374,
+      "raw": "JANEGITZ, B. C. . Biossensores eletroquÃ­micos para fins clÃ­nicos e ambientais. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Biossensores eletroquÃ­micos para fins clÃ­nicos e ambientais",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1365a2b0aa6a39bf2503a34b0c026f6c211d49e0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Biossensores eletroquÃ­micos para fins clÃ­nicos e ambientais. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 375,
+      "raw": "JANEGITZ, B. C. . SENSORES E BIOSSENSORES ELETROQUÃMICOS VISANDO ANÃLISES CLÃNICAS E AMBIENTAIS. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "SENSORES E BIOSSENSORES ELETROQUÃMICOS VISANDO ANÃLISES CLÃNICAS E AMBIENTAIS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c42b93a90164b57b764614b92ab9077814ac11fe",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. SENSORES E BIOSSENSORES ELETROQUÃMICOS VISANDO ANÃLISES CLÃNICAS E AMBIENTAIS. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 376,
+      "raw": "JANEGITZ, B. C. . Fabrication of electrochemical devices for environmental and medical applications using printing techniques. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Fabrication of electrochemical devices for environmental and medical applications using printing techniques",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8433414e14b44f248af7589904135f121159c72c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Fabrication of electrochemical devices for environmental and medical applications using printing techniques. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 377,
+      "raw": "JANEGITZ, B. C. . Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "66931b9c3df5137a8390f8b8c8841bf369d5e146",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 378,
+      "raw": "JANEGITZ, B. C. . Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "66931b9c3df5137a8390f8b8c8841bf369d5e146",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Sensores e biossensores eletroquÃ­micos visando anÃ¡lises clÃ­nicas e ambientais. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 379,
+      "raw": "JANEGITZ, B. C. . Inovations in Sensors Design. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Inovations in Sensors Design",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4acd787b662bfe3d55dc915b0c4c77cb2d89c022",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Inovations in Sensors Design. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 403,
+      "raw": "JANEGITZ, B. C. . Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8d8b578b64f539240fbbc828333cd1ac3ce88206",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/ciencia/noticia/2025/10/22/pesquisadores-criam-sensor-sustentavel-para-detectar-substancia-cancerigena-proibida-em-bebidas.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 404,
+      "raw": "JANEGITZ, BRUNO . Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, BRUNO",
+      "titulo": "Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ce7470a5ec0c8b97afbccf33522d7e7f5f0e159c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, BRUNO</b>. Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olhardigital.com.br/2025/10/20/ciencia-e-espaco/nova-tecnologia-brasileira-identifica-conservante-proibido-em-agua-suco-e-vinho/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 405,
+      "raw": "JANEGITZ, B. C. . Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e3ba68f973de52b74360896ec9dbe9573a6e7ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agencia.fapesp.br/dispositivo-detecta-aditivo-proibido-em-vinho-suco-de-laranja-e-agua-mineral/56052')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.387844"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SILVA, L. R. ; GUTERRES E SILVA, LUIZ RICARDO ; GATTI, A. ; FONSECA, W. T. ; JANEGITZ, BRUNO CAMPOS ; AZZI, D. C. ; ALMEIDA, S. V. . DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD). 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR1020240127021, tÃ­tulo: \"DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD)\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 20/06/2024",
+      "autores": "SILVA, L. R.; GUTERRES E SILVA, LUIZ RICARDO; GATTI, A.; FONSECA, W. T.; JANEGITZ, BRUNO CAMPOS; AZZI, D. C.; ALMEIDA, S. V.",
+      "titulo": "DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fb1af2b8ea7a6b874d4155b53b7f4730af5d99b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR1020240127021&amp;idCNPq=7746094938977989&amp;sequencial=617\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>SILVA, L. R. ; GUTERRES E SILVA, LUIZ RICARDO ; GATTI, A. ; FONSECA, W. T. ; <b>JANEGITZ, BRUNO CAMPOS</b> ; AZZI, D. C. ; ALMEIDA, S. V. . DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFI",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:40.393391"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 1,
+      "raw": "CASTRO, P. S.; MATOS, R. C.; JANEGITZ, B. C. . ParticipaÃ§Ã£o em banca de RAYLLA SANTOS OLIVEIRA. \"Desenvolvimento de dispositivos de baixo custo impressos em 3D para o monitoramento voltamÃ©trico do herbicida diuron em amostras de bebidas e Ã¡gua\". 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de Juiz de Fora.",
+      "autores": "CASTRO, P. S.; MATOS, R. C.; JANEGITZ, B. C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de RAYLLA SANTOS OLIVEIRA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b4a7d369ce4eff0e67392659aff955a020932691",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASTRO, P. S.; MATOS, R. C.; <b>JANEGITZ, B. C.</b>.  ParticipaÃ§Ã£o em banca de RAYLLA SANTOS OLIVEIRA. \"Desenvolvimento de dispositivos de baixo custo impressos em 3D para o monitoramento voltamÃ©trico do herbicida diuron em amostras de bebidas e Ã¡gua\". 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de Juiz de Fora. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "\"Desenvolvimento de dispositivos de baixo custo impressos em 3D para o monitoramento voltamÃ©trico do herbicida diuron em amostras de bebidas e Ã¡gua\". 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de Juiz de Fora"
+    },
+    {
+      "numero_item": 2,
+      "raw": "FERREIRA, R. Q.; OLIVEIRA, J. P.; FREITAS, M. B. J. G.; JANEGITZ, B. C. . ParticipaÃ§Ã£o em banca de Jane Schneider de Medeiros. Desenvolvimento de uma metodologia eletroanalÃ­tica para detectar e quantificar ocratoxina A em amostras de cafÃ©. 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal do EspÃ­rito Santo.",
+      "autores": "FERREIRA, R. Q.; OLIVEIRA, J. P.; FREITAS, M. B. J. G.; JANEGITZ, B. C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Jane Schneider de Medeiros",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ebfbd097137ff2401e6c754324dbcaad3fc8e83c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERREIRA, R. Q.; OLIVEIRA, J. P.; FREITAS, M. B. J. G.; <b>JANEGITZ, B. C.</b>.  ParticipaÃ§Ã£o em banca de Jane Schneider de Medeiros. Desenvolvimento de uma metodologia eletroanalÃ­tica para detectar e quantificar ocratoxina A em amostras de cafÃ©. 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal do EspÃ­rito Santo. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "Desenvolvimento de uma metodologia eletroanalÃ­tica para detectar e quantificar ocratoxina A em amostras de cafÃ©. 2025. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal do EspÃ­rito Santo"
+    },
+    {
+      "numero_item": 3,
+      "raw": "HESPANHOL, M. C.; SILVA, T. A. ; CAMPOS JANEGITZ, BRUNO . ParticipaÃ§Ã£o em banca de Rafael Matias Silva. Filmes de Ã³xido de grafeno oriundo de grafite reciclado e de nanoestrutura de nÃ­quel em meio de solvente eutÃ©tico profundo para modificaÃ§Ã£o de eletrodos para fins eletroanalÃ­ticos. 2024. DissertaÃ§Ã£o (Mestrado em AgroquÃ­mica) - Universidade Federal de ViÃ§osa.",
+      "autores": "HESPANHOL, M. C.; SILVA, T. A.; CAMPOS JANEGITZ, BRUNO",
+      "titulo": "ParticipaÃ§Ã£o em banca de Rafael Matias Silva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "391e4df891e16bb8a45b0dc365ca2aee880ef2b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">HESPANHOL, M. C.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0577261810854086\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">SILVA, T. A.</a>; <b>CAMPOS JANEGITZ, BRUNO</b>.  ParticipaÃ§Ã£o em banca de Rafael Matias Silva. Filmes de Ã³xido de grafeno oriundo de grafite reciclado e de nanoestrutura de nÃ­quel em meio de solvente eutÃ©tico profundo para modificaÃ§Ã£o de eletrodos para fins eletroanalÃ­ticos. 2024. Di",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "Filmes de Ã³xido de grafeno oriundo de grafite reciclado e de nanoestrutura de nÃ­quel em meio de solvente eutÃ©tico profundo para modificaÃ§Ã£o de eletrodos para fins eletroanalÃ­ticos. 2024. DissertaÃ§Ã£o (Mestrado em AgroquÃ­mica) - Universidade Federal de ViÃ§osa"
+    },
+    {
+      "numero_item": 4,
+      "raw": "RICHTER, E. M.; SILVA, R. A. B.; JANEGITZ, BRUNO CAMPOS . ParticipaÃ§Ã£o em banca de Isabella Cristina Otoni Ferreira Silva. Desenvolvimento de um mÃ©todo analÃ­tico portÃ¡til baseado em impressÃ£o 3D para a determinaÃ§Ã£o de secnidazol em amostras apreendidas. 2024. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de UberlÃ¢ndia.",
+      "autores": "RICHTER, E. M.; SILVA, R. A. B.; JANEGITZ, BRUNO CAMPOS",
+      "titulo": "ParticipaÃ§Ã£o em banca de Isabella Cristina Otoni Ferreira Silva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "548f1b647583484be3218be717bedba9f6239682",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RICHTER, E. M.; SILVA, R. A. B.; <b>JANEGITZ, BRUNO CAMPOS</b>.  ParticipaÃ§Ã£o em banca de Isabella Cristina Otoni Ferreira Silva. Desenvolvimento de um mÃ©todo analÃ­tico portÃ¡til baseado em impressÃ£o 3D para a determinaÃ§Ã£o de secnidazol em amostras apreendidas. 2024. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de UberlÃ¢ndia. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "Desenvolvimento de um mÃ©todo analÃ­tico portÃ¡til baseado em impressÃ£o 3D para a determinaÃ§Ã£o de secnidazol em amostras apreendidas. 2024. DissertaÃ§Ã£o (Mestrado em QuÃ­mica) - Universidade Federal de UberlÃ¢ndia"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SOUTO, D. E. P.; JESUS, D. P.; SOARES, F. L. F.; ARAUJO, W. R.; JANEGITZ, B. C. . ParticipaÃ§Ã£o em banca de Camila Regina Erbereli. AVALIAÃÃO DE PROTEÃNAS SINTÃTICAS PARA CONSTRUÃÃO DE BIOSSENSORES PARA DIAGNÃSTICO DA CRIPTOCOCOSE. 2025 - Universidade Estadual de Campinas.",
+      "autores": "SOUTO, D. E. P.; JESUS, D. P.; SOARES, F. L. F.; ARAUJO, W. R.; JANEGITZ, B. C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Camila Regina Erbereli",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3fc7edb0ac352c98646e0f4c6fae0cb1604a6eaf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUTO, D. E. P.; JESUS, D. P.; SOARES, F. L. F.; ARAUJO, W. R.; <b>JANEGITZ, B. C.</b>.  ParticipaÃ§Ã£o em banca de Camila Regina Erbereli. AVALIAÃÃO DE PROTEÃNAS SINTÃTICAS PARA CONSTRUÃÃO DE BIOSSENSORES PARA DIAGNÃSTICO DA CRIPTOCOCOSE. 2025 - Universidade Estadual de Campinas. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "AVALIAÃÃO DE PROTEÃNAS SINTÃTICAS PARA CONSTRUÃÃO DE BIOSSENSORES PARA DIAGNÃSTICO DA CRIPTOCOCOSE. 2025 - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 15,
+      "raw": "BRETT, C. M. A.; RAPOSO, M. M. M.; BUENO, P. R.; COSTA, S. P. G.; JANEGITZ, B. C. . ParticipaÃ§Ã£o em banca de Erika Viviana Godoy Alarcon. Synthesis, Electronics and Electrochemical Properties of Electro-Active Peptide Structures and Heterocyclic Compounds. 2025. Tese (Doutorado em Quimica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "BRETT, C. M. A.; RAPOSO, M. M. M.; BUENO, P. R.; COSTA, S. P. G.; JANEGITZ, B. C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Erika Viviana Godoy Alarcon",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e63365836f9d2c21c6342a85e7724c81098bc796",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BRETT, C. M. A.; RAPOSO, M. M. M.; BUENO, P. R.; COSTA, S. P. G.; <b>JANEGITZ, B. C.</b>.  ParticipaÃ§Ã£o em banca de Erika Viviana Godoy Alarcon. Synthesis, Electronics and Electrochemical Properties of Electro-Active Peptide Structures and Heterocyclic Compounds. 2025. Tese (Doutorado em Quimica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "Synthesis"
+    },
+    {
+      "numero_item": 16,
+      "raw": "PAIXAO, T. R. L. C.; RICHTER, E. M.; SERRANO, S. H. P.; JANEGITZ, BRUNO C. . ParticipaÃ§Ã£o em banca de IANA VITÃRIA SPADINI ARANTES,. Desenvolvimento de sistemas eletroanalÃ­ticos integrados em plataformas alternativas visando aplicaÃ§Ãµes analÃ­ticas em fluxo. 2024. Tese (Doutorado em QuÃ­mica) - Universidade de SÃ£o Paulo.",
+      "autores": "PAIXAO, T. R. L. C.; RICHTER, E. M.; SERRANO, S. H. P.; JANEGITZ, BRUNO C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de IANA VITÃRIA SPADINI ARANTES,",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "83d6e6c85799abb25256b695d6be0a250ad6d0e7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PAIXAO, T. R. L. C.; RICHTER, E. M.; SERRANO, S. H. P.; <b>JANEGITZ, BRUNO C.</b>.  ParticipaÃ§Ã£o em banca de IANA VITÃRIA SPADINI ARANTES,. Desenvolvimento de sistemas eletroanalÃ­ticos integrados em plataformas alternativas visando aplicaÃ§Ãµes analÃ­ticas em fluxo. 2024. Tese (Doutorado em QuÃ­mica)  - Universidade de SÃ£o Paulo. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.410196"
+      },
+      "veiculo": "Desenvolvimento de sistemas eletroanalÃ­ticos integrados em plataformas alternativas visando aplicaÃ§Ãµes analÃ­ticas em fluxo. 2024. Tese (Doutorado em QuÃ­mica) - Universidade de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 1,
+      "raw": "XXIII B-MRS Meeting. Multiplexed immunosensor modified with Ni nanoparticles for early diagnosis of acute myocardial infarction. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Multiplexed immunosensor modified with Ni nanoparticles for early diagnosis of acute myocardial infarction",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d45b4baff2dcf95a0f475e3852bb9d731e860351",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XXIII B-MRS Meeting. Multiplexed immunosensor modified with Ni nanoparticles for early diagnosis of acute myocardial infarction. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.418939"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "The Electrochemical Society. Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5f07091a0ea787417f22ce87c977b3b09506a03c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">The Electrochemical Society. Preparation and Application of Manufactured Electrochemical Sensors for the Multiplexed Detection. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.418939"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "JANEGITZ, BRUNO CAMPOS . XXV SimpÃ³sio Brasileiro de EletroquÃ­mica e EletroanalÃ­tica. 2025. (Congresso).",
+      "autores": "JANEGITZ, BRUNO CAMPOS",
+      "titulo": "XXV SimpÃ³sio Brasileiro de EletroquÃ­mica e EletroanalÃ­tica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b16c0dd9d25b4824de8c222b0c4b36ce93891d47",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, BRUNO CAMPOS</b>. XXV SimpÃ³sio Brasileiro de EletroquÃ­mica e EletroanalÃ­tica. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.418939"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "CAMPOS JANEGITZ, BRUNO . XXIII B-MRS Meeting. 2025. (Congresso).",
+      "autores": "CAMPOS JANEGITZ, BRUNO",
+      "titulo": "XXIII B-MRS Meeting",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "134072e81da93574d345899fbd4ac68136d06434",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>CAMPOS JANEGITZ, BRUNO</b>. XXIII B-MRS Meeting. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.418939"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "C. Janegitz, Bruno . IV ReuniÃ£o Bienal da Sociedade Brasileira de EletroquÃ­mica e EletroanalÃ­tica. 2024. (Congresso).",
+      "autores": "C. Janegitz, Bruno",
+      "titulo": "IV ReuniÃ£o Bienal da Sociedade Brasileira de EletroquÃ­mica e EletroanalÃ­tica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "612d06979c19d412a780f6c331b8c01db5c0fc64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>C. Janegitz, Bruno</b>. IV ReuniÃ£o Bienal da Sociedade Brasileira de EletroquÃ­mica e EletroanalÃ­tica. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.418939"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Arielly Cardoso. Estudo da influÃªncia de Ã³leos como plastificantes na produÃ§Ã£o de filamentos utilizados para sensores impressos por manufatura aditiva. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Estudo da influÃªncia de Ã³leos como plastificantes na produÃ§Ã£o de filamentos utilizados para sensores impressos por manufatura aditiva",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ffe40e37dd8e7d29cb48da6f70cfbe157dcc0308",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5734965425331175\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Arielly Cardoso. Estudo da influÃªncia de Ã³leos como plastificantes na produÃ§Ã£o de filamentos utilizados para sensores impressos por manufatura aditiva.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Engenharia dos Materiais)  - Universidade Federal de SÃ£o Carlos, Coor",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Amanda Neumann. Desenvolvimento de dispositivos eletroquÃ­micos multiplexados para anÃ¡lises de drogas ilÃ­citas e testes de doping. InÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "Desenvolvimento de dispositivos eletroquÃ­micos multiplexados para anÃ¡lises de drogas ilÃ­citas e testes de doping",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e6c6d81d4d9fb2d811b1c9e41ac5e964e7b5214d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9678893655833790\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Amanda Neumann. Desenvolvimento de dispositivos eletroquÃ­micos multiplexados para anÃ¡lises de drogas ilÃ­citas e testes de doping.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais)  - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Pa",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 3,
+      "raw": "JoÃ£o Pedro de Carvalho Silva. Sensores EletroquÃ­micos impressos para a detecÃ§Ã£o de agrotÃ³xicos em amostras agrÃ­colas e ambientais. InÃ­cio: 2025. Tese (Doutorado em CiÃ«ncia e Engenharia de Materiais) - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Sensores EletroquÃ­micos impressos para a detecÃ§Ã£o de agrotÃ³xicos em amostras agrÃ­colas e ambientais",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "26dd0a14c5249081bf0f9966b130c459a9d82b0f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/0861882570608410\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>JoÃ£o Pedro de Carvalho Silva. Sensores EletroquÃ­micos impressos para a detecÃ§Ã£o de agrotÃ³xicos em amostras agrÃ­colas e ambientais.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃ«ncia e Engenharia de Materiais)  - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃ«ncia e Engenharia de Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Rafaela Cristina de Freitas. Sensores impressos vestÃ­veis para a detecÃ§Ã£o de analitos de interesse clÃ­nico. InÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Sensores impressos vestÃ­veis para a detecÃ§Ã£o de analitos de interesse clÃ­nico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d947c9ed288221a5d0160a6e4f73f822b7d7564",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1142587683202928\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Rafaela Cristina de Freitas. Sensores impressos vestÃ­veis para a detecÃ§Ã£o de analitos de interesse clÃ­nico.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais)  - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientad",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncia e Engenharia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Mariana Ashley de Jesus. Desenvolvimento de cÃ©lula eletroquÃ­mica em 3D com dois eletrodos de trabalho para detecÃ§Ã£o de Ciprofibrato. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica) - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Desenvolvimento de cÃ©lula eletroquÃ­mica em 3D com dois eletrodos de trabalho para detecÃ§Ã£o de Ciprofibrato",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "37f731822a6ca7fe827e7aa5cc091189d942b004",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Mariana Ashley de Jesus. Desenvolvimento de cÃ©lula eletroquÃ­mica em 3D com dois eletrodos de trabalho para detecÃ§Ã£o de Ciprofibrato. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica)  - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Beatriz Fernandes Germinare. PREPARAÃÃO DE SENSORES ELETROQUÃMICOS A PARTIR DE FOLHAS DE ÃRVORES USANDO PIRÃLISE Ã LASER DE CO2. InÃ­cio: 2024 - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "PREPARAÃÃO DE SENSORES ELETROQUÃMICOS A PARTIR DE FOLHAS DE ÃRVORES USANDO PIRÃLISE Ã LASER DE CO2",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d724b5f1c5b610d71c8b64ace14399a9d1be20b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Fernandes Germinare. PREPARAÃÃO DE SENSORES ELETROQUÃMICOS A PARTIR DE FOLHAS DE ÃRVORES USANDO PIRÃLISE Ã LASER DE CO2. InÃ­cio: 2024 - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "InÃ­cio: 2024 - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Wilson da Silva Fernandes Junior. Novos filamentos condutores para a fabricaÃ§Ã£o de sensores eletroquÃ­micos utilizados na detecÃ§Ã£o de antibiÃ³ticos.. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Novos filamentos condutores para a fabricaÃ§Ã£o de sensores eletroquÃ­micos utilizados na detecÃ§Ã£o de antibiÃ³ticos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "18f3da205f2e1dbadd161defe3b7cba469970198",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1817819152221589\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Wilson da Silva Fernandes Junior. Novos filamentos condutores para a fabricaÃ§Ã£o de sensores eletroquÃ­micos utilizados na detecÃ§Ã£o de antibiÃ³ticos..\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CiÃªncia dos Materiais)  - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de P",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Rafaela Cristina de Freitas. Novos sensores eletroquÃ­micos serigrafados de baixo custo para a detecÃ§Ã£o de doenÃ§as neurodegenerativas.. 2025. DissertaÃ§Ã£o (Mestrado em CiÃ«ncia e Engenharia de Materiais) - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Novos sensores eletroquÃ­micos serigrafados de baixo custo para a detecÃ§Ã£o de doenÃ§as neurodegenerativas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "78ef7c9bfc0ada097081f001ee02009000407ce8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1142587683202928\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Rafaela Cristina de Freitas. Novos sensores eletroquÃ­micos serigrafados de baixo custo para a detecÃ§Ã£o de doenÃ§as neurodegenerativas..\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CiÃ«ncia e Engenharia de Materiais)  - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pess",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em CiÃ«ncia e Engenharia de Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 19,
+      "raw": "Luiz OtÃ¡vio Orzari. NANOPARTÃCULAS METÃLICAS PARA DIFERENTES ARQUITETURAS DE DISPOSITIVOS ELETROQUÃMICOS. 2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "NANOPARTÃCULAS METÃLICAS PARA DIFERENTES ARQUITETURAS DE DISPOSITIVOS ELETROQUÃMICOS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b8ad8b769ba2e4e31eada48a68bec429399cdbee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3384547719546332\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Luiz OtÃ¡vio Orzari.\n\t\t\t\t\t\tNANOPARTÃCULAS METÃLICAS PARA DIFERENTES ARQUITETURAS DE DISPOSITIVOS ELETROQUÃMICOS.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em CiÃªncia dos Materiais)  - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Ja",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 20,
+      "raw": "JÃ©ssica Rocha Camargo. Desenvolvimento de dispositivos descartÃ¡veis com tintas condutoras e substratos de baixo custo para o biossensoriamento de disfunÃ§Ãµes hormonais e detecÃ§Ã£o de MalÃ¡ria. 2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Desenvolvimento de dispositivos descartÃ¡veis com tintas condutoras e substratos de baixo custo para o biossensoriamento de disfunÃ§Ãµes hormonais e detecÃ§Ã£o de MalÃ¡ria",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "21b0c7368018089a33aaa7b45adfe4626c9be6c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9100622529120988\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>JÃ©ssica Rocha Camargo.\n\t\t\t\t\t\tDesenvolvimento de dispositivos descartÃ¡veis com tintas condutoras e substratos de baixo custo para o biossensoriamento de disfunÃ§Ãµes hormonais e detecÃ§Ã£o de MalÃ¡ria.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em CiÃªncia dos Materiais)  - Universidade Federal de SÃ£o Carlos",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 21,
+      "raw": "Luiz Ricardo Guterres e Silva. (BIO)SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D E NOVOS FILAMENTOS CONDUTIVOS APLICADOS Ã QUÃMICA ANALÃTICA. 2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "(BIO)SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D E NOVOS FILAMENTOS CONDUTIVOS APLICADOS Ã QUÃMICA ANALÃTICA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6b68917a25e92760c576b6e1331ecfbc2b75175e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5070002836256112\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Luiz Ricardo Guterres e Silva.\n\t\t\t\t\t\t(BIO)SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D E NOVOS FILAMENTOS CONDUTIVOS APLICADOS Ã QUÃMICA ANALÃTICA.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em CiÃªncia dos Materiais)  - Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2024. Tese (Doutorado em CiÃªncia dos Materiais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 25,
+      "raw": "JÃ©ssica Rocha Camargo. 2024. Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Bruno Campos Janegitz",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ce10e8c911047b4aa4a0b1d5fed4f024509f039b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JÃ©ssica Rocha Camargo.\n\t\t\t\t\t\t2024. Universidade Federal de SÃ£o Carlos, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Bruno Campos Janegitz. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      }
+    },
+    {
+      "numero_item": 26,
+      "raw": "Luiz OtÃ¡vio Orzari. 2024. Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Bruno Campos Janegitz",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fd995179c6cbf4c2ec7f277710d76707fef15b18",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luiz OtÃ¡vio Orzari.\n\t\t\t\t\t\t2024. Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Bruno Campos Janegitz. </span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      }
+    },
+    {
+      "numero_item": 33,
+      "raw": "Brunna Ferri Henriques. DESENVOLVIMENTO E APLICAÃÃO DE SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D PARA A DETECÃÃO DE CIPROFLOXACINA. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "DESENVOLVIMENTO E APLICAÃÃO DE SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D PARA A DETECÃÃO DE CIPROFLOXACINA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "28a983d3b41e2975756b7363d1f4aa7761a96ac8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Brunna Ferri Henriques.\n\t\t\t\t\t\tDESENVOLVIMENTO E APLICAÃÃO DE SENSORES ELETROQUÃMICOS IMPRESSOS EM 3D PARA A DETECÃÃO DE CIPROFLOXACINA.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica)  - Universidade Federal de SÃ£o Carlos,\n\t\t\t\t\t\tFundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 34,
+      "raw": "Amanda Neumann. AvaliaÃ§Ã£o das propriedades de diferentes grafites atravÃ©s do desenvolvimento de sensores eletro quÃ­micos para detecÃ§Ã£o de compostos fenÃ³licos. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o das propriedades de diferentes grafites atravÃ©s do desenvolvimento de sensores eletro quÃ­micos para detecÃ§Ã£o de compostos fenÃ³licos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0fc9d4aa09561f3025c878bf50e5258644523fdb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Amanda Neumann.\n\t\t\t\t\t\tAvaliaÃ§Ã£o das propriedades de diferentes grafites atravÃ©s do desenvolvimento de sensores eletro quÃ­micos para detecÃ§Ã£o de compostos fenÃ³licos.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica)  - Universidade Federal de SÃ£o Carlos,\n\t\t\t\t\t\tFundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Orientador: Bruno Campos Janegitz.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 35,
+      "raw": "Gabriella Simon Limeira. Sensor eletroquÃ­mico impresso em 3D utilizando filamento negro de fumo, Ã¡cido polilÃ¡tico, polipropileno e Ã³leo de coco para detecÃ§Ã£o de Carbaril. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Sensor eletroquÃ­mico impresso em 3D utilizando filamento negro de fumo, Ã¡cido polilÃ¡tico, polipropileno e Ã³leo de coco para detecÃ§Ã£o de Carbaril",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2a03222b79c7ebaadc632347088d65883688bb7c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriella Simon Limeira.\n\t\t\t\t\t\tSensor eletroquÃ­mico impresso em 3D utilizando filamento negro de fumo, Ã¡cido polilÃ¡tico, polipropileno e Ã³leo  de coco para detecÃ§Ã£o de Carbaril.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica)  - Universidade Federal de SÃ£o Carlos,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Bruno Campos Janegitz.\n\t\t\t\t\t</",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Licenciatura Plena em QuÃ­mica) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 43,
+      "raw": "Larissa Arruda da Silva. Desenvolvimento e aplicaÃ§Ã£o de sensores eletroquÃ­micos utilizando tinta condutora com Carbon Black para a detecÃ§Ã£o de Bisfenol A e Paraquat. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em QuÃ­mica) - Universidade Federal de SÃ£o Carlos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Bruno Campos Janegitz.",
+      "autores": null,
+      "titulo": "Desenvolvimento e aplicaÃ§Ã£o de sensores eletroquÃ­micos utilizando tinta condutora com Carbon Black para a detecÃ§Ã£o de Bisfenol A e Paraquat",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e282ba35667aace1612f576915409e069d56a04e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Larissa Arruda da Silva.\n\t\t\t\t\t\tDesenvolvimento e aplicaÃ§Ã£o de sensores eletroquÃ­micos utilizando tinta condutora com Carbon Black para a detecÃ§Ã£o de Bisfenol A e Paraquat.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em QuÃ­mica)  - Universidade Federal de SÃ£o Carlos,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Bruno Campos Janegitz.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.431400"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em QuÃ­mica) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 4,
+      "raw": "SILVA, L. R. ; GUTERRES E SILVA, LUIZ RICARDO ; GATTI, A. ; FONSECA, W. T. ; JANEGITZ, BRUNO CAMPOS ; AZZI, D. C. ; ALMEIDA, S. V. . DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD). 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR1020240127021, tÃ­tulo: \"DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD)\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 20/06/2024",
+      "autores": "SILVA, L. R.; GUTERRES E SILVA, LUIZ RICARDO; GATTI, A.; FONSECA, W. T.; JANEGITZ, BRUNO CAMPOS; AZZI, D. C.; ALMEIDA, S. V.",
+      "titulo": "DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFICAÃÃO DE CREATININA, MÃTODO DE DETECÃÃO E QUANTIFICAÃÃO DE CREATINA, PROCESSO DE FABRICAÃÃO DO DISPOSITO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) E USO DO DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fb1af2b8ea7a6b874d4155b53b7f4730af5d99b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR1020240127021&amp;idCNPq=7746094938977989&amp;sequencial=617\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>SILVA, L. R. ; GUTERRES E SILVA, LUIZ RICARDO ; GATTI, A. ; FONSECA, W. T. ; <b>JANEGITZ, BRUNO CAMPOS</b> ; AZZI, D. C. ; ALMEIDA, S. V. . DISPOSITIVO MICROFLUÃDICO BASEADO EM PAPEL (μPAD) PARA TESTE DE DETECÃÃO E QUANTIFI",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:40.433685"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 27,
+      "raw": "JANEGITZ, B. C. . Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8d8b578b64f539240fbbc828333cd1ac3ce88206",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Pesquisadores criam sensor sustentÃ¡vel para detectar substÃ¢ncia cancerÃ­gena proibida em bebidas. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/ciencia/noticia/2025/10/22/pesquisadores-criam-sensor-sustentavel-para-detectar-substancia-cancerigena-proibida-em-bebidas.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.439935"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 28,
+      "raw": "JANEGITZ, BRUNO . Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, BRUNO",
+      "titulo": "Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ce7470a5ec0c8b97afbccf33522d7e7f5f0e159c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, BRUNO</b>. Nova tecnologia brasileira identifica conservante proibido em Ã¡gua, suco e vinho. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olhardigital.com.br/2025/10/20/ciencia-e-espaco/nova-tecnologia-brasileira-identifica-conservante-proibido-em-agua-suco-e-vinho/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.439935"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 29,
+      "raw": "JANEGITZ, B. C. . Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral. 2025. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "JANEGITZ, B. C.",
+      "titulo": "Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e3ba68f973de52b74360896ec9dbe9573a6e7ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>JANEGITZ, B. C.</b>. Dispositivo pode detectar aditivo proibido em vinho, suco de laranja e Ã¡gua mineral. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agencia.fapesp.br/dispositivo-detecta-aditivo-proibido-em-vinho-suco-de-laranja-e-agua-mineral/56052')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "7746094938977989__bruno-campos-janegitz.full_profile.html",
+        "lattes_id": "7746094938977989",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.439935"
+      },
+      "veiculo": "2025. (Programa de rÃ¡dio ou TV/Entrevista)"
+    }
+  ]
+}

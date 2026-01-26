@@ -1,0 +1,2603 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "8657413561406750",
+    "full_name": "Gerson Araujo de Medeiros",
+    "slug": "gerson-araujo-de-medeiros",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:41.864853",
+    "source_file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+    "total_productions": 142,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 72,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 14,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 13,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 42,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 1,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "RAMOS, RYAN CAMIM 2025 RAMOS, RYAN CAMIM ; MEDEIROS, GERSON ARAUJO DE ; MANCINI, SANDRO DONNINI . Potential for circular economy of the briquetting process of steel chips generated in a metallurgical industry in the metropolitan region of Sorocaba, São Paulo State, Brazil. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 18, p. e3597, 2025.",
+      "autores": "RAMOS, RYAN CAMIM RAMOS, RYAN CAMIM; MEDEIROS, GERSON ARAUJO DE; MANCINI, SANDRO DONNINI",
+      "titulo": "Potential for circular economy of the briquetting process of steel chips generated in a metallurgical industry in the metropolitan region of Sorocaba, São Paulo State, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/rdelosv18.n63-086",
+      "fingerprint_sha1": "d69bdadf486b356620bf3126b43c89d0c35a3981",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RAMOS, RYAN CAMIM</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv18.n63-086\" target=\"_blank\"></a>RAMOS, RYAN CAMIM ; <b>MEDEIROS, GERSON ARAUJO DE</b> ; MANCINI, SANDRO DONNINI . Potential for circul",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 2,
+      "raw": "BARBOSA, JULIANA THOMAZ LEFLOCH 2025 BARBOSA, JULIANA THOMAZ LEFLOCH ; MANCINI, SANDRO DONNINI ; MARANDUBA, HENRIQUE LEONARDO ; SOUZA, RICARDO GABBAY DE ; MEDEIROS, GERSON ARAUJO DE ; BELLI, MARIA CRISTINA AMBROSETTI DE SOUZA . Avaliando os impactos ambientais de um parque fabril de eletroeletrônicos a partir de cenários sobre resíduos sólidos. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 18, p. e3793, 2025.",
+      "autores": "BARBOSA, JULIANA THOMAZ LEFLOCH BARBOSA, JULIANA THOMAZ LEFLOCH; MANCINI, SANDRO DONNINI; MARANDUBA, HENRIQUE LEONARDO; SOUZA, RICARDO GABBAY DE; MEDEIROS, GERSON ARAUJO DE; BELLI, MARIA CRISTINA AMBROSETTI DE SOUZA",
+      "titulo": "Avaliando os impactos ambientais de um parque fabril de eletroeletrônicos a partir de cenários sobre resíduos sólidos",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/rdelosv18.n63-184",
+      "fingerprint_sha1": "4f77462147274cecf9a51c497c33931f8b50635a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARBOSA, JULIANA THOMAZ LEFLOCH</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv18.n63-184\" target=\"_blank\"></a>BARBOSA, JULIANA THOMAZ LEFLOCH ; MANCINI, SANDRO DONNINI ; MARANDUBA, HENRIQUE LEONARDO",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 3,
+      "raw": "COSTA, ALBINA SANTOS 2025 COSTA, ALBINA SANTOS ; CHAVES, JÔ VINICIUS BARROZO ; MEDEIROS, GERSON ARAUJO DE . Temporal analysis of eutrophication and water toxicity in the Jundiaí Mirim river basin, São Paulo State, Brazil. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 18, p. e3870, 2025.",
+      "autores": "COSTA, ALBINA SANTOS COSTA, ALBINA SANTOS; CHAVES, JÔ VINICIUS BARROZO; MEDEIROS, GERSON ARAUJO DE",
+      "titulo": "Temporal analysis of eutrophication and water toxicity in the Jundiaí Mirim river basin, São Paulo State, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/rdelosv18.n63-209",
+      "fingerprint_sha1": "42ca3b76878ef26ce799ed94a4663ab1d72ab29c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">COSTA, ALBINA SANTOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv18.n63-209\" target=\"_blank\"></a>COSTA, ALBINA SANTOS ; CHAVES, JÔ VINICIUS BARROZO ; <b>MEDEIROS, GERSON ARAUJO DE</b> . Temporal a",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 4,
+      "raw": "JACOB, WELLINGTON DE ARRUDA 2025 JACOB, WELLINGTON DE ARRUDA ; MEDEIROS, GERSON ARAUJO DE . CORRELATION OF TRADITIONAL AND SCIENTIFIC KNOWLEDGE: DIALOGUES ON ENVIRONMENTAL PRESERVATION FROM QUILOMBOLA EXPERIENCE. JOURNAL OF MEDIA CRITIQUES (ONLINE) , v. 11, p. e228, 2025.",
+      "autores": "JACOB, WELLINGTON DE ARRUDA JACOB, WELLINGTON DE ARRUDA; MEDEIROS, GERSON ARAUJO DE",
+      "titulo": "CORRELATION OF TRADITIONAL AND SCIENTIFIC KNOWLEDGE: DIALOGUES ON ENVIRONMENTAL PRESERVATION FROM QUILOMBOLA EXPERIENCE",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.17349/jmcv11n27-030",
+      "fingerprint_sha1": "bf542ba8267d61b717ea19e11a692ac17f4c2a58",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">JACOB, WELLINGTON DE ARRUDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.17349/jmcv11n27-030\" target=\"_blank\"></a>JACOB, WELLINGTON DE ARRUDA ; <b>MEDEIROS, GERSON ARAUJO DE</b> . CORRELATION OF TRADITIONAL AND",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "JOURNAL OF MEDIA CRITIQUES (ONLINE)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "ARAUJO, LETÍCIA MEDEIROS DE 2025 ARAUJO, LETÍCIA MEDEIROS DE ; GIANELLI, BRUNO FERNANDO ; MANCINI, SANDRO DONNINI ; MEDEIROS, GERSON ARAUJO DE . Life cycle assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. Brazilian Journal of Science , v. 4, p. 13-28, 2025.",
+      "autores": "ARAUJO, LETÍCIA MEDEIROS DE ARAUJO, LETÍCIA MEDEIROS DE; GIANELLI, BRUNO FERNANDO; MANCINI, SANDRO DONNINI; MEDEIROS, GERSON ARAUJO DE",
+      "titulo": "Life cycle assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.14295/bjs.v4i4.719",
+      "fingerprint_sha1": "7422003185af7e0e3b826d3784ba7a9e49d3dae2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ARAUJO, LETÍCIA MEDEIROS DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.14295/bjs.v4i4.719\" target=\"_blank\"></a>ARAUJO, LETÍCIA MEDEIROS DE ; GIANELLI, BRUNO FERNANDO ; MANCINI, SANDRO DONNINI ; <b>MEDEIROS, G",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "Brazilian Journal of Science"
+    },
+    {
+      "numero_item": 6,
+      "raw": "DA SILVA, PEDRO HENRIQUE GRANGEIRO 2025 DA SILVA, PEDRO HENRIQUE GRANGEIRO ; DE MEDEIROS, GERSON ARAUJO . ADVANCES AND CHALLENGES OF THE CIRCULAR ECONOMY IN THE TIRE INDUSTRYAVANCES Y DESAFÍOS DE LA ECONOMÍA CIRCULAR EN LA INDUSTRIA DEL NEUMÁTICOAVANÇOS E DESAFIOS DA ECONOMIA CIRCULAR NA INDÚSTRIA DE PNEUMÁTICOS. LUMEN ET VIRTUS , v. 16, p. e9788, 2025.",
+      "autores": "DA SILVA, PEDRO HENRIQUE GRANGEIRO DA SILVA, PEDRO HENRIQUE GRANGEIRO; DE MEDEIROS, GERSON ARAUJO",
+      "titulo": "ADVANCES AND CHALLENGES OF THE CIRCULAR ECONOMY IN THE TIRE INDUSTRYAVANCES Y DESAFÍOS DE LA ECONOMÍA CIRCULAR EN LA INDUSTRIA DEL NEUMÁTICOAVANÇOS E DESAFIOS DA ECONOMIA CIRCULAR NA INDÚSTRIA DE PNEUMÁTICOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.56238/levv16n54-039",
+      "fingerprint_sha1": "ac2258f1fae44ed77154319ae798471d6c849c7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, PEDRO HENRIQUE GRANGEIRO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.56238/levv16n54-039\" target=\"_blank\"></a>DA SILVA, PEDRO HENRIQUE GRANGEIRO ; <b>DE MEDEIROS, GERSON ARAUJO</b> . ADVANCES AND CHA",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "LUMEN ET VIRTUS"
+    },
+    {
+      "numero_item": 7,
+      "raw": "DE NADAI, REGIANE 2024 DE NADAI, REGIANE ; DE MEDEIROS, GERSON ARAÚJO . Análise prospectiva para o setor aquícola em áreas periurbanas da região metropolitana de São Paulo, Brasil. CONTRIBUCIONES A LAS CIENCIAS SOCIALES , v. 17, p. e5081, 2024.",
+      "autores": "DE NADAI, REGIANE DE NADAI, REGIANE; DE MEDEIROS, GERSON ARAÚJO",
+      "titulo": "Análise prospectiva para o setor aquícola em áreas periurbanas da região metropolitana de São Paulo, Brasil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/revconv.17n.2-294",
+      "fingerprint_sha1": "bb8f8bd7e28521b0b0013e5ec3451b70840080c8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE NADAI, REGIANE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/revconv.17n.2-294\" target=\"_blank\"></a>DE NADAI, REGIANE ; <b>DE MEDEIROS, GERSON ARAÚJO</b> . Análise prospectiva para o setor aquícola em á",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Nogueira, Lucidalva Rodrigues de Souza 2024 Nogueira, Lucidalva Rodrigues de Souza ; MEDEIROS, GERSON ARAÚJO DE . Planejamento estratégico: análise dos ambientes internos e externos de parques eólicos onshore do Brasil. CONTRIBUCIONES A LAS CIENCIAS SOCIALES , v. 17, p. e6414, 2024.",
+      "autores": "Nogueira, Lucidalva Rodrigues de Souza Nogueira, Lucidalva Rodrigues de Souza; MEDEIROS, GERSON ARAÚJO DE",
+      "titulo": "Planejamento estratégico: análise dos ambientes internos e externos de parques eólicos onshore do Brasil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/revconv.17n.5-054",
+      "fingerprint_sha1": "ed1b19291ae7e7b28ef12d2a33b97c81d508bbf4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Nogueira, Lucidalva Rodrigues de Souza</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/revconv.17n.5-054\" target=\"_blank\"></a>Nogueira, Lucidalva Rodrigues de Souza ; <b>MEDEIROS, GERSON ARAÚJO DE</b> . Plan",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES"
+    },
+    {
+      "numero_item": 9,
+      "raw": "FERRAZ, CAMILA PORFIRIO ALBUQUERQUE 2024 FERRAZ, CAMILA PORFIRIO ALBUQUERQUE ; MANOEL, MÁRCIA PEREIRA DA SILVA ; CHAVES, JÔ VINÍCIUS BARROZO ; AIELLO, LUIZ HENRIQUE FREGUGLIA ; SILVA, GISLENE SALES DA ; DE MEDEIROS, GERSON ARAÚJO ; RIBEIRO, ADMILSON ÍRIO . Environmental Impacts of Mechanized Timber Harvesting in Eucalyptus Plantations in Brazil. Forests , v. 15, p. 1291, 2024.",
+      "autores": "FERRAZ, CAMILA PORFIRIO ALBUQUERQUE FERRAZ, CAMILA PORFIRIO ALBUQUERQUE; MANOEL, MÁRCIA PEREIRA DA SILVA; CHAVES, JÔ VINÍCIUS BARROZO; AIELLO, LUIZ HENRIQUE FREGUGLIA; SILVA, GISLENE SALES DA; DE MEDEIROS, GERSON ARAÚJO; RIBEIRO, ADMILSON ÍRIO",
+      "titulo": "Environmental Impacts of Mechanized Timber Harvesting in Eucalyptus Plantations in Brazil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3390/f15081291",
+      "fingerprint_sha1": "e30f4c8e3c9572277f6f10dbc7b4c748941850d9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERRAZ, CAMILA PORFIRIO ALBUQUERQUE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/f15081291\" target=\"_blank\"></a>FERRAZ, CAMILA PORFIRIO ALBUQUERQUE ; MANOEL, MÁRCIA PEREIRA DA SILVA ; CHAVES, JÔ VINÍCIUS B",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "Forests"
+    },
+    {
+      "numero_item": 10,
+      "raw": "RIBAS, JOSÉ ANTONIO 2024 RIBAS, JOSÉ ANTONIO ; MANCINI, SANDRO DONNINI ; MEDEIROS, GERSON ARAUJO DE ; ANTUNES, MARIA LÚCIA PEREIRA ; PAES, MICHEL XOCAIRA . Quando a solução traz um problema: a logísitc reversa de livros didáticos desatualizados ou irrecuperáveis. CONTRIBUCIONES A LAS CIENCIAS SOCIALES , v. 17, p. e10060, 2024.",
+      "autores": "RIBAS, JOSÉ ANTONIO RIBAS, JOSÉ ANTONIO; MANCINI, SANDRO DONNINI; MEDEIROS, GERSON ARAUJO DE; ANTUNES, MARIA LÚCIA PEREIRA; PAES, MICHEL XOCAIRA",
+      "titulo": "Quando a solução traz um problema: a logísitc reversa de livros didáticos desatualizados ou irrecuperáveis",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/revconv.17n.8-555",
+      "fingerprint_sha1": "bc6e7b611fb68e412fe41c1dca07fcc1243a11e9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RIBAS, JOSÉ ANTONIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/revconv.17n.8-555\" target=\"_blank\"></a>RIBAS, JOSÉ ANTONIO ; MANCINI, SANDRO DONNINI ; <b>MEDEIROS, GERSON ARAUJO DE</b> ; ANTUNES, MARIA L",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES"
+    },
+    {
+      "numero_item": 11,
+      "raw": "KAMIMURA, CAMILA OLIVEIRA 2024 KAMIMURA, CAMILA OLIVEIRA ; MANCINI, SANDRO DONNINI ; GIANELLI, BRUNO FERNANDO ; SOUZA, RICARDO GABBAY DE ; MEDEIROS, GERSON ARAUJO DE ; WATANABE, CLÁUDIA HITOMI . Comparação ambiental de duas embalagens usando ACV: estudo de caso. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 17, p. e2995-27, 2024.",
+      "autores": "KAMIMURA, CAMILA OLIVEIRA KAMIMURA, CAMILA OLIVEIRA; MANCINI, SANDRO DONNINI; GIANELLI, BRUNO FERNANDO; SOUZA, RICARDO GABBAY DE; MEDEIROS, GERSON ARAUJO DE; WATANABE, CLÁUDIA HITOMI",
+      "titulo": "Comparação ambiental de duas embalagens usando ACV: estudo de caso",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/rdelosv17.n62-011",
+      "fingerprint_sha1": "5f20e6d96a3071e836d58ecb130ab5c308394011",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">KAMIMURA, CAMILA OLIVEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv17.n62-011\" target=\"_blank\"></a>KAMIMURA, CAMILA OLIVEIRA ; MANCINI, SANDRO DONNINI ; GIANELLI, BRUNO FERNANDO ; SOUZA, RICARD",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 12,
+      "raw": "SUARIS, LÍDIA DORNA 2024 SUARIS, LÍDIA DORNA ; MANCINI, SANDRO DONNINI ; MANFREDINI, FÁBIO NAVARRO ; MEDEIROS, GERSON ARAUJO DE ; MUNHOZ, EDUARDO ANTONIO PIRES ; MOTA, MAURICIO TAVARES DA . Aspectos legais e operacionais da gestão de resíduos sólidos: estudo de caso em Araçoiaba da Serra-SP. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 17, p. e3042, 2024.",
+      "autores": "SUARIS, LÍDIA DORNA SUARIS, LÍDIA DORNA; MANCINI, SANDRO DONNINI; MANFREDINI, FÁBIO NAVARRO; MEDEIROS, GERSON ARAUJO DE; MUNHOZ, EDUARDO ANTONIO PIRES; MOTA, MAURICIO TAVARES DA",
+      "titulo": "Aspectos legais e operacionais da gestão de resíduos sólidos: estudo de caso em Araçoiaba da Serra-SP",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/rdelosv17.n62-037",
+      "fingerprint_sha1": "941fb61a082e987277e9013dd9d020e8f1fc3314",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SUARIS, LÍDIA DORNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv17.n62-037\" target=\"_blank\"></a>SUARIS, LÍDIA DORNA ; MANCINI, SANDRO DONNINI ; MANFREDINI, FÁBIO NAVARRO ; <b>MEDEIROS, GERSON ARAU",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 130,
+      "raw": "Balcone, Thamiris Oliveira ; MEDEIROS, GERSON ARAUJO DE . Você quer ou você precisa ?: relatos do projeto de educação ambiental no ambiente escolar. In: José Henrique Porto Silveira. (Org.). Sustentabilidade, Meio Ambiente e Responsabilidade Social: Artigos Selecionados - Volume 4. 1ed.Belo Horizonte: Editora Poisson, 2024, v. 4, p. 7-15.",
+      "autores": "Balcone, Thamiris Oliveira; MEDEIROS, GERSON ARAUJO DE",
+      "titulo": "Você quer ou você precisa ?: relatos do projeto de educação ambiental no ambiente escolar",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.36229/978-65-5866-431-4.CAP.01",
+      "fingerprint_sha1": "69a997f913d4703275a749edb12e691e41f12d7c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.36229/978-65-5866-431-4.CAP.01\" target=\"_blank\"></a>Balcone, Thamiris Oliveira ; <b>MEDEIROS, GERSON ARAUJO DE</b> . Você quer ou você precisa ?: relatos do projeto de educação ambiental no ambiente escolar. In: José Henrique Porto Silveira. (Org.). Sustentabilidade, Meio Ambiente e Responsabilidade Social: Artigos Selecionados - Volume 4. 1ed.Belo Horizonte: Editora Poi",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "José Henrique Porto Silveira"
+    },
+    {
+      "numero_item": 175,
+      "raw": "ARAÚJO, LAÍS MEDEIROS DE ; de Medeiros, G.A. . Avaliação da gestão de parques lineares na Amazônia: estudo de caso em Rio Branco, estado do Acre, Brasil. In: Workshop Internacional Sustentare & Wipis 2025, 2025, Campinas. Anais. Campinas: PUCCAMP, 2025. v. 1. p. 1-12.",
+      "autores": "ARAÚJO, LAÍS MEDEIROS DE; de Medeiros, G.A.",
+      "titulo": "Avaliação da gestão de parques lineares na Amazônia: estudo de caso em Rio Branco, estado do Acre, Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "629cb12776786adae855b38247690eba9547b5a4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARAÚJO, LAÍS MEDEIROS DE ; <b>de Medeiros, G.A.</b> . Avaliação da gestão de parques lineares na Amazônia: estudo de caso em Rio Branco, estado do Acre, Brasil. In: Workshop Internacional Sustentare &amp; Wipis 2025, 2025, Campinas. Anais. Campinas: PUCCAMP, 2025. v. 1. p. 1-12. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "Workshop Internacional Sustentare & Wipis 2025"
+    },
+    {
+      "numero_item": 176,
+      "raw": "de Medeiros, G.A. . Pegada de carbono residencial: uma abordagem extensionista no conteúdo programático da disciplina Gestão Ambiental. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-6.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Pegada de carbono residencial: uma abordagem extensionista no conteúdo programático da disciplina Gestão Ambiental",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8a0254ea7309e9dd8db01185c08585fd03c1178e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Pegada de carbono residencial: uma abordagem extensionista no conteúdo programático da disciplina Gestão Ambiental. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-6. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XVI Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 177,
+      "raw": "Cavallaro, N.A. ; de Medeiros, G.A. . Índice para avaliação do sistema de gestão dos resíduos sólidos municipais: estudo de caso em Itatiba-SP. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-9.",
+      "autores": "Cavallaro, N.A.; de Medeiros, G.A.",
+      "titulo": "Índice para avaliação do sistema de gestão dos resíduos sólidos municipais: estudo de caso em Itatiba-SP",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "686c3756f2988780d187af9976b887fa029856ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cavallaro, N.A. ; <b>de Medeiros, G.A.</b> . Índice para avaliação do sistema de gestão dos resíduos sólidos municipais: estudo de caso em Itatiba-SP. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-9. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XVI Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 178,
+      "raw": "Cardoso, K.C.R. ; de Medeiros, G.A. . Geração de resíduos eletroeletrônicos da área da saúde pública: um estudo de caso em Sorocaba, estado de São Paulo. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-6.",
+      "autores": "Cardoso, K.C.R.; de Medeiros, G.A.",
+      "titulo": "Geração de resíduos eletroeletrônicos da área da saúde pública: um estudo de caso em Sorocaba, estado de São Paulo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f5ce015d75036bd410ac086ffcca69eff7b3b15",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cardoso, K.C.R. ; <b>de Medeiros, G.A.</b> . Geração de resíduos eletroeletrônicos da área da saúde pública: um estudo de caso em Sorocaba, estado de São Paulo. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Bauru: IBEAS, 2025. v. 16. p. 1-6. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XVI Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 179,
+      "raw": "CRISTOVAO, G. S. F. ; de Medeiros, G.A. . Diagnóstico dos resíduos sólidos residenciais gerados em Kuito, província do Bié, Angola. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Recife: IBEAS, 2025. v. 16. p. 1-6.",
+      "autores": "CRISTOVAO, G. S. F.; de Medeiros, G.A.",
+      "titulo": "Diagnóstico dos resíduos sólidos residenciais gerados em Kuito, província do Bié, Angola",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8963ba58e07eaa5a1a44847181b06241209b02b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CRISTOVAO, G. S. F. ; <b>de Medeiros, G.A.</b> . Diagnóstico dos resíduos sólidos residenciais gerados em Kuito, província do Bié, Angola. In: XVI Congresso Brasileiro de Gestão Ambiental, 2025, Recife. Anais. Recife: IBEAS, 2025. v. 16. p. 1-6. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XVI Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 180,
+      "raw": "de Medeiros, G.A. ; DUTRA, A.C. . Avaliação do ciclo de vida no setor zoológico: estudo de caso em centro de conservação e reprodução de animais. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4.",
+      "autores": "de Medeiros, G.A.; DUTRA, A.C.",
+      "titulo": "Avaliação do ciclo de vida no setor zoológico: estudo de caso em centro de conservação e reprodução de animais",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55449/congea.15.24.VI-014",
+      "fingerprint_sha1": "7b7366e90103339c35968552705be1dc7461f092",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55449/congea.15.24.VI-014\" target=\"_blank\"></a><b>de Medeiros, G.A.</b>; DUTRA, A.C. . Avaliação do ciclo de vida no setor zoológico: estudo de caso em centro de conservação e reprodução de animais. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XV Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 181,
+      "raw": "Morseli, F.S. ; de Medeiros, G.A. . Jardim sensorial como ferramenta de educação ambiental. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4.",
+      "autores": "Morseli, F.S.; de Medeiros, G.A.",
+      "titulo": "Jardim sensorial como ferramenta de educação ambiental",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55449/congea.15.24.VII-018",
+      "fingerprint_sha1": "7d9b88968d8ba7f3b8026b83f70085dda87d95cb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55449/congea.15.24.VII-018\" target=\"_blank\"></a>Morseli, F.S. ; <b>de Medeiros, G.A.</b> . Jardim sensorial como ferramenta de educação ambiental. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XV Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 182,
+      "raw": "Scheremeta, R.J. ; de Medeiros, G.A. . Avaliação de um sistema de aquecimento solar de baixo custo (ASBC): disseminação de tecnologia socia. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4.",
+      "autores": "Scheremeta, R.J.; de Medeiros, G.A.",
+      "titulo": "Avaliação de um sistema de aquecimento solar de baixo custo (ASBC): disseminação de tecnologia socia",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55449/congea.15.24.X-005",
+      "fingerprint_sha1": "01784bed808e33a4428c5e02c7f7617273bdd65c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55449/congea.15.24.X-005\" target=\"_blank\"></a>Scheremeta, R.J. ; <b>de Medeiros, G.A.</b> . Avaliação de um sistema de aquecimento solar de baixo custo (ASBC): disseminação de tecnologia socia. In: XV Congresso Brasileiro de Gestão Ambiental, 2024, Belém. Anais. Bauru: IBEAS, 2024. v. 1. p. 1-4. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XV Congresso Brasileiro de Gestão Ambiental"
+    },
+    {
+      "numero_item": 183,
+      "raw": "Costa, A.S. ; de Medeiros, G.A. ; Chaves, J.V.B. . Eutrofização e Toxicidade na bacia hidrográfica do Rio Jundiai Mirim ? Uma análise temporal (2017-2022. In: 21o Congresso Nacional de Meio Ambiente, 2024, Poços de Caldas. Anais. Muzambinho: IFSULDEMINAS, 2024. v. 16. p. 1-11.",
+      "autores": "Costa, A.S.; de Medeiros, G.A.; Chaves, J.V.B.",
+      "titulo": "Eutrofização e Toxicidade na bacia hidrográfica do Rio Jundiai Mirim ? Uma análise temporal (2017-2022",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "71aa3276c4169b14a982e2a542db9fb18fe2b2f7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Costa, A.S. ; <b>de Medeiros, G.A.</b> ; Chaves, J.V.B. . Eutrofização e Toxicidade na bacia hidrográfica do Rio Jundiai Mirim ? Uma análise temporal (2017-2022. In: 21o Congresso Nacional de Meio Ambiente, 2024, Poços de Caldas. Anais. Muzambinho: IFSULDEMINAS, 2024. v. 16. p. 1-11. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "21o Congresso Nacional de Meio Ambiente"
+    },
+    {
+      "numero_item": 301,
+      "raw": "Cavallaro, N.A. ; de Medeiros, G.A. . Avaliação da Eficiência do Sistema de Gestão de Resíduos Sólidos Urbanos de Itatiba (SP). In: XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp, 2025, Sorocaba. Anais XXXVII CIC Unesp. São Paulo: Unesp, 2025. v. 1. p. 1-1.",
+      "autores": "Cavallaro, N.A.; de Medeiros, G.A.",
+      "titulo": "Avaliação da Eficiência do Sistema de Gestão de Resíduos Sólidos Urbanos de Itatiba (SP)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fd7f17d4f5545c55aead64699f97ea44ac81bad8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cavallaro, N.A. ; <b>de Medeiros, G.A.</b> . Avaliação da Eficiência do Sistema de Gestão de Resíduos Sólidos Urbanos de Itatiba (SP). In: XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp, 2025, Sorocaba. Anais XXXVII CIC Unesp. São Paulo: Unesp, 2025. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp"
+    },
+    {
+      "numero_item": 302,
+      "raw": "Ukai, F.T. ; de Medeiros, G.A. . Análise espacial e temporal do fósforo total na bacia do rio Jundiaí Mirim-SP. In: XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp, 2025, Sorocaba. Anais XXXVII CIC Unesp. São Paulo: Unesp, 2025. v. 1. p. 1-1.",
+      "autores": "Ukai, F.T.; de Medeiros, G.A.",
+      "titulo": "Análise espacial e temporal do fósforo total na bacia do rio Jundiaí Mirim-SP",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5612b987db81e88d6625381143fbe90437cb36f2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ukai, F.T. ; <b>de Medeiros, G.A.</b> . Análise espacial e temporal do fósforo total na bacia do rio Jundiaí Mirim-SP. In: XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp, 2025, Sorocaba. Anais XXXVII CIC Unesp. São Paulo: Unesp, 2025. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "XXXVII CIC Unesp: Congresso de Iniciação Científica e Tecnológica da Unesp"
+    },
+    {
+      "numero_item": 469,
+      "raw": "JACOB, WELLINGTON DE ARRUDA ; de Medeiros, G.A. . Traditional knowledge on environmental preservation from quilombola experience. In: 2nd Munzur International Scientific Research and Innovation Congress, 2025, Tunceli, Turquia. The Proceedings Book. Ankara, Turquia: UBAK, 2025. v. 1. p. 721-721.",
+      "autores": "JACOB, WELLINGTON DE ARRUDA; de Medeiros, G.A.",
+      "titulo": "Traditional knowledge on environmental preservation from quilombola experience",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "57d8f3836446148b89e1e23a88af5dd46228c81f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JACOB, WELLINGTON DE ARRUDA ; <b>de Medeiros, G.A.</b> . Traditional knowledge on environmental preservation from quilombola experience. In: 2nd Munzur International Scientific Research and Innovation Congress, 2025, Tunceli, Turquia. The Proceedings Book. Ankara, Turquia: UBAK, 2025. v. 1. p. 721-721. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "2nd Munzur International Scientific Research and Innovation Congress"
+    },
+    {
+      "numero_item": 470,
+      "raw": "ARAUJO, L.A. ; de Medeiros, G.A. . Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. In: International Congress on Food, Agriculture and Environment Researches in Global World - II, 2025, New York. Proceedings Book. Ankara: IKSAD, 2025. v. 1. p. 81-81.",
+      "autores": "ARAUJO, L.A.; de Medeiros, G.A.",
+      "titulo": "Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dbabee89b59834d67262b39a92f719ccfe461aec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARAUJO, L.A. ; <b>de Medeiros, G.A.</b> . Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. In: International Congress on Food, Agriculture and Environment Researches in Global World - II, 2025, New York. Proceedings Book. Ankara: IKSAD, 2025. v. 1. p. 81-81. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "International Congress on Food"
+    },
+    {
+      "numero_item": 471,
+      "raw": "ARAÃJO, LAÃS MEDEIROS DE ; de Medeiros, G.A. . Landscape efficiency in urban linear parks in the Amazon: A case study in Rio Branco, state of Acre, Brazil. In: 14th International Zeugma Congress on Scientific Research, 2025, Gaziantep, TÃ¼rkiye. Proceedings Book. New York: Liberty Academic Publishers, 2025. v. 1. p. 965-965.",
+      "autores": "ARAÃJO, LAÃS MEDEIROS DE; de Medeiros, G.A.",
+      "titulo": "Landscape efficiency in urban linear parks in the Amazon: A case study in Rio Branco, state of Acre, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "956e8a835d6bebe52db2479b671fc0e121e98fbb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARAÃJO, LAÃS MEDEIROS DE ; <b>de Medeiros, G.A.</b> . Landscape efficiency in urban linear parks in the Amazon: A case study in Rio Branco, state of Acre, Brazil. In: 14th International Zeugma Congress on Scientific Research, 2025, Gaziantep, TÃ¼rkiye. Proceedings Book. New York: Liberty Academic Publishers, 2025. v. 1. p. 965-965. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "14th International Zeugma Congress on Scientific Research"
+    },
+    {
+      "numero_item": 472,
+      "raw": "Ukai, F.T. ; de Medeiros, G.A. . Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil. In: 18th International Conference on Agriculture, Animal Science & Rural Development, 2025, Konya. Conference Proceedings Book. New York: Liberty Publishing House, 2025. v. 1. p. 100-100.",
+      "autores": "Ukai, F.T.; de Medeiros, G.A.",
+      "titulo": "Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f6454e5fe13812ed2e02fb2294a7e61df06ecc32",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ukai, F.T. ; <b>de Medeiros, G.A.</b> . Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil. In: 18th International Conference on Agriculture, Animal Science &amp; Rural Development, 2025, Konya. Conference Proceedings Book. New York: Liberty Publishing House, 2025. v. 1. p. 100-100. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "18th International Conference on Agriculture"
+    },
+    {
+      "numero_item": 473,
+      "raw": "Cavallaro, N.A. ; de Medeiros, G.A. . Assessment of the municipal solid waste management system in Itatiba, Brazil. In: 9th International Antalya Scientific Research and Innovative Studies Congress, 2025, Antalya. Abstract Book. New York: Liberty Publishing House, 2025. p. 286-286.",
+      "autores": "Cavallaro, N.A.; de Medeiros, G.A.",
+      "titulo": "Assessment of the municipal solid waste management system in Itatiba, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bd462aa231cb530701b20c538aa36adbeffb1f98",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cavallaro, N.A. ; <b>de Medeiros, G.A.</b> . Assessment of the municipal solid waste management system in Itatiba, Brazil. In: 9th International Antalya Scientific Research and Innovative Studies Congress, 2025, Antalya. Abstract Book. New York: Liberty Publishing House, 2025. p. 286-286. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "9th International Antalya Scientific Research and Innovative Studies Congress"
+    },
+    {
+      "numero_item": 474,
+      "raw": "Balcone, T.O ; de Medeiros, G.A. . VocÃª quer ou vocÃª precisa? (REAUSo). In: Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS, 2024, Sorocaba. Anais. Sorocaba: Unesp Sorocaba, 2024. v. 1. p. 1-1.",
+      "autores": "Balcone, T.O; de Medeiros, G.A.",
+      "titulo": "VocÃª quer ou vocÃª precisa? (REAUSo)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "141836a71cd729b56361ed41a7a7e7aa1b5b3dc4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Balcone, T.O ; <b>de Medeiros, G.A.</b> . VocÃª quer ou vocÃª precisa? (REAUSo). In: Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS, 2024, Sorocaba. Anais. Sorocaba: Unesp Sorocaba, 2024. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS"
+    },
+    {
+      "numero_item": 475,
+      "raw": "de Medeiros, G.A. . GestÃ£o ambiental residencial: uma abordagem extensionista no curso de Engenharia Ambiental do ICT ? Unesp, Campus Sorocaba. In: Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS, 2024, Sorocaba. Anais. Sorocaba: Unesp Sorocaba, 2024. v. 1. p. 1-1.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "GestÃ£o ambiental residencial: uma abordagem extensionista no curso de Engenharia Ambiental do ICT ? Unesp, Campus Sorocaba",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "90126596f7aedcdf55fd7255d552562a8d73899b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. GestÃ£o ambiental residencial: uma abordagem extensionista no curso de Engenharia Ambiental do ICT ? Unesp, Campus Sorocaba. In: Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS, 2024, Sorocaba. Anais. Sorocaba: Unesp Sorocaba, 2024. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "livro": "Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS"
+    },
+    {
+      "numero_item": 799,
+      "raw": "de Medeiros, G.A. . Parecerista da proposta de Acordo de Parceria para Pesquisa, Desenvolvimento e InovaÃ§Ã£o TecnolÃ³gica (PD&I) entre si celebram a Unesp e a empresa Krilltech Nanotecnologia Agro Sa. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista da proposta de Acordo de Parceria para Pesquisa, Desenvolvimento e InovaÃ§Ã£o TecnolÃ³gica (PD&I) entre si celebram a Unesp e a empresa Krilltech Nanotecnologia Agro Sa",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aafd6bfc480033cb2806c3424b4b248e4e490af5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista da proposta de Acordo de Parceria para Pesquisa, Desenvolvimento e InovaÃ§Ã£o TecnolÃ³gica (PD&amp;I) entre si celebram a Unesp e a empresa Krilltech Nanotecnologia Agro Sa. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 800,
+      "raw": "de Medeiros, G.A. . Parecerista do pedido de credenciamento do professor William Dantas Vicheti junto ao Programa de PÃ³s-graduaÃ§Ã£o em CiÃªncias Ambientais, ICTS-Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do pedido de credenciamento do professor William Dantas Vicheti junto ao Programa de PÃ³s-graduaÃ§Ã£o em CiÃªncias Ambientais, ICTS-Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d7a781a323401c2793f7e6789bbde17311cffa28",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do pedido de credenciamento do professor William Dantas Vicheti junto ao Programa de PÃ³s-graduaÃ§Ã£o em CiÃªncias Ambientais, ICTS-Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 801,
+      "raw": "de Medeiros, G.A. . Parecerista do artigo ?Environmental sustainability from cradle to grave of railway sleepers through life cycle assessment (LCA) methodology: a critical review?, submetido ao periÃ³dico cientÃ­fico Circular Economy and Sustainability, ISSN 2730-5988. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do artigo ?Environmental sustainability from cradle to grave of railway sleepers through life cycle assessment (LCA) methodology: a critical review?, submetido ao periÃ³dico cientÃ­fico Circular Economy and Sustainability, ISSN 2730-5988",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1d6eeffc9ab2dbfcb32c10950dd809111faffdf1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do artigo ?Environmental sustainability from cradle to grave of railway sleepers through life cycle assessment (LCA) methodology: a critical review?, submetido ao periÃ³dico cientÃ­fico Circular Economy and Sustainability, ISSN 2730-5988. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 802,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica intitulado 'NanopartÃ­culas lipÃ­dicas bioativas com potencial aplicaÃ§Ã£o em agricultura', junto ao Conselho do Curso de Engenharia Ambiental do ICTS-Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica intitulado 'NanopartÃ­culas lipÃ­dicas bioativas com potencial aplicaÃ§Ã£o em agricultura', junto ao Conselho do Curso de Engenharia Ambiental do ICTS-Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5888146136b39c4428738e963bca2231d5ee9e39",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica intitulado 'NanopartÃ­culas lipÃ­dicas bioativas com potencial aplicaÃ§Ã£o em agricultura', junto ao Conselho do Curso de Engenharia Ambiental do ICTS-Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 803,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Fracionamento EstratÃ©gico da Lignina: Encapsulamento SustentÃ¡vel e LiberaÃ§Ã£o Controlada de Ãcido PelargÃ´nico'. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Fracionamento EstratÃ©gico da Lignina: Encapsulamento SustentÃ¡vel e LiberaÃ§Ã£o Controlada de Ãcido PelargÃ´nico'",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b01d1a2e6032eca662bef8d2095b638e5dfa0e6d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Fracionamento EstratÃ©gico da Lignina: Encapsulamento SustentÃ¡vel e LiberaÃ§Ã£o  Controlada de Ãcido PelargÃ´nico'. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 804,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso junto ao ICTS-Unesp, e intitulado 'Comparativo entre os conceitos de ESG, sustentabilidade e desenvolvimento sustentÃ¡vel'. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso junto ao ICTS-Unesp, e intitulado 'Comparativo entre os conceitos de ESG, sustentabilidade e desenvolvimento sustentÃ¡vel'",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8b2259a535edb3bbfba4b30282bdb8cc8328b2a9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso junto ao ICTS-Unesp, e intitulado 'Comparativo entre os conceitos de ESG, sustentabilidade e desenvolvimento sustentÃ¡vel'. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 805,
+      "raw": "DE MEDEIROS, G. A. . Parecerista de aproveitamento de disciplinas de graduaÃ§Ã£o cursadas na FranÃ§a por MiriÃ£ Santos Pereira para equivlÃªncia em 'GestÃ£o Industial e Agroindustrial', no curso de Engenharia Ambiental, Unesp Sorocaba. 2025.",
+      "autores": "DE MEDEIROS, G. A.",
+      "titulo": "Parecerista de aproveitamento de disciplinas de graduaÃ§Ã£o cursadas na FranÃ§a por MiriÃ£ Santos Pereira para equivlÃªncia em 'GestÃ£o Industial e Agroindustrial', no curso de Engenharia Ambiental, Unesp Sorocaba",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0af1a723b2e69f6abe1d4527e06900eaae638ca3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DE MEDEIROS, G. A.</b>. Parecerista de aproveitamento de disciplinas de graduaÃ§Ã£o cursadas na FranÃ§a por MiriÃ£ Santos Pereira para equivlÃªncia em 'GestÃ£o Industial e Agroindustrial', no curso de Engenharia Ambiental, Unesp Sorocaba. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 806,
+      "raw": "de Medeiros, G.A. . Parecerista da proposta do evento de ExtensÃ£o 'XII ArraiÃ¡ do ICTS' do ICTS, Unesp, junto Ã Pro Reitoria de ExtensÃ£o e Cultura. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista da proposta do evento de ExtensÃ£o 'XII ArraiÃ¡ do ICTS' do ICTS, Unesp, junto Ã Pro Reitoria de ExtensÃ£o e Cultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "078893d2f2e1dbaf11a25a863c36dd682ccfa8a5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista da proposta do evento de ExtensÃ£o 'XII ArraiÃ¡ do ICTS' do ICTS, Unesp, junto Ã  Pro Reitoria de ExtensÃ£o e Cultura. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 807,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio parcial docente em estÃ¡gio probatÃ³rio de William Dantas Vicheti junto ao Departamento de Engenharia Ambiental, ICTS - Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio parcial docente em estÃ¡gio probatÃ³rio de William Dantas Vicheti junto ao Departamento de Engenharia Ambiental, ICTS - Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "039c29ac4d734bebc3d95f019075b3b838148526",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio parcial docente em estÃ¡gio probatÃ³rio de William Dantas Vicheti junto ao Departamento de Engenharia Ambiental, ICTS - Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 808,
+      "raw": "de Medeiros, G.A. . Parecerista de relatÃ³rio final de projeto de ExtensÃ£o 'Reengenharia de ambientes degradados por meio de produÃ§Ã£o e plantio de mudas', submetido Ã Pro Reitoira de ExtensÃ£o e Cultura - Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista de relatÃ³rio final de projeto de ExtensÃ£o 'Reengenharia de ambientes degradados por meio de produÃ§Ã£o e plantio de mudas', submetido Ã Pro Reitoira de ExtensÃ£o e Cultura - Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "372954b61b216e461f2b59d4974b674a9ad2124c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista de relatÃ³rio final de projeto de ExtensÃ£o 'Reengenharia de ambientes degradados por meio de produÃ§Ã£o e plantio de mudas', submetido Ã  Pro Reitoira de ExtensÃ£o e Cultura - Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 809,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio final do evento de ExtensÃ£o XII ArraiÃ¡ do ICTS. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio final do evento de ExtensÃ£o XII ArraiÃ¡ do ICTS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fe17624549a2f66feebe07d0b74a0bb8410d6f86",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio final do evento de ExtensÃ£o XII ArraiÃ¡ do ICTS. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 810,
+      "raw": "de Medeiros, G.A. . Parecerista de relatÃ³rio final do evento de ExtensÃ£o XVIII Semana da Engenharia, submetido Ã Pro Reitoira de ExtensÃ£o e Cultura - Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista de relatÃ³rio final do evento de ExtensÃ£o XVIII Semana da Engenharia, submetido Ã Pro Reitoira de ExtensÃ£o e Cultura - Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7f37ea9d5a8584173ea163d8f770671231889177",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista de relatÃ³rio final do evento de ExtensÃ£o XVIII Semana da Engenharia, submetido Ã  Pro Reitoira de ExtensÃ£o e Cultura - Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 811,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio final de pÃ³s doutorado junto ao ICTS da Unesp de Liliam Katsue Harada intitulado 'AssociaÃ§Ã£o de nanopartÃ­culas biogÃªnicas de sÃ­lica obtidas a partir da casca de arroz como estratÃ©gia de aumento de biodisponibilidade de Beauveria bassiana para controle de pragas', sob supervisÃ£o de Leonardo Fernandes Fraceto. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio final de pÃ³s doutorado junto ao ICTS da Unesp de Liliam Katsue Harada intitulado 'AssociaÃ§Ã£o de nanopartÃ­culas biogÃªnicas de sÃ­lica obtidas a partir da casca de arroz como estratÃ©gia de aumento de biodisponibilidade de Beauveria bassiana para controle de pragas', sob supervisÃ£o de Leonardo Fernandes Fraceto",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b917a387197bc465e7f39f4b17d8d945bc4feb15",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio final de pÃ³s doutorado junto ao ICTS da Unesp de Liliam Katsue Harada intitulado 'AssociaÃ§Ã£o de nanopartÃ­culas biogÃªnicas de sÃ­lica obtidas a partir da casca de arroz como estratÃ©gia de aumento de biodisponibilidade de Beauveria bassiana para controle de pragas', sob supervisÃ£o de Leonardo Fernandes Fraceto. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 812,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio de IniciaÃ§Ã£o CientÃ­fica intitulado ?UtilizaÃ§Ã£o e adaptaÃ§Ã£o de uma mÃ¡quina manual de chapisco para semeadura de pequenos taludes visando revegetaÃ§Ã£o?, de Debora Costa e Silva. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio de IniciaÃ§Ã£o CientÃ­fica intitulado ?UtilizaÃ§Ã£o e adaptaÃ§Ã£o de uma mÃ¡quina manual de chapisco para semeadura de pequenos taludes visando revegetaÃ§Ã£o?, de Debora Costa e Silva",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "37faeff010a72400204dd7b09e69c08536f757a3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio de IniciaÃ§Ã£o CientÃ­fica intitulado ?UtilizaÃ§Ã£o e adaptaÃ§Ã£o de uma mÃ¡quina manual de chapisco para semeadura de pequenos taludes visando revegetaÃ§Ã£o?,  de Debora Costa e Silva. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 813,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e 'Plano de atendimento de requisitos legais ambientais com foco na Norma NBR ABNT ISO 14001:2025. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e 'Plano de atendimento de requisitos legais ambientais com foco na Norma NBR ABNT ISO 14001:2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "572a8ca7f0e6d56a49931692f44e4e6ae8983f79",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e 'Plano de atendimento de requisitos legais ambientais com foco na Norma NBR ABNT ISO 14001:2025. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 814,
+      "raw": "de Medeiros, G.A. . Parecerista do artigo ?Social Return on Investment (SROI) Assessment of a Waste and Environmental Management Project in Rang Ka Yai Sub-district, Phimai District, Nakhon Ratchasima Province under the Implementation of the District Health Board (DHB)?, submetido ao periÃ³dico cientÃ­fico Societal Impacts, ISSN : 2949-6977. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do artigo ?Social Return on Investment (SROI) Assessment of a Waste and Environmental Management Project in Rang Ka Yai Sub-district, Phimai District, Nakhon Ratchasima Province under the Implementation of the District Health Board (DHB)?, submetido ao periÃ³dico cientÃ­fico Societal Impacts, ISSN : 2949-6977",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "833b1682a3ff4915c7eb30ebcf0f3a7d1855337a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do artigo ?Social Return on Investment (SROI) Assessment of a Waste and  Environmental Management Project in Rang Ka Yai Sub-district,  Phimai District, Nakhon Ratchasima Province under the  Implementation of the District Health Board (DHB)?, submetido ao periÃ³dico cientÃ­fico Societal Impacts, ISSN : 2949-6977. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 815,
+      "raw": "de Medeiros, G.A. . Parecerista do artigo ?Assessing Hydrochemical Characteristics and Water Quality Index of the Major Freshwater Lake in Thiruvananthapuram Urban Habitat, Kerala, Southern India?, submetido ao periÃ³dico cientÃ­fico Urban Water Journal, ISSN 1744-9006. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do artigo ?Assessing Hydrochemical Characteristics and Water Quality Index of the Major Freshwater Lake in Thiruvananthapuram Urban Habitat, Kerala, Southern India?, submetido ao periÃ³dico cientÃ­fico Urban Water Journal, ISSN 1744-9006",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7ebf233adb3e6a20676ed82e5f9ab80b492f6f3c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do artigo ?Assessing Hydrochemical Characteristics and Water Quality Index of the Major Freshwater Lake in Thiruvananthapuram Urban Habitat, Kerala, Southern India?, submetido ao periÃ³dico cientÃ­fico Urban Water Journal, ISSN 1744-9006. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 816,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio de progressÃ£o de carreira docente para nÃ­vel 3.2, indicado pelo Departamento de Engenharia Ambiental, ICT da Unesp de Sorocaba. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio de progressÃ£o de carreira docente para nÃ­vel 3",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aaefdcdd8a98fff8384fb52b166f7c6814fef72a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio de progressÃ£o de carreira docente para nÃ­vel 3.2, indicado pelo Departamento de Engenharia Ambiental, ICT da Unesp de Sorocaba. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 817,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica 'AnÃ¡lise de carbono florestal no Brasil e Portugal', de JoÃ£o Silva Pedro Costa. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica 'AnÃ¡lise de carbono florestal no Brasil e Portugal', de JoÃ£o Silva Pedro Costa",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2605e7b552bd4e90dc5dcdb6f017cbb80a1f8cd8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio final de iniciaÃ§Ã£o cientÃ­fica 'AnÃ¡lise de carbono florestal no Brasil e Portugal', de JoÃ£o Silva Pedro Costa. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 818,
+      "raw": "de Medeiros, G.A. . Parecerista do relatÃ³rio final do evento de extensÃ£o intitulado 'X Workshop de IntegraÃ§Ã£o de Saberes Ambientais', junto ao ComissÃ£o de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS-Unesp. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do relatÃ³rio final do evento de extensÃ£o intitulado 'X Workshop de IntegraÃ§Ã£o de Saberes Ambientais', junto ao ComissÃ£o de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS-Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6b90fa927420e0b11af3fd5f0b3d594f2930c37b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do relatÃ³rio final do evento de extensÃ£o intitulado 'X Workshop de IntegraÃ§Ã£o de Saberes Ambientais', junto ao ComissÃ£o de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS-Unesp. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 819,
+      "raw": "de Medeiros, G.A. . Parecerista do artigo ?Assessment of Municipal Solid Waste Management Systems in Peri-Urban Karnataka: A Comparative Study of Chikkaballapura and Doddaballapura Cities?, submetido ao periÃ³dico cientÃ­fico Environmental Quality Management, ISSN 1088-1913. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do artigo ?Assessment of Municipal Solid Waste Management Systems in Peri-Urban Karnataka: A Comparative Study of Chikkaballapura and Doddaballapura Cities?, submetido ao periÃ³dico cientÃ­fico Environmental Quality Management, ISSN 1088-1913",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3089815d14a4b38570bddeb6272a351cefb835f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do artigo ?Assessment of Municipal Solid Waste Management Systems in Peri-Urban Karnataka: A Comparative Study of Chikkaballapura and Doddaballapura Cities?, submetido ao periÃ³dico cientÃ­fico Environmental Quality Management, ISSN 1088-1913. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 820,
+      "raw": "de Medeiros, G.A. . Parecerista do pedido de afastamento para o exterior do professor Admilson Ribeiro do Depto de Engenharia Ambiental para participar do evento '1Âº Coloquio Internacional sobre 'Ãreas Verdes e ResiliÃªncia ClimÃ¡tica: EstratÃ©gias para um Futuro SustentÃ¡vel - PARTE 3 - Esverdeando Coimbra', em Portugual. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do pedido de afastamento para o exterior do professor Admilson Ribeiro do Depto de Engenharia Ambiental para participar do evento '1Âº Coloquio Internacional sobre 'Ãreas Verdes e ResiliÃªncia ClimÃ¡tica: EstratÃ©gias para um Futuro SustentÃ¡vel - PARTE 3 - Esverdeando Coimbra', em Portugual",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "105ce239ff7e8f42cbfa84c49381b11401067fae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do pedido de afastamento para o exterior do professor Admilson Ribeiro do Depto de Engenharia Ambiental para participar do evento '1Âº Coloquio Internacional sobre 'Ãreas Verdes e ResiliÃªncia ClimÃ¡tica: EstratÃ©gias para um Futuro SustentÃ¡vel - PARTE 3 - Esverdeando Coimbra', em Portugual. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 821,
+      "raw": "de Medeiros, G.A. . Parecerista do pedido de afastamento para o exterior do professor Leonardo F. Fraceto do Depto de Engenharia Ambiental para participar do evento '' Escuela Internacional de Verano en BionanotecnologÃ­a: Sistemas de Drug Delivery y BiologÃ­a SintÃ©tica', na Provincia de Buenos Aires, RepÃºblica Argentina. 2025.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do pedido de afastamento para o exterior do professor Leonardo F",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ecae78299b79c1316f2fa8a3c21f6a04e8935006",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do pedido de afastamento para o exterior do professor Leonardo F. Fraceto do Depto de Engenharia Ambiental para participar do evento '' Escuela Internacional de Verano en BionanotecnologÃ­a: Sistemas de Drug Delivery y BiologÃ­a SintÃ©tica', na Provincia de Buenos Aires, RepÃºblica Argentina. 2025. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "Fraceto do Depto de Engenharia Ambiental para participar do evento '' Escuela Internacional de Verano en BionanotecnologÃ­a: Sistemas de Drug Delivery y BiologÃ­a SintÃ©tica'"
+    },
+    {
+      "numero_item": 822,
+      "raw": "de Medeiros, G.A. . Parecerista de oito trabalho da Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista de oito trabalho da Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e94d02de5346e853a84ea5e1422680def026dc7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista de oito trabalho da Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 823,
+      "raw": "de Medeiros, G.A. . Avaliador do PrÃªmio Mercedes_Benz de Responsabilidade SÃ³cioambiental 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Avaliador do PrÃªmio Mercedes_Benz de Responsabilidade SÃ³cioambiental 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d89b71b45e904699421a2dcde00ce98da7676e62",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Avaliador do PrÃªmio Mercedes_Benz de Responsabilidade SÃ³cioambiental 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 824,
+      "raw": "de Medeiros, G.A. . Avaliador na 1Âª Fase do XXXVI Congresso de IniciaÃ§Ã£o CientÃ­fica da UNESP, realizado em 15/10/2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Avaliador na 1Âª Fase do XXXVI Congresso de IniciaÃ§Ã£o CientÃ­fica da UNESP, realizado em 15/10/2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a5ae44540d05cf2df8101692ec7bd886af4438d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Avaliador na 1Âª Fase do XXXVI Congresso de IniciaÃ§Ã£o CientÃ­fica da UNESP, realizado em 15/10/2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 825,
+      "raw": "de Medeiros, G.A. . Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã Universidade de AlcalÃ¡, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã Universidade de AlcalÃ¡, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d9a984d71fe31cadddd7a373d7a157fcfb09a3e2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã  Universidade de AlcalÃ¡, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 826,
+      "raw": "de Medeiros, G.A. . Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise do mercado de carbono florestal no Brasil e Portugal'. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise do mercado de carbono florestal no Brasil e Portugal'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c60d36dca238962517d2750d91706d7dc008ced",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise do mercado de carbono florestal no Brasil e Portugal'. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 827,
+      "raw": "de Medeiros, G.A. . Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do ?Taller sobre avances en bioinsumos y tecnologias nano destinadas al incremento de la productividad vegetal', realizado no Instituto de Investigaciones de Biodiversidad y BiotecnologÃ­a INBIOTEC (CONICET), Mar del Plata, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do ?Taller sobre avances en bioinsumos y tecnologias nano destinadas al incremento de la productividad vegetal', realizado no Instituto de Investigaciones de Biodiversidad y BiotecnologÃ­a INBIOTEC (CONICET), Mar del Plata, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "06a8afc3cf2f0b45ba0cad836676e3181b7baa05",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do pedido de afastamento de professor do Departamento de Engenharia Ambiental do ICTS Unesp, para participar do ?Taller sobre avances en bioinsumos y tecnologias nano destinadas al incremento de la productividad vegetal', realizado no Instituto de Investigaciones de Biodiversidad y BiotecnologÃ­a INBIOTEC (CONICET), Mar del Plata, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 828,
+      "raw": "de Medeiros, G.A. . Parecerista de Acordo de Parceria em Desenvolvimento e InovaÃ§Ã£o (PD&I), entre a UNESP e a empresa Lumenera Innovations Consultoria Ltda., por meio da AgÃªncia UNESP de InovaÃ§Ã£o - AUIN. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista de Acordo de Parceria em Desenvolvimento e InovaÃ§Ã£o (PD&I), entre a UNESP e a empresa Lumenera Innovations Consultoria Ltda",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8804a85f14d5842394377182621877aaa20c965f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista de Acordo de Parceria em Desenvolvimento e InovaÃ§Ã£o (PD&amp;I), entre a UNESP e a empresa Lumenera Innovations Consultoria Ltda., por meio da AgÃªncia UNESP de InovaÃ§Ã£o - AUIN. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 829,
+      "raw": "de Medeiros, G.A. . Parecerista de celebraÃ§Ã£o de ConvÃªnio para Pesquisa, Desenvolvimento e InovaÃ§Ã£o (PD&I), entre a UNESP a FINEP e a FUNDUNESP, por meio da AgÃªncia UNESP de InovaÃ§Ã£o ? AUIN, no Ã¢mbito da Chamada PÃºblica MCTI/FINEP/FNDCT ? PROINFRA 2023 ? SeleÃ§Ã£o PÃºblica de Propostas para o Apoio Financeiro Para ExpansÃ£o e Desenvolvimento de Infraestrutura de Pesquisa, desenvolvimento do Projeto nÂº 0618/24 intitulado. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista de celebraÃ§Ã£o de ConvÃªnio para Pesquisa, Desenvolvimento e InovaÃ§Ã£o (PD&I), entre a UNESP a FINEP e a FUNDUNESP, por meio da AgÃªncia UNESP de InovaÃ§Ã£o ? AUIN, no Ã¢mbito da Chamada PÃºblica MCTI/FINEP/FNDCT ? PROINFRA 2023 ? SeleÃ§Ã£o PÃºblica de Propostas para o Apoio Financeiro Para ExpansÃ£o e Desenvolvimento de Infraestrutura de Pesquisa, desenvolvimento do Projeto nÂº 0618/24 intitulado",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "228f2c4d094913d25a68ebafebb2bff2a1bc8ca5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista de celebraÃ§Ã£o de ConvÃªnio para Pesquisa, Desenvolvimento e InovaÃ§Ã£o (PD&amp;I), entre a UNESP a FINEP e a FUNDUNESP, por meio da AgÃªncia UNESP de InovaÃ§Ã£o ? AUIN, no Ã¢mbito da Chamada PÃºblica MCTI/FINEP/FNDCT ? PROINFRA 2023 ? SeleÃ§Ã£o PÃºblica de Propostas para o Apoio Financeiro Para ExpansÃ£o e Desenvolvimento de Infraestrutura de Pesquisa, desenvolvimento do Projeto nÂº 0618/24 in",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 830,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado ?Perspectivas da Auditoria Ambiental no Futuro? submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado ?Perspectivas da Auditoria Ambiental no Futuro? submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1bfacf8f4436f877debde157cf4c62b6c9e7ff25",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado ?Perspectivas da Auditoria Ambiental no Futuro? submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 831,
+      "raw": "de Medeiros, G.A. . Parecerista do projeto de pesquisa ?Estudos e ConstruÃ§Ã£o de um BraÃ§o RobÃ³tico baseado no Modelo Viperx-300?, apresentado como parte do relatÃ³rio trienal de professora do Departamento de Engenharia de Controle e AutomaÃ§Ã£o do ICTS, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do projeto de pesquisa ?Estudos e ConstruÃ§Ã£o de um BraÃ§o RobÃ³tico baseado no Modelo Viperx-300?, apresentado como parte do relatÃ³rio trienal de professora do Departamento de Engenharia de Controle e AutomaÃ§Ã£o do ICTS, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c228c59e7bd73322872984a763927b22749967a7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do projeto de pesquisa ?Estudos e ConstruÃ§Ã£o de um BraÃ§o RobÃ³tico baseado no Modelo Viperx-300?, apresentado como parte do relatÃ³rio trienal de professora do Departamento de Engenharia de Controle e AutomaÃ§Ã£o do ICTS, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 832,
+      "raw": "de Medeiros, G.A. . Parecerista do projeto de pesquisa ?ResiliÃªncia e Vulnerabilidade de Sistemas de Drenagem Frente a MudanÃ§as ClimÃ¡ticas: EstratÃ©gias Adaptativas e Impacto na Sustentabilidade Urbana e Clima Local?, apresentado como parte do estÃ¡gio probatÃ³rio de professor do Departamento de Engenharia Ambiental do ICTS, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do projeto de pesquisa ?ResiliÃªncia e Vulnerabilidade de Sistemas de Drenagem Frente a MudanÃ§as ClimÃ¡ticas: EstratÃ©gias Adaptativas e Impacto na Sustentabilidade Urbana e Clima Local?, apresentado como parte do estÃ¡gio probatÃ³rio de professor do Departamento de Engenharia Ambiental do ICTS, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d99bca8dcb5d9a4502a0fe3997dc2accfb351c48",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do projeto de pesquisa ?ResiliÃªncia e Vulnerabilidade de Sistemas de Drenagem Frente a MudanÃ§as ClimÃ¡ticas: EstratÃ©gias Adaptativas e Impacto na Sustentabilidade Urbana e Clima Local?, apresentado como parte do estÃ¡gio probatÃ³rio de professor do Departamento de Engenharia Ambiental do ICTS, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 833,
+      "raw": "de Medeiros, G.A. . Parecerista do RelatÃ³rio de Afastamento de professor do Departamento de Engenharia Ambiental do ICTS da Unesp para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã Universidade de AlcalÃ¡, em 2024. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do RelatÃ³rio de Afastamento de professor do Departamento de Engenharia Ambiental do ICTS da Unesp para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã Universidade de AlcalÃ¡, em 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "26192669fa20e01fccc704db0757a2d7af43a5fa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do RelatÃ³rio de Afastamento de professor do Departamento de Engenharia Ambiental do ICTS da Unesp para participar do XVIII ColÃ³quio IbÃ©rico de Geografia, em Coimbra, Portugal; e visita Ã  Universidade de AlcalÃ¡, em 2024. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 834,
+      "raw": "de Medeiros, G.A. . Avaliador de poster na Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Avaliador de poster na Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "92b04b661fcac6ed5d254087f77c61290b71fb97",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Avaliador de poster na Mostra de ExtensÃ£o UniversitÃ¡ria e Cultura do ICTS. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 835,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Aplicabilidade da norma ABNT Pr 2030 para implementaÃ§Ã£o de ESG em empresas'. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Aplicabilidade da norma ABNT Pr 2030 para implementaÃ§Ã£o de ESG em empresas'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "85247d927113d0477ce14ab8dc7219f59833083e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Aplicabilidade da norma ABNT Pr 2030 para implementaÃ§Ã£o de ESG em empresas'. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 836,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Tambores metÃ¡licos ? destinaÃ§Ã£o e reutilizaÃ§Ã£o: Uma abordagem referente Ã LogÃ­stica Reversa'. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Tambores metÃ¡licos ? destinaÃ§Ã£o e reutilizaÃ§Ã£o: Uma abordagem referente Ã LogÃ­stica Reversa'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c3b23a86c6d55b7f12abd3e968bd42b6956c64a9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Tambores metÃ¡licos ? destinaÃ§Ã£o e reutilizaÃ§Ã£o: Uma abordagem referente Ã  LogÃ­stica Reversa'. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 837,
+      "raw": "de Medeiros, G.A. . Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Investimentos ESG (Environmental, Social and Governance) - Analise dos Green Bonds no mercado financeiro do Brasil'. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Investimentos ESG (Environmental, Social and Governance) - Analise dos Green Bonds no mercado financeiro do Brasil'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1705aa8564a173bf68a74cdb1fdc64c5487e4526",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do Trabalho de ConclusÃ£o de Curso, junto ao ICTS-Unesp, e intitulado 'Investimentos ESG (Environmental, Social and Governance) - Analise dos Green Bonds no mercado financeiro do Brasil'. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 838,
+      "raw": "de Medeiros, G.A. . Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise da agregaÃ§Ã£o dos solos submetidos a diferentes manejos agrÃ­colas por meio da morfometria de agregados de solos'. 2024.",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise da agregaÃ§Ã£o dos solos submetidos a diferentes manejos agrÃ­colas por meio da morfometria de agregados de solos'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c63ea3f0a3a33fd41887c4a3efcd39a579f75b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Parecerista do projetos de iniciaÃ§Ã£o cientÃ­fica sem bolsa, submetido ao do Departamento de Engenharia Ambiental do ICTS Unesp, e intitulado 'AnÃ¡lise da agregaÃ§Ã£o dos solos submetidos a diferentes manejos agrÃ­colas por meio da morfometria de agregados de solos'. 2024. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 865,
+      "raw": "de Medeiros, G.A. . Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1d3bd095bb9939ffe54a0adecca5075f1ef4b241",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:41.649071"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "MANCINI, S.D. ; OLIVEIRA, B.O.S.; de Medeiros, G.A. . ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura. ComparaÃ§Ã£o ambiental de duas embalagens usando ACV: estudo de caso. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MANCINI, S.D.; OLIVEIRA, B.O.S.; de Medeiros, G.A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5640e627e507f23e61b16322a6d25e8913afe4ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5091149098462301\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MANCINI, S.D.</a>; OLIVEIRA, B.O.S.; <b>de Medeiros, G.A.</b>.  ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura. ComparaÃ§Ã£o ambiental de duas embalagens usando ACV: estudo de caso. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "ComparaÃ§Ã£o ambiental de duas embalagens usando ACV: estudo de caso. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 2,
+      "raw": "OLIVEIRA, B.O.S.; Souza, A.L.; de Medeiros, G . ParticipaÃ§Ã£o em banca de Lucilene dos Santos do Nascimento. AnÃ¡lise da qualidade do solo e da Ã¡gua em Ã¡rea de disposiÃ§Ã£o de resÃ­duos sÃ³lidos urbanos no municÃ­pio de LÃ¡brea, AmazÃ´nia Ocidental, Brasil. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Federal do Amazonas.",
+      "autores": "OLIVEIRA, B.O.S.; Souza, A.L.; de Medeiros, G",
+      "titulo": "ParticipaÃ§Ã£o em banca de Lucilene dos Santos do Nascimento",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cacf71865a404bbfed8092ed28830de95eeda6f6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, B.O.S.; Souza, A.L.; <b>de Medeiros, G</b>.  ParticipaÃ§Ã£o em banca de Lucilene dos Santos do Nascimento. AnÃ¡lise da qualidade do solo e da Ã¡gua em Ã¡rea de disposiÃ§Ã£o de resÃ­duos sÃ³lidos urbanos no municÃ­pio de LÃ¡brea, AmazÃ´nia Ocidental, Brasil. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Federal do Amazonas. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "AnÃ¡lise da qualidade do solo e da Ã¡gua em Ã¡rea de disposiÃ§Ã£o de resÃ­duos sÃ³lidos urbanos no municÃ­pio de LÃ¡brea"
+    },
+    {
+      "numero_item": 33,
+      "raw": "Benedicto, S.C.; de Medeiros, G.A. ; DINIZ, I. S.; FENGLER, F. H. ; RIBEIRO, A. I. . ParticipaÃ§Ã£o em banca de Jair de Pontes. Hidrossemeadura conjunta de diferentes sementes de espÃ©cies nativas na revegetaÃ§Ã£o de Ã¡rea declivosa submetida a diferentes manejos da superfÃ­cie do solo. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Benedicto, S.C.; de Medeiros, G.A.; DINIZ, I. S.; FENGLER, F. H.; RIBEIRO, A. I.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Jair de Pontes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0975579ec1bf3cad0b28eb404a99e81c2bcece5b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Benedicto, S.C.; <b>de Medeiros, G.A.</b>; DINIZ, I. S.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9505291064775154\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">FENGLER, F. H.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5907913107550684\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">RIBEIRO, A. I.</a>.  ParticipaÃ§Ã£o em banca de Jair de Pontes. Hidrossemeadura conjunta de diferentes sement",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Hidrossemeadura conjunta de diferentes sementes de espÃ©cies nativas na revegetaÃ§Ã£o de Ã¡rea declivosa submetida a diferentes manejos da superfÃ­cie do solo. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 34,
+      "raw": "MANCINI, S.D. ; de Medeiros, G.A. ; SOUZA, R.G.; Oliveira, J.A.; Paiva, J.M.F.. ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa,. GestÃ£o de ciclo de vida de resÃ­duos sÃ³lidos industriais visando a circularidade: estudo de caso de um parque fabril de eletroeletrÃ´nicos. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MANCINI, S.D.; de Medeiros, G.A.; SOUZA, R.G.; Oliveira, J.A.; Paiva, J.M.F.. ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa,. GestÃ£o de ciclo de vida de resÃ­duos sÃ³lidos industriais visando a circularidade: estudo de caso de um parque fabril de eletroeletrÃ´nicos. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "; de Medeiros, G",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c9441f90cb2a439c0d0f8ecfb6eeac128a3eff65",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5091149098462301\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MANCINI, S.D.</a>; <b>de Medeiros, G.A.</b>; SOUZA, R.G.; Oliveira, J.A.; Paiva, J.M.F..  ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa,. GestÃ£o de ciclo de vida de resÃ­duos sÃ³lidos industriais visando a circularidade: estudo de caso de um parque fabril de eletroeletrÃ´nicos. 2025. Tese (Doutora",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "A. ; SOUZA"
+    },
+    {
+      "numero_item": 35,
+      "raw": "LOURENÃO, R.W. ; Santos, A.C.A.; MORAIS, L. C.; TONELLO, K.C.; de Medeiros, G . ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo. SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "LOURENÃO, R.W.; Santos, A.C.A.; MORAIS, L. C.; TONELLO, K.C.; de Medeiros, G",
+      "titulo": "ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ac9e48719bce3dd351a0488640afb2d662afea60",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/8484129953169399\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LOURENÃO, R.W.</a>; Santos, A.C.A.; MORAIS, L. C.; TONELLO, K.C.; <b>de Medeiros, G</b>.  ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo. SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Tese (Doutorado em CiÃªncias Ambientais)  - Un",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 36,
+      "raw": "REIS, Fabio Augusto Gomes Vieira ; Grathwohl, P.; de Medeiros, G ; Abreu, A.E.S.; Zarfl, C.. ParticipaÃ§Ã£o em banca de Caiubi Emanuel Souza Kuhn. Methodology to determine the socioeconomic impact and ecosystem services loss caused by ravines and gullies.. 2024. Tese (Doutorado em GeociÃªncias e Meio Ambiente) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "REIS, Fabio Augusto Gomes Vieira; Grathwohl, P.; de Medeiros, G; Abreu, A.E.S.; Zarfl, C.. ParticipaÃ§Ã£o em banca de Caiubi Emanuel Souza Kuhn. Methodology to determine the socioeconomic impact and ecosystem services loss caused by ravines and gullies.. 2024. Tese (Doutorado em GeociÃªncias e Meio Ambiente) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de Caiubi Emanuel Souza Kuhn",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "47c4af4c652f14401b1dced3e55224115f8ab1b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6761955837304653\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">REIS, Fabio Augusto Gomes Vieira</a>; Grathwohl, P.; <b>de Medeiros, G</b>; Abreu, A.E.S.; Zarfl, C..  ParticipaÃ§Ã£o em banca de Caiubi Emanuel Souza Kuhn. Methodology to determine the socioeconomic impact and ecosystem services loss caused by ravines and gullies.. 2024. Tese (Doutorado em GeociÃªncias e Meio",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Methodology to determine the socioeconomic impact and ecosystem services loss caused by ravines and gullies.. 2024. Tese (Doutorado em GeociÃªncias e Meio Ambiente) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 37,
+      "raw": "MEDEIROS, G. DE A. ; OLIVEIRA, B.O.S.; DE NADAI, R.; BebÃ©, F.V.; RIBEIRO, A. I. . ParticipaÃ§Ã£o em banca de Lucidalva Rrodrigues de Souza Nogueira. Planejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Guanambi, estado da Bahia. 2024. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MEDEIROS, G. DE A.; OLIVEIRA, B.O.S.; DE NADAI, R.; BebÃ©, F.V.; RIBEIRO, A. I.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Lucidalva Rrodrigues de Souza Nogueira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "11c3ae14c1d09ab5c6af69a1c7448f73c3c58b3f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MEDEIROS, G. DE A.</b>; OLIVEIRA, B.O.S.; DE NADAI, R.; BebÃ©, F.V.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5907913107550684\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">RIBEIRO, A. I.</a>.  ParticipaÃ§Ã£o em banca de Lucidalva Rrodrigues de Souza Nogueira. Planejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Gu",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Planejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Guanambi"
+    },
+    {
+      "numero_item": 53,
+      "raw": "LOURENÃO, R.W. ; Santos, A.C.A.; de Medeiros, G.A. . ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo. SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "LOURENÃO, R.W.; Santos, A.C.A.; de Medeiros, G.A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "03613803a14697a445c86a16acf06f510b30f833",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/8484129953169399\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LOURENÃO, R.W.</a>; Santos, A.C.A.; <b>de Medeiros, G.A.</b>.  ParticipaÃ§Ã£o em banca de Bruno Pereira Toniolo. SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais)  - Universid",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "SimulaÃ§Ã£o espacial do potencial de universalizaÃ§Ã£o do esgotamento sanitÃ¡rio na bacia hidrogrÃ¡fica do Rio Cotia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 54,
+      "raw": "MANCINI, SANDRO D.; SOUZA, R.G.; MEDEIROS, G. A. . ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. AvaliaÃ§Ã£o da certificaÃ§Ã£o resÃ­duo zero na reduÃ§Ã£o dos impactos ambientais negativos em um parque fabril de eletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MANCINI, SANDRO D.; SOUZA, R.G.; MEDEIROS, G. A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9ff92c7a26d1cdf7457ea06f6da81f6f805e4b52",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MANCINI, SANDRO D.; SOUZA, R.G.; <b>MEDEIROS, G. A.</b>.  ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. AvaliaÃ§Ã£o da certificaÃ§Ã£o resÃ­duo zero na reduÃ§Ã£o dos impactos ambientais negativos em um parque fabril de eletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "AvaliaÃ§Ã£o da certificaÃ§Ã£o resÃ­duo zero na reduÃ§Ã£o dos impactos ambientais negativos em um parque fabril de eletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 73,
+      "raw": "ANTUNES, M.L.P.; CantÃ£o, L.A.P.; de Medeiros, G.A. . ParticipaÃ§Ã£o em banca de Alexandra Oliveira Stevaux Calegari. Abordagem interdisciplinar dos objetivos de desenvolvimento sustentÃ¡vel (ODS) no ensino mÃ©dio: um estudo das atividades escolares. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "ANTUNES, M.L.P.; CantÃ£o, L.A.P.; de Medeiros, G.A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Alexandra Oliveira Stevaux Calegari",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "33086f0e32ddbbdcd630476759a4662dda62d3e3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ANTUNES, M.L.P.; CantÃ£o, L.A.P.; <b>de Medeiros, G.A.</b>.  ParticipaÃ§Ã£o em banca de Alexandra Oliveira Stevaux Calegari. Abordagem interdisciplinar dos objetivos de desenvolvimento sustentÃ¡vel (ODS) no ensino mÃ©dio: um estudo das atividades escolares. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Abordagem interdisciplinar dos objetivos de desenvolvimento sustentÃ¡vel (ODS) no ensino mÃ©dio: um estudo das atividades escolares. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 74,
+      "raw": "FRACETO, L.F. ; Polanczyk, R. A.; MEDEIROS, GERSON DE ARAUJO DE . ParticipaÃ§Ã£o em banca de Daniel Mauricio Chaves Realpe. Encapsulamento dos probiÃ³ticos Bacillus subtilis e Lactobacillus casei para uso em aquicultura. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FRACETO, L.F.; Polanczyk, R. A.; MEDEIROS, GERSON DE ARAUJO DE",
+      "titulo": "ParticipaÃ§Ã£o em banca de Daniel Mauricio Chaves Realpe",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8a3ebcabdd52081d332f13a56657cfbc1e0f7613",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">FRACETO, L.F.</a>; Polanczyk, R. A.; <b>MEDEIROS, GERSON DE ARAUJO DE</b>.  ParticipaÃ§Ã£o em banca de Daniel Mauricio Chaves Realpe. Encapsulamento dos probiÃ³ticos Bacillus subtilis e Lactobacillus casei para uso em aquicultura. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais)  - Universidad",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Encapsulamento dos probiÃ³ticos Bacillus subtilis e Lactobacillus casei para uso em aquicultura. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 75,
+      "raw": "FRACETO, L.F. ; Melo, A.A.; de Medeiros, G.A. . ParticipaÃ§Ã£o em banca de Tania Carolina Benavides Cuaspud. Desenvolvimento de formulaÃ§Ã£o microencapsulada da enzima fitase como estratÃ©gia para aumento da biodisponibilidade de fÃ³sforo para uso em aquicultura sustentÃ¡vel. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FRACETO, L.F.; Melo, A.A.; de Medeiros, G.A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Tania Carolina Benavides Cuaspud",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f851127d83a9ce4deec7b2b8abd9f7a7acc39321",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">FRACETO, L.F.</a>; Melo, A.A.; <b>de Medeiros, G.A.</b>.  ParticipaÃ§Ã£o em banca de Tania Carolina Benavides Cuaspud. Desenvolvimento de formulaÃ§Ã£o microencapsulada da enzima fitase como estratÃ©gia para aumento da biodisponibilidade de fÃ³sforo para uso em aquicultura sustentÃ¡vel. 2025. Exame de qualifica",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "Desenvolvimento de formulaÃ§Ã£o microencapsulada da enzima fitase como estratÃ©gia para aumento da biodisponibilidade de fÃ³sforo para uso em aquicultura sustentÃ¡vel. 2025. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 179,
+      "raw": "REIS, Fabio Augusto Gomes Vieira ; Kellner, E.; MEDEIROS, G. A. . Membro titular da banca examinadora de concurso pÃºblico docente RDIDP da Unesp, Camus Rio Claro. 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "REIS, Fabio Augusto Gomes Vieira; Kellner, E.; MEDEIROS, G. A.",
+      "titulo": "Membro titular da banca examinadora de concurso pÃºblico docente RDIDP da Unesp, Camus Rio Claro",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7580e52acd409802e6b7121c33914e6a1106aa9e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6761955837304653\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">REIS, Fabio Augusto Gomes Vieira</a>; Kellner, E.; <b>MEDEIROS, G. A.</b>. Membro titular da banca examinadora de concurso pÃºblico docente RDIDP da Unesp, Camus Rio Claro.\n\t\t\t\t\t\t2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 194,
+      "raw": "DE MEDEIROS, G. A. . ParticipaÃ§Ã£o no processo de avaliaÃ§Ã£o do PrÃªmio Mercedez-Bens de Responsabilidade Socioambiental 2023. 2024. Mercedes-Benz do Brasil.",
+      "autores": "DE MEDEIROS, G. A.",
+      "titulo": "ParticipaÃ§Ã£o no processo de avaliaÃ§Ã£o do PrÃªmio Mercedez-Bens de Responsabilidade Socioambiental 2023",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e7228bf8816e2c20a6bd48317fc6263cb4fd292",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DE MEDEIROS, G. A.</b>. ParticipaÃ§Ã£o no processo de avaliaÃ§Ã£o do PrÃªmio Mercedez-Bens de Responsabilidade Socioambiental 2023.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tMercedes-Benz do Brasil. </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:41.729372"
+      },
+      "veiculo": "2024. Mercedes-Benz do Brasil"
+    },
+    {
+      "numero_item": 1,
+      "raw": "14th International Zeugma Conference on Scientific Research. Landscape Efficiency in Urban Linear Parks in the Amazon: A Case Study in Rio Branco, state of Acre, Brazil. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Landscape Efficiency in Urban Linear Parks in the Amazon: A Case Study in Rio Branco, state of Acre, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "db0b063a33487691da89179c0b411c8b5026e7a1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">14th International Zeugma Conference on Scientific Research. Landscape Efficiency in Urban Linear Parks in the Amazon: A Case Study in Rio Branco, state of Acre, Brazil. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "18th International Conference on Agriculture, Animal Science & Rural Development. Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ec55ac7d3d70976ca27e0f405f3502ef76346eb6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">18th International Conference on Agriculture, Animal Science &amp; Rural Development. Environmental impacts of small-scale interbasin water transfer on the water quality in Southeast Brazil. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "2nd International Congress on Food, Agriculture, and Environment Researches in Global Word-II. Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c8a350cca3ca2dd8364e9bd12fb8a9344ca522b9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">2nd International Congress on Food, Agriculture, and Environment Researches in Global Word-II. Environmental impact assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "2nd Munzur International Scientific Research and Innovation Congress. Traditional knowledge on environmental preservation from Quilombola experience. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Traditional knowledge on environmental preservation from Quilombola experience",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7e0be68855d40945fbbf152363573a3f42ebbb52",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">2nd Munzur International Scientific Research and Innovation Congress. Traditional knowledge on environmental preservation from Quilombola experience. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "9th International Antalya Scientific Research and Innovative Studies. Assessment of the municipal solid waste management system in Itatiba, Brazil. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Assessment of the municipal solid waste management system in Itatiba, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "045a23ac442e1b7de965d10e76962d4ee4db51c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">9th International Antalya Scientific Research and Innovative Studies. Assessment of the municipal solid waste management system in Itatiba, Brazil. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 6,
+      "raw": "XIV Congresso Brasileiro de GestÃ£o Ambiental. GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1efdd4b4914e749da823b784691d78ad3a849825",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XIV Congresso Brasileiro de GestÃ£o Ambiental. GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "XIV Congresso Brasileiro de GestÃ£o Ambiental. Ãndice para avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itatiba-SP. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Ãndice para avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itatiba-SP",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "10486aab55a8d28f1ccb2cc4802c6db3f295de7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XIV Congresso Brasileiro de GestÃ£o Ambiental. Ãndice para avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itatiba-SP. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "XIV Congresso Brasileiro de GestÃ£o Ambiental. GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1efdd4b4914e749da823b784691d78ad3a849825",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XIV Congresso Brasileiro de GestÃ£o Ambiental. GeraÃ§Ã£o de resÃ­duos eletroeletrÃ´nicos da Ã¡rea da saÃºde pÃºblica: um estudo de caso em Sorocaba, estado de SÃ£o Paulo. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "XVI Congresso Brasileiro de GestÃ£o Ambiental. Pegada de carbono residencial: uma abordagem extensionista no conteÃºdo programÃ¡tico da disciplina GestÃ£o Ambiental. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Pegada de carbono residencial: uma abordagem extensionista no conteÃºdo programÃ¡tico da disciplina GestÃ£o Ambiental",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2513c2000bab5bc4a6f4d615a07e2d44092456c9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XVI Congresso Brasileiro de GestÃ£o Ambiental. Pegada de carbono residencial: uma abordagem extensionista no conteÃºdo programÃ¡tico da disciplina GestÃ£o Ambiental. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "XV Congresso Brasileiro de GestÃ£o Ambiental. AvaliaÃ§Ã£o do ciclo de vida no setor zoolÃ³gico: estudo de caso em centro de conservaÃ§Ã£o e reproduÃ§Ã£o de animais. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o do ciclo de vida no setor zoolÃ³gico: estudo de caso em centro de conservaÃ§Ã£o e reproduÃ§Ã£o de animais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4438fe9c469ac701020b50197b177b1dc48c645a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XV Congresso Brasileiro de GestÃ£o Ambiental. AvaliaÃ§Ã£o do ciclo de vida no setor zoolÃ³gico: estudo de caso em centro de conservaÃ§Ã£o e reproduÃ§Ã£o de animais. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "XV Congresso Brasileiro de GestÃ£o Ambiental. Jardim sensorial como uma ferramenta de educaÃ§Ã£o ambiental. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "Jardim sensorial como uma ferramenta de educaÃ§Ã£o ambiental",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0c58c8434aa67eb06414bc7877246512e925123e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XV Congresso Brasileiro de GestÃ£o Ambiental. Jardim sensorial como uma ferramenta de educaÃ§Ã£o ambiental. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "XV Congresso Brasileiro de GestÃ£o Ambiental. AvaliaÃ§Ã£o de um sistema de aquecimento solar de baixo custo (ASBC): disseminaÃ§Ã£o de tecnologia social. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de um sistema de aquecimento solar de baixo custo (ASBC): disseminaÃ§Ã£o de tecnologia social",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3980e648053654837867c6c7b517ad781484c533",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XV Congresso Brasileiro de GestÃ£o Ambiental. AvaliaÃ§Ã£o de um sistema de aquecimento solar de baixo custo (ASBC): disseminaÃ§Ã£o de tecnologia social. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 67,
+      "raw": "de Medeiros, G.A. . Membro do ComitÃª CientÃ­fico do Congresso Environmental Impact 2026. 2025. (Congresso).",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Membro do ComitÃª CientÃ­fico do Congresso Environmental Impact 2026",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d1f760849e8546b5ed44ba561f0128b54e597696",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Membro do ComitÃª CientÃ­fico do Congresso Environmental Impact 2026. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:41.784544"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Kelly Cristina RomÃ£o Cardoso. GestÃ£o de resÃ­duos eletrÃ´nicos hospitalares. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "GestÃ£o de resÃ­duos eletrÃ´nicos hospitalares",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cb361848dcf4be7040e36283ecfa72533488a951",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kelly Cristina RomÃ£o Cardoso. GestÃ£o de resÃ­duos eletrÃ´nicos hospitalares.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Lais Medeiros de Araujo. Planejamento ambiental na AmazÃ´nia. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Planejamento ambiental na AmazÃ´nia",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "241274b920e500ad65f7cc763147fe22e83ae8a1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7105655827423322\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Lais Medeiros de Araujo. Planejamento ambiental na AmazÃ´nia.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Angelina Vitorino de Souza MelarÃ©. AvaliaÃ§Ã£o de ensino tecnolÃ³gico. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de ensino tecnolÃ³gico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5d09d6b6d52ad12ff58dd50eb5883426021e47df",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5423211915001101\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Angelina Vitorino de Souza MelarÃ©. AvaliaÃ§Ã£o de ensino tecnolÃ³gico.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Flavia Toqueti. Entre Ciclos e CronÃ´metros: A DissociaÃ§Ã£o Temporal como Fator de Sofrimento Mental na Modernidade. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Entre Ciclos e CronÃ´metros: A DissociaÃ§Ã£o Temporal como Fator de Sofrimento Mental na Modernidade",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4362feb73e41f4415fe1c61196e5d189850c043a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1443847550732795\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Flavia Toqueti. Entre Ciclos e CronÃ´metros: A DissociaÃ§Ã£o Temporal como Fator de Sofrimento Mental na Modernidade.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Felipe Taiti Ukai. AnÃ¡lise temporal da eutrofizaÃ§Ã£o e toxicidade da Ã¡gua na bacia hidrogrÃ¡fica do rio JundiaÃ­ Mirim, Estado de SÃ£o Paulo, Brasil. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental - Sorocaba) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "AnÃ¡lise temporal da eutrofizaÃ§Ã£o e toxicidade da Ã¡gua na bacia hidrogrÃ¡fica do rio JundiaÃ­ Mirim, Estado de SÃ£o Paulo, Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8621c3d02ae676bc202a47ce328dfe68f9529f9f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Felipe Taiti Ukai. AnÃ¡lise temporal da eutrofizaÃ§Ã£o e toxicidade da Ã¡gua na bacia hidrogrÃ¡fica do rio JundiaÃ­ Mirim, Estado de SÃ£o Paulo, Brasil. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental - Sorocaba)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental - Sorocaba) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Nicole Almeida Cavallaro. Ãndice para a avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itapira, estado de SÃ£o Paulo. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Ãndice para a avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itapira, estado de SÃ£o Paulo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e5c21a78841a08e60b76e6259b16d27f82b9033b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicole Almeida Cavallaro. Ãndice para a avaliaÃ§Ã£o do sistema de gestÃ£o dos resÃ­duos sÃ³lidos municipais: estudo de caso em Itapira, estado de SÃ£o Paulo. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Albina Santos Costa. AvaliaÃ§Ã£o da resiliÃªncia baseado nas diretrizes ambientais, sociais e de governanÃ§a usando pressÃ£o-estado-resposta: um estudo de caso na bacia do rio JundiaÃ­ Mirim. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o da resiliÃªncia baseado nas diretrizes ambientais, sociais e de governanÃ§a usando pressÃ£o-estado-resposta: um estudo de caso na bacia do rio JundiaÃ­ Mirim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "875b1998d0f0b9aedc67f2029d15e986814e757c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6892375719486502\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Albina Santos Costa. AvaliaÃ§Ã£o da resiliÃªncia baseado nas diretrizes ambientais, sociais e de governanÃ§a usando pressÃ£o-estado-resposta: um estudo de caso na bacia do rio JundiaÃ­ Mirim.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio d",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Lais Medeiros de Araujo. AvaliaÃ§Ã£o da eficiÃªncia da paisagem para parques lineares na AmazÃ´nia: um estudo de caso em Rio Branco, Acre. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: Gerson Araujo de Medeiros.",
+      "autores": "Lais Medeiros de Araujo. AvaliaÃ§Ã£o da eficiÃªncia da paisagem para parques lineares na AmazÃ´nia: um estudo de caso em Rio Branco, Acre. . DissertaÃ§Ã£o (Mestrado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Orientador: Gerson Araujo de Medeiros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f91272fc8c64b6e9dc85343a0b1b70f51102ed37",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7105655827423322\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Lais Medeiros de Araujo. AvaliaÃ§Ã£o da eficiÃªncia da paisagem para parques lineares na AmazÃ´nia: um estudo de  caso em Rio Branco, Acre.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: Gerson Araujo de Med",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      }
+    },
+    {
+      "numero_item": 17,
+      "raw": "Regiane De Nadai. Estudo de cenÃ¡rio como ferramenta de avaliaÃ§Ã£o do potencial de sustentabilidade para piscicultura periurbana em regiÃ£o metropolitana. 2024. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Centro Paula Souza. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Estudo de cenÃ¡rio como ferramenta de avaliaÃ§Ã£o do potencial de sustentabilidade para piscicultura periurbana em regiÃ£o metropolitana",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "77a548b15b76e0456659e6e9479d2b3dc805cbc2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1045991132006506\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Regiane De Nadai.\n\t\t\t\t\t\tEstudo de cenÃ¡rio como ferramenta de avaliaÃ§Ã£o do potencial de sustentabilidade para piscicultura periurbana em regiÃ£o metropolitana.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Centro Paula Souza. O",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Lucidalva Rodrigues de Souza Nogueira. Planejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Guanambi, estado da Bahia. 2024. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: Gerson Araujo de Medeiros.",
+      "autores": "Lucidalva Rodrigues de Souza Nogueira. Planejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Guanambi, estado da Bahia. . Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Orientador: Gerson Araujo de Medeiros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "95bbbce8b2db8ab20e09cc481344e1c1678f838d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7278357430084055\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Lucidalva Rodrigues de Souza Nogueira.\n\t\t\t\t\t\tPlanejamento estratÃ©gico (MPE) como ferramenta de anÃ¡lise da implantaÃ§Ã£o e operacionalizaÃ§Ã£o de parques eÃ³licos onshore: um estudo de caso em Guanambi, estado da Bahia.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em CiÃªncias Ambientais)  - Universidade Estadu",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      }
+    },
+    {
+      "numero_item": 23,
+      "raw": "Pedro Henrique Grangeiro da Silva. AvaliaÃ§Ã£o da economia circular em uma indÃºstria de pneumÃ¡ticos: estudo de caso da empresa multinacional Sociedade Michelin. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o da economia circular em uma indÃºstria de pneumÃ¡ticos: estudo de caso da empresa multinacional Sociedade Michelin",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2c91a05175492d19da48e167270571281c0739e9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Henrique Grangeiro da Silva.\n\t\t\t\t\t\tAvaliaÃ§Ã£o da economia circular em uma indÃºstria de pneumÃ¡ticos: estudo de caso da empresa multinacional Sociedade Michelin.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 24,
+      "raw": "Ryan Carmim Ramos. A economia circular na briquetagem de cavaco de aÃ§o: estudo de caso em indÃºstria de peÃ§as automotivas. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "A economia circular na briquetagem de cavaco de aÃ§o: estudo de caso em indÃºstria de peÃ§as automotivas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "16f5ab8d3b3eff3f212e33aab18444275c832df4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ryan Carmim Ramos.\n\t\t\t\t\t\tA economia circular na briquetagem de cavaco de aÃ§o: estudo de caso em indÃºstria de peÃ§as automotivas.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 115,
+      "raw": "Flavia Toqueti. EstÃ¡gio Docencia na disciplina GestÃ£o Ambiental. UNESP-ICTS 2025. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental - Sorocaba) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "EstÃ¡gio Docencia na disciplina GestÃ£o Ambiental",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "db82e7f48610d1b1b704c27cff59130ea7dd05a2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Flavia Toqueti.\n\t\t\t\t\t\tEstÃ¡gio Docencia na disciplina GestÃ£o Ambiental. UNESP-ICTS 2025.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental - Sorocaba)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "UNESP-ICTS 2025. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental - Sorocaba) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 116,
+      "raw": "Bruna Rocha Moreira Evangelista. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0bb46cdd9e377f57839a89eccad3adbe36ab4b84",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna Rocha Moreira Evangelista.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 117,
+      "raw": "Carol Ribeiro de Medeiros carol. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fe97edc8dc25cf1644841e2f5eeff6fbe69e7763",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Carol Ribeiro de Medeiros carol.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 118,
+      "raw": "Cristiano GusmÃ£o Shimabukuro. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f7edf43f89aac25cd71ebf17b8fe1416d6f5aba",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cristiano GusmÃ£o Shimabukuro.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 119,
+      "raw": "Daniela Prando da Silva. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "450406a97f5b6955f3128d32ef9d2c7d1e7cf2dd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Daniela Prando da Silva.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 120,
+      "raw": "Giovanni Neves Ferrarini. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c470f7ebdf5a2641f2fa8486ff44ff9a79107a0d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Giovanni Neves Ferrarini.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 121,
+      "raw": "Giovanni Rampazzo Baldi. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "78ec17cca4f74930bcb91e42fc757e62a1e4c1ac",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Giovanni Rampazzo Baldi.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 122,
+      "raw": "Helena Gabriela Henrique do Nascimento. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ae7d53e9935a34ab4a72ebcd33a7ddcc30bed9c3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Helena Gabriela Henrique do Nascimento.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 123,
+      "raw": "Heloisa Silva de Almeida. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "836112a9b86f418eaafb985fc2ed2563722f1a4f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Heloisa Silva de Almeida.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 124,
+      "raw": "Henrique Pinheiro da Cruz. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "24456426a9bef4d27f6cb820782eed9d55d419c0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Henrique Pinheiro da Cruz.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 125,
+      "raw": "Isabel Leoni Furquim de Andrade. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b6913b4ccd077f56053c694365a9ef0985fb819",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabel Leoni Furquim de Andrade.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 126,
+      "raw": "Isabela Asuka Shimada. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eca2b7fe2a8f28c1ff690329b87d9bc6137852a2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabela Asuka Shimada.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 127,
+      "raw": "Isabelle Sales Soares. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2b145455a9ca34eaa2ebd30bc1a4ad59585711fd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabelle Sales Soares.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 128,
+      "raw": "Joao Pedro Silva Costa. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6172bc90af7130c4aac60fd3a159d7ac92e71ee3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Joao Pedro Silva Costa.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 129,
+      "raw": "Juliane Araujo Bersi. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b0a83ce61176fbb91a25942690ad0f77a0f1924d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Juliane Araujo Bersi.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 130,
+      "raw": "Luis Augusto Proenca Medeiros de Ulhoa Canto. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eb5dab5e36dce38c2afc3b1b73dd892d149f9670",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luis Augusto Proenca Medeiros de Ulhoa Canto.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 131,
+      "raw": "Luis Felipe Bueno. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bd063e3b0c0f4fb332ac4184c980dc87f7e640ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luis Felipe Bueno.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 132,
+      "raw": "Luiza Kimy de Campos. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c77249f3ee8a711c97c42455ee93da034fce205e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luiza Kimy de Campos.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 133,
+      "raw": "Maria Clara Papin Camargo dos Santos. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "746038c6b1403c2b8354d5db04d9da657e936107",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Clara Papin Camargo dos Santos.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 134,
+      "raw": "Maria Eduarda Morais Masotti. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "96d83b56aade2ca8d9dad1f4e17dc5bb8344f428",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Morais Masotti.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 135,
+      "raw": "Maria Eduarda Soler da Angela. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7f1e29c1ab96a9124fedf0b97ffd2e72cfe8cc31",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Soler da Angela.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 136,
+      "raw": "Murilo Martini Andrade. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c20b9105718d2c65c8a92c403ef366a8d8f23201",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Murilo Martini Andrade.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 137,
+      "raw": "Nicole Almeida Cavallaro. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4fb0ad8abd2537069e0fa09830b59c068d8f88d2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicole Almeida Cavallaro.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 138,
+      "raw": "Pedro Henrique Grangeiro da Silva. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3dc0863c7c29baa44dfa9c70e37d7469f39f07bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Henrique Grangeiro da Silva.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 139,
+      "raw": "Pedro Henrique Santos Barbosa. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cb12947f37450cf5632893dc96c7b9bde131f93f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Henrique Santos Barbosa.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 140,
+      "raw": "Pedro Zanrre Magalhaes. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b9242b50e173b4cb7c7faefb3ea7dcaf437dbd4b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Zanrre Magalhaes.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 141,
+      "raw": "Rafael Vieira Fogaca. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bd1eb08a6bb78dd2aacd54b6ff2d9696e5da5e6f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Vieira Fogaca.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 142,
+      "raw": "Rafaela Bernardino de Oliveira. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dd31d0e6b13f310015cf1fd3b97d994e8de22c7a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafaela Bernardino de Oliveira.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 143,
+      "raw": "Raphaella Beatriz Barison Secco. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9007af92322ded1f54e65da08590a52d68b0e6ac",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raphaella Beatriz Barison Secco.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 144,
+      "raw": "Ricardo Augusto de Almeida Frungilo. Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\". 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.",
+      "autores": null,
+      "titulo": "Projeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\"",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9501de37b9974af8bd10efd0d310a13792a48b01",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ricardo Augusto de Almeida Frungilo.\n\t\t\t\t\t\tProjeto de ExtensÃ£o \"GestÃ£o Ambiental Residencial\".\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.826113"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Gerson Araujo de Medeiros"
+    },
+    {
+      "numero_item": 28,
+      "raw": "de Medeiros, G.A. . Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "de Medeiros, G.A.",
+      "titulo": "Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1d3bd095bb9939ffe54a0adecca5075f1ef4b241",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>de Medeiros, G.A.</b>. Estiagem prolongada prejudica produtores rurais da regiÃ£o de Sorocaba. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "8657413561406750__gerson-araujo-de-medeiros.full_profile.html",
+        "lattes_id": "8657413561406750",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:41.841599"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    }
+  ]
+}

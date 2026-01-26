@@ -1,0 +1,581 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "9121907190104646",
+    "full_name": "Renata de Lima",
+    "slug": "renata-de-lima",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:42.260273",
+    "source_file": "9121907190104646__renata-de-lima.full_profile.html",
+    "total_productions": 29,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 9,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 18,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "1 MESAS, FLORENCIA ANABEL 2025 MESAS, FLORENCIA ANABEL ; MENDIETA, JULIETA RENÉE ; TORRES NICOLINI, ANDRÉS ; DE OLIVEIRA, JHONES LUIZ ; GERMANO-COSTA, TAIS ; BILESKY-JOSÉ, NATALIA ; De Lima, Renata ; FERNANDES FRACETO, LEONARDO ; ALVAREZ, VERA ALEJANDRA ; TERRILE, MARIA CECILIA . Deciphering physical and functional properties of chitosan-based particles for agriculture applications. INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES , v. 285, p. 138153, 2025.",
+      "autores": "1 MESAS, FLORENCIA ANABEL MESAS, FLORENCIA ANABEL; MENDIETA, JULIETA RENÉE; TORRES NICOLINI, ANDRÉS; DE OLIVEIRA, JHONES LUIZ; GERMANO-COSTA, TAIS; BILESKY-JOSÉ, NATALIA; De Lima, Renata; FERNANDES FRACETO, LEONARDO; ALVAREZ, VERA ALEJANDRA; TERRILE, MARIA CECILIA",
+      "titulo": "Deciphering physical and functional properties of chitosan-based particles for agriculture applications",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.ijbiomac.2024.138153",
+      "fingerprint_sha1": "055c830ccb4fdcfc456cfae67c1c3d35f63ac3cc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">1</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MESAS, FLORENCIA ANABEL</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.ijbiomac.2024.138153\" target=\"_blank\"></a>MESAS, FLORENCIA ANABEL ; MENDIETA, JULIETA RENÉE ; TORRES NICOLINI, ANDRÉS ; DE OLIVEIRA, ",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES"
+    },
+    {
+      "numero_item": 2,
+      "raw": "2 OLIVEIRA, LUCAS GABRIEL DE 2025 OLIVEIRA, LUCAS GABRIEL DE ; CONCEIÇÃO, MATHEUS HENRIQUE OLIVEIRA DA ; LOPES, RAFAEL APARECIDO GONÇALVES ; Lima, Renata . COPROCESSAMENTO DE RESÍDUOS NA INDÚSTRIA CIMENTEIRA BRASILEIRA: PANORAMA, TECNOLOGIAS E PERSPECTIVAS. REVISTA FISIO&TERAPIA , v. 29, p. 57-58, 2025.",
+      "autores": "2 OLIVEIRA, LUCAS GABRIEL DE OLIVEIRA, LUCAS GABRIEL DE; CONCEIÇÃO, MATHEUS HENRIQUE OLIVEIRA DA; LOPES, RAFAEL APARECIDO GONÇALVES; Lima, Renata",
+      "titulo": "COPROCESSAMENTO DE RESÍDUOS NA INDÚSTRIA CIMENTEIRA BRASILEIRA: PANORAMA, TECNOLOGIAS E PERSPECTIVAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.69849/revistaft/cs10202505271957",
+      "fingerprint_sha1": "b1648e7c9c553c722e8e72607737b4c8a7555d2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">2</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, LUCAS GABRIEL DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.69849/revistaft/cs10202505271957\" target=\"_blank\"></a>OLIVEIRA, LUCAS GABRIEL DE ; CONCEIÇÃO, MATHEUS HENRIQUE OLIVEIRA DA ; LOPES, RAFAE",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "REVISTA FISIO&TERAPIA"
+    },
+    {
+      "numero_item": 3,
+      "raw": "SANTOS, SAMANTA NUNES DOS 2025 SANTOS, SAMANTA NUNES DOS ; SIMAS, PAULO VITOR MARQUES ; Lima, Renata de ; PORTO, ANA CAROLINA RUSCA CORREA ; Arns, Clarice Weis . Investigação e Caracterização de Coronavirus em Morcegos. Brazilian Journal of Development , v. 11, p. e83033, 2025.",
+      "autores": "SANTOS, SAMANTA NUNES DOS SANTOS, SAMANTA NUNES DOS; SIMAS, PAULO VITOR MARQUES; Lima, Renata de; PORTO, ANA CAROLINA RUSCA CORREA; Arns, Clarice Weis",
+      "titulo": "Investigação e Caracterização de Coronavirus em Morcegos",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.34117/bjdv11n10-063",
+      "fingerprint_sha1": "2eb00a07b410f49d22670f37ba25559f3713f62b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, SAMANTA NUNES DOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.34117/bjdv11n10-063\" target=\"_blank\"></a>SANTOS, SAMANTA NUNES DOS ; SIMAS, PAULO VITOR MARQUES ; <b>Lima, Renata de</b> ; PORTO, ANA CAROL",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "Brazilian Journal of Development"
+    },
+    {
+      "numero_item": 4,
+      "raw": "3 PROENCA, P. L. F. 2024 PROENCA, P. L. F. ; CAMPOS, E. V. R. ; GERMANO-COSTA, T. ; LIMA, R. ; PREISLER, A. C. ; OLIVEIRA, H. C. ; ROCHA, C. M. ; ANDRADE, D. J. ; GONCALVES, K. C. ; POLANCZYK, R. A. ; FRACETO, L. F. . Curcumin and carvacrol co-loaded zein nanoparticles: Comprehensive preparation and assessment of biological activities in pest control. Plant Nano Biology , v. 8, p. 100067, 2024.",
+      "autores": "3 PROENCA, P. L. F. PROENCA, P. L. F.; CAMPOS, E. V. R.; GERMANO-COSTA, T.; LIMA, R.; PREISLER, A. C.; OLIVEIRA, H. C.; ROCHA, C. M.; ANDRADE, D. J.; GONCALVES, K. C.; POLANCZYK, R. A.; FRACETO, L. F.",
+      "titulo": "Curcumin and carvacrol co-loaded zein nanoparticles: Comprehensive preparation and assessment of biological activities in pest control",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.plana.2024.100067",
+      "fingerprint_sha1": "7b90e427740c0e9096a21f29d6985438cb31a347",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">3</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PROENCA, P. L. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2024.100067\" target=\"_blank\"></a>PROENCA, P. L. F. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8897252224945665\" target=\"_blank\"",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 5,
+      "raw": "5 RIBEIRO JUNIOR, ARI 2024 RIBEIRO JUNIOR, ARI ; YOKAICHIYA, FABIANO ; MONERJAN, ENELI ; LEMKE, KARINA ; GUILGER-CASAGRANDE, MARIANA ; Lima, Renata ; Fraceto, Leonardo ; FRANCO, MARGARETH K.K.D. ; KELLERMANN, GUINTHER . Structural characterization of silver nanoparticles produced by biogenic synthesis using SAXS. PHYSICA B-CONDENSED MATTER , v. 684, p. 415969, 2024.",
+      "autores": "5 RIBEIRO JUNIOR, ARI RIBEIRO JUNIOR, ARI; YOKAICHIYA, FABIANO; MONERJAN, ENELI; LEMKE, KARINA; GUILGER-CASAGRANDE, MARIANA; Lima, Renata; Fraceto, Leonardo; FRANCO, MARGARETH K.K.D.; KELLERMANN, GUINTHER",
+      "titulo": "Structural characterization of silver nanoparticles produced by biogenic synthesis using SAXS",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.physb.2024.415969",
+      "fingerprint_sha1": "3537ff959914cf6423ca9f2565bd33b476af59c5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">5</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RIBEIRO JUNIOR, ARI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.physb.2024.415969\" target=\"_blank\"></a>RIBEIRO JUNIOR, ARI ; YOKAICHIYA, FABIANO ; MONERJAN, ENELI ; LEMKE, KARINA ; <a class=\"tooltip\" h",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "PHYSICA B-CONDENSED MATTER"
+    },
+    {
+      "numero_item": 6,
+      "raw": "4 DA SILVA NETO, THALITA 2024 DA SILVA NETO, THALITA ; MAIA, LANA S. ; DA CONCEIÇÃO, MONIQUE O. T. ; DA SILVA, MARYANA B. ; CARVALHO, LAYDE T ; MEDEIROS, SIMONE F. ; FARIA, MARIA ISMÊNIA S. D. ; MIGLIORINI, BIANCA B. ; Lima, Renata ; ROSA, DERVAL S. ; MULINARI, DANIELLA R. . Enhancing PLA Filament Biocompatibility by Introducing ZnO and Ketoprofen. Journal of Inorganic and Organometallic Polymers and Materials , v. 27, p. 1-16, 2024.",
+      "autores": "4 DA SILVA NETO, THALITA DA SILVA NETO, THALITA; MAIA, LANA S.; DA CONCEIÇÃO, MONIQUE O. T.; DA SILVA, MARYANA B.; CARVALHO, LAYDE T; MEDEIROS, SIMONE F.; FARIA, MARIA ISMÊNIA S. D.; MIGLIORINI, BIANCA B.; Lima, Renata; ROSA, DERVAL S.; MULINARI, DANIELLA R.",
+      "titulo": "Enhancing PLA Filament Biocompatibility by Introducing ZnO and Ketoprofen",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10904-024-03275-1",
+      "fingerprint_sha1": "2573ea8e28277441a7dc04a3656bb56e78ec1a57",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">4</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA NETO, THALITA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10904-024-03275-1\" target=\"_blank\"></a>DA SILVA NETO, THALITA ; MAIA, LANA S. ; DA CONCEIÇÃO, MONIQUE O. T. ; DA SILVA, MARYANA B. ; CA",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "Journal of Inorganic and Organometallic Polymers and Materials"
+    },
+    {
+      "numero_item": 117,
+      "raw": "HARADA, L. K. ; GUILGER-CASAGRANDE, MARIANA ; GERMANO-COSTA, TAIS ; BILESKY-JOSE, NATALIA ; FRACETO, LEONARDO F. ; LIMA, R. . Silicon Advances for Sustainable Agriculture and Human Health. 1. ed. Ney York: Springer, 2024. v. 1. 463p .",
+      "autores": "HARADA, L. K.; GUILGER-CASAGRANDE, MARIANA; GERMANO-COSTA, TAIS; BILESKY-JOSE, NATALIA; FRACETO, LEONARDO F.; LIMA, R.",
+      "titulo": "Silicon Advances for Sustainable Agriculture and Human Health",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/978-3-031-69876-7_9",
+      "fingerprint_sha1": "74eb0a770178437e38f82858900865a6390b7313",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/978-3-031-69876-7_9\" target=\"_blank\"></a>HARADA, L. K. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3195292197800817\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GUILGER-CASAGRANDE, MARIANA</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3195292197800817\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GERMANO-COSTA, TAIS</a> ; BIL",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "1. ed. Ney York: Springer"
+    },
+    {
+      "numero_item": 181,
+      "raw": "Bilesky-José, N. ; LIMA, R . Biogenic Nanoparticles from Bacteria: A Perspective on Integrated Applications in Sustainable Agriculture. Frontiers in Microbiology , 2025.",
+      "autores": "Bilesky-José, N.; LIMA, R",
+      "titulo": "Biogenic Nanoparticles from Bacteria: A Perspective on Integrated Applications in Sustainable Agriculture",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3389/fmicb.2025.1724288",
+      "fingerprint_sha1": "deb50a92f4c1a7a4695d367e7d5ba4d16cd6ffdd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3389/fmicb.2025.1724288\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/3195292197800817\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Bilesky-José, N.</a> ; <b>LIMA, R</b> . Biogenic Nanoparticles from Bacteria: A Perspective on Integrated Applications in Sustainable Agriculture. Frontiers in Microbiology<sup><img class=\"ajaxJCR\" data-i",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "Frontiers in Microbiology"
+    },
+    {
+      "numero_item": 182,
+      "raw": "LIMA, R . Synthesis of biogenic metallic nanoparticles as a strategy for controlling agricultural pathogens. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "LIMA, R",
+      "titulo": "Synthesis of biogenic metallic nanoparticles as a strategy for controlling agricultural pathogens",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e7df8873eec79c62b5138e3c4523651b490890bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>LIMA, R</b>. Synthesis of biogenic metallic nanoparticles as a strategy for controlling agricultural pathogens. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.196680"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Lima, Renata ; GUILGER, M. ; GUILGER-CASAGRANDE, MARIANA ; PASQUOTO-STIGLIANI, TATIANE ; PASQUOTO-STIGLIANI, T. . PROCESSO DE OBTENÇÃO DE NANOPARTÍCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÍCOLAS E PRODUTOS OBTIDOS.. 2018, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10201801179, título: \"PROCESSO DE OBTENÇÃO DE NANOPARTÍCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÍCOLAS E PRODUTOS OBTIDOS.\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 11/06/2018; Licenciamento: 26/08/2025.",
+      "autores": "Lima, Renata; GUILGER, M.; GUILGER-CASAGRANDE, MARIANA; PASQUOTO-STIGLIANI, TATIANE; PASQUOTO-STIGLIANI, T.",
+      "titulo": "PROCESSO DE OBTENÇÃO DE NANOPARTÍCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÍCOLAS E PRODUTOS OBTIDOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f665f6e76b8ebee7d6cf215daa5e8b7a92611c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10201801179&amp;idCNPq=9121907190104646&amp;sequencial=487\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"> </span><b>Lima, Renata</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7217697895277883\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GUILGER, M.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3195292197800817\" ta",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:42.198557"
+      },
+      "veiculo": "2018"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Jennifer Gabaldo GregÃ³rio. SÃNTESE BIOGÃNICA DE NANOPARTÃCULAS UTILIZANDO A MICROALGA Chlorella sp. E SUA APLICAÃÃO NA MANUTENÃÃO DE CULTURAS VISANDO A PRODUÃÃO DE Sustainable Aviation Fuels. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais) - Universidade de Sorocaba. (Orientador).",
+      "autores": null,
+      "titulo": "SÃNTESE BIOGÃNICA DE NANOPARTÃCULAS UTILIZANDO A MICROALGA Chlorella sp",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f483b6c6d649c812d5509d0ad75309c026b19f0a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Jennifer Gabaldo GregÃ³rio. SÃNTESE BIOGÃNICA DE NANOPARTÃCULAS UTILIZANDO A MICROALGA Chlorella sp. E SUA APLICAÃÃO NA MANUTENÃÃO DE CULTURAS VISANDO A PRODUÃÃO DE Sustainable Aviation Fuels.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais)  - Universidade de Sorocaba. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "E SUA APLICAÃÃO NA MANUTENÃÃO DE CULTURAS VISANDO A PRODUÃÃO DE Sustainable Aviation Fuels. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais) - Universidade de Sorocaba. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Mariane Aparecida Nunes. UtilizaÃ§Ã£o do Ãleo essencial de cravo da Ãndia para a formulaÃ§Ã£o de nanoemulsÃµes visando o uso como nanoinseticida verde para o controle de pulgas adultas e ovos. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncias FarmacÃªuticas) - Universidade de Sorocaba. (Orientador).",
+      "autores": null,
+      "titulo": "UtilizaÃ§Ã£o do Ãleo essencial de cravo da Ãndia para a formulaÃ§Ã£o de nanoemulsÃµes visando o uso como nanoinseticida verde para o controle de pulgas adultas e ovos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d88eaa8aba076da42c957b2e0566f3db560548b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Mariane Aparecida Nunes. UtilizaÃ§Ã£o do Ãleo essencial de cravo da Ãndia para a formulaÃ§Ã£o de nanoemulsÃµes visando o uso como nanoinseticida verde para o controle de pulgas adultas e ovos.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em CiÃªncias FarmacÃªuticas)  - Universidade de Sorocaba. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncias FarmacÃªuticas) - Universidade de Sorocaba. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "SIMONE DA SILVA SANTOS. Spirulina platenses e Dunaliela salina: sÃ­ntese de nanopartÃ­culas biogÃªnicas visando melhora no sequestro de CO2 e produÃ§Ã£o de fertilizantes agrÃ­colas para impulsionar a Bioeconomia. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais) - Universidade de Sorocaba, FundaÃ§Ã£o Nacional de Desenvolvimento do Ensino Superior Particular. (Orientador).",
+      "autores": null,
+      "titulo": "Spirulina platenses e Dunaliela salina: sÃ­ntese de nanopartÃ­culas biogÃªnicas visando melhora no sequestro de CO2 e produÃ§Ã£o de fertilizantes agrÃ­colas para impulsionar a Bioeconomia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9659cdd7dfad2ad861d73b42a97a18a5a79ee292",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SIMONE DA SILVA SANTOS. Spirulina platenses e Dunaliela salina: sÃ­ntese de nanopartÃ­culas biogÃªnicas visando melhora no sequestro de CO2 e produÃ§Ã£o de fertilizantes agrÃ­colas para impulsionar a Bioeconomia.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais)  - Universidade de Sorocaba, FundaÃ§Ã£o Nacional de Desenvolvimento do Ensino Superior Particular. (Orientador). </span>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Processos TecnolÃ³gicos e Ambientais) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Liliam K Harada. InÃ­cio: 2024. Universidade de Sorocaba, FundaÃ§Ã£o de Amparo a Pasquisa do Estado de SÃ£o Paulo.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "302fc6047d898e0739d97778a55a83484a957ddb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Liliam K Harada.\n\t\t\t\t\tInÃ­cio: 2024. Universidade de Sorocaba, FundaÃ§Ã£o de Amparo a Pasquisa do Estado de SÃ£o Paulo. </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Mikaele Crystina Oliveira Bugarelle. SÃ­ntese de nanopartÃ­culas biogÃªnicas metÃ¡licas utilizando microrganismos prospectados de solo para o combate a fungos agrÃ­colas. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "SÃ­ntese de nanopartÃ­culas biogÃªnicas metÃ¡licas utilizando microrganismos prospectados de solo para o combate a fungos agrÃ­colas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "13012891a7a150ebf4cb70ce63fa8f1956eea65b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Mikaele Crystina Oliveira Bugarelle. SÃ­ntese de nanopartÃ­culas biogÃªnicas metÃ¡licas utilizando microrganismos prospectados de solo para o combate a fungos agrÃ­colas. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade de Sorocaba, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Raquel Laister. DESENVOLVIMENTO DE NANOEMULSÃO COM NANOPARTÃCULAS DE QUITOSANA PARA ESTABILIZAÃÃO DE COMPOSTOS VOLÃTEIS E APLICAÃÃO COMO BIOESTIMULANTE. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba, Universidade de Sorocaba. (Orientador).",
+      "autores": null,
+      "titulo": "DESENVOLVIMENTO DE NANOEMULSÃO COM NANOPARTÃCULAS DE QUITOSANA PARA ESTABILIZAÃÃO DE COMPOSTOS VOLÃTEIS E APLICAÃÃO COMO BIOESTIMULANTE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f5fd1f57097b6f7dcaf7ee1ca275b8c925c2fa2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raquel Laister. DESENVOLVIMENTO DE NANOEMULSÃO COM NANOPARTÃCULAS DE QUITOSANA PARA ESTABILIZAÃÃO DE COMPOSTOS VOLÃTEIS E APLICAÃÃO COMO BIOESTIMULANTE. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade de Sorocaba, Universidade de Sorocaba. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Maria Eduarda Costa de ProenÃ§a. SÃNTESE DE NANOPARTÃCULAS BIOGÃNICAS DE ZINCO UTILIZANDO MICROALGAS PARA POTENCIALIZAR O SEQUESTRO DE CO₂. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba. (Orientador).",
+      "autores": null,
+      "titulo": "SÃNTESE DE NANOPARTÃCULAS BIOGÃNICAS DE ZINCO UTILIZANDO MICROALGAS PARA POTENCIALIZAR O SEQUESTRO DE CO₂",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "499ad8f9f9db487e1bf0b41e66c8307e19bb349d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Costa de ProenÃ§a. SÃNTESE DE NANOPARTÃCULAS BIOGÃNICAS DE ZINCO UTILIZANDO MICROALGAS PARA POTENCIALIZAR O SEQUESTRO DE CO₂. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade de Sorocaba. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade de Sorocaba. (Orientador)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "TaynÃ¡ Pereira de Moura e Paula. MICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "MICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6ec69c14da4e4f1ee502840a6f9910f486403257",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TaynÃ¡ Pereira de Moura e Paula. MICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Bioprocessos e Biotecnologia)  - Universidade de Sorocaba, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 39,
+      "raw": "Beatriz Isquierdo Pires. O IMPACTO DARECICLAGEM DE EMBALAGENS PLÃSTICAS NA COMPETITIVIDADE DAS INDÃSTRIAS DE BEBIDAS. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "O IMPACTO DARECICLAGEM DE EMBALAGENS PLÃSTICAS NA COMPETITIVIDADE DAS INDÃSTRIAS DE BEBIDAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "53f1a2e47c422de2efa6b8e87aa640413ed9e5d4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Isquierdo Pires.\n\t\t\t\t\t\tO IMPACTO DARECICLAGEM DE EMBALAGENS PLÃSTICAS NA COMPETITIVIDADE DAS INDÃSTRIAS DE BEBIDAS.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 40,
+      "raw": "Alexandre Henrique Baddini Machado. REMOÃÃO DE FÃSFORO E NITROGÃNIO EM ESTAÃÃES COMPACTAS DE TRATAMENTO DE ESGOTO: ESTUDO DE CASO COM METODOLOGIA ATIVA. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "REMOÃÃO DE FÃSFORO E NITROGÃNIO EM ESTAÃÃES COMPACTAS DE TRATAMENTO DE ESGOTO: ESTUDO DE CASO COM METODOLOGIA ATIVA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "13f4f171bfaccb50691fc2985b632b38ab102c32",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alexandre Henrique Baddini Machado.\n\t\t\t\t\t\tREMOÃÃO DE FÃSFORO E NITROGÃNIO EM ESTAÃÃES COMPACTAS DE TRATAMENTO DE ESGOTO: ESTUDO DE CASO COM METODOLOGIA ATIVA.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 41,
+      "raw": "Fabricio Delmonde de ProenÃ§a. Gargalos na Rastreabilidade de ResÃ­duos e a DigitalizaÃ§Ã£o como SoluÃ§Ã£o para Melhoria do Processo. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "Gargalos na Rastreabilidade de ResÃ­duos e a DigitalizaÃ§Ã£o como SoluÃ§Ã£o para Melhoria do Processo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c1f912591c8cc8bb6162314afe4a59b832282660",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Fabricio Delmonde de ProenÃ§a.\n\t\t\t\t\t\tGargalos na Rastreabilidade de ResÃ­duos e a DigitalizaÃ§Ã£o como SoluÃ§Ã£o para Melhoria do Processo.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 42,
+      "raw": "Claudia Santiago. InfluÃªncia AntrÃ³pica sobre a Qualidade e Disponibilidade HÃ­drica: Um Estudo de Caso na Bacia HidrogrÃ¡fica do Campus da Universidade de Sorocaba (UNISO). 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "InfluÃªncia AntrÃ³pica sobre a Qualidade e Disponibilidade HÃ­drica: Um Estudo de Caso na Bacia HidrogrÃ¡fica do Campus da Universidade de Sorocaba (UNISO)",
+      "ano": 2025,
+      "mes": "ago",
+      "doi": null,
+      "fingerprint_sha1": "3656208e4a282000949bd337a8ee6deaff26d731",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Claudia Santiago.\n\t\t\t\t\t\tInfluÃªncia AntrÃ³pica sobre a Qualidade e Disponibilidade HÃ­drica: Um Estudo de Caso na Bacia HidrogrÃ¡fica do Campus da Universidade de Sorocaba (UNISO).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 43,
+      "raw": "Gabriel Cesar de Freitas. A UTILIZAÃÃO DE REDES NEUTRAS DE FIBRA ÃPTICA PARA A REDUÃÃO DE RESÃDUOS SÃLIDOS. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "A UTILIZAÃÃO DE REDES NEUTRAS DE FIBRA ÃPTICA PARA A REDUÃÃO DE RESÃDUOS SÃLIDOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b2970ce3416d1b4d7be19681c519782712e819e2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Cesar de Freitas.\n\t\t\t\t\t\tA UTILIZAÃÃO DE REDES NEUTRAS DE FIBRA ÃPTICA PARA A REDUÃÃO DE RESÃDUOS SÃLIDOS.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 44,
+      "raw": "Higor Vinicius Leite. DESAFIOS DA GERAÃÃO DE ENERGIA SOLAR SUSTENTÃVEL. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "DESAFIOS DA GERAÃÃO DE ENERGIA SOLAR SUSTENTÃVEL",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "28cec16593a2c0a48b45b62734fc7dd20430ca23",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Higor Vinicius Leite.\n\t\t\t\t\t\tDESAFIOS DA GERAÃÃO DE ENERGIA SOLAR SUSTENTÃVEL.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 45,
+      "raw": "Lucas Gabriel de Oliveira. artigoCOPROCESSAMENTO DE RESÃDUOS NAINDÃSTRIA CIMENTEIRA BRASILEIRA:PANORAMA, TECNOLOGIAS E PERSPECTIVAS. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": "Lucas Gabriel de Oliveira. artigoCOPROCESSAMENTO DE RESÃDUOS NAINDÃSTRIA CIMENTEIRA BRASILEIRA:PANORAMA, TECNOLOGIAS E PERSPECTIVAS.. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima",
+      "titulo": "artigoCOPROCESSAMENTO DE RESÃDUOS NAINDÃSTRIA CIMENTEIRA BRASILEIRA:PANORAMA, TECNOLOGIAS E PERSPECTIVAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "105a206d339e59dbbd02ff56804984a9fc1e711b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Gabriel de Oliveira.\n\t\t\t\t\t\tartigoCOPROCESSAMENTO DE RESÃDUOS NAINDÃSTRIA CIMENTEIRA BRASILEIRA:PANORAMA, TECNOLOGIAS E PERSPECTIVAS.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade de Sorocaba. Orientador: Renata de Lima"
+    },
+    {
+      "numero_item": 77,
+      "raw": "TaynÃ¡ Pereira de Moura. MICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE]. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba, Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "MICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE]",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f5ab432804f3ca89f4966eec89746671ff74d2e0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TaynÃ¡ Pereira de Moura.\n\t\t\t\t\t\tMICROPARTÃCULAS DE ALGINATO/KEFIRANO CONTENDO NANOPARTÃCUAS DE HIDROXIAPATITA VISANDO UTILIZAÃÃO COMO FERTILIZANTE].\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia)  - Universidade de Sorocaba,\n\t\t\t\t\t\tUniversidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 78,
+      "raw": "Giovanna Gainfelice. SeleÃ§Ã£o de microrganismos de interesse biotecnolÃ³gico e agrÃ­cola dos biomas brasileiros - Caatinga]. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba, Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "SeleÃ§Ã£o de microrganismos de interesse biotecnolÃ³gico e agrÃ­cola dos biomas brasileiros - Caatinga]",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "47f7d5b3e347ff8afc6b5e36f71777e800e3fb04",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Giovanna Gainfelice.\n\t\t\t\t\t\tSeleÃ§Ã£o de microrganismos de interesse biotecnolÃ³gico e agrÃ­cola dos biomas brasileiros - Caatinga].\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia)  - Universidade de Sorocaba,\n\t\t\t\t\t\tUniversidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de Bioprocessos e Biotecnologia) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 79,
+      "raw": "Marianna Confortini Machado. SeleÃ§Ã£o e avaliaÃ§Ã£o de microrganismos responsÃ¡veis pela saÃºde de abelhas indÃ­genas com potencial biotecnolÃ³gico. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de BIoprocessos e Biotecnologia Ambient) - Universidade de Sorocaba, Universidade de Sorocaba. Orientador: Renata de Lima.",
+      "autores": null,
+      "titulo": "SeleÃ§Ã£o e avaliaÃ§Ã£o de microrganismos responsÃ¡veis pela saÃºde de abelhas indÃ­genas com potencial biotecnolÃ³gico",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "15887a5583dfe7fd4a082b3f2237411e7ee776b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marianna Confortini Machado.\n\t\t\t\t\t\tSeleÃ§Ã£o e avaliaÃ§Ã£o de microrganismos responsÃ¡veis pela saÃºde de abelhas indÃ­genas com potencial biotecnolÃ³gico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de BIoprocessos e Biotecnologia Ambient)  - Universidade de Sorocaba,\n\t\t\t\t\t\tUniversidade de Sorocaba. Orientador: Renata de Lima.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:42.248898"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia de BIoprocessos e Biotecnologia Ambient) - Universidade de Sorocaba"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Lima, Renata ; GUILGER, M. ; GUILGER-CASAGRANDE, MARIANA ; PASQUOTO-STIGLIANI, TATIANE ; PASQUOTO-STIGLIANI, T. . PROCESSO DE OBTENÃÃO DE NANOPARTÃCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÃCOLAS E PRODUTOS OBTIDOS.. 2018, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10201801179, tÃ­tulo: \"PROCESSO DE OBTENÃÃO DE NANOPARTÃCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÃCOLAS E PRODUTOS OBTIDOS.\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 11/06/2018; Licenciamento: 26/08/2025.",
+      "autores": "Lima, Renata; GUILGER, M.; GUILGER-CASAGRANDE, MARIANA; PASQUOTO-STIGLIANI, TATIANE; PASQUOTO-STIGLIANI, T.",
+      "titulo": "PROCESSO DE OBTENÃÃO DE NANOPARTÃCULAS DE PRATA RECOBERTAS OBTIDAS A PARTIR DE Trichoderma harzianum PARA O CONTROLE DE PRAGAS AGRÃCOLAS E PRODUTOS OBTIDOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fbb37527e1549115287039a41a3a8aa10716aaf8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10201801179&amp;idCNPq=9121907190104646&amp;sequencial=487\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>Lima, Renata</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7217697895277883\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GUILGER, M.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3195292197800817\"",
+      "source": {
+        "file": "9121907190104646__renata-de-lima.full_profile.html",
+        "lattes_id": "9121907190104646",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:42.251397"
+      },
+      "veiculo": "2018"
+    }
+  ]
+}

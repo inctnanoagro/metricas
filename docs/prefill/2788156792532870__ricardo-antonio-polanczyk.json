@@ -1,0 +1,2111 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "2788156792532870",
+    "full_name": "Ricardo Antonio Polanczyk",
+    "slug": "ricardo-antonio-polanczyk",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:31.818884",
+    "source_file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+    "total_productions": 114,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 54,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 11,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 7,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 25,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 15,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 2,
+      "raw": "VALERO, DIANA E. 2025 VALERO, DIANA E. ; MCKEON, C. ROSE ; BUSSIÈRE, LUC ; CORNIANI, NATÁLIA ; COLMENAREZ, YELITZA C. ; HODGSON, ISLA ; MANGAN, ROSIE ; POLANCZYK, RICARDO A. ; TINSLEY, MATTHEW ; BUNNEFELD, NILS . A Practical Approach to Developing and Using Online Games for Transdisciplinary Research into Complex Social-Ecological Systems. SOCIETY & NATURAL RESOURCES , v. 1, p. 1-24, 2025.",
+      "autores": "VALERO, DIANA E. VALERO, DIANA E.; MCKEON, C. ROSE; BUSSIÈRE, LUC; CORNIANI, NATÁLIA; COLMENAREZ, YELITZA C.; HODGSON, ISLA; MANGAN, ROSIE; POLANCZYK, RICARDO A.; TINSLEY, MATTHEW; BUNNEFELD, NILS",
+      "titulo": "A Practical Approach to Developing and Using Online Games for Transdisciplinary Research into Complex Social-Ecological Systems",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1080/08941920.2025.2456938",
+      "fingerprint_sha1": "c6536bf45db68fc0c17a3f6e3de66778a804ffb5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VALERO, DIANA E.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/08941920.2025.2456938\" target=\"_blank\"></a>VALERO, DIANA E. ; MCKEON, C. ROSE ; BUSSIÈRE, LUC ; CORNIANI, NATÁLIA ; COLMENAREZ, YELITZA C. ; HO",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "SOCIETY & NATURAL RESOURCES"
+    },
+    {
+      "numero_item": 3,
+      "raw": "BEBBER, CAMILA 2025 BEBBER, CAMILA ; TROMBOTTO, BRUNA ; DA CUNHA, GUILHERME ECCARD REZENDE ; PIAZZA, RODOLFO DEBONE ; PEGORIN-BRASIL, GIOVANA SANT´ANA ; SASAKI, JOSANA CARLA SILVA ; GONÇALVES, ROGÉRIO PENNA ; DOS SANTOS, LINDOMAR SOARES ; MARQUES, RODRIGO FERNANDO COSTA ; MUSSAGY, CASSAMO USSEMANE ; GOLDBECK, ROSANA ; CAO, WEI ; Polanczyk, Ricardo Antonio ; HERCULANO, RONDINELLI DONIZETTI ; BURD, BETINA SAYEG . Effect of supplemented diet on the kinetic profile of polystyrene biodegradation by Tenebrio molitor larvae: Physical, chemical, thermal, wettability and zeta potential measurements. JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING , v. x, p. 116519, 2025.",
+      "autores": "BEBBER, CAMILA BEBBER, CAMILA; TROMBOTTO, BRUNA; DA CUNHA, GUILHERME ECCARD REZENDE; PIAZZA, RODOLFO DEBONE; PEGORIN-BRASIL, GIOVANA SANT´ANA; SASAKI, JOSANA CARLA SILVA; GONÇALVES, ROGÉRIO PENNA; DOS SANTOS, LINDOMAR SOARES; MARQUES, RODRIGO FERNANDO COSTA; MUSSAGY, CASSAMO USSEMANE; GOLDBECK, ROSANA; CAO, WEI; Polanczyk, Ricardo Antonio; HERCULANO, RONDINELLI DONIZETTI; BURD, BETINA SAYEG",
+      "titulo": "Effect of supplemented diet on the kinetic profile of polystyrene biodegradation by Tenebrio molitor larvae: Physical, chemical, thermal, wettability and zeta potential measurements",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.jece.2025.116519",
+      "fingerprint_sha1": "6d721cf4081b67239dc60cf71d5e9189fd0f4dff",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BEBBER, CAMILA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jece.2025.116519\" target=\"_blank\"></a>BEBBER, CAMILA ; TROMBOTTO, BRUNA ; DA CUNHA, GUILHERME ECCARD REZENDE ; PIAZZA, RODOLFO DEBONE ; PEGORIN",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING"
+    },
+    {
+      "numero_item": 4,
+      "raw": "MANGAN, ROSIE M. 2025 MANGAN, ROSIE M. ; TINSLEY, MATTHEW C. ; FERRARI, ESTER ; Polanczyk, Ricardo A. ; BUSSIÈRE, LUC F. . Crop diversity induces trade-offs in microbial biopesticide susceptibility that could delay pest resistance evolution. PLoS Pathogens , v. 21, p. e1013150, 2025.",
+      "autores": "MANGAN, ROSIE M. MANGAN, ROSIE M.; TINSLEY, MATTHEW C.; FERRARI, ESTER; Polanczyk, Ricardo A.; BUSSIÈRE, LUC F.",
+      "titulo": "Crop diversity induces trade-offs in microbial biopesticide susceptibility that could delay pest resistance evolution",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1371/journal.ppat.1013150",
+      "fingerprint_sha1": "e7b50acccb1f1ca8c39e0f147ba36708c77ce4ea",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MANGAN, ROSIE M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1371/journal.ppat.1013150\" target=\"_blank\"></a>MANGAN, ROSIE M. ; TINSLEY, MATTHEW C. ; FERRARI, ESTER ; <b>Polanczyk, Ricardo A.</b> ; BUSSIÈRE, LU",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "PLoS Pathogens"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Polanczyk, Ricardo Antonio 2025 Polanczyk, Ricardo Antonio ; SMANIOTTO, GIOVANI ; GONÇALVES, KELLY CRISTINA . In Vitro Compatibility with Pesticides: A Mixture Efficacy Prediction against the Sugar Cane Weevil,. ACS Omega , v. x, p. x, 2025.",
+      "autores": "Polanczyk, Ricardo Antonio Polanczyk, Ricardo Antonio; SMANIOTTO, GIOVANI; GONÇALVES, KELLY CRISTINA",
+      "titulo": "In Vitro Compatibility with Pesticides: A Mixture Efficacy Prediction against the Sugar Cane Weevil,",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.5c05193",
+      "fingerprint_sha1": "ac2592ac9cf5feb362f57a9dc225cd0df0d06beb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Polanczyk, Ricardo Antonio</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c05193\" target=\"_blank\"></a><b>Polanczyk, Ricardo Antonio</b>; SMANIOTTO, GIOVANI ; GONÇALVES, KELLY CRISTINA . In Vitro Co",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 6,
+      "raw": "HANDTE, VICENTE GUILHERME 2025 HANDTE, VICENTE GUILHERME ; PORTELA, VALÉRIA ORTAÇA ; DE ANDRADE, NARIANE ; SOARES, VALDEMIR BITTENCOURT ; DE SOUZA POLLO, ANDRESSA ; Polanczyk, Ricardo Antonio ; JACQUES, RODRIGO JOSEMAR SEMINOTI . Potential of bacteria isolated from chitin-enriched soil against (Hemiptera: Pentatomidae). PEST MANAGEMENT SCIENCE , v. 1, p. 1-1, 2025.",
+      "autores": "HANDTE, VICENTE GUILHERME HANDTE, VICENTE GUILHERME; PORTELA, VALÉRIA ORTAÇA; DE ANDRADE, NARIANE; SOARES, VALDEMIR BITTENCOURT; DE SOUZA POLLO, ANDRESSA; Polanczyk, Ricardo Antonio; JACQUES, RODRIGO JOSEMAR SEMINOTI",
+      "titulo": "Potential of bacteria isolated from chitin-enriched soil against (Hemiptera: Pentatomidae)",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1002/ps.70476",
+      "fingerprint_sha1": "6ea37f79dabc02c8550942fac6a717e4743a88fb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HANDTE, VICENTE GUILHERME</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/ps.70476\" target=\"_blank\"></a>HANDTE, VICENTE GUILHERME ; PORTELA, VALÉRIA ORTAÇA ; DE ANDRADE, NARIANE ; SOARES, VALDEMIR BITTENCOURT",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "PEST MANAGEMENT SCIENCE"
+    },
+    {
+      "numero_item": 7,
+      "raw": "MELO, ADRIANO A. 2025 MELO, ADRIANO A. ; BATISTA, DJEFERSON J. DE O. ; Polanczyk, Ricardo A. ; LOPES, LUANA L. ; LENZ, MARCOS ; ZINELLI, MANOEL P. ; LANZARIN, MATHEUS M. ; GROSS, RENATA B. ; BOLLER, WALTER . Persistence and Efficacy of -Based Biopesticide against in Soybeans: A 3-Year Field Study. Acs Agricultural Science & Technology , v. x, p. x-x, 2025.",
+      "autores": "MELO, ADRIANO A. MELO, ADRIANO A.; BATISTA, DJEFERSON J. DE O.; Polanczyk, Ricardo A.; LOPES, LUANA L.; LENZ, MARCOS; ZINELLI, MANOEL P.; LANZARIN, MATHEUS M.; GROSS, RENATA B.; BOLLER, WALTER",
+      "titulo": "Persistence and Efficacy of -Based Biopesticide against in Soybeans: A 3-Year Field Study",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00303",
+      "fingerprint_sha1": "04ac869ac4bdfcf0846d0ef96f6cfa528bd0faa1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MELO, ADRIANO A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00303\" target=\"_blank\"></a>MELO, ADRIANO A. ; BATISTA, DJEFERSON J. DE O. ; <b>Polanczyk, Ricardo A.</b> ; LOPES, LUANA L. ; LEN",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 8,
+      "raw": "MONTEIRO, G. G. 2024 MONTEIRO, G. G. ; PAULO, H. H. ; NASCIMENTO, D. D. ; PELEGRINI, G. ; LACERDA, L. M. ; CHACON-OROZCO, J. ; Leite, L. G. ; POLANCZYK, R. A. . Virulence of entomopathogenic nematodes and their symbiotic bacteria, under laboratory conditions, aiming controlling Saccharicoccus sacchari (Cockerell, 1895) (Hemiptera: Pseudococcidae) on sugarcane. BRAZILIAN JOURNAL OF BIOLOGY (ONLINE) , v. 84, p. e253780, 2024.",
+      "autores": "MONTEIRO, G. G. MONTEIRO, G. G.; PAULO, H. H.; NASCIMENTO, D. D.; PELEGRINI, G.; LACERDA, L. M.; CHACON-OROZCO, J.; Leite, L. G.; POLANCZYK, R. A.",
+      "titulo": "Virulence of entomopathogenic nematodes and their symbiotic bacteria, under laboratory conditions, aiming controlling Saccharicoccus sacchari (Cockerell, 1895) (Hemiptera: Pseudococcidae) on sugarcane",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1590/1519-6984.253780",
+      "fingerprint_sha1": "bdf7fb5e145c2182bfb1c10d4407928f73b73378",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MONTEIRO, G. G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1519-6984.253780\" target=\"_blank\"></a>MONTEIRO, G. G. ; PAULO, H. H. ; NASCIMENTO, D. D. ; PELEGRINI, G. ; LACERDA, L. M. ; CHACON-OROZCO, J. ; ",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "BRAZILIAN JOURNAL OF BIOLOGY (ONLINE)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "FERNANDES, F. O. 2024 FERNANDES, F. O. ; SOUZA, T. D. ; SANCHES, A. C. ; CARVALHO, I. R. ; DIAS, N. P. ; DESIDERIO, J. A. ; POLANCZYK, R. A. . Phenotypic plasticity in adults of Anticarsia gemmatalis exposed to sub-doses of Bt-based bioinsecticide. BRAZILIAN JOURNAL OF BIOLOGY (ONLINE) , v. 84, p. e256933, 2024.",
+      "autores": "FERNANDES, F. O. FERNANDES, F. O.; SOUZA, T. D.; SANCHES, A. C.; CARVALHO, I. R.; DIAS, N. P.; DESIDERIO, J. A.; POLANCZYK, R. A.",
+      "titulo": "Phenotypic plasticity in adults of Anticarsia gemmatalis exposed to sub-doses of Bt-based bioinsecticide",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1590/1519-6984.256933",
+      "fingerprint_sha1": "146b26cb0179408c3fce65093f6c0cee6f7243e6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES, F. O.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1519-6984.256933\" target=\"_blank\"></a>FERNANDES, F. O. ; SOUZA, T. D. ; SANCHES, A. C. ; CARVALHO, I. R. ; DIAS, N. P. ; DESIDERIO, J. A. ; <b>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "BRAZILIAN JOURNAL OF BIOLOGY (ONLINE)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "DE OLIVEIRA, JHONES LUIZ 2024 DE OLIVEIRA, JHONES LUIZ ; GÓMEZ, ISABEL ; SÁNCHEZ, JORGE ; SOBERÓN, MARIO ; Polanczyk, Ricardo Antonio ; BRAVO, ALEJANDRA . Performance insights into spray-dryer microencapsulated Bacillus thuringiensis cry pesticidal proteins with gum arabic and maltodextrin for effective pest control. APPLIED MICROBIOLOGY AND BIOTECHNOLOGY , v. 108, p. 181-181, 2024.",
+      "autores": "DE OLIVEIRA, JHONES LUIZ DE OLIVEIRA, JHONES LUIZ; GÓMEZ, ISABEL; SÁNCHEZ, JORGE; SOBERÓN, MARIO; Polanczyk, Ricardo Antonio; BRAVO, ALEJANDRA",
+      "titulo": "Performance insights into spray-dryer microencapsulated Bacillus thuringiensis cry pesticidal proteins with gum arabic and maltodextrin for effective pest control",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00253-023-12990-7",
+      "fingerprint_sha1": "67493d93c827a9a87168a94aef9b30e15045706f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA, JHONES LUIZ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00253-023-12990-7\" target=\"_blank\"></a>DE OLIVEIRA, JHONES LUIZ ; GÓMEZ, ISABEL ; SÁNCHEZ, JORGE ; SOBERÓN, MARIO ; <b>Polanczyk, Rica",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "APPLIED MICROBIOLOGY AND BIOTECHNOLOGY"
+    },
+    {
+      "numero_item": 11,
+      "raw": "GUILGER'CASAGRANDE, MARIANA 2024 GUILGER'CASAGRANDE, MARIANA ; MIGLIORINI, BIANCA BERTOLINI ; GERMANO'COSTA, TAIS ; BILESKY'JOSÉ, NATÁLIA ; HARADA, LILIAM KATSUE ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; GONÇALVES, KELLY CRISTINA ; Polanczyk, Ricardo Antonio ; FRACETO, LEONARDO FERNANDES ; LIMA, RENATA . Beauveria bassiana biogenic nanoparticles for the control of Noctuidae pests. PEST MANAGEMENT SCIENCE , v. 80, p. 1325-1337, 2024.",
+      "autores": "GUILGER'CASAGRANDE, MARIANA GUILGER'CASAGRANDE, MARIANA; MIGLIORINI, BIANCA BERTOLINI; GERMANO'COSTA, TAIS; BILESKY'JOSÉ, NATÁLIA; HARADA, LILIAM KATSUE; CAMPOS, ESTEFÂNIA VANGELIE RAMOS; GONÇALVES, KELLY CRISTINA; Polanczyk, Ricardo Antonio; FRACETO, LEONARDO FERNANDES; LIMA, RENATA",
+      "titulo": "Beauveria bassiana biogenic nanoparticles for the control of Noctuidae pests",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/ps.7863",
+      "fingerprint_sha1": "66da0e71b44299d8b0355027d9a1efad740aeeb9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUILGER'CASAGRANDE, MARIANA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/ps.7863\" target=\"_blank\"></a>GUILGER'CASAGRANDE, MARIANA ; MIGLIORINI, BIANCA BERTOLINI ; GERMANO'COSTA, TAIS ; BILESKY'JOSÉ, NATÁLI",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "PEST MANAGEMENT SCIENCE"
+    },
+    {
+      "numero_item": 12,
+      "raw": "DE BORTOLI, CAROLINE PLACIDI 2024 DE BORTOLI, CAROLINE PLACIDI ; Polanczyk, Ricardo Antonio ; CRICKMORE, NEIL . Throwing Brazilian strains into the melting pot of P. xylostella resistance to Bacillus thuringiensis. JOURNAL OF INVERTEBRATE PATHOLOGY , v. 204, p. 108101, 2024.",
+      "autores": "DE BORTOLI, CAROLINE PLACIDI DE BORTOLI, CAROLINE PLACIDI; Polanczyk, Ricardo Antonio; CRICKMORE, NEIL",
+      "titulo": "Throwing Brazilian strains into the melting pot of P",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jip.2024.108101",
+      "fingerprint_sha1": "11813f91d5f40efcfc40f0d08b0d680c7b9bb28d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE BORTOLI, CAROLINE PLACIDI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jip.2024.108101\" target=\"_blank\"></a>DE BORTOLI, CAROLINE PLACIDI ; <b>Polanczyk, Ricardo Antonio</b> ; CRICKMORE, NEIL . Throwin",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "xylostella resistance to Bacillus thuringiensis. JOURNAL OF INVERTEBRATE PATHOLOGY"
+    },
+    {
+      "numero_item": 13,
+      "raw": "DE FREITAS PROENÇA, PATRICIA LUIZA 2024 DE FREITAS PROENÇA, PATRICIA LUIZA ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; COSTA, TAIS GERMANO ; DE LIMA, RENATA ; PREISLER, ANA CRISTINA ; DE OLIVEIRA, HALLEY CAIXETA ; DA ROCHA, CLAUDIANE MARTINS ; DE ANDRADE, DANIEL JUNIOR ; GONCALVES, KELLY CRISTINA ; Polanczyk, Ricardo Antonio ; FRACETO, LEONARDO FERNANDES . Curcumin and carvacrol co-loaded zein nanoparticles: comprehensive preparation and assessment of biological activities in pest control. Plant Nano Biology , v. 8, p. 100067, 2024.",
+      "autores": "DE FREITAS PROENÇA, PATRICIA LUIZA DE FREITAS PROENÇA, PATRICIA LUIZA; CAMPOS, ESTEFÂNIA VANGELIE RAMOS; COSTA, TAIS GERMANO; DE LIMA, RENATA; PREISLER, ANA CRISTINA; DE OLIVEIRA, HALLEY CAIXETA; DA ROCHA, CLAUDIANE MARTINS; DE ANDRADE, DANIEL JUNIOR; GONCALVES, KELLY CRISTINA; Polanczyk, Ricardo Antonio; FRACETO, LEONARDO FERNANDES",
+      "titulo": "Curcumin and carvacrol co-loaded zein nanoparticles: comprehensive preparation and assessment of biological activities in pest control",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.plana.2024.100067",
+      "fingerprint_sha1": "e7a5feed63451782e528c7a109dd0012894cc070",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE FREITAS PROENÇA, PATRICIA LUIZA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2024.100067\" target=\"_blank\"></a>DE FREITAS PROENÇA, PATRICIA LUIZA ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; COSTA, TAIS ",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 141,
+      "raw": "DUARTE, ROGÃRIO TEIXEIRA ; POLANCZYK, R. A. . Compatibilidade na citricultura: mistura em tanque em termos aplicados. In: ANDRADE, D.J.; ROSSI, G.D.; DELLA VECCHIA, J.F.. (Org.). Controle biologico na citricultura. 1ed.Jaboticabal: Fabrica da Palavra, 2025, v. 1, p. 116-125.",
+      "autores": "DUARTE, ROGÃRIO TEIXEIRA; POLANCZYK, R. A.",
+      "titulo": "Compatibilidade na citricultura: mistura em tanque em termos aplicados",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4ae67efcfa0f6aa92e9d84c04ac3db50376e0884",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DUARTE, ROGÃRIO TEIXEIRA ; <b>POLANCZYK, R. A.</b> . Compatibilidade na citricultura: mistura em tanque em termos aplicados. In: ANDRADE, D.J.; ROSSI, G.D.; DELLA VECCHIA, J.F.. (Org.). Controle biologico na citricultura. 1ed.Jaboticabal: Fabrica da Palavra, 2025, v. 1, p. 116-125. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "ANDRADE"
+    },
+    {
+      "numero_item": 190,
+      "raw": "RICARDO, ANTONIO POLANCZYK ; ANDRADE, A. S. ; GONCALVES, K. C. . In vitro compatibility of insecticides and Bt biopesticide to Diatraea saccharalis. In: International Symposium on Crop Protection, 2025, Ghent. Anais. Ghent: UGhent, 2025. v. 1. p. 1-1.",
+      "autores": "RICARDO, ANTONIO POLANCZYK; ANDRADE, A. S.; GONCALVES, K. C.",
+      "titulo": "In vitro compatibility of insecticides and Bt biopesticide to Diatraea saccharalis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f9a90d4861005df2c7264708c814a9dcb1e6de76",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>RICARDO, ANTONIO POLANCZYK</b>; ANDRADE, A. S. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> . In vitro compatibility of insecticides and Bt biopesticide to Diatraea saccharalis. In: International Symposium on Crop Protection, 2025, Ghent. Anais. Ghent: UGhent, 2025. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "International Symposium on Crop Protection"
+    },
+    {
+      "numero_item": 227,
+      "raw": "GONCALVES, K. C. ; FERREIRA, C. C. C. ; RICARDO, ANTONIO POLANCZYK . Compatibilidade in vitro de fungo entomopatogenico e inseticidas visando ao controle de Sphenophorus levis vaurie (Coleoptera: Curculionidae). In: Simposio de Controle Biologico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. p. 442-422.",
+      "autores": "GONCALVES, K. C.; FERREIRA, C. C. C.; RICARDO, ANTONIO POLANCZYK",
+      "titulo": "Compatibilidade in vitro de fungo entomopatogenico e inseticidas visando ao controle de Sphenophorus levis vaurie (Coleoptera: Curculionidae)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "16635e945b8849ac9d01ddb47e1cef603dc3fe0d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; FERREIRA, C. C. C. ; <b>RICARDO, ANTONIO POLANCZYK</b> . Compatibilidade in vitro de fungo entomopatogenico e inseticidas visando ao controle de Sphenophorus levis vaurie (Coleoptera: Curculionidae). In: Simposio de Controle Biologico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. ",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Simposio de Controle Biologico"
+    },
+    {
+      "numero_item": 228,
+      "raw": "SOUSA, E. V. ; GONCALVES, K. C. ; RICARDO, ANTONIO POLANCZYK ; ANDRADE, D. J. . Efeito letal de Bacillus thuringiensis Berliner em Brevipalpus yothersi baker, 1949 (Prostigmata:Tenuipalpidae). In: Simposio de Controle Biologico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. p. 387-387.",
+      "autores": "SOUSA, E. V.; GONCALVES, K. C.; RICARDO, ANTONIO POLANCZYK; ANDRADE, D. J.",
+      "titulo": "Efeito letal de Bacillus thuringiensis Berliner em Brevipalpus yothersi baker, 1949 (Prostigmata:Tenuipalpidae)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e8dbb9678c6a19e75ee833059ac07ab8c5318a1b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUSA, E. V. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; <b>RICARDO, ANTONIO POLANCZYK</b> ; ANDRADE, D. J. . Efeito letal de Bacillus thuringiensis Berliner em Brevipalpus yothersi baker, 1949 (Prostigmata:Tenuipalpidae). In: Simposio de Controle Biologico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. p. 387-387. </span>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Simposio de Controle Biologico"
+    },
+    {
+      "numero_item": 229,
+      "raw": "MANGAN, R. ; TINSLEY, M. ; FERRARI, ESTER ; RICARDO, ANTONIO POLANCZYK ; BUSSIERE, L. . Crop diversity induces trade-offs in microbial biopesticide susceptibility that could delay pest resistance evolution. In: Simposio de Controle BiolÃ³gico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. p. 503-503.",
+      "autores": "MANGAN, R.; TINSLEY, M.; FERRARI, ESTER; RICARDO, ANTONIO POLANCZYK; BUSSIERE, L.",
+      "titulo": "Crop diversity induces trade-offs in microbial biopesticide susceptibility that could delay pest resistance evolution",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "45581cce06eed540d24ddfd4371fe168783fe8bd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MANGAN, R. ; TINSLEY, M. ; FERRARI, ESTER ; <b>RICARDO, ANTONIO POLANCZYK</b> ; BUSSIERE, L. . Crop diversity induces trade-offs in microbial biopesticide susceptibility that could delay pest resistance evolution. In: Simposio de Controle BiolÃ³gico, 2025, Gramado. Anais. Pelotas: EMBRAPA, 2025. v. 1. p. 503-503. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Simposio de Controle BiolÃ³gico"
+    },
+    {
+      "numero_item": 230,
+      "raw": "CACEMIRO, B. B. R. ; GONÃALVES, K. C. ; ANDRADE, A. S. ; UEHARA, N. ; PETERLINI, E. ; Polanczyk, Ricardo Antonio . Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis aizawai. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 38-38.",
+      "autores": "CACEMIRO, B. B. R.; GONÃALVES, K. C.; ANDRADE, A. S.; UEHARA, N.; PETERLINI, E.; Polanczyk, Ricardo Antonio",
+      "titulo": "Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis aizawai",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6603ef0fec673735b1d2bc3e98af10d14544ba79",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CACEMIRO, B. B. R. ; GONÃALVES, K. C. ; ANDRADE, A. S. ; UEHARA, N. ; PETERLINI, E. ; <b>Polanczyk, Ricardo Antonio</b> . Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis aizawai. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 38-38. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 231,
+      "raw": "GONCALVES, K. C. ; CACEMIRO, B. B. R. ; ANDRADE, A. S. ; UEHARA, N. ; PETERLINI, E. ; Polanczyk, Ricardo Antonio . Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis kurstaki. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 39-39.",
+      "autores": "GONCALVES, K. C.; CACEMIRO, B. B. R.; ANDRADE, A. S.; UEHARA, N.; PETERLINI, E.; Polanczyk, Ricardo Antonio",
+      "titulo": "Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis kurstaki",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7ccc5d2410aee44cb9b444304cbd03b71f4050e8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; CACEMIRO, B. B. R. ; ANDRADE, A. S. ; UEHARA, N. ; PETERLINI, E. ; <b>Polanczyk, Ricardo Antonio</b> . Efeito de inseticidas quÃ­micos no crescimento vegetativo de Bacillus thuringiensis kurstaki. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jabot",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 232,
+      "raw": "CARNEIRO, G. ; SILVA, P. H. M. ; Polanczyk, Ricardo Antonio . ProspecÃ§Ã£o de bactÃ©rias entomopatogÃªnicas visando ao controle de Sphenophorus levis (Coleoptera:Curculionidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 1-1.",
+      "autores": "CARNEIRO, G.; SILVA, P. H. M.; Polanczyk, Ricardo Antonio",
+      "titulo": "ProspecÃ§Ã£o de bactÃ©rias entomopatogÃªnicas visando ao controle de Sphenophorus levis (Coleoptera:Curculionidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "92a94d90ded9cebc536e3e4b6619994d80722d76",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARNEIRO, G. ; SILVA, P. H. M. ; <b>Polanczyk, Ricardo Antonio</b> . ProspecÃ§Ã£o de bactÃ©rias entomopatogÃªnicas visando ao controle de Sphenophorus levis (Coleoptera:Curculionidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 233,
+      "raw": "UEHARA, N. ; ANDRADE, A. S. ; CACEMIRO, B. B. R. ; PETERLINI, E. ; GONCALVES, K. C. ; Polanczyk, Ricardo Antonio . Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Thuricide no controle de Rachiplusia nu. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 36-36.",
+      "autores": "UEHARA, N.; ANDRADE, A. S.; CACEMIRO, B. B. R.; PETERLINI, E.; GONCALVES, K. C.; Polanczyk, Ricardo Antonio",
+      "titulo": "Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Thuricide no controle de Rachiplusia nu",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f4b2183d3f34154e26ecbeb7792309a53ec756c8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">UEHARA, N. ; ANDRADE, A. S. ; CACEMIRO, B. B. R. ; PETERLINI, E. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; <b>Polanczyk, Ricardo Antonio</b> . Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Thuricide no controle de Rachiplusia nu. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resu",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 234,
+      "raw": "UEHARA, N. ; ANDRADE, A. S. ; CACEMIRO, B. B. R. ; PETERLINE, E. ; GONÃALVES, K. C. ; Polanczyk, Ricardo Antonio . Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Xentari visando ao controle de Rachiplusia nu. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 35-35.",
+      "autores": "UEHARA, N.; ANDRADE, A. S.; CACEMIRO, B. B. R.; PETERLINE, E.; GONÃALVES, K. C.; Polanczyk, Ricardo Antonio",
+      "titulo": "Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Xentari visando ao controle de Rachiplusia nu",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "696e3ad0e85d64f2f03cecea11538b86ec520904",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">UEHARA, N. ; ANDRADE, A. S. ; CACEMIRO, B. B. R. ; PETERLINE, E. ; GONÃALVES, K. C. ; <b>Polanczyk, Ricardo Antonio</b> . Compatibilidade in vitro de mistura de inseticidas quÃ­micos e Xentari visando ao controle de Rachiplusia nu. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 35-35. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 235,
+      "raw": "ANDRADE, A. S. ; UEHARA, N. ; CACEMIRO, B. B. R. ; GONÃALVES, K. C. ; PETERLINI, E. ; OLIVEIRA, S. J. ; Polanczyk, Ricardo Antonio . A mistura de adjuvante com Bacillus thuringiensis Ã© compatÃ­vel no controle de Rachiplusia nu em condiÃ§Ãµes de laboratÃ³rio. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 29-29.",
+      "autores": "ANDRADE, A. S.; UEHARA, N.; CACEMIRO, B. B. R.; GONÃALVES, K. C.; PETERLINI, E.; OLIVEIRA, S. J.; Polanczyk, Ricardo Antonio",
+      "titulo": "A mistura de adjuvante com Bacillus thuringiensis Ã© compatÃ­vel no controle de Rachiplusia nu em condiÃ§Ãµes de laboratÃ³rio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3b1defc9e1b5fc6fd8dabf361e97a35e09e75ba3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ANDRADE, A. S. ; UEHARA, N. ; CACEMIRO, B. B. R. ; GONÃALVES, K. C. ; PETERLINI, E. ; OLIVEIRA, S. J. ; <b>Polanczyk, Ricardo Antonio</b> . A mistura de adjuvante com Bacillus thuringiensis Ã© compatÃ­vel no controle de Rachiplusia nu em condiÃ§Ãµes de laboratÃ³rio. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 29-29. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 236,
+      "raw": "Polanczyk, Ricardo Antonio ; GONCALVES, K. C. . Compatibilidade in vitro de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 30-30.",
+      "autores": "Polanczyk, Ricardo Antonio; GONCALVES, K. C.",
+      "titulo": "Compatibilidade in vitro de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8c95818e0f0bbb79c7a9ed500063d669d1f37302",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo Antonio</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> . Compatibilidade in vitro de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 30-30. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 237,
+      "raw": "ABAD, L. K. ; GONCALVES, K. C. ; CARNEIRO, G. ; Polanczyk, Ricardo Antonio . Compatibilidade entre produtos quÃ­micos e biolÃ³gicos Ã base de Bacillus thurigiensis no controle da Lagarta-do-cartucho do milho. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 13-13.",
+      "autores": "ABAD, L. K.; GONCALVES, K. C.; CARNEIRO, G.; Polanczyk, Ricardo Antonio",
+      "titulo": "Compatibilidade entre produtos quÃ­micos e biolÃ³gicos Ã base de Bacillus thurigiensis no controle da Lagarta-do-cartucho do milho",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b9116f1d49618a24e456f064750758fa21db0968",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ABAD, L. K. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; CARNEIRO, G. ; <b>Polanczyk, Ricardo Antonio</b> . Compatibilidade entre produtos quÃ­micos e biolÃ³gicos Ã  base de Bacillus thurigiensis no controle da Lagarta-do-cartucho do milho. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jabo",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 238,
+      "raw": "ROQUE, N. H. L. ; ALMEIDA, K. F. ; PIMENTA, I. O. ; ABAD, L. K. P. ; FERREIRA, R. J. ; Polanczyk, Ricardo Antonio . Seletividade de produto a base de Bacillus thuringiensis no parasitismo de Telenomus podisi (Hymenoptera: Platygastridae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 24-24.",
+      "autores": "ROQUE, N. H. L.; ALMEIDA, K. F.; PIMENTA, I. O.; ABAD, L. K. P.; FERREIRA, R. J.; Polanczyk, Ricardo Antonio",
+      "titulo": "Seletividade de produto a base de Bacillus thuringiensis no parasitismo de Telenomus podisi (Hymenoptera: Platygastridae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c034d704204a8e5845ef7f076d0a966ce859c10",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROQUE, N. H. L. ; ALMEIDA, K. F. ; PIMENTA, I. O. ; ABAD, L. K. P. ; FERREIRA, R. J. ; <b>Polanczyk, Ricardo Antonio</b> . Seletividade de produto a base de Bacillus thuringiensis no parasitismo de Telenomus podisi (Hymenoptera: Platygastridae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 24-24. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 239,
+      "raw": "SILVA, P. H. M. ; SANCHES, A. C. ; Polanczyk, Ricardo Antonio . Suscetibilidade de diferentes instares de Chrysodeixis includens A Cry1Ac. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 18-18.",
+      "autores": "SILVA, P. H. M.; SANCHES, A. C.; Polanczyk, Ricardo Antonio",
+      "titulo": "Suscetibilidade de diferentes instares de Chrysodeixis includens A Cry1Ac",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0a79918ada31896071eb7c0e0550af27d9901a85",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, P. H. M. ; SANCHES, A. C. ; <b>Polanczyk, Ricardo Antonio</b> . Suscetibilidade de diferentes instares de Chrysodeixis includens A Cry1Ac. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 18-18. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 240,
+      "raw": "PIMENTA, I. O. ; ABAD, L. K. ; FERREIRA, R. J. ; SILVA, P. H. M. ; ROQUE, N. H. L. ; ALMEIDA, Luiz Carlos de ; Polanczyk, Ricardo Antonio . Seletividade de Bacillus thuringiensis para Telenomus podisi. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 7-7.",
+      "autores": "PIMENTA, I. O.; ABAD, L. K.; FERREIRA, R. J.; SILVA, P. H. M.; ROQUE, N. H. L.; ALMEIDA, Luiz Carlos de; Polanczyk, Ricardo Antonio",
+      "titulo": "Seletividade de Bacillus thuringiensis para Telenomus podisi",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bfafdf385ba8c9f136d1970f9674e22529c23981",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PIMENTA, I. O. ; ABAD, L. K. ; FERREIRA, R. J. ; SILVA, P. H. M. ; ROQUE, N. H. L. ; ALMEIDA, Luiz Carlos de ; <b>Polanczyk, Ricardo Antonio</b> . Seletividade de Bacillus thuringiensis para Telenomus podisi. In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 7-7. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 241,
+      "raw": "ABAD, L. K. ; CARNEIRO, G. ; Polanczyk, Ricardo A. . Compatibilidade in vitro de inseticidas e bioinseticida Ã base de Bacillus thuringiensis e sua influÃªncia na mortalidade de Spodoptera cosmioides (Lepidoptera: Noctuidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 12-12.",
+      "autores": "ABAD, L. K.; CARNEIRO, G.; Polanczyk, Ricardo A.",
+      "titulo": "Compatibilidade in vitro de inseticidas e bioinseticida Ã base de Bacillus thuringiensis e sua influÃªncia na mortalidade de Spodoptera cosmioides (Lepidoptera: Noctuidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f2edea8911f5f585b4060c4af5f23030e2ad2c0e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ABAD, L. K. ; CARNEIRO, G. ; <b>Polanczyk, Ricardo A.</b> . Compatibilidade in vitro de inseticidas e bioinseticida Ã  base de Bacillus thuringiensis e sua influÃªncia na mortalidade de Spodoptera cosmioides (Lepidoptera: Noctuidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 12-12. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 242,
+      "raw": "CARNEIRO, G. ; CARVALHO, L. L. B. ; Polanczyk, Ricardo Antonio . ProspecÃ§Ã£o de Beauveria spp. visando ao controle de Sphenophorus levis (Coleoptera: Curculionidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 8-8.",
+      "autores": "CARNEIRO, G.; CARVALHO, L. L. B.; Polanczyk, Ricardo Antonio",
+      "titulo": "ProspecÃ§Ã£o de Beauveria spp",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "76c7378e52f6982d7a877549d8a8896b814ab860",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARNEIRO, G. ; CARVALHO, L. L. B. ; <b>Polanczyk, Ricardo Antonio</b> . ProspecÃ§Ã£o de Beauveria spp. visando ao controle de Sphenophorus levis (Coleoptera: Curculionidae). In: Workshop de Inverno em Entomologia Agricola, 2024, Jaboticabal. Livro de Resumos. Jaboticabal: FCAV, 2024. p. 8-8. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Workshop de Inverno em Entomologia Agricola"
+    },
+    {
+      "numero_item": 243,
+      "raw": "Ricardo Antonio Polanczyk ; GIANGRECCO, C. B. ; GONCALVES, K. C. ; CARDOSO, W. . Compatibilidade in vitro de inseticidasquÃ­mico e biolÃ³gicos para o controle de Chrysodeixis includens (Lepidoptera: Noctuidae). In: Congresso Brasileiro de Entomolgoia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "Ricardo Antonio Polanczyk; GIANGRECCO, C. B.; GONCALVES, K. C.; CARDOSO, W.",
+      "titulo": "Compatibilidade in vitro de inseticidasquÃ­mico e biolÃ³gicos para o controle de Chrysodeixis includens (Lepidoptera: Noctuidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "873e6eeb69d2542224ca6e55cc474fe4ec9c387f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>; GIANGRECCO, C. B. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> ; CARDOSO, W. . Compatibilidade in vitro de inseticidasquÃ­mico e biolÃ³gicos para o controle de Chrysodeixis includens (Lepidoptera: Noctuidae). In: Congresso Brasileiro de Entomolgoia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomolgoia"
+    },
+    {
+      "numero_item": 244,
+      "raw": "Ricardo Antonio Polanczyk ; GONCALVES, K. C. . A compatibilidade de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis depende do tempo de exposiÃ§Ã£o entre os agentes de controle. In: Congress Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "Ricardo Antonio Polanczyk; GONCALVES, K. C.",
+      "titulo": "A compatibilidade de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis depende do tempo de exposiÃ§Ã£o entre os agentes de controle",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d5d26040804f07a33f60e3ceffc07b32dc61ec2f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> . A compatibilidade de Beauveria bassiana e inseticidas quÃ­micos no controle de Sphenophorus levis depende do tempo de exposiÃ§Ã£o entre os agentes de controle. In: Congress Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congress Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 245,
+      "raw": "CARVALHO, L. L. B. ; CARVALHO, G. A. ; Ricardo Antonio Polanczyk . Beauveria bassiana em Soja: InfluÃªncia de Diferentes ConcentraÃ§Ãµes e Locais de InoculaÃ§Ã£o na RepelÃªncia de Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "CARVALHO, L. L. B.; CARVALHO, G. A.; Ricardo Antonio Polanczyk",
+      "titulo": "Beauveria bassiana em Soja: InfluÃªncia de Diferentes ConcentraÃ§Ãµes e Locais de InoculaÃ§Ã£o na RepelÃªncia de Euschistus heros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e9f5b7d0ab2125d13a9d210c91c666536110ae32",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, L. L. B. ; CARVALHO, G. A. ; <b>Ricardo Antonio Polanczyk</b> . Beauveria bassiana em Soja: InfluÃªncia de Diferentes ConcentraÃ§Ãµes e Locais de InoculaÃ§Ã£o na RepelÃªncia de Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 246,
+      "raw": "CARVALHO, L. L. B. ; CARVALHO, G. A. ; Ricardo Antonio Polanczyk . DuraÃ§Ã£o da Atividade de RepelÃªncia de Plantas de Soja Inoculadas com Beauveria bassiana para Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "CARVALHO, L. L. B.; CARVALHO, G. A.; Ricardo Antonio Polanczyk",
+      "titulo": "DuraÃ§Ã£o da Atividade de RepelÃªncia de Plantas de Soja Inoculadas com Beauveria bassiana para Euschistus heros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "64ba1cd8cc3c9794a70ec6574882dc34b3889011",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, L. L. B. ; CARVALHO, G. A. ; <b>Ricardo Antonio Polanczyk</b> . DuraÃ§Ã£o da Atividade de RepelÃªncia de Plantas de Soja Inoculadas com Beauveria bassiana para Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 247,
+      "raw": "CARVALHO, G. A. ; CARVALHO, L. L. B. ; SILVA, P. H. M. ; Ricardo Antonio Polanczyk . ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros. In: Congresso de Iniciacao Cientifica UNESP, 2024, Jaboticabal. -. -: -, 2024. v. -. p. ---.",
+      "autores": "CARVALHO, G. A.; CARVALHO, L. L. B.; SILVA, P. H. M.; Ricardo Antonio Polanczyk",
+      "titulo": "ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "96af237710c83a68e51b96a17e4ce31b9862b481",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, G. A. ; CARVALHO, L. L. B. ; SILVA, P. H. M. ; <b>Ricardo Antonio Polanczyk</b> . ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros. In: Congresso de Iniciacao Cientifica UNESP, 2024, Jaboticabal. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso de Iniciacao Cientifica UNESP"
+    },
+    {
+      "numero_item": 248,
+      "raw": "SILVA, P. H. M. ; CARVALHO, G. A. ; MACHADO, F. S. ; ABAD, L. K. ; Ricardo Antonio Polanczyk . BioprospecÃ§Ã£o de fungos entomopatogÃªnicos para o controle de Euschistus crenator (Hemiptera: Pentatomidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "SILVA, P. H. M.; CARVALHO, G. A.; MACHADO, F. S.; ABAD, L. K.; Ricardo Antonio Polanczyk",
+      "titulo": "BioprospecÃ§Ã£o de fungos entomopatogÃªnicos para o controle de Euschistus crenator (Hemiptera: Pentatomidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "88b1d5fc12e34c9bd37d072e93f8d29d01b7bcda",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, P. H. M. ; CARVALHO, G. A. ; MACHADO, F. S. ; ABAD, L. K. ; <b>Ricardo Antonio Polanczyk</b> . BioprospecÃ§Ã£o de fungos entomopatogÃªnicos para o controle de Euschistus crenator (Hemiptera: Pentatomidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 249,
+      "raw": "CARVALHO, G. A. ; SILVA, P. H. M. ; CARVALHO, L. L. B. ; Ricardo Antonio Polanczyk . ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "CARVALHO, G. A.; SILVA, P. H. M.; CARVALHO, L. L. B.; Ricardo Antonio Polanczyk",
+      "titulo": "ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9c1f7dd5bd2106eaec9b76a94a4e7ae1d10f4e24",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, G. A. ; SILVA, P. H. M. ; CARVALHO, L. L. B. ; <b>Ricardo Antonio Polanczyk</b> . ProspecÃ§Ã£o de fungos entomopatogÃªnicos visando ao controle de Euschistus heros. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 250,
+      "raw": "CARVALHO, G. A. ; SILVA, P. H. M. ; Ricardo Antonio Polanczyk . PreferÃªncia de Euschistus heros para oviposiÃ§Ã£o em substrato artificial com diferentes cores. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "CARVALHO, G. A.; SILVA, P. H. M.; Ricardo Antonio Polanczyk",
+      "titulo": "PreferÃªncia de Euschistus heros para oviposiÃ§Ã£o em substrato artificial com diferentes cores",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "060ddd24c6a44ba22f81fe16a86a8f872d8ab1b9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, G. A. ; SILVA, P. H. M. ; <b>Ricardo Antonio Polanczyk</b> . PreferÃªncia de Euschistus heros para oviposiÃ§Ã£o em substrato artificial com diferentes cores. In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 251,
+      "raw": "MACHADO, F. S. ; PETERLINE, E. ; SILVA, P. H. M. ; DAQUILA, BRUNO VINICIUS ; CONTE, HELIO ; Ricardo Antonio Polanczyk . Efeito residual de Bacillus thuringiensis sobre lagartas neonatas, apÃ³s aplicaÃ§Ãµes sobre ovos de Spodoptera frugiperda (Lepidoptera: Noctuidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "MACHADO, F. S.; PETERLINE, E.; SILVA, P. H. M.; DAQUILA, BRUNO VINICIUS; CONTE, HELIO; Ricardo Antonio Polanczyk",
+      "titulo": "Efeito residual de Bacillus thuringiensis sobre lagartas neonatas, apÃ³s aplicaÃ§Ãµes sobre ovos de Spodoptera frugiperda (Lepidoptera: Noctuidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c5ea6dae2aabbe35392edf1d6ce02e504596a1f1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MACHADO, F. S. ; PETERLINE, E. ; SILVA, P. H. M. ; DAQUILA, BRUNO VINICIUS ; CONTE, HELIO ; <b>Ricardo Antonio Polanczyk</b> . Efeito residual de Bacillus thuringiensis sobre lagartas neonatas, apÃ³s aplicaÃ§Ãµes sobre ovos de  Spodoptera frugiperda (Lepidoptera: Noctuidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 252,
+      "raw": "ABAD, L. K. P. ; SILVA, P. H. M. ; Ricardo Antonio Polanczyk . Compatibilidade de inseticidas quÃ­micos e biolÃ³gicos Ã base de Bacillus thuringiensis para de Spodoptera cosmioides (Lepidoptera:Noctuidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---.",
+      "autores": "ABAD, L. K. P.; SILVA, P. H. M.; Ricardo Antonio Polanczyk",
+      "titulo": "Compatibilidade de inseticidas quÃ­micos e biolÃ³gicos Ã base de Bacillus thuringiensis para de Spodoptera cosmioides (Lepidoptera:Noctuidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "afa4e16a8cf9e75b5b6bde3717d0cf24b21065b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ABAD, L. K. P. ; SILVA, P. H. M. ; <b>Ricardo Antonio Polanczyk</b> . Compatibilidade de inseticidas quÃ­micos e biolÃ³gicos Ã  base de Bacillus thuringiensis para de Spodoptera  cosmioides (Lepidoptera:Noctuidae). In: Congresso Brasileiro de Entomologia, 2024, Uberlandia. -. -: -, 2024. v. -. p. ---. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "livro": "Congresso Brasileiro de Entomologia"
+    },
+    {
+      "numero_item": 444,
+      "raw": "POLANCZYK, R. A. . The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4332863c0ca8972858af5e09d0b1387a590c5bec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 445,
+      "raw": "POLANCZYK, R. A. . EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "064b917800ce438c386e1acb879bc849a5c1fd48",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 446,
+      "raw": "POLANCZYK, R. A. . Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "af602d3d4528ce3567a4a55ebefee0dab05b612a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 447,
+      "raw": "POLANCZYK, R. A. . Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b32057e89dd6aaeb4fbef2cac67f8d04a8720934",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 515,
+      "raw": "Polanczyk, Ricardo Antonio . CEPENFITO. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "Polanczyk, Ricardo Antonio",
+      "titulo": "CEPENFITO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "78b492838b52f096a24c703e7cc18fddf0288a7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo Antonio</b>. CEPENFITO. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('www.youtube.com/watch?v=ZVahX_nqrmU')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 516,
+      "raw": "Ricardo Antonio Polanczyk . Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5e0b40ab5eac6926d4f2f6b448d54421af699ec3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=mq4DJDjOe40')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 517,
+      "raw": "Ricardo Antonio Polanczyk ; FRACETO, LEONARDO F. . Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais. 2024. (Programa de rÃ¡dio ou TV/Outra).",
+      "autores": "Ricardo Antonio Polanczyk; FRACETO, LEONARDO F.",
+      "titulo": "Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8378ce14c543ab6e3277e50a89d807eb1a211ef0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>; FRACETO, LEONARDO F. . Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Outra).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.agrolink.com.br/noticias/lagarta-do-cartucho-do-milho-pode-causar-r--10-bilhoes-em-perdas-anuais_497747.html')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></di",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Outra)"
+    },
+    {
+      "numero_item": 519,
+      "raw": "POLANCZYK, R. A. ; GONCALVES, K. C. . V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.; GONCALVES, K. C.",
+      "titulo": "V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50eb0382aa2c028ec9e8f467af1f2ca25820b491",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> . V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 520,
+      "raw": "POLANCZYK, R. A. . VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5c68278a7a4b6deef773d1fce0f99ba25c7c0dd1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 521,
+      "raw": "POLANCZYK, R. A. . Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3b02f4f24bfe1cf7cb3e2f4fe94d6dbd8655222",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 522,
+      "raw": "Polanczyk, Ricardo A. . III Curso de Compatibilidade Biologica entre Bioinseticidas e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "Polanczyk, Ricardo A.",
+      "titulo": "III Curso de Compatibilidade Biologica entre Bioinseticidas e Produtos QuÃ­micos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8653a0956e9ea3013c71e793765fb909cc9b3473",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo A.</b>. III Curso de Compatibilidade Biologica entre Bioinseticidas e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 523,
+      "raw": "POLANCZYK, R. A. . Posicionamento de bioinsumos na agricultura sustentavel. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Posicionamento de bioinsumos na agricultura sustentavel",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7ebd6ebf2c863275fb2d7f1cecb4d2939453f6af",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Posicionamento de bioinsumos na agricultura sustentavel. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 524,
+      "raw": "POLANCZYK, R. A. . III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0669b2b41122f4ef892b8c3096bd1dcd16a42eb3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 525,
+      "raw": "POLANCZYK, R. A. . IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4eb357a2c4db62db654122122e4aa974795221b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.695435"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "MACHADO, F. S. ; DAQUILA, BRUNO VINICIUS ; Polanczyk, Ricardo Antonio ; PETERLINI, E. ; CONTE, HELIO . MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202401104, tÃ­tulo: \"MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 01/06/2024",
+      "autores": "MACHADO, F. S.; DAQUILA, BRUNO VINICIUS; Polanczyk, Ricardo Antonio; PETERLINI, E.; CONTE, HELIO",
+      "titulo": "MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "856dd231345bf0fbdc9de5e970ce5070935f0532",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202401104&amp;idCNPq=2788156792532870&amp;sequencial=1079\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>MACHADO, F. S. ; DAQUILA, BRUNO VINICIUS ; <b>Polanczyk, Ricardo Antonio</b> ; PETERLINI, E. ; CONTE, HELIO . MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga.\n\t\t\t",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:31.700677"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 1,
+      "raw": "ANDRADE, D. J.; DELLA VECHIA, JAQUELINE F.; POLANCZYK, R. A. . ParticipaÃ§Ã£o em banca de Linda Pacherres. Seletividade da mistura em tanque com inseticidas e bioinseticida Ã base de Bacillus thuringiensis sobre Trichogramma pretiosum. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "ANDRADE, D. J.; DELLA VECHIA, JAQUELINE F.; POLANCZYK, R. A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Linda Pacherres",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "90a7af7c24a5859187eabeca952f5e1738e89278",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ANDRADE, D. J.; DELLA VECHIA, JAQUELINE F.; <b>POLANCZYK, R. A.</b>.  ParticipaÃ§Ã£o em banca de Linda Pacherres. Seletividade da mistura em tanque com inseticidas e bioinseticida Ã  base de Bacillus thuringiensis sobre Trichogramma pretiosum. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Seletividade da mistura em tanque com inseticidas e bioinseticida Ã base de Bacillus thuringiensis sobre Trichogramma pretiosum. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 2,
+      "raw": "DELALIBERA JUNIOR, I.; CIPRIANO, M. A. P.; POLANCZYK, R. A. . ParticipaÃ§Ã£o em banca de Laryssa Marinho Gomes. Potencial produtivo e otimizaÃ§Ã£o de meio lÃ­quido para o cultivo de Pseudomonas spp. com efeito inseticida contra Spodoptera spp.. 2025. DissertaÃ§Ã£o (Mestrado em Entomologia Agricola) - Escola Superior de Agricultura Luiz de Queiroz.",
+      "autores": "DELALIBERA JUNIOR, I.; CIPRIANO, M. A. P.; POLANCZYK, R. A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Laryssa Marinho Gomes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "18ab4a697af416d744a6f7a278719bcb2f78c2e1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DELALIBERA JUNIOR, I.; CIPRIANO, M. A. P.; <b>POLANCZYK, R. A.</b>.  ParticipaÃ§Ã£o em banca de Laryssa Marinho Gomes. Potencial produtivo e otimizaÃ§Ã£o de meio lÃ­quido para o cultivo de Pseudomonas spp. com efeito inseticida contra Spodoptera spp.. 2025. DissertaÃ§Ã£o (Mestrado em Entomologia Agricola) - Escola Superior de Agricultura Luiz de Queiroz. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Potencial produtivo e otimizaÃ§Ã£o de meio lÃ­quido para o cultivo de Pseudomonas spp. com efeito inseticida contra Spodoptera spp.. 2025. DissertaÃ§Ã£o (Mestrado em Entomologia Agricola) - Escola Superior de Agricultura Luiz de Queiroz"
+    },
+    {
+      "numero_item": 3,
+      "raw": "FRACETO, L. F.; OLIVEIRA, H. C.; POLANCZYK, R. A. . ParticipaÃ§Ã£o em banca de Peterson Willliam Pereira Pinheiro. Nanotecnologia aplicada a bioinsumos: potencial de nanopartÃ­culas polimÃ©ricas com reguladores de crescimento vegetal para impulsionar a agricultura. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Tecnologia de Materiais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FRACETO, L. F.; OLIVEIRA, H. C.; POLANCZYK, R. A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Peterson Willliam Pereira Pinheiro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d082faa95e37a86eb2e7330e0a07afd3dcd78f47",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FRACETO, L. F.; OLIVEIRA, H. C.; <b>POLANCZYK, R. A.</b>.  ParticipaÃ§Ã£o em banca de Peterson Willliam Pereira Pinheiro. Nanotecnologia aplicada a bioinsumos: potencial de nanopartÃ­culas polimÃ©ricas com reguladores de  crescimento vegetal para impulsionar a agricultura. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Tecnologia de Materiais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Nanotecnologia aplicada a bioinsumos: potencial de nanopartÃ­culas polimÃ©ricas com reguladores de crescimento vegetal para impulsionar a agricultura. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Tecnologia de Materiais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 4,
+      "raw": "FERREIRA, P. H. U.; FERREIRA, M. C.; Ricardo Antonio Polanczyk . ParticipaÃ§Ã£o em banca de Lucas Firmino da Silva Medeiros,. InteraÃ§Ã£o entre Metarhizium anisopliae, inseticidas e adjuvantes: compatibilidade biolÃ³gica e comportamento fÃ­sico de caldas para controle de Mahanarva fimbriolata na cana-de-aÃ§Ãºcar. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FERREIRA, P. H. U.; FERREIRA, M. C.; Ricardo Antonio Polanczyk",
+      "titulo": "ParticipaÃ§Ã£o em banca de Lucas Firmino da Silva Medeiros,",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e7ceddcc736284aaf41523cda10e0e9b2410c408",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERREIRA, P. H. U.; FERREIRA, M. C.; <b>Ricardo Antonio Polanczyk</b>.  ParticipaÃ§Ã£o em banca de Lucas Firmino da Silva Medeiros,. InteraÃ§Ã£o entre Metarhizium anisopliae, inseticidas e adjuvantes: compatibilidade biolÃ³gica e comportamento fÃ­sico de caldas para controle de Mahanarva fimbriolata na cana-de-aÃ§Ãºcar. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mes",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "InteraÃ§Ã£o entre Metarhizium anisopliae"
+    },
+    {
+      "numero_item": 5,
+      "raw": "GRAVENA, S.; ALMEIDA, J. E. M.; Polanczyk, Ricardo Antonio . ParticipaÃ§Ã£o em banca de Camila Aparecida Bertolazzo Giangrecco. Especificidade e seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis incudes (Lepidoptera: Noctuidae) e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae). 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "GRAVENA, S.; ALMEIDA, J. E. M.; Polanczyk, Ricardo Antonio",
+      "titulo": "ParticipaÃ§Ã£o em banca de Camila Aparecida Bertolazzo Giangrecco",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8d4a0b05753a2b9ff06b1ca6639cdf4cd899d89f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GRAVENA, S.; ALMEIDA, J. E. M.; <b>Polanczyk, Ricardo Antonio</b>.  ParticipaÃ§Ã£o em banca de Camila Aparecida Bertolazzo Giangrecco. Especificidade e seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis incudes (Lepidoptera: Noctuidae) e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae). 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de M",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Especificidade e seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis incudes (Lepidoptera: Noctuidae) e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae). 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MELO, A. A.; BOLLER, W.; Polanczyk, Ricardo Antonio . ParticipaÃ§Ã£o em banca de Djeferson JosÃ© de Oliveira Batista. Efeito residual de Bacillus thuringiensis em Chrysodeixis includens na cultura da soja. 2024. DissertaÃ§Ã£o (Mestrado em Programa de PÃ³s-graduaÃ§Ã£o em Agronomia) - Universidade Federal de Santa Maria.",
+      "autores": "MELO, A. A.; BOLLER, W.; Polanczyk, Ricardo Antonio",
+      "titulo": "ParticipaÃ§Ã£o em banca de Djeferson JosÃ© de Oliveira Batista",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "117aa40cc1a01cf844604458d058fb04d0b6a8ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MELO, A. A.; BOLLER, W.; <b>Polanczyk, Ricardo Antonio</b>.  ParticipaÃ§Ã£o em banca de Djeferson JosÃ© de Oliveira Batista. Efeito residual de Bacillus thuringiensis em Chrysodeixis includens na cultura da soja. 2024. DissertaÃ§Ã£o (Mestrado em Programa de PÃ³s-graduaÃ§Ã£o em Agronomia) - Universidade Federal de Santa Maria. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Efeito residual de Bacillus thuringiensis em Chrysodeixis includens na cultura da soja. 2024. DissertaÃ§Ã£o (Mestrado em Programa de PÃ³s-graduaÃ§Ã£o em Agronomia) - Universidade Federal de Santa Maria"
+    },
+    {
+      "numero_item": 76,
+      "raw": "SATO, M. E.; Ricardo Antonio Polanczyk ; ANDRADE, D. J.. ParticipaÃ§Ã£o em banca de Hector Alonso Escobar Garcia. Baixos nÃ­veis de resistÃªncia ao propargito em populaÃ§Ãµes de campo de Brevipalpus yothersi (Acari: Tenuipalpidae) do cinturÃ£o cÃ­trico do Brasil. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "SATO, M. E.; Ricardo Antonio Polanczyk; ANDRADE, D. J.. ParticipaÃ§Ã£o em banca de Hector Alonso Escobar Garcia. Baixos nÃ­veis de resistÃªncia ao propargito em populaÃ§Ãµes de campo de Brevipalpus yothersi (Acari: Tenuipalpidae) do cinturÃ£o cÃ­trico do Brasil. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de Hector Alonso Escobar Garcia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "970a3a95c3a5d5663bcd9d096f857bdbe9eea17d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SATO, M. E.; <b>Ricardo Antonio Polanczyk</b>; ANDRADE, D. J..  ParticipaÃ§Ã£o em banca de Hector Alonso Escobar Garcia. Baixos nÃ­veis de resistÃªncia ao propargito em populaÃ§Ãµes de campo de Brevipalpus yothersi (Acari: Tenuipalpidae) do cinturÃ£o cÃ­trico do Brasil. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Baixos nÃ­veis de resistÃªncia ao propargito em populaÃ§Ãµes de campo de Brevipalpus yothersi (Acari: Tenuipalpidae) do cinturÃ£o cÃ­trico do Brasil. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 109,
+      "raw": "ROSSATO JUNIOR, J. A. S.; FERNANDES, O. A.; POLANCZYK, R. A. . ParticipaÃ§Ã£o em banca de Gustavo Cesar Costa Gomes. RelaÃ§Ã£o entre injÃºrias causadas por pragas (Diatraea saccharalis e Sphenophorus levis) e danos Ã cana-de-aÃ§Ãºcar: uma avaliaÃ§Ã£o auxiliada por visÃ£o computacional. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "ROSSATO JUNIOR, J. A. S.; FERNANDES, O. A.; POLANCZYK, R. A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Gustavo Cesar Costa Gomes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "df8c2a7bd54401ccd72098e1453ec88a1e6aca68",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROSSATO JUNIOR, J. A. S.; FERNANDES, O. A.; <b>POLANCZYK, R. A.</b>.  ParticipaÃ§Ã£o em banca de Gustavo Cesar Costa Gomes. RelaÃ§Ã£o entre injÃºrias causadas por pragas (Diatraea saccharalis e Sphenophorus levis) e danos Ã  cana-de-aÃ§Ãºcar: uma avaliaÃ§Ã£o auxiliada por visÃ£o computacional. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "RelaÃ§Ã£o entre injÃºrias causadas por pragas (Diatraea saccharalis e Sphenophorus levis) e danos Ã cana-de-aÃ§Ãºcar: uma avaliaÃ§Ã£o auxiliada por visÃ£o computacional. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 110,
+      "raw": "MARTINELLI, N. M.; SCUDELER, E. L.; RICARDO, ANTONIO POLANCZYK . ParticipaÃ§Ã£o em banca de Beatriz da Rocha Cacemiro. Compatibilidade de Beauveria bassiana e inseticidas quÃ­micos para o controle de Sphenophorus levis. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MARTINELLI, N. M.; SCUDELER, E. L.; RICARDO, ANTONIO POLANCZYK",
+      "titulo": "ParticipaÃ§Ã£o em banca de Beatriz da Rocha Cacemiro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c510e4825db4a9c46c970317fe4ca08c6987e1cf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MARTINELLI, N. M.; SCUDELER, E. L.; <b>RICARDO, ANTONIO POLANCZYK</b>.  ParticipaÃ§Ã£o em banca de Beatriz da Rocha Cacemiro. Compatibilidade de  Beauveria bassiana e inseticidas quÃ­micos para o controle de Sphenophorus levis. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Compatibilidade de Beauveria bassiana e inseticidas quÃ­micos para o controle de Sphenophorus levis. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 111,
+      "raw": "FRACETO, L. F.; MELO, A. A.; Polanczyk, Ricardo Antonio . ParticipaÃ§Ã£o em banca de Giovanna Moura Silva. Desenvolvimento de NanoformulaÃ§Ãµes contendo Ãleos Essenciais para uso em Agricultura para Controle de Pratylenchus brachyurus. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FRACETO, L. F.; MELO, A. A.; Polanczyk, Ricardo Antonio",
+      "titulo": "ParticipaÃ§Ã£o em banca de Giovanna Moura Silva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6989f894b9054f73b1df2968b87a59304f300196",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FRACETO, L. F.; MELO, A. A.; <b>Polanczyk, Ricardo Antonio</b>.  ParticipaÃ§Ã£o em banca de Giovanna Moura Silva. Desenvolvimento de NanoformulaÃ§Ãµes contendo Ãleos Essenciais para uso em Agricultura para Controle de Pratylenchus brachyurus. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Desenvolvimento de NanoformulaÃ§Ãµes contendo Ãleos Essenciais para uso em Agricultura para Controle de Pratylenchus brachyurus. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 112,
+      "raw": "FRACETO, LEONARDO F.; MARTINELLI, N. M.; Ricardo Antonio Polanczyk . ParticipaÃ§Ã£o em banca de Paulo Henrique Martins da Silva. Bioatividade de bactÃ©rias e fungos para o controle de uma nova espÃ©cie invasora em soja no norte do Brasil: Euschistus crenator (Fabricius) (Hemiptera: Pentatomidae). 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "FRACETO, LEONARDO F.; MARTINELLI, N. M.; Ricardo Antonio Polanczyk",
+      "titulo": "ParticipaÃ§Ã£o em banca de Paulo Henrique Martins da Silva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a5ce156dabca49d28bd8780280a468b82875e059",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FRACETO, LEONARDO F.; MARTINELLI, N. M.; <b>Ricardo Antonio Polanczyk</b>.  ParticipaÃ§Ã£o em banca de Paulo Henrique Martins da Silva. Bioatividade de bactÃ©rias e fungos para o controle de uma nova espÃ©cie invasora em soja no norte do Brasil: Euschistus crenator (Fabricius) (Hemiptera: Pentatomidae). 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.760756"
+      },
+      "veiculo": "Bioatividade de bactÃ©rias e fungos para o controle de uma nova espÃ©cie invasora em soja no norte do Brasil: Euschistus crenator (Fabricius) (Hemiptera: Pentatomidae). 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 1,
+      "raw": "The 9th International Conference on Biorefinary and Biomanufacturing. Biological control and sustenaibility of bioproduct for bioeconomy. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Biological control and sustenaibility of bioproduct for bioeconomy",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fa67664a38808bd6199ae169a362539398485e95",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">The 9th International Conference on Biorefinary and Biomanufacturing. Biological control and sustenaibility of bioproduct for bioeconomy. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Congresso Brasileiro de Bioenergia. O controle biologico como instrumento da sustentabilidade na cultura da cana de aÃ§Ãºcar: o desafo do Sphenophorus levis. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "O controle biologico como instrumento da sustentabilidade na cultura da cana de aÃ§Ãºcar: o desafo do Sphenophorus levis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "76f18de0c42467171e36bdaeed7ed2c9c6fff6bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Congresso Brasileiro de Bioenergia. O controle biologico como instrumento da sustentabilidade na cultura da cana de aÃ§Ãºcar: o desafo do Sphenophorus levis. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "POLANCZYK, R. A. . XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "XVII Workshop de Inverno em Entomologia Agricola",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cc2a7429b45da1659d5cb534ec8851a95bd799e3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "Ricardo Antonio Polanczyk . XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "XVII Workshop de Inverno em Entomologia Agricola",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "16b6c27056abac9db07bd9c6c646f698ef76b9ee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Ricardo Antonio Polanczyk . I Simposio Integrado em CiÃªncias Agrarias. 2025. (Congresso).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "I Simposio Integrado em CiÃªncias Agrarias",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6d2fdf312d097889077bb5738f05ec7ea4ecf919",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. I Simposio Integrado em CiÃªncias Agrarias. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 17,
+      "raw": "Polanczyk, Ricardo Antonio . XVI Workshop de Inverno em Entomologfia Agricola. 2024. (Congresso).",
+      "autores": "Polanczyk, Ricardo Antonio",
+      "titulo": "XVI Workshop de Inverno em Entomologfia Agricola",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9debdb415094c4e2d619133fa119eb560334f18b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo Antonio</b>. XVI Workshop de Inverno em Entomologfia Agricola. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Polanczyk, Ricardo Antonio . XVI Workshop de Inverno em Entomologia Agricola. 2024. (Congresso).",
+      "autores": "Polanczyk, Ricardo Antonio",
+      "titulo": "XVI Workshop de Inverno em Entomologia Agricola",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e4594658a72507bbe048cf6fa64ea3609ad773ef",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo Antonio</b>. XVI Workshop de Inverno em Entomologia Agricola. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.771516"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Victor Wakida. Manejo de Euschistus heros com produtos biologicos e quÃ­micos. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Manejo de Euschistus heros com produtos biologicos e quÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e08af22dcc27ff829f4fab395258c3b2572d7259",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Victor Wakida. Manejo de Euschistus heros com produtos biologicos e quÃ­micos.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Lucas Abbade Padula. Desenvolvimento e avaliaÃ§Ã£o de formulaÃ§Ãµes de bioinsumos a base de Cordyceps javanica. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Tecnologia Ambiental) - Universidade Federal do TriÃ¢ngulo Mineiro. (Coorientador).",
+      "autores": null,
+      "titulo": "Desenvolvimento e avaliaÃ§Ã£o de formulaÃ§Ãµes de bioinsumos a base de Cordyceps javanica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6790482e4071498600673cfbc564d3a7b8b57bb3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Abbade Padula. Desenvolvimento e avaliaÃ§Ã£o de formulaÃ§Ãµes de bioinsumos a base de Cordyceps javanica.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Tecnologia Ambiental)  - Universidade Federal do TriÃ¢ngulo Mineiro. (Coorientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncia e Tecnologia Ambiental) - Universidade Federal do TriÃ¢ngulo Mineiro. (Coorientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Cananda Cris Cavalcante Ferreira. Manejo biologico de Bemisia tabaci na entressafra. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Coorientador).",
+      "autores": null,
+      "titulo": "Manejo biologico de Bemisia tabaci na entressafra",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "14b8111077927e83bb5163b09309bfe5569238d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cananda Cris Cavalcante Ferreira. Manejo biologico de Bemisia tabaci na entressafra.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Coorientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Beatriz Batista Rocha Cacemiro. Mistura de tanque no manejo de Sphenophorus levis. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Mistura de tanque no manejo de Sphenophorus levis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "84715f37e6698381b707c0c7541792fa323cdb26",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4965265144325068\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Beatriz Batista Rocha Cacemiro. Mistura de tanque no manejo de Sphenophorus levis.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Kelly Cristina Goncalves. InÃ­cio: 2025. Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "70e25d0f5ce636da5694a7ce188fc878147e7f5e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kelly Cristina Goncalves.\n\t\t\t\t\tInÃ­cio: 2025. Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Nicolas R. Aguiar Mendes. SeleÃ§Ã£o de nanopartÃ­culas para o percevejo da soja (Euschistus crenator). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aguiar Mendes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dcf96cd880d3aa89a2e5b1ac6d0c34982ffd5439",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicolas R. Aguiar Mendes. SeleÃ§Ã£o de nanopartÃ­culas para o percevejo da soja (Euschistus crenator). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "SeleÃ§Ã£o de nanopartÃ­culas para o percevejo da soja (Euschistus crenator). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Lorena Vitoria Checchio. Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera frugiperda. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera frugiperda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f00fdf15c08f325ad7ddfc91c974c32110844a97",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lorena Vitoria Checchio. Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera frugiperda. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica)  - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Guilherme Buck. Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus crenator. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus crenator",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "40530a0627ba3803183e0f23062ca8f51dc0ee0a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Guilherme Buck. Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus crenator. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica)  - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Francisco Matheus Sales Ferreira. Aprendizado em controle biolÃ³gico e nanotecnologia: Chrysodeixis includens. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aprendizado em controle biolÃ³gico e nanotecnologia: Chrysodeixis includens",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "098e2df0a6b647a54ae8391bf0d80eead54ede7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Francisco Matheus Sales Ferreira. Aprendizado em controle biolÃ³gico e nanotecnologia: Chrysodeixis includens. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica)  - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Raqueli Coutinho Viana. Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus taurulus. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus taurulus",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7200b839f4d7e2c5f3a9c38782398a34145d401e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raqueli Coutinho Viana. Aprendizado em controle biolÃ³gico e nanotecnologia: Euschistus taurulus. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica)  - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Yasmin Pressendo Bruno. Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera cosmioides. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera cosmioides",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8520dbc0b2f6c7daba9263bc6cbcd5b36b2bb1d0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yasmin Pressendo Bruno. Aprendizado em controle biolÃ³gico e nanotecnologia: Spodoptera cosmioides. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica)  - ETEC Jaboticabal, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em o MÃ©dio com HabilitaÃ§Ã£o Profissional de TÃ©cnico em QuÃ­mica) - ETEC Jaboticabal"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Giovana Victoria Zanineli da Silva. CriaÃ§Ã£o de lepidÃ³pteros praga para dar suporte a bioensaios de laboratÃ³rio. InÃ­cio: 2025. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "CriaÃ§Ã£o de lepidÃ³pteros praga para dar suporte a bioensaios de laboratÃ³rio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0cb03f0d943e001977ebcbe7b14b78a172661551",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Giovana Victoria Zanineli da Silva. CriaÃ§Ã£o de lepidÃ³pteros praga para dar suporte a bioensaios de laboratÃ³rio.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "InÃ­cio: 2025. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "Paulo Henrique Martins Silva. Potencial inseticida de isolados de bacterias e fungos entomopatogenicos sobre ninfas de Euschistus heros (Hemiptera; Pentatomidae) e seletividade a Telenomus podisi (Hymenoptera; Scelionidae). 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": "Paulo Henrique Martins Silva. Potencial inseticida de isolados de bacterias e fungos entomopatogenicos sobre ninfas de Euschistus heros (Hemiptera; Pentatomidae) e seletividade a Telenomus podisi (Hymenoptera; Scelionidae). 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk",
+      "titulo": "Potencial inseticida de isolados de bacterias e fungos entomopatogenicos sobre ninfas de Euschistus heros (Hemiptera; Pentatomidae) e seletividade a Telenomus podisi (Hymenoptera; Scelionidae)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f932d02aeffa2c91db672fba3d0476197f3bfd9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5865628545619958\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Paulo Henrique Martins Silva. Potencial inseticida de isolados de bacterias e fungos entomopatogenicos sobre ninfas de Euschistus heros (Hemiptera; Pentatomidae) e seletividade a Telenomus podisi (Hymenoptera; Scelionidae).\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia AgrÃ­cola",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Linda Karol Pacherres Abad. Seletivida de misturas de tanque de inseticidas e Bt bioinseticidas para Trichogramma pretiosum. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Seletivida de misturas de tanque de inseticidas e Bt bioinseticidas para Trichogramma pretiosum",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dd3f24848c8fde7a14dd554dd088835a829e460a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Linda Karol Pacherres Abad. Seletivida de misturas de tanque de inseticidas e Bt bioinseticidas para Trichogramma pretiosum.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 17,
+      "raw": "Camila Aparecida Bertolazzo Giangrecco. Especificidade e Seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis includens (Lepidoptera: Noctuidae e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae). 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Especificidade e Seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis includens (Lepidoptera: Noctuidae e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4cb97a53a8c4126561f522543844a3783130a9cb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7913183972888563\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Camila Aparecida Bertolazzo Giangrecco. Especificidade e Seletividade de misturas de inseticida quÃ­mico e biolÃ³gicos para Chrysodeixis includens (Lepidoptera: Noctuidae e Trichogramma pretiosum (Hymenoptera: Trichogrammatidae).\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia Agr",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Fabiana Santana Machado. Atividade ovicida de Bacillus thuringiensis para Spodoptera frugiperda. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Atividade ovicida de Bacillus thuringiensis para Spodoptera frugiperda",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7bf3262999e3bd02694d014b56ab3b66939047d9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4680129365297530\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Fabiana Santana Machado. Atividade ovicida de Bacillus thuringiensis para Spodoptera frugiperda.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior.",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 19,
+      "raw": "Edimar Peterlini. AÃ§Ã£o de adjuvantes sobre a viabilidade de bioinseticida Bt e caracterÃ­sticas fÃ­sico-quÃ­micas da calda de aplicaÃ§Ã£o. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "AÃ§Ã£o de adjuvantes sobre a viabilidade de bioinseticida Bt e caracterÃ­sticas fÃ­sico-quÃ­micas da calda de aplicaÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8bcc49e47f8bc584b042721fa6f7c623e26f6960",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Edimar Peterlini. AÃ§Ã£o de adjuvantes sobre a viabilidade de bioinseticida Bt e caracterÃ­sticas fÃ­sico-quÃ­micas da calda de aplicaÃ§Ã£o.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Ricardo Antonio Polanczyk. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 20,
+      "raw": "Adriele Casado. Efeito de Bt encapsulado em Spodoptera frugiperda. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Efeito de Bt encapsulado em Spodoptera frugiperda",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "25c6e9e688e48170321fdcf2f113813822287f10",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Adriele Casado. Efeito de Bt encapsulado em Spodoptera frugiperda.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Ricardo Antonio Polanczyk. </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 57,
+      "raw": "Joacir do Nascimento. O sistema imune de Spodopera frugiperda influencia a sua suscetibilidade de mistura de produtos quÃ­micos e biolÃ³gicos. 2024. Tese (Doutorado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "O sistema imune de Spodopera frugiperda influencia a sua suscetibilidade de mistura de produtos quÃ­micos e biolÃ³gicos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "60d372f60ba6ff9664afd5946e37002da1a5a5f1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6061860270412742\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Joacir do Nascimento.\n\t\t\t\t\t\tO sistema imune de Spodopera frugiperda influencia a sua suscetibilidade de mistura de produtos quÃ­micos e biolÃ³gicos.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia (Entomologia AgrÃ­cola))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de ",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. Tese (Doutorado em Agronomia (Entomologia AgrÃ­cola)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 81,
+      "raw": "Lucas Abbade Padula. EficÃ¡cia de formulaÃ§Ãµes de Purpurocillium lilacinum e Cordyceps javanica no controle de Spodoptera frugiperda. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Especializacao em Bioinsumo e Protecao de Plantas) - SolloAgro. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "EficÃ¡cia de formulaÃ§Ãµes de Purpurocillium lilacinum e Cordyceps javanica no controle de Spodoptera frugiperda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d5914988d5507398c3ec52b986434d98685fb3f5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Abbade Padula.\n\t\t\t\t\t\tEficÃ¡cia de formulaÃ§Ãµes de Purpurocillium lilacinum e Cordyceps javanica no controle de Spodoptera frugiperda.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Especializacao em Bioinsumo e Protecao de Plantas)  - SolloAgro. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Especializacao em Bioinsumo e Protecao de Plantas) - SolloAgro. Orientador: Ricardo Antonio Polanczyk"
+    },
+    {
+      "numero_item": 82,
+      "raw": "Gustavo Gomes Carneiro. BioprospecÃ§Ã£o de isolados de Beauveria bassiana coletados de solos e insetos visando ao controle de Sphenophorus levis (Coleoptera: Curculionidae). 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "BioprospecÃ§Ã£o de isolados de Beauveria bassiana coletados de solos e insetos visando ao controle de Sphenophorus levis (Coleoptera: Curculionidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b9ac7a8a16c48a597600f994b1fdbd6778b647fe",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gustavo Gomes Carneiro.\n\t\t\t\t\t\tBioprospecÃ§Ã£o de isolados de Beauveria bassiana coletados de solos e insetos visando ao controle de Sphenophorus levis (Coleoptera: Curculionidae).\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk"
+    },
+    {
+      "numero_item": 90,
+      "raw": "Alessandra da Silva Andrade. EficiÃªncia da mistura de tanque de Bt bioinseticida com produtos quÃ­micos no controle de Diatraea saccharalis: uma abordagem metodolÃ³gica. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "EficiÃªncia da mistura de tanque de Bt bioinseticida com produtos quÃ­micos no controle de Diatraea saccharalis: uma abordagem metodolÃ³gica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dfcf4163f3d0ecaffbe3fa8481ca8813a2d2eb21",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alessandra da Silva Andrade.\n\t\t\t\t\t\tEficiÃªncia da mistura de tanque de Bt bioinseticida com produtos quÃ­micos no controle de Diatraea saccharalis: uma abordagem metodolÃ³gica.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tFundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 133,
+      "raw": "Kelly Cristina Goncalves. Compatibilidade de fungos entomopatogenicos e inseticidas visando ao controle de Shenophorus levis. 2025. OrientaÃ§Ã£o de outra natureza. (Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Compatibilidade de fungos entomopatogenicos e inseticidas visando ao controle de Shenophorus levis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3be8706b08713f63aca0c98a72ad54e7d97951d9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kelly Cristina Goncalves.\n\t\t\t\t\t\tCompatibilidade de fungos entomopatogenicos e inseticidas visando ao controle de Shenophorus levis.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Agronomia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tFundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (Agronomia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 134,
+      "raw": "Carlos Felipe Delfino Florencio. Programa de Treinamento para Complementacao da FormaÃ§Ã£o Educacional. 2024. OrientaÃ§Ã£o de outra natureza. (Zootecnia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Programa de Treinamento para Complementacao da FormaÃ§Ã£o Educacional",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bcacfcc82e69b868d9300b980cd4ed97b29beef8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Carlos Felipe Delfino Florencio.\n\t\t\t\t\t\tPrograma de Treinamento para Complementacao da FormaÃ§Ã£o Educacional.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Zootecnia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Zootecnia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk"
+    },
+    {
+      "numero_item": 135,
+      "raw": "JÃºlia Brindolan Munhoz. Programa de Treinamento para ComplementaÃ§Ã£o de FormaÃ§Ã£o Educacional?. 2024. OrientaÃ§Ã£o de outra natureza. (Abi - CiÃªncias BiolÃ³gicas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.",
+      "autores": null,
+      "titulo": "Programa de Treinamento para ComplementaÃ§Ã£o de FormaÃ§Ã£o Educacional?",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ae0cf064614b93a9a5fa53f285b98c23d37fef60",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JÃºlia Brindolan Munhoz.\n\t\t\t\t\t\tPrograma de Treinamento para ComplementaÃ§Ã£o de FormaÃ§Ã£o Educacional?.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Abi - CiÃªncias BiolÃ³gicas)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.796072"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Abi - CiÃªncias BiolÃ³gicas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Ricardo Antonio Polanczyk"
+    },
+    {
+      "numero_item": 3,
+      "raw": "MACHADO, F. S. ; DAQUILA, BRUNO VINICIUS ; Polanczyk, Ricardo Antonio ; PETERLINI, E. ; CONTE, HELIO . MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202401104, tÃ­tulo: \"MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 01/06/2024",
+      "autores": "MACHADO, F. S.; DAQUILA, BRUNO VINICIUS; Polanczyk, Ricardo Antonio; PETERLINI, E.; CONTE, HELIO",
+      "titulo": "MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "856dd231345bf0fbdc9de5e970ce5070935f0532",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202401104&amp;idCNPq=2788156792532870&amp;sequencial=1079\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>MACHADO, F. S. ; DAQUILA, BRUNO VINICIUS ; <b>Polanczyk, Ricardo Antonio</b> ; PETERLINI, E. ; CONTE, HELIO . MÃ©todo de controle de Spodoptera frugiperda por aplicaÃ§Ã£o de Bacillus thuringiensis aizawai aos ovos da praga.\n\t\t\t",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.798181"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 9,
+      "raw": "POLANCZYK, R. A. . The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4332863c0ca8972858af5e09d0b1387a590c5bec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. The status of biological control in Brazil and its relevance for bioeconomy and the One Health concept. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "POLANCZYK, R. A. . EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "064b917800ce438c386e1acb879bc849a5c1fd48",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. EstratÃ©gias para aumentar a eficiencia de Beauveria bassiana para Sphenophorus levis. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "POLANCZYK, R. A. . Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "af602d3d4528ce3567a4a55ebefee0dab05b612a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Efeito de Bacillus thuringiensis na fase embrionÃ¡ria de Spodoptera frugiperda. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "POLANCZYK, R. A. . Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b32057e89dd6aaeb4fbef2cac67f8d04a8720934",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Compatibilidade de entomopatÃ³genos com produtos fitossanitÃ¡rios no controle biolÃ³gico de insetos praga. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 16,
+      "raw": "POLANCZYK, R. A. ; GONCALVES, K. C. . V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.; GONCALVES, K. C.",
+      "titulo": "V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50eb0382aa2c028ec9e8f467af1f2ca25820b491",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0931514874246989\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">GONCALVES, K. C.</a> . V Curso de Compatibilidade Biologica entre Biosumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 17,
+      "raw": "POLANCZYK, R. A. . Posicionamento de bioinsumos na agricultura sustentavel. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Posicionamento de bioinsumos na agricultura sustentavel",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7ebd6ebf2c863275fb2d7f1cecb4d2939453f6af",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Posicionamento de bioinsumos na agricultura sustentavel. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 18,
+      "raw": "POLANCZYK, R. A. . III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0669b2b41122f4ef892b8c3096bd1dcd16a42eb3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. III Curso de Compatibilidade biologica entre bioinseticidas e produtos quimicos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 19,
+      "raw": "POLANCZYK, R. A. . IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4eb357a2c4db62db654122122e4aa974795221b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. IV Curso de Compatibilidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 20,
+      "raw": "POLANCZYK, R. A. . VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5c68278a7a4b6deef773d1fce0f99ba25c7c0dd1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. VI Curso de Compatiblidade Biologica entre Bioinsumos e Produtos QuÃ­micos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 21,
+      "raw": "POLANCZYK, R. A. . Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "POLANCZYK, R. A.",
+      "titulo": "Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3b02f4f24bfe1cf7cb3e2f4fe94d6dbd8655222",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>POLANCZYK, R. A.</b>. Abordagem teÃ³rica de compatibilidade entre produtos quimicos e biolÃ³gicos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 22,
+      "raw": "Ricardo Antonio Polanczyk . Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5e0b40ab5eac6926d4f2f6b448d54421af699ec3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. Brasil inova com controle de pragas com soluÃ§Ã£o sustentÃ¡vel. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=mq4DJDjOe40')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 23,
+      "raw": "Ricardo Antonio Polanczyk ; FRACETO, LEONARDO F. . Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais. 2024. (Programa de rÃ¡dio ou TV/Outra).",
+      "autores": "Ricardo Antonio Polanczyk; FRACETO, LEONARDO F.",
+      "titulo": "Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8378ce14c543ab6e3277e50a89d807eb1a211ef0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>; FRACETO, LEONARDO F. . Lagarta-do-cartucho-do-milho pode causar R$ 10 bilhÃµes em perdas anuais. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Outra).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.agrolink.com.br/noticias/lagarta-do-cartucho-do-milho-pode-causar-r--10-bilhoes-em-perdas-anuais_497747.html')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></di",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Outra)"
+    },
+    {
+      "numero_item": 25,
+      "raw": "Polanczyk, Ricardo Antonio . XVI Workshop de Inverno em Entomologia Agricola. 2024. (Congresso).",
+      "autores": "Polanczyk, Ricardo Antonio",
+      "titulo": "XVI Workshop de Inverno em Entomologia Agricola",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e4594658a72507bbe048cf6fa64ea3609ad773ef",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Polanczyk, Ricardo Antonio</b>. XVI Workshop de Inverno em Entomologia Agricola. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 26,
+      "raw": "Ricardo Antonio Polanczyk . XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "XVII Workshop de Inverno em Entomologia Agricola",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "16b6c27056abac9db07bd9c6c646f698ef76b9ee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. XVII Workshop de Inverno em Entomologia Agricola. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 27,
+      "raw": "Ricardo Antonio Polanczyk . I Simposio Integrado em CiÃªncias Agrarias. 2025. (Congresso).",
+      "autores": "Ricardo Antonio Polanczyk",
+      "titulo": "I Simposio Integrado em CiÃªncias Agrarias",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6d2fdf312d097889077bb5738f05ec7ea4ecf919",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Ricardo Antonio Polanczyk</b>. I Simposio Integrado em CiÃªncias Agrarias. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "2788156792532870__ricardo-antonio-polanczyl.full_profile.html",
+        "lattes_id": "2788156792532870",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.805682"
+      },
+      "veiculo": "2025. (Congresso)"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Índice de Validação</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f3ea;
+      --panel: #fffaf0;
+      --ink: #1e1b16;
+      --muted: #6a635c;
+      --accent: #1a4f5b;
+      --border: #d9d0c7;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+    }
+
+    .panel {
+      padding: 16px 20px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      margin-top: 16px;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 8px 10px;
+      text-align: left;
+      font-size: 14px;
+    }
+
+    th {
+      background: #efe8dc;
+    }
+
+    tbody tr:nth-child(even) {
+      background: #fffdf7;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <section class="panel">
+    <h1>Índice de validação</h1>
+    <p class="muted">Lista gerada a partir de docs/prefill/manifest.json.</p>
+    <a href="index.html">Abrir viewer</a>
+  </section>
+
+  <section class="panel">
+    <table>
+      <thead>
+        <tr>
+          <th>Lattes ID</th>
+          <th>Arquivo</th>
+          <th>Abrir</th>
+        </tr>
+      </thead>
+      <tbody id="list-body"></tbody>
+    </table>
+  </section>
+
+  <section id="error" class="panel" hidden>
+    <h2>Erro</h2>
+    <pre id="error-details"></pre>
+  </section>
+
+  <script>
+    const listBody = document.getElementById('list-body');
+    const errorPanel = document.getElementById('error');
+    const errorDetails = document.getElementById('error-details');
+
+    const showError = (message) => {
+      errorPanel.hidden = false;
+      errorDetails.textContent = message;
+    };
+
+    const loadManifest = async () => {
+      try {
+        const manifestUrl = new URL('../prefill/manifest.json', window.location.href).href;
+        const response = await fetch(manifestUrl, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`Falha ao carregar manifest: ${manifestUrl}`);
+        }
+        const manifest = await response.json();
+        const entries = manifest.by_lattes_id || {};
+        const ids = Object.keys(entries);
+
+        if (ids.length === 0) {
+          showError('Manifest vazio. Execute o script de sincronizacao.');
+          return;
+        }
+
+        for (const lattesId of ids) {
+          const filename = entries[lattesId];
+          const row = document.createElement('tr');
+
+          const idCell = document.createElement('td');
+          idCell.textContent = lattesId;
+          row.appendChild(idCell);
+
+          const fileCell = document.createElement('td');
+          fileCell.textContent = filename;
+          row.appendChild(fileCell);
+
+          const linkCell = document.createElement('td');
+          const link = document.createElement('a');
+          link.href = `index.html?prefill=${encodeURIComponent(filename)}`;
+          link.textContent = 'Abrir';
+          linkCell.appendChild(link);
+          row.appendChild(linkCell);
+
+          listBody.appendChild(row);
+        }
+      } catch (err) {
+        showError(err && err.stack ? err.stack : String(err));
+      }
+    };
+
+    loadManifest();
+  </script>
+</body>
+</html>

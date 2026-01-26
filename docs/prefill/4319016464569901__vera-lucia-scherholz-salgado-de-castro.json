@@ -1,0 +1,175 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "4319016464569901",
+    "full_name": "Vera Lucia Scherholz Salgado de Castro",
+    "slug": "vera-lucia-scherholz-salgado-de-castro",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:33.749340",
+    "source_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+    "total_productions": 7,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 4,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 2,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 1,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "VILARA, DÉBORA S. 2024 VILARA, DÉBORA S. ; CORREIA DA SILVA, HUGO H. ; DÓRIA, ALINE R. ; TORRES, NÁDIA H. ; VALLIM, JOSÉ H. ; Salgado de Castro, Vera L.S. ; AMÉRICO-PINHEIRO, JULIANA H.P. ; SALAZAR-BANDA, GIANCARLO R. ; BARRIOS EGUILUZ, KATLIN I. ; FERREIRA, LUIZ FERNANDO R. . Reducing citrus effluent toxicity: Biological-electrochemical treatment with diamond anode. ENVIRONMENTAL POLLUTION , v. 346, p. 123688, 2024.",
+      "autores": "VILARA, DÉBORA S. VILARA, DÉBORA S.; CORREIA DA SILVA, HUGO H.; DÓRIA, ALINE R.; TORRES, NÁDIA H.; VALLIM, JOSÉ H.; Salgado de Castro, Vera L.S.; AMÉRICO-PINHEIRO, JULIANA H.P.; SALAZAR-BANDA, GIANCARLO R.; BARRIOS EGUILUZ, KATLIN I.; FERREIRA, LUIZ FERNANDO R.",
+      "titulo": "Reducing citrus effluent toxicity: Biological-electrochemical treatment with diamond anode",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.envpol.2024.123688",
+      "fingerprint_sha1": "53234f73ed828b93562bb057b9d392fec4351bbb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VILARA, DÉBORA S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envpol.2024.123688\" target=\"_blank\"></a>VILARA, DÉBORA S. ; CORREIA DA SILVA, HUGO H. ; DÓRIA, ALINE R. ; TORRES, NÁDIA H. ; VALLIM, JOSÉ H.",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.728733"
+      },
+      "veiculo": "ENVIRONMENTAL POLLUTION"
+    },
+    {
+      "numero_item": 2,
+      "raw": "BRAGA, ANA PAULA ANDRADE 2024 BRAGA, ANA PAULA ANDRADE ; VALLIM, JOSÉ HENRIQUE ; CASTANHA, RODRIGO FERNANDES ; DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO ; MARIN-MORALES, MARIA APARECIDA . Toxicity Assessment of the Biogenic Amines Cadaverine and Putrescine in Aquatic Organisms. WATER AIR AND SOIL POLLUTION , v. 235, p. 197, 2024.",
+      "autores": "BRAGA, ANA PAULA ANDRADE BRAGA, ANA PAULA ANDRADE; VALLIM, JOSÉ HENRIQUE; CASTANHA, RODRIGO FERNANDES; DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO; MARIN-MORALES, MARIA APARECIDA",
+      "titulo": "Toxicity Assessment of the Biogenic Amines Cadaverine and Putrescine in Aquatic Organisms",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11270-024-06983-z",
+      "fingerprint_sha1": "d6e66909512dc80896df4b9c639b23aab5bd58be",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAGA, ANA PAULA ANDRADE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11270-024-06983-z\" target=\"_blank\"></a>BRAGA, ANA PAULA ANDRADE ; VALLIM, JOSÉ HENRIQUE ; CASTANHA, RODRIGO FERNANDES ; <b>DE CASTRO, ",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.728733"
+      },
+      "veiculo": "WATER AIR AND SOIL POLLUTION"
+    },
+    {
+      "numero_item": 3,
+      "raw": "FERNANDES, CLARA DOURADO 2024 FERNANDES, CLARA DOURADO ; DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO ; VALLIM, JOSÉ HENRIQUE ; WANI, ATIF KHURSHID ; AMÉRICO-PINHEIRO, JULIANA HELOISA PINÊ ; SEREJO, TERESA ; PEREIRA, RINALDO WELLERSON ; EGUES, SILVIA MARIA ; ROMANHOLO FERREIRA, LUIZ FERNANDO . Enzymatic Extract from Luffa-Immobilized Pleurotus sajor-caju: A Promising Biocatalyst for Agro-Industrial Pollutant Reduction and Toxicity Mitigation. TOPICS IN CATALYSIS , v. 67, p. 1-16, 2024.",
+      "autores": "FERNANDES, CLARA DOURADO FERNANDES, CLARA DOURADO; DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO; VALLIM, JOSÉ HENRIQUE; WANI, ATIF KHURSHID; AMÉRICO-PINHEIRO, JULIANA HELOISA PINÊ; SEREJO, TERESA; PEREIRA, RINALDO WELLERSON; EGUES, SILVIA MARIA; ROMANHOLO FERREIRA, LUIZ FERNANDO",
+      "titulo": "Enzymatic Extract from Luffa-Immobilized Pleurotus sajor-caju: A Promising Biocatalyst for Agro-Industrial Pollutant Reduction and Toxicity Mitigation",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11244-024-01970-4",
+      "fingerprint_sha1": "9babd5df76c6b8856e9e33fac0452cc22aa428d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES, CLARA DOURADO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11244-024-01970-4\" target=\"_blank\"></a>FERNANDES, CLARA DOURADO ; <b>DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO</b> ; VALLIM, JOSÉ HENRIQ",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.728733"
+      },
+      "veiculo": "TOPICS IN CATALYSIS"
+    },
+    {
+      "numero_item": 4,
+      "raw": "BRAGA, ANA PAULA ANDRADE 2024 BRAGA, ANA PAULA ANDRADE ; SOUZA, LETICIA ROSA DE ; LIMA, MARIA GABRIELA FRANCO ; CRUZ, JAQUELINE MATOS ; SOUZA, ANA CRISTINA ZULLO DE ; COSTA, MARIANA SANTOS ; CASTRO, VERA LUCIA SCHERHOLZ SALGADO DE ; MARIN-MORALES, MARIA APARECIDA . The Zebrafish as an Alternative Animal Model for Ecotoxicological Research and Testing. BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 67, p. e24220968, 2024, 2024.",
+      "autores": "BRAGA, ANA PAULA ANDRADE BRAGA, ANA PAULA ANDRADE; SOUZA, LETICIA ROSA DE; LIMA, MARIA GABRIELA FRANCO; CRUZ, JAQUELINE MATOS; SOUZA, ANA CRISTINA ZULLO DE; COSTA, MARIANA SANTOS; CASTRO, VERA LUCIA SCHERHOLZ SALGADO DE; MARIN-MORALES, MARIA APARECIDA",
+      "titulo": "The Zebrafish as an Alternative Animal Model for Ecotoxicological Research and Testing",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1590/1678-4324-2024220968",
+      "fingerprint_sha1": "9ea736c649ea7560a4ba8f1ca5a507214ff9c31a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAGA, ANA PAULA ANDRADE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1678-4324-2024220968\" target=\"_blank\"></a>BRAGA, ANA PAULA ANDRADE ; SOUZA, LETICIA ROSA DE ; LIMA, MARIA GABRIELA FRANCO ; CRUZ, JAQUE",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.728733"
+      },
+      "veiculo": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "De Castro, Vera L S S . Participação em banca de SAYANI GIRI. TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS, BISPHENOL A AND ITS BINARY MIXTURE ON FRESHWATER ALGAE Scenedesmus obliquus AND PLANT Allium cepa. 2024 - Vellore Institute of Technology University, Vellore Campus.",
+      "autores": "De Castro, Vera L S S",
+      "titulo": "Participação em banca de SAYANI GIRI",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a91552070385edc872c71caae6033fc265513f63",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>De Castro, Vera L S S</b>.  Participação em banca de SAYANI GIRI. TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS, BISPHENOL A AND ITS BINARY MIXTURE ON FRESHWATER ALGAE Scenedesmus obliquus AND PLANT Allium cepa. 2024 - Vellore Institute of Technology University, Vellore Campus. </span></div>",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:33.733663"
+      },
+      "veiculo": "TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Fazzio, A; ARANTES JUNIOR, J. T.; PAULA, A. J.; SOUZA FILHO, A. G.; De Castro, Vera L S S . Participação em banca de Romana Petry. Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid, Graphene-oxide and Atrazine molecular interactions and mixture toxicity. 2024. Tese (Doutorado em Nanociências e Materiais Avançados) - Universidade Federal do ABC.",
+      "autores": "Fazzio, A; ARANTES JUNIOR, J. T.; PAULA, A. J.; SOUZA FILHO, A. G.; De Castro, Vera L S S",
+      "titulo": "Participação em banca de Romana Petry",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "70fee4fce9f0e1c710c11134a06e8708192cbb24",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Fazzio, A; ARANTES JUNIOR, J. T.; PAULA, A. J.; SOUZA FILHO, A. G.; <b>De Castro, Vera L S S</b>.  Participação em banca de Romana Petry. Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid, Graphene-oxide and Atrazine molecular interactions and mixture toxicity. 2024. Tese (Doutorado em Nanociências e Materiais Avançados)  - Universidade Federal do ABC. </span></div>",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:33.733663"
+      },
+      "veiculo": "Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Ana Paula Andrade Braga. Início: 2024. Embrapa Meio Ambiente, Fundação de Amparo à Pesquisa do Estado de São Paulo.",
+      "autores": null,
+      "titulo": "Início: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6e8cd69a29c11d73edd4891069edb7c715361c63",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Paula Andrade Braga.\n\t\t\t\t\tInício: 2024. Embrapa Meio Ambiente, Fundação de Amparo à Pesquisa do Estado de São Paulo. </span></div>",
+      "source": {
+        "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
+        "lattes_id": "4319016464569901",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.743068"
+      },
+      "veiculo": "Embrapa Meio Ambiente"
+    }
+  ]
+}

@@ -1,0 +1,2288 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "7663463280386141",
+    "full_name": "Halley Caixeta de Oliveira",
+    "slug": "halley-caixeta-de-oliveira",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:40.041264",
+    "source_file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+    "total_productions": 124,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 78,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 1,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 5,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 35,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 3,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 2,
+      "raw": "GUARIZ, HUGO ROLDI 2025 GUARIZ, HUGO ROLDI ; OLIVEIRA, Halley Caixeta de ; SHIMIZU, GABRIEL DANILO ; Pieretti, Joana Claudio ; SEABRA, AMEDEA BAROZZI . Effect of free and nanoencapsulated nitric oxide donor on the response of tree plants during the hardening off process. REVISTA ARVORE , v. 49, p. 1-11, 2025.",
+      "autores": "GUARIZ, HUGO ROLDI GUARIZ, HUGO ROLDI; OLIVEIRA, Halley Caixeta de; SHIMIZU, GABRIEL DANILO; Pieretti, Joana Claudio; SEABRA, AMEDEA BAROZZI",
+      "titulo": "Effect of free and nanoencapsulated nitric oxide donor on the response of tree plants during the hardening off process",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.53661/1806-9088202549263802",
+      "fingerprint_sha1": "00ab76188c65fa46a7bb2b0db40955b5ded986bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUARIZ, HUGO ROLDI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.53661/1806-9088202549263802\" target=\"_blank\"></a>GUARIZ, HUGO ROLDI ; <b>OLIVEIRA, Halley Caixeta de</b> ; SHIMIZU, GABRIEL DANILO ; Pieretti, Joa",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "REVISTA ARVORE"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Sousa, Bruno T. 2025 Sousa, Bruno T. ; CARVALHO, LUCAS B. ; PREISLER, ANA C. ; SARAIVA-SANTOS, TELMA ; OLIVEIRA, JHONES L. ; VERRI, WALDICEU A. ; DALAZEN, GILIARDI ; FRACETO, LEONARDO F. ; OLIVEIRA, HALLEY . Chitosan Coating as a Strategy to Increase Postemergent Herbicidal Efficiency and Alter the Interaction of Nanoatrazine with Bidens pilosa Plants. ACS Applied Materials & Interfaces , v. 17, p. 13122-13134, 2025.",
+      "autores": "Sousa, Bruno T. Sousa, Bruno T.; CARVALHO, LUCAS B.; PREISLER, ANA C.; SARAIVA-SANTOS, TELMA; OLIVEIRA, JHONES L.; VERRI, WALDICEU A.; DALAZEN, GILIARDI; FRACETO, LEONARDO F.; OLIVEIRA, HALLEY",
+      "titulo": "Chitosan Coating as a Strategy to Increase Postemergent Herbicidal Efficiency and Alter the Interaction of Nanoatrazine with Bidens pilosa Plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsami.4c03800",
+      "fingerprint_sha1": "0d9559c7b666d9a8bb24a02fe73b6f0bedb63066",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Sousa, Bruno T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsami.4c03800\" target=\"_blank\"></a>Sousa, Bruno T. ; CARVALHO, LUCAS B. ; PREISLER, ANA C. ; SARAIVA-SANTOS, TELMA ; OLIVEIRA, JHONES L. ; VERR",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "ACS Applied Materials & Interfaces"
+    },
+    {
+      "numero_item": 4,
+      "raw": "PREISLER, A. C. 2025 PREISLER, A. C. ; DO CARMO, GIOVANNA C. ; SILVA, R. C. ; SIMOES, A. L. O. ; IZIDORO, J. C. ; PIERETTI, JOANA C. ; REIS, R. A. ; JACOB, A. L. F. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Improving Soybean Germination and Nodule Development with Nitric Oxide-Releasing Polymeric Nanoparticles. PLANTS , v. 14, p. 17, 2025.",
+      "autores": "PREISLER, A. C. PREISLER, A. C.; DO CARMO, GIOVANNA C.; SILVA, R. C.; SIMOES, A. L. O.; IZIDORO, J. C.; PIERETTI, JOANA C.; REIS, R. A.; JACOB, A. L. F.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Improving Soybean Germination and Nodule Development with Nitric Oxide-Releasing Polymeric Nanoparticles",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/ plants14010017",
+      "fingerprint_sha1": "094f1f8ca76c358637fe17f0f43a82368fd5b5e3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PREISLER, A. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/ plants14010017\" target=\"_blank\"></a>PREISLER, A. C. ; DO CARMO, GIOVANNA C. ; SILVA, R. C. ; SIMOES, A. L. O. ; IZIDORO, J. C. ; PIERETTI, JOAN",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "PLANTS"
+    },
+    {
+      "numero_item": 5,
+      "raw": "DE SOUZA, BEATRIZ LARISSA 2025 DE SOUZA, BEATRIZ LARISSA ; Pieretti, Joana Claudio ; ZUCARELI, CLAUDEMIR ; SEABRA, AMEDEA BAROZZI ; Oliveira, Halley Caixeta . Long-term effects of seed priming with nanoencapsulated nitric oxide donors on the early development and drought tolerance of wheat plants. PLANT SCIENCE , v. 356, p. 112498, 2025.",
+      "autores": "DE SOUZA, BEATRIZ LARISSA DE SOUZA, BEATRIZ LARISSA; Pieretti, Joana Claudio; ZUCARELI, CLAUDEMIR; SEABRA, AMEDEA BAROZZI; Oliveira, Halley Caixeta",
+      "titulo": "Long-term effects of seed priming with nanoencapsulated nitric oxide donors on the early development and drought tolerance of wheat plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.plantsci.2025.112498",
+      "fingerprint_sha1": "22420b6701712017de85fd8ff17b440a19db8dfd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SOUZA, BEATRIZ LARISSA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plantsci.2025.112498\" target=\"_blank\"></a>DE SOUZA, BEATRIZ LARISSA ; Pieretti, Joana Claudio ; ZUCARELI, CLAUDEMIR ; SEABRA, AMEDEA",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "PLANT SCIENCE"
+    },
+    {
+      "numero_item": 6,
+      "raw": "ANDREAZI, ELDER 2025 ANDREAZI, ELDER ; SOUSA, BRUNO TEIXEIRA DE ; Oliveira, Halley Caixeta ; FONSECA, INÊS CRISTINA DE BATISTA ; MARIUCCI JUNIOR, VALDIR ; SHIGUEOKA, LUCIANA HARUMI ; SERA, GUSTAVO HIROSHI . Physiological and nutritional parameters of drought resistance in coffee seedlings genotypes. ACTA SCIENTIARUM-AGRONOMY , v. 47, p. e70207, 2025.",
+      "autores": "ANDREAZI, ELDER ANDREAZI, ELDER; SOUSA, BRUNO TEIXEIRA DE; Oliveira, Halley Caixeta; FONSECA, INÊS CRISTINA DE BATISTA; MARIUCCI JUNIOR, VALDIR; SHIGUEOKA, LUCIANA HARUMI; SERA, GUSTAVO HIROSHI",
+      "titulo": "Physiological and nutritional parameters of drought resistance in coffee seedlings genotypes",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.4025/actasciagron.v47i1.70207",
+      "fingerprint_sha1": "700704afc69c736c3c663d54e11e5959b68ba0c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ANDREAZI, ELDER</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.4025/actasciagron.v47i1.70207\" target=\"_blank\"></a>ANDREAZI, ELDER ; SOUSA, BRUNO TEIXEIRA DE ; <b>Oliveira, Halley Caixeta</b> ; FONSECA, INÊS CRIST",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "ACTA SCIENTIARUM-AGRONOMY"
+    },
+    {
+      "numero_item": 7,
+      "raw": "FIRMANI, JOSÉ FLAVIO 2025 FIRMANI, JOSÉ FLAVIO ; SHIBAYAMA, LUAN JÚNIOR KATSUITI ; STEIDLE, JOÃO ENDI CONSANI ; BOVO, RUBIA FERNANDA ; GOMES, DIEGO GENUÁRIO ; Oliveira, Halley Caixeta ; DALAZEN, GILIARDI . ADDITION OF PROTOX INHIBITORS HERBICIDES TO GLYPHOSATE IN THE DESICCATION OF Urochloa brizantha BRS -Piatã-. COLLOQUIUM AGRARIAE (UNOESTE) , v. 21, p. 1-17, 2025.",
+      "autores": "FIRMANI, JOSÉ FLAVIO FIRMANI, JOSÉ FLAVIO; SHIBAYAMA, LUAN JÚNIOR KATSUITI; STEIDLE, JOÃO ENDI CONSANI; BOVO, RUBIA FERNANDA; GOMES, DIEGO GENUÁRIO; Oliveira, Halley Caixeta; DALAZEN, GILIARDI",
+      "titulo": "ADDITION OF PROTOX INHIBITORS HERBICIDES TO GLYPHOSATE IN THE DESICCATION OF Urochloa brizantha BRS -Piatã-",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5747/ca.2025.v21.a544",
+      "fingerprint_sha1": "501b0b9576d93a3df9091ec1a1a8b221fcd81f79",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FIRMANI, JOSÉ FLAVIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5747/ca.2025.v21.a544\" target=\"_blank\"></a>FIRMANI, JOSÉ FLAVIO ; SHIBAYAMA, LUAN JÚNIOR KATSUITI ; STEIDLE, JOÃO ENDI CONSANI ; BOVO, RUBIA FER",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "COLLOQUIUM AGRARIAE (UNOESTE)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "ALEKSIEIENKO, IVAN 2025 ALEKSIEIENKO, IVAN ; FERNANDES HERTEL, MARIANA ; REILHAN, JÉRÔME ; DE CASTRO, MARIE ; LÉGERET, BERTRAND ; Caixeta Oliveira, Halley ; REITER, ILJA M. ; SANTAELLA, CATHERINE . Soil-Gradient-Derived Bacterial Synthetic Communities Enhance Drought Tolerance in Quercus pubescens and Sorbus domestica Seedlings. PLANTS , v. 14, p. 1659, 2025.",
+      "autores": "ALEKSIEIENKO, IVAN ALEKSIEIENKO, IVAN; FERNANDES HERTEL, MARIANA; REILHAN, JÉRÔME; DE CASTRO, MARIE; LÉGERET, BERTRAND; Caixeta Oliveira, Halley; REITER, ILJA M.; SANTAELLA, CATHERINE",
+      "titulo": "Soil-Gradient-Derived Bacterial Synthetic Communities Enhance Drought Tolerance in Quercus pubescens and Sorbus domestica Seedlings",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/plants14111659",
+      "fingerprint_sha1": "d1396d30e8388879596948e53a5b54b9b95c9eee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALEKSIEIENKO, IVAN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/plants14111659\" target=\"_blank\"></a>ALEKSIEIENKO, IVAN ; FERNANDES HERTEL, MARIANA ; REILHAN, JÉRÔME ; DE CASTRO, MARIE ; LÉGERET, BERTRAND ;",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "PLANTS"
+    },
+    {
+      "numero_item": 9,
+      "raw": "DO CARMO, GIOVANNA CAMARGO 2025 DO CARMO, GIOVANNA CAMARGO ; DE MELLO, JOSÉ VICTOR SOTO ; Preisler, Ana Cristina ; DE LIMA, JOHN DAVID OLIVEIRA ; PEREIRA, RONEY HENRIQUE ; Pieretti, Joana Claudio ; STOLF-MOREIRA, RENATA ; PIMENTA, JOSÉ ANTONIO ; SEABRA, AMEDEA BAROZZI ; Oliveira, Halley Caixeta . Effects of nanoencapsulated nitric oxide donor on Cecropia pachystachya Trécul and Cariniana estrellensis (Raddi) Kuntze seedlings subjected to short and long-term water deficit. TREES-STRUCTURE AND FUNCTION , v. 39, p. 76, 2025.",
+      "autores": "DO CARMO, GIOVANNA CAMARGO DO CARMO, GIOVANNA CAMARGO; DE MELLO, JOSÉ VICTOR SOTO; Preisler, Ana Cristina; DE LIMA, JOHN DAVID OLIVEIRA; PEREIRA, RONEY HENRIQUE; Pieretti, Joana Claudio; STOLF-MOREIRA, RENATA; PIMENTA, JOSÉ ANTONIO; SEABRA, AMEDEA BAROZZI; Oliveira, Halley Caixeta",
+      "titulo": "Effects of nanoencapsulated nitric oxide donor on Cecropia pachystachya Trécul and Cariniana estrellensis (Raddi) Kuntze seedlings subjected to short and long-term water deficit",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s00468-025-02656-4",
+      "fingerprint_sha1": "4a6e001a58528de92f0560dee54caacc320a05b4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DO CARMO, GIOVANNA CAMARGO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00468-025-02656-4\" target=\"_blank\"></a>DO CARMO, GIOVANNA CAMARGO ; DE MELLO, JOSÉ VICTOR SOTO ; Preisler, Ana Cristina ; DE LIMA, J",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+    },
+    {
+      "numero_item": 10,
+      "raw": "CUNHA, JOÃO PEDRO BATISTA FERNANDES 2025 CUNHA, JOÃO PEDRO BATISTA FERNANDES ; PIMENTA, JOSÉ ANTONIO ; TOREZAN, JOSÉ MARCELO DOMINGUES ; DE OLIVEIRA, HALLEY CAIXETA ; STOLF-MOREIRA, RENATA . N deposition and light availability impact on the growth and physiology of seedlings of a shade-intolerant and a shade-tolerant tropical forest tree species. TREES-STRUCTURE AND FUNCTION , v. 39, p. 70, 2025.",
+      "autores": "CUNHA, JOÃO PEDRO BATISTA FERNANDES CUNHA, JOÃO PEDRO BATISTA FERNANDES; PIMENTA, JOSÉ ANTONIO; TOREZAN, JOSÉ MARCELO DOMINGUES; DE OLIVEIRA, HALLEY CAIXETA; STOLF-MOREIRA, RENATA",
+      "titulo": "N deposition and light availability impact on the growth and physiology of seedlings of a shade-intolerant and a shade-tolerant tropical forest tree species",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s00468-025-02631-z",
+      "fingerprint_sha1": "a5415a6c4c3d056b52ae36b6d0248c0d823c8a02",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CUNHA, JOÃO PEDRO BATISTA FERNANDES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00468-025-02631-z\" target=\"_blank\"></a>CUNHA, JOÃO PEDRO BATISTA FERNANDES ; PIMENTA, JOSÉ ANTONIO ; TOREZAN, JOSÉ MARCELO ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+    },
+    {
+      "numero_item": 11,
+      "raw": "DE SOUSA, BRUNO TEIXEIRA 2025 DE SOUSA, BRUNO TEIXEIRA ; BORTOTTO DA SILVA, BRUNO HENRIQUE ; INÊZ, EULER AUGUSTO ; ESPÍRITO SANTO PEREIRA, ANDERSON DO ; OLIVEIRA, JHONES LUIS ; FRACETO, LEONARDO FERNANDES ; DALAZEN, GILIARDI ; Oliveira, Halley Caixeta . Leveraging Nanotechnology for Safer Herbicide Use: Insights from Maize Tolerance to Nanoencapsulated Atrazine. ACS Omega , v. 10, p. 38943-38954, 2025.",
+      "autores": "DE SOUSA, BRUNO TEIXEIRA DE SOUSA, BRUNO TEIXEIRA; BORTOTTO DA SILVA, BRUNO HENRIQUE; INÊZ, EULER AUGUSTO; ESPÍRITO SANTO PEREIRA, ANDERSON DO; OLIVEIRA, JHONES LUIS; FRACETO, LEONARDO FERNANDES; DALAZEN, GILIARDI; Oliveira, Halley Caixeta",
+      "titulo": "Leveraging Nanotechnology for Safer Herbicide Use: Insights from Maize Tolerance to Nanoencapsulated Atrazine",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.5c04949",
+      "fingerprint_sha1": "aae05458b120f33477fb363c74ea8c16d429802f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SOUSA, BRUNO TEIXEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c04949\" target=\"_blank\"></a>DE SOUSA, BRUNO TEIXEIRA ; BORTOTTO DA SILVA, BRUNO HENRIQUE ; INÊZ, EULER AUGUSTO ; ESPÍRITO SAN",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 12,
+      "raw": "PROENÇA, PATRICIA LUIZA DE FREITAS 2025 PROENÇA, PATRICIA LUIZA DE FREITAS ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; Preisler, Ana Cristina ; DIONISIO, AMANDA MARTINS ; Oliveira, Halley Caixeta ; JUNIOR, WALDICEU APARECIDO VERRI ; FRACETO, LEONARDO FERNANDES . Unraveling Nanocarrier Dynamics: Insights into the Foliar Application, Uptake, and Translocation of Fluorescently-Labeled Zein Nanoparticles in Soybean Plants. Plant Nano Biology , v. 14, p. 100209, 2025.",
+      "autores": "PROENÇA, PATRICIA LUIZA DE FREITAS PROENÇA, PATRICIA LUIZA DE FREITAS; CAMPOS, ESTEFÂNIA VANGELIE RAMOS; Preisler, Ana Cristina; DIONISIO, AMANDA MARTINS; Oliveira, Halley Caixeta; JUNIOR, WALDICEU APARECIDO VERRI; FRACETO, LEONARDO FERNANDES",
+      "titulo": "Unraveling Nanocarrier Dynamics: Insights into the Foliar Application, Uptake, and Translocation of Fluorescently-Labeled Zein Nanoparticles in Soybean Plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.plana.2025.100209",
+      "fingerprint_sha1": "2fb15f92463adeca420707f6830ac1c03bed7602",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PROENÇA, PATRICIA LUIZA DE FREITAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100209\" target=\"_blank\"></a>PROENÇA, PATRICIA LUIZA DE FREITAS ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; Preisler, An",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 13,
+      "raw": "FIRMANI, JOSÉ FLAVIO 2025 FIRMANI, JOSÉ FLAVIO ; GASQUE, GUSTAVO HENRIQUE ; CHIANG, ALEXANDRE ; VOLPATO, ANA KELY MEIRA ; OGIDO, JOÃO PEDRO MARIANO ; BOVO, RUBIA FERNANDA ; Caixeta Oliveira, Halley ; DALAZEN, GILIARDI . Glyphosate formulations containing different salts in the desiccation of Urochloa brizantha. SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE) , v. 46, p. 1085-1100, 2025.",
+      "autores": "FIRMANI, JOSÉ FLAVIO FIRMANI, JOSÉ FLAVIO; GASQUE, GUSTAVO HENRIQUE; CHIANG, ALEXANDRE; VOLPATO, ANA KELY MEIRA; OGIDO, JOÃO PEDRO MARIANO; BOVO, RUBIA FERNANDA; Caixeta Oliveira, Halley; DALAZEN, GILIARDI",
+      "titulo": "Glyphosate formulations containing different salts in the desiccation of Urochloa brizantha",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5433/1679-0359.2025v46n4p1085",
+      "fingerprint_sha1": "7b5eb4110bb28ac4ba88b5d9c8ff1a5362cdd899",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FIRMANI, JOSÉ FLAVIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5433/1679-0359.2025v46n4p1085\" target=\"_blank\"></a>FIRMANI, JOSÉ FLAVIO ; GASQUE, GUSTAVO HENRIQUE ; CHIANG, ALEXANDRE ; VOLPATO, ANA KELY MEIRA",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "DEBIASI, TATIANE VIEGAS 2024 DEBIASI, TATIANE VIEGAS ; ORNELAS, ADÉLIA CARLA SANTOS ; BRAUCO, DIMITRI NICOLAU ; CALZAVARA, ANDERSON KIKUCHI ; MEDRI, CRISTIANO ; BIANCHINI, EDMILSON ; Oliveira, Halley Caixeta ; PIMENTA, JOSÉ ANTONIO ; STOLF-MOREIRA, RENATA ; BLAGITZ, MARCELA . Irradiance triggers different morphophysiological responses in two neotropical tree seedlings with contrasting light demands. Theoretical and Experimental Plant Physiology , v. 36, p. 33-50, 2024.",
+      "autores": "DEBIASI, TATIANE VIEGAS DEBIASI, TATIANE VIEGAS; ORNELAS, ADÉLIA CARLA SANTOS; BRAUCO, DIMITRI NICOLAU; CALZAVARA, ANDERSON KIKUCHI; MEDRI, CRISTIANO; BIANCHINI, EDMILSON; Oliveira, Halley Caixeta; PIMENTA, JOSÉ ANTONIO; STOLF-MOREIRA, RENATA; BLAGITZ, MARCELA",
+      "titulo": "Irradiance triggers different morphophysiological responses in two neotropical tree seedlings with contrasting light demands",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s40626-023-00303-2",
+      "fingerprint_sha1": "0c79b072ddf4966e89122aa1f2a99596ee12e3ff",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DEBIASI, TATIANE VIEGAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s40626-023-00303-2\" target=\"_blank\"></a>DEBIASI, TATIANE VIEGAS ; ORNELAS, ADÉLIA CARLA SANTOS ; BRAUCO, DIMITRI NICOLAU ; CALZAVARA, AN",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Theoretical and Experimental Plant Physiology"
+    },
+    {
+      "numero_item": 15,
+      "raw": "DA SILVA, R. C. 2024 DA SILVA, R. C. ; PREISLER, A. C. ; DIONISIO, A. M. ; VERRI, W. A. ; GASPAR, M. ; Oliveira, H. C. . Does nitric oxide alleviate the effects of ammonium toxicity on root growth of Atlantic forest tree species?. Theoretical and Experimental Plant Physiology , v. 36, p. 215-222, 2024.",
+      "autores": "DA SILVA, R. C. DA SILVA, R. C.; PREISLER, A. C.; DIONISIO, A. M.; VERRI, W. A.; GASPAR, M.; Oliveira, H. C.",
+      "titulo": "Does nitric oxide alleviate the effects of ammonium toxicity on root growth of Atlantic forest tree species?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s40626-024-00313-8",
+      "fingerprint_sha1": "f09e00583bac50e6732614ea47d72b806544d843",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, R. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s40626-024-00313-8\" target=\"_blank\"></a>DA SILVA, R. C. ; PREISLER, A. C. ; DIONISIO, A. M. ; VERRI, W. A. ; GASPAR, M. ; <b>Oliveira, H. C.</b>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Theoretical and Experimental Plant Physiology"
+    },
+    {
+      "numero_item": 16,
+      "raw": "TORTELLA, GONZALO 2024 TORTELLA, GONZALO ; RUBILAR, OLGA ; FINCHEIRA, PAOLA ; PARADA, JAVIERA ; CAIXETA DE OLIVEIRA, HALLEY ; BENAVIDES-MENDOZA, ADALBERTO ; LEIVA, SEBASTIAN ; FERNANDEZ-BALDO, MARTÍN ; SEABRA, AMEDEA B. . Copper nanoparticles as a potential emerging pollutant: Divergent effects in the agriculture, risk-benefit balance and integrated strategies for its use. Emerging Contaminants , v. 10, p. 100352, 2024.",
+      "autores": "TORTELLA, GONZALO TORTELLA, GONZALO; RUBILAR, OLGA; FINCHEIRA, PAOLA; PARADA, JAVIERA; CAIXETA DE OLIVEIRA, HALLEY; BENAVIDES-MENDOZA, ADALBERTO; LEIVA, SEBASTIAN; FERNANDEZ-BALDO, MARTÍN; SEABRA, AMEDEA B.",
+      "titulo": "Copper nanoparticles as a potential emerging pollutant: Divergent effects in the agriculture, risk-benefit balance and integrated strategies for its use",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.emcon.2024.100352",
+      "fingerprint_sha1": "cfa3fc4e73202ba8bfccb3f5d8188111d7c6a141",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TORTELLA, GONZALO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.emcon.2024.100352\" target=\"_blank\"></a>TORTELLA, GONZALO ; RUBILAR, OLGA ; FINCHEIRA, PAOLA ; PARADA, JAVIERA ; <b>CAIXETA DE OLIVEIRA, HALL",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Emerging Contaminants"
+    },
+    {
+      "numero_item": 17,
+      "raw": "PROENÇA, PATRICIA LUIZA DE FREITAS 2024 PROENÇA, PATRICIA LUIZA DE FREITAS ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; COSTA, TAIS GERMANO ; DE LIMA, RENATA ; Preisler, Ana Cristina ; DE OLIVEIRA, HALLEY CAIXETA ; DA ROCHA, CLAUDIANE MARTINS ; DE ANDRADE, DANIEL JUNIOR ; GONCALVES, KELLY CRISTINA ; POLANCZYK, RICARDO ANTONIO ; FRACETO, LEONARDO FERNANDES . Curcumin and carvacrol co-loaded zein nanoparticles: Comprehensive preparation and assessment of biological activities in pest control. Plant Nano Biology , v. 8, p. 100067, 2024.",
+      "autores": "PROENÇA, PATRICIA LUIZA DE FREITAS PROENÇA, PATRICIA LUIZA DE FREITAS; CAMPOS, ESTEFÂNIA VANGELIE RAMOS; COSTA, TAIS GERMANO; DE LIMA, RENATA; Preisler, Ana Cristina; DE OLIVEIRA, HALLEY CAIXETA; DA ROCHA, CLAUDIANE MARTINS; DE ANDRADE, DANIEL JUNIOR; GONCALVES, KELLY CRISTINA; POLANCZYK, RICARDO ANTONIO; FRACETO, LEONARDO FERNANDES",
+      "titulo": "Curcumin and carvacrol co-loaded zein nanoparticles: Comprehensive preparation and assessment of biological activities in pest control",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.plana.2024.100067",
+      "fingerprint_sha1": "e6a9ad8e4d40637bdfd2ccfc305b60983bcf40fe",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PROENÇA, PATRICIA LUIZA DE FREITAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2024.100067\" target=\"_blank\"></a>PROENÇA, PATRICIA LUIZA DE FREITAS ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; COSTA, TAIS ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 18,
+      "raw": "DA SILVA, RAFAEL CAETANO 2024 DA SILVA, RAFAEL CAETANO ; Oliveira, Halley Caixeta ; IGAMBERDIEV, ABIR U. ; STASOLLA, CLAUDIO ; GASPAR, MARILIA . Interplay between nitric oxide and inorganic nitrogen sources in root development and abiotic stress responses. JOURNAL OF PLANT PHYSIOLOGY , v. 297, p. 154241, 2024.",
+      "autores": "DA SILVA, RAFAEL CAETANO DA SILVA, RAFAEL CAETANO; Oliveira, Halley Caixeta; IGAMBERDIEV, ABIR U.; STASOLLA, CLAUDIO; GASPAR, MARILIA",
+      "titulo": "Interplay between nitric oxide and inorganic nitrogen sources in root development and abiotic stress responses",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jplph.2024.154241",
+      "fingerprint_sha1": "a7c88c54212081bdd2ba4d480d62c74ab06f8b69",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, RAFAEL CAETANO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jplph.2024.154241\" target=\"_blank\"></a>DA SILVA, RAFAEL CAETANO ; <b>Oliveira, Halley Caixeta</b> ; IGAMBERDIEV, ABIR U. ; STASOLLA, ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "JOURNAL OF PLANT PHYSIOLOGY"
+    },
+    {
+      "numero_item": 19,
+      "raw": "FREGONEZI, BRUNO F. 2024 FREGONEZI, BRUNO F. ; Pereira, Anderson E. S. ; FERREIRA, JOSUÉ M. ; FRACETO, LEONARDO F. ; GOMES, DIEGO G. ; Oliveira, Halley C. . Seed Priming with Nanoencapsulated Gibberellic Acid Triggers Beneficial Morphophysiological and Biochemical Responses of Tomato Plants under Different Water Conditions. Agronomy-Basel , v. 14, p. 588, 2024.",
+      "autores": "FREGONEZI, BRUNO F. FREGONEZI, BRUNO F.; Pereira, Anderson E. S.; FERREIRA, JOSUÉ M.; FRACETO, LEONARDO F.; GOMES, DIEGO G.; Oliveira, Halley C.",
+      "titulo": "Seed Priming with Nanoencapsulated Gibberellic Acid Triggers Beneficial Morphophysiological and Biochemical Responses of Tomato Plants under Different Water Conditions",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3390/agronomy14030588",
+      "fingerprint_sha1": "e335e5aad02af6fc7686ee7231c907390c33d832",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FREGONEZI, BRUNO F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agronomy14030588\" target=\"_blank\"></a>FREGONEZI, BRUNO F. ; Pereira, Anderson E. S. ; FERREIRA, JOSUÉ M. ; <a class=\"tooltip\" href=\"http://l",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Agronomy-Basel"
+    },
+    {
+      "numero_item": 20,
+      "raw": "CUNHA, JOÃO PEDRO BATISTA FERNANDES 2024 CUNHA, JOÃO PEDRO BATISTA FERNANDES ; PIMENTA, JOSÉ ANTONIO ; TOREZAN, JOSÉ MARCELO DOMINGUES ; DE OLIVEIRA, HALLEY CAIXETA ; STOLF-MOREIRA, RENATA . Growth and physiological responses of Atlantic Forest tree seedlings to nitrogen and phosphorus addition. TREES-STRUCTURE AND FUNCTION , v. 38, p. 903-913, 2024.",
+      "autores": "CUNHA, JOÃO PEDRO BATISTA FERNANDES CUNHA, JOÃO PEDRO BATISTA FERNANDES; PIMENTA, JOSÉ ANTONIO; TOREZAN, JOSÉ MARCELO DOMINGUES; DE OLIVEIRA, HALLEY CAIXETA; STOLF-MOREIRA, RENATA",
+      "titulo": "Growth and physiological responses of Atlantic Forest tree seedlings to nitrogen and phosphorus addition",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00468-024-02523-8",
+      "fingerprint_sha1": "aa46c40c5359f41fe30d79537bb10c427b3b39d8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CUNHA, JOÃO PEDRO BATISTA FERNANDES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00468-024-02523-8\" target=\"_blank\"></a>CUNHA, JOÃO PEDRO BATISTA FERNANDES ; PIMENTA, JOSÉ ANTONIO ; TOREZAN, JOSÉ MARCELO ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+    },
+    {
+      "numero_item": 21,
+      "raw": "TIEPO, ANGELICA NUNES 2024 TIEPO, ANGELICA NUNES ; COUTINHO, ISABEL DUARTE ; DE OLIVEIRA MACHADO, GUILHERME ; CALZAVARA, ANDERSON KIKUCHI ; HERTEL, MARIANA FERNANDES ; PIMENTA, JOSÉ ANTONIO ; DE OLIVEIRA, ANDRÉ LUIZ MARTINEZ ; COLNAGO, LUIZ ALBERTO ; HENNING, LILIANE MARCIA MERTZ ; Oliveira, Halley Caixeta ; STOLF-MOREIRA, RENATA . Influence of plant growth-promoting bacteria on leaf carbon and nitrogen metabolism of two drought-stressed neotropical tree species: a metabolomic approach. PLANTA , v. 260, p. 31, 2024.",
+      "autores": "TIEPO, ANGELICA NUNES TIEPO, ANGELICA NUNES; COUTINHO, ISABEL DUARTE; DE OLIVEIRA MACHADO, GUILHERME; CALZAVARA, ANDERSON KIKUCHI; HERTEL, MARIANA FERNANDES; PIMENTA, JOSÉ ANTONIO; DE OLIVEIRA, ANDRÉ LUIZ MARTINEZ; COLNAGO, LUIZ ALBERTO; HENNING, LILIANE MARCIA MERTZ; Oliveira, Halley Caixeta; STOLF-MOREIRA, RENATA",
+      "titulo": "Influence of plant growth-promoting bacteria on leaf carbon and nitrogen metabolism of two drought-stressed neotropical tree species: a metabolomic approach",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00425-024-04460-9",
+      "fingerprint_sha1": "4e35aa2035dd4ec4b0112ff6078a4bf2443c4700",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TIEPO, ANGELICA NUNES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00425-024-04460-9\" target=\"_blank\"></a>TIEPO, ANGELICA NUNES ; COUTINHO, ISABEL DUARTE ; DE OLIVEIRA MACHADO, GUILHERME ; CALZAVARA, ANDE",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "PLANTA"
+    },
+    {
+      "numero_item": 22,
+      "raw": "TIEPO, ANGÉLICA NUNES 2024 TIEPO, ANGÉLICA NUNES ; FÁVARO, MATEUS HENRIQUE ; AMADOR, TALITA SILVEIRA ; TAVARES, LEONARDO FERNANDES ; HERTEL, MARIANA FERNANDES ; CALZAVARA, ANDERSON KIKUCHI ; DE OLIVEIRA, ANDRÉ LUIZ MARTINEZ ; Oliveira, Halley Caixeta ; DIAS-PEREIRA, JAQUELINE ; DE ARAÚJO, HUGO HUMBERTO ; BIANCHINI, EDMILSON ; PIMENTA, JOSÉ ANTONIO ; STOLF-MOREIRA, RENATA . Associative Bacteria and Arbuscular Mycorrhizal Fungus Increase Drought Tolerance in Maize (Zea mays L.) through Morphoanatomical, Physiological, and Biochemical Changes. PLANTS , v. 13, p. 1667, 2024.",
+      "autores": "TIEPO, ANGÉLICA NUNES TIEPO, ANGÉLICA NUNES; FÁVARO, MATEUS HENRIQUE; AMADOR, TALITA SILVEIRA; TAVARES, LEONARDO FERNANDES; HERTEL, MARIANA FERNANDES; CALZAVARA, ANDERSON KIKUCHI; DE OLIVEIRA, ANDRÉ LUIZ MARTINEZ; Oliveira, Halley Caixeta; DIAS-PEREIRA, JAQUELINE; DE ARAÚJO, HUGO HUMBERTO; BIANCHINI, EDMILSON; PIMENTA, JOSÉ ANTONIO; STOLF-MOREIRA, RENATA",
+      "titulo": "Associative Bacteria and Arbuscular Mycorrhizal Fungus Increase Drought Tolerance in Maize (Zea mays L",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3390/plants13121667",
+      "fingerprint_sha1": "ff6a547ce662ccdd654745c8aa1d4f984d532053",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TIEPO, ANGÉLICA NUNES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/plants13121667\" target=\"_blank\"></a>TIEPO, ANGÉLICA NUNES ; FÁVARO, MATEUS HENRIQUE ; AMADOR, TALITA SILVEIRA ; TAVARES, LEONARDO FERNANDE",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "PLANTS"
+    },
+    {
+      "numero_item": 23,
+      "raw": "GOMES, DIEGO GENUÁRIO 2024 GOMES, DIEGO GENUÁRIO ; Pieretti, Joana Claudio ; LANGE, CAMILA NEVES ; SANTANA, BIANCA DE MELO ; BATISTA, BRUNO LEMOS ; PARREIRA, PAULO SÉRGIO ; ZUCARELI, CLAUDEMIR ; SEABRA, AMEDEA BAROZZI ; Oliveira, Halley Caixeta . Seed Nanopriming with Green-Synthesized Cu-Based Nanoparticles for Maize Plants with Improved Tolerance to Hydric Stress. Acs Applied Nano Materials , v. 7, p. 20058-20070, 2024.",
+      "autores": "GOMES, DIEGO GENUÁRIO GOMES, DIEGO GENUÁRIO; Pieretti, Joana Claudio; LANGE, CAMILA NEVES; SANTANA, BIANCA DE MELO; BATISTA, BRUNO LEMOS; PARREIRA, PAULO SÉRGIO; ZUCARELI, CLAUDEMIR; SEABRA, AMEDEA BAROZZI; Oliveira, Halley Caixeta",
+      "titulo": "Seed Nanopriming with Green-Synthesized Cu-Based Nanoparticles for Maize Plants with Improved Tolerance to Hydric Stress",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsanm.4c02607",
+      "fingerprint_sha1": "a30a08cb58d049bb5d672996330a0a9b07823a1d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GOMES, DIEGO GENUÁRIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsanm.4c02607\" target=\"_blank\"></a>GOMES, DIEGO GENUÁRIO ; Pieretti, Joana Claudio ; LANGE, CAMILA NEVES ; SANTANA, BIANCA DE MELO ; BATI",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Acs Applied Nano Materials"
+    },
+    {
+      "numero_item": 24,
+      "raw": "TAKESHITA, VANESSA 2024 TAKESHITA, VANESSA ; Preisler, Ana Cristina ; MUNHOZ-GARCIA, GUSTAVO VINÍCIOS ; CARVALHO, LUCAS BRAGANÇA ; DE WERK PINÁCIO, CAMILA ; Oliveira, Halley Caixeta ; TORNISIELO, VALDEMAR LUIZ ; CARDOSO, BRIAN CINTRA ; RAMALHO, EDUARDO FONTE BOA ; PIMPINATO, RODRIGO FLORIANO ; DIONISIO, AMANDA MARTINS ; VERRI, WALDICEU APARECIDO ; FRACETO, LEONARDO FERNANDES . A multi-technique approach for nanoherbicide tracking: uptake and translocation pathways of the metribuzin nanocarrier in weed plants. Environmental Science-Nano , v. 11, p. 4536-4550, 2024.",
+      "autores": "TAKESHITA, VANESSA TAKESHITA, VANESSA; Preisler, Ana Cristina; MUNHOZ-GARCIA, GUSTAVO VINÍCIOS; CARVALHO, LUCAS BRAGANÇA; DE WERK PINÁCIO, CAMILA; Oliveira, Halley Caixeta; TORNISIELO, VALDEMAR LUIZ; CARDOSO, BRIAN CINTRA; RAMALHO, EDUARDO FONTE BOA; PIMPINATO, RODRIGO FLORIANO; DIONISIO, AMANDA MARTINS; VERRI, WALDICEU APARECIDO; FRACETO, LEONARDO FERNANDES",
+      "titulo": "A multi-technique approach for nanoherbicide tracking: uptake and translocation pathways of the metribuzin nanocarrier in weed plants",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1039/d4en00240g",
+      "fingerprint_sha1": "003451b44b4b82f2c4f23cd13684605c9063c295",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TAKESHITA, VANESSA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1039/d4en00240g\" target=\"_blank\"></a>TAKESHITA, VANESSA ; Preisler, Ana Cristina ; MUNHOZ-GARCIA, GUSTAVO VINÍCIOS ; CARVALHO, LUCAS BRAGANÇA ; DE",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Environmental Science-Nano"
+    },
+    {
+      "numero_item": 25,
+      "raw": "Oliveira, Halley C. 2024 Oliveira, Halley C. ; MELO, ADRIANO A. ; FRACETO, LEONARDO F. . Nanotechnology and agriculture in the tropical region: The perspective of the National Institute of Science and Technology in Brazil. Plant Nano Biology , v. 10, p. 100103, 2024.",
+      "autores": "Oliveira, Halley C. Oliveira, Halley C.; MELO, ADRIANO A.; FRACETO, LEONARDO F.",
+      "titulo": "Nanotechnology and agriculture in the tropical region: The perspective of the National Institute of Science and Technology in Brazil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.plana.2024.100103",
+      "fingerprint_sha1": "9606727f9b8496a34c1886cf775e467416df0644",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Oliveira, Halley C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2024.100103\" target=\"_blank\"></a><b>Oliveira, Halley C.</b>; MELO, ADRIANO A. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/47414",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 26,
+      "raw": "DEBIASI, TATIANE V. 2024 DEBIASI, TATIANE V. ; CALZAVARA, ANDERSON K. ; GOMES, DIEGO G. ; ANDREAS, IZABELLE R. ; RONDINA, ARTUR B.L. ; DUARTE, KAROLINE E. ; PEREIRA, RODRIGO M. ; BATISTA, BRUNO L. ; PIMENTA, JOSÉ A. ; SEABRA, AMEDEA B. ; CENTENO, DANILO C. ; Gaspar, Marília ; Oliveira, Halley C. . Influence of light intensity on the responses of seedlings of neotropical tree species to nitrogen source. ENVIRONMENTAL AND EXPERIMENTAL BOTANY , v. 228, p. 106007, 2024.",
+      "autores": "DEBIASI, TATIANE V. DEBIASI, TATIANE V.; CALZAVARA, ANDERSON K.; GOMES, DIEGO G.; ANDREAS, IZABELLE R.; RONDINA, ARTUR B.L.; DUARTE, KAROLINE E.; PEREIRA, RODRIGO M.; BATISTA, BRUNO L.; PIMENTA, JOSÉ A.; SEABRA, AMEDEA B.; CENTENO, DANILO C.; Gaspar, Marília; Oliveira, Halley C.",
+      "titulo": "Influence of light intensity on the responses of seedlings of neotropical tree species to nitrogen source",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.envexpbot.2024.106007",
+      "fingerprint_sha1": "49c7a0b8ced507a79aedc432785c4cc791540899",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DEBIASI, TATIANE V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envexpbot.2024.106007\" target=\"_blank\"></a>DEBIASI, TATIANE V. ; CALZAVARA, ANDERSON K. ; GOMES, DIEGO G. ; ANDREAS, IZABELLE R. ; RONDINA",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "ENVIRONMENTAL AND EXPERIMENTAL BOTANY"
+    },
+    {
+      "numero_item": 27,
+      "raw": "GOMES, DIEGO G. 2024 GOMES, DIEGO G. ; Sousa, Bruno T. ; PIERETTI, JOANA C. ; PEREIRA, RONEY H. ; DE SOUZA, WAGNER R. ; Oliveira, Halley C. ; SEABRA, AMEDEA B . Nanoencapsulated nitric oxide donor triggers a dose-dependent effect on the responses of maize seedlings to high light stress. Plant Stress , v. 15, p. 100711, 2024.",
+      "autores": "GOMES, DIEGO G. GOMES, DIEGO G.; Sousa, Bruno T.; PIERETTI, JOANA C.; PEREIRA, RONEY H.; DE SOUZA, WAGNER R.; Oliveira, Halley C.; SEABRA, AMEDEA B",
+      "titulo": "Nanoencapsulated nitric oxide donor triggers a dose-dependent effect on the responses of maize seedlings to high light stress",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.stress.2024.100711",
+      "fingerprint_sha1": "3864d2936ba770857402eac7b710051e90272cbf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GOMES, DIEGO G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.stress.2024.100711\" target=\"_blank\"></a>GOMES, DIEGO G. ; Sousa, Bruno T. ; PIERETTI, JOANA C. ; PEREIRA, RONEY H. ; DE SOUZA, WAGNER R. ; <b>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Plant Stress"
+    },
+    {
+      "numero_item": 123,
+      "raw": "Oliveira, H. C. ; GOMES, DIEGO G. ; CARVALHO, E. G. S. . Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café. The Conversation Brasil, 08 out. 2025.",
+      "autores": "Oliveira, H. C.; GOMES, DIEGO G.; CARVALHO, E. G. S.",
+      "titulo": "Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café",
+      "ano": 2025,
+      "mes": "out",
+      "doi": null,
+      "fingerprint_sha1": "72ac1864ab5dab0e176b0c573b85beec5f4f6041",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Oliveira, H. C.</b>; GOMES, DIEGO G. ; CARVALHO, E. G. S. . Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café. The Conversation Brasil, 08 out.  2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "The Conversation Brasil"
+    },
+    {
+      "numero_item": 124,
+      "raw": "DEBIASI, T. V. ; OLIVEIRA, H.C. . Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas. The Conversation Brasil, Brasil, 25 abr. 2025.",
+      "autores": "DEBIASI, T. V.; OLIVEIRA, H.C.",
+      "titulo": "Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas",
+      "ano": 2025,
+      "mes": "abr",
+      "doi": null,
+      "fingerprint_sha1": "fe7ecec2f3872484003bbced94db5780bbfad4f2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DEBIASI, T. V. ; <b>OLIVEIRA, H.C.</b> . Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas. The Conversation Brasil, Brasil, 25 abr.  2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "The Conversation Brasil"
+    },
+    {
+      "numero_item": 143,
+      "raw": "SILVA, R. C. ; VIEIRA, E. A. ; PREISLER, A. C. ; CARMO, G. C. ; TAVARES, LEONARDO FERNANDES ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. ; GASPAR, M. . Nitric oxide-releasing chitosan nanoparticles improve water deficit tolerance in Araucaria angustifolia (Bertol.) Kuntze (Araucariaceae) seedlings. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 37-37.",
+      "autores": "SILVA, R. C.; VIEIRA, E. A.; PREISLER, A. C.; CARMO, G. C.; TAVARES, LEONARDO FERNANDES; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.; GASPAR, M.",
+      "titulo": "Nitric oxide-releasing chitosan nanoparticles improve water deficit tolerance in Araucaria angustifolia (Bertol",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "01e869f7489d319e2ada17a980499cb9a340792d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, R. C. ; VIEIRA, E. A. ; PREISLER, A. C. ; CARMO, G. C. ; TAVARES, LEONARDO FERNANDES ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> ; GASPAR, M. . Nitric oxide-releasing chitosan nanoparticles improve water deficit tolerance in Araucaria angustifolia (Bertol.) Kuntze (Araucariaceae) seedlings. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 144,
+      "raw": "LOPES-OLIVEIRA, PATRÍCIA J. ; SANTOS JUNIOR, J. L. ; GRANDIS, A. ; BUCKERIDGE, M. S. ; OLIVEIRA, H.C. ; ROSSI, M. M. ; FRESCHI, LUCIANO . Influence of SlGSNOR manipulation on tomato responses to long-term moderately high temperature. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 38-38.",
+      "autores": "LOPES-OLIVEIRA, PATRÍCIA J.; SANTOS JUNIOR, J. L.; GRANDIS, A.; BUCKERIDGE, M. S.; OLIVEIRA, H.C.; ROSSI, M. M.; FRESCHI, LUCIANO",
+      "titulo": "Influence of SlGSNOR manipulation on tomato responses to long-term moderately high temperature",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "07c36b40bffc92fd64d291605a1c4dff7cbe3977",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LOPES-OLIVEIRA, PATRÍCIA J. ; SANTOS JUNIOR, J. L. ; GRANDIS, A. ; BUCKERIDGE, M. S. ; <b>OLIVEIRA, H.C.</b> ; ROSSI, M. M. ; FRESCHI, LUCIANO . Influence of SlGSNOR manipulation on tomato responses to long-term moderately high temperature. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 38-38. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 145,
+      "raw": "AMADOR, TALITA SILVEIRA ; PEREIRA, J. P. C. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Seed treatment with nitric oxide-releasing nanoparticles as a sustainable strategy to improve soybean growth and development: From the laboratory to the field. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 48-48.",
+      "autores": "AMADOR, TALITA SILVEIRA; PEREIRA, J. P. C.; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Seed treatment with nitric oxide-releasing nanoparticles as a sustainable strategy to improve soybean growth and development: From the laboratory to the field",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d269ac906abf525cfa2b8fe3b280142ee638944e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AMADOR, TALITA SILVEIRA ; PEREIRA, J. P. C. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Seed treatment with nitric oxide-releasing nanoparticles as a sustainable strategy to improve soybean growth and development: From the laboratory to the field. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 48-48. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 146,
+      "raw": "PEREIRA, J. P. C. ; AMADOR, T. S. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Seed priming with nitric oxide-releasing nanoparticles as a strategy to enhance maize performance under field conditions. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 49-49.",
+      "autores": "PEREIRA, J. P. C.; AMADOR, T. S.; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Seed priming with nitric oxide-releasing nanoparticles as a strategy to enhance maize performance under field conditions",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6d7e46615ddc586c6c0e8a8752f19f9dba8d7b45",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PEREIRA, J. P. C. ; AMADOR, T. S. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Seed priming with nitric oxide-releasing nanoparticles as a strategy to enhance maize performance under field conditions. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 49-49. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 147,
+      "raw": "DA SILVA, JANAINA G. ; FIRMANI, J. F. ; SOUZA, B. A. ; SOUZA, L. R. B. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Nitric oxide-releasing nanoparticles as a tool for improving cotton drought tolerance. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 64-64.",
+      "autores": "DA SILVA, JANAINA G.; FIRMANI, J. F.; SOUZA, B. A.; SOUZA, L. R. B.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Nitric oxide-releasing nanoparticles as a tool for improving cotton drought tolerance",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d7a79c55196140f1af05f5284698ea58be3cda1e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DA SILVA, JANAINA G. ; FIRMANI, J. F. ; SOUZA, B. A. ; SOUZA, L. R. B. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Nitric oxide-releasing nanoparticles as a tool for improving cotton drought tolerance. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 64-64. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 148,
+      "raw": "CARMO, G. C. ; SILVA, R. C. ; TAVARES, LEONARDO FERNANDES ; THIHARA, I. R. T. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Effect of S-nitrosoglutathione-containing chitosan nanoparticles on the development of Cecropia pachystachya seedlings under field conditions. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 74-74.",
+      "autores": "CARMO, G. C.; SILVA, R. C.; TAVARES, LEONARDO FERNANDES; THIHARA, I. R. T.; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Effect of S-nitrosoglutathione-containing chitosan nanoparticles on the development of Cecropia pachystachya seedlings under field conditions",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "248daa751b229b93a087d2326d68f838c262cc6d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARMO, G. C. ; SILVA, R. C. ; TAVARES, LEONARDO FERNANDES ; THIHARA, I. R. T. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Effect of S-nitrosoglutathione-containing chitosan nanoparticles on the development of Cecropia pachystachya seedlings under field conditions. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 74-74. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 149,
+      "raw": "MALDONADO, L. L. ; CARMO, G. C. ; PIMENTA, J. A. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Effects of seed priming with S-nitrosoglutathione-loaded chitosan nanoparticles on the early development of Atlantic Forest tree seedlings. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 75-75.",
+      "autores": "MALDONADO, L. L.; CARMO, G. C.; PIMENTA, J. A.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Effects of seed priming with S-nitrosoglutathione-loaded chitosan nanoparticles on the early development of Atlantic Forest tree seedlings",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2874894474bcd60d8cfe79144e2ca283bf0141d9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MALDONADO, L. L. ; CARMO, G. C. ; PIMENTA, J. A. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Effects of seed priming with S-nitrosoglutathione-loaded chitosan nanoparticles on the early development of Atlantic Forest tree seedlings. In: 10th Plant Nitric Oxide International Meeting, 2025, Varsóvia. 10th Plant Nitric Oxide International Meeting, 2025. p. 75-75. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "10th Plant Nitric Oxide International Meeting"
+    },
+    {
+      "numero_item": 150,
+      "raw": "FERREIRA, E. M. ; MALDONADO, L. L. ; OLIVEIRA, H.C. . DESENVOLVIMENTO INICIAL DE Solanum lycopersicum EM RESPOSTA AO PRIMING DE SEMENTES COM DOADOR DE ÓXIDO NÍTRICO NANOENCAPSULADO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025.",
+      "autores": "FERREIRA, E. M.; MALDONADO, L. L.; OLIVEIRA, H.C.",
+      "titulo": "DESENVOLVIMENTO INICIAL DE Solanum lycopersicum EM RESPOSTA AO PRIMING DE SEMENTES COM DOADOR DE ÓXIDO NÍTRICO NANOENCAPSULADO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "36660167cc4a467eb1f1484f995642d00ccd4ad6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERREIRA, E. M. ; MALDONADO, L. L. ; <b>OLIVEIRA, H.C.</b> . DESENVOLVIMENTO INICIAL DE Solanum lycopersicum EM RESPOSTA AO PRIMING DE SEMENTES COM DOADOR DE ÓXIDO NÍTRICO NANOENCAPSULADO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "VI Congresso de Biologia da UEL"
+    },
+    {
+      "numero_item": 151,
+      "raw": "SILVA, J. C. ; DEBIASI, T. V. ; TEREZO, A. J. ; SIQUEIRA, A. B. ; OLIVEIRA, H.C. . EFEITOS DA APLICAÇÃO DE PONTOS QUÂNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÓGICA DE MUDAS DE EUGENIA BRASILIENSIS DURANTE A ACLIMATAÇÃO EM SOL PLENO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025.",
+      "autores": "SILVA, J. C.; DEBIASI, T. V.; TEREZO, A. J.; SIQUEIRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "EFEITOS DA APLICAÇÃO DE PONTOS QUÂNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÓGICA DE MUDAS DE EUGENIA BRASILIENSIS DURANTE A ACLIMATAÇÃO EM SOL PLENO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "02f2ca02dd6565a6f1cda8262cea00e0032015a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, J. C. ; DEBIASI, T. V. ; TEREZO, A. J. ; SIQUEIRA, A. B. ; <b>OLIVEIRA, H.C.</b> . EFEITOS DA APLICAÇÃO DE PONTOS QUÂNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÓGICA DE MUDAS DE EUGENIA BRASILIENSIS DURANTE A ACLIMATAÇÃO EM SOL PLENO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "VI Congresso de Biologia da UEL"
+    },
+    {
+      "numero_item": 152,
+      "raw": "ROCHA, M. L. M. ; MEDRI, C. ; OLIVEIRA, H.C. ; SILVA, R. C. . ANATOMIA DE MUDAS DE Araucaria angustifolia (Bertol.) Kuntze SUBMETIDAS A DIFERENTES FONTES DE NITROGÊNIO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025.",
+      "autores": "ROCHA, M. L. M.; MEDRI, C.; OLIVEIRA, H.C.; SILVA, R. C.",
+      "titulo": "ANATOMIA DE MUDAS DE Araucaria angustifolia (Bertol",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b79df88eb754a83b8701940a287f3a9cb4f6da0a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROCHA, M. L. M. ; MEDRI, C. ; <b>OLIVEIRA, H.C.</b> ; SILVA, R. C. . ANATOMIA DE MUDAS DE Araucaria angustifolia (Bertol.) Kuntze SUBMETIDAS A DIFERENTES FONTES DE NITROGÊNIO. In: VI Congresso de Biologia da UEL, 2025, Londrina. VI Congresso de Biologia da UEL, 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "VI Congresso de Biologia da UEL"
+    },
+    {
+      "numero_item": 153,
+      "raw": "GUARIZ, H. R. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. . S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 34-34.",
+      "autores": "GUARIZ, H. R.; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "05e665385f110a6e99beeb476399a1a7fd8cdd92",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GUARIZ, H. R. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 34-34. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+    },
+    {
+      "numero_item": 154,
+      "raw": "LOPES-OLIVEIRA, PATRÍCIA J. ; SANTOS JUNIOR, J. L. ; GRANDIS, A. ; BUCKERIDGE, M. S. ; OLIVEIRA, H.C. ; ROSSI, M. M. ; FRESCHI, LUCIANO . Impacts of GSNOR manipulation on tomato heat stress responses. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 16-16.",
+      "autores": "LOPES-OLIVEIRA, PATRÍCIA J.; SANTOS JUNIOR, J. L.; GRANDIS, A.; BUCKERIDGE, M. S.; OLIVEIRA, H.C.; ROSSI, M. M.; FRESCHI, LUCIANO",
+      "titulo": "Impacts of GSNOR manipulation on tomato heat stress responses",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3f677b359481c921c4badf587dafeac04e68fc1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LOPES-OLIVEIRA, PATRÍCIA J. ; SANTOS JUNIOR, J. L. ; GRANDIS, A. ; BUCKERIDGE, M. S. ; <b>OLIVEIRA, H.C.</b> ; ROSSI, M. M. ; FRESCHI, LUCIANO . Impacts of GSNOR manipulation on tomato heat stress responses. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 16-16. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+    },
+    {
+      "numero_item": 155,
+      "raw": "CARMO, G. C. ; PREISLER, A. C. ; LIMA, J. D. O. ; PEREIRA, R. H. ; STOLF-MOREIRA, R. ; PIMENTA, J.A. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Effect of nitric oxide-releasing nanoparticles on the growth and physiology of Cecropia pachystachya Trécul seedlings subjected to moderate water deficit. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 32-32.",
+      "autores": "CARMO, G. C.; PREISLER, A. C.; LIMA, J. D. O.; PEREIRA, R. H.; STOLF-MOREIRA, R.; PIMENTA, J.A.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Effect of nitric oxide-releasing nanoparticles on the growth and physiology of Cecropia pachystachya Trécul seedlings subjected to moderate water deficit",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ae5cb57ede89d051dde876edb70607eb95051b9b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARMO, G. C. ; PREISLER, A. C. ; LIMA, J. D. O. ; PEREIRA, R. H. ; STOLF-MOREIRA, R. ; PIMENTA, J.A. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Effect of nitric oxide-releasing nanoparticles on the growth and physiology of Cecropia pachystachya Trécul seedlings subjected to moderate water deficit. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meetin",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+    },
+    {
+      "numero_item": 156,
+      "raw": "SEABRA, A. B. ; SILVEIRA, N. M. ; OLIVEIRA, R. S. ; OLIVEIRA, H.C. ; GOMES, D. G. ; PIERETTI, JOANA C. ; PREISLER, A. C. ; CARMO, G. C. ; SOUZA, B. L. ; PEREIRA, R. H. . Nitric oxide-releasing polymeric nanoparticles in plants recent progress, perspective and challenges. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 45-45.",
+      "autores": "SEABRA, A. B.; SILVEIRA, N. M.; OLIVEIRA, R. S.; OLIVEIRA, H.C.; GOMES, D. G.; PIERETTI, JOANA C.; PREISLER, A. C.; CARMO, G. C.; SOUZA, B. L.; PEREIRA, R. H.",
+      "titulo": "Nitric oxide-releasing polymeric nanoparticles in plants recent progress, perspective and challenges",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50fbb84468a52029a412bb08e9208134c9643b16",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SEABRA, A. B. ; SILVEIRA, N. M. ; OLIVEIRA, R. S. ; <b>OLIVEIRA, H.C.</b> ; GOMES, D. G. ; PIERETTI, JOANA C. ; PREISLER, A. C. ; CARMO, G. C. ; SOUZA, B. L. ; PEREIRA, R. H. . Nitric oxide-releasing polymeric nanoparticles in plants recent progress, perspective and challenges. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+    },
+    {
+      "numero_item": 157,
+      "raw": "PREISLER, ANA C ; SARAIVA-SANTOS, TELMA ; PIERETTI, JOANA C. ; SEABRA, A. B. ; VERRI, WALDICEU APARECIDO ; OLIVEIRA, H.C. . Study of the interaction of a free and nanoencapsulated nitric oxide donor with soybean roots. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 50-50.",
+      "autores": "PREISLER, ANA C; SARAIVA-SANTOS, TELMA; PIERETTI, JOANA C.; SEABRA, A. B.; VERRI, WALDICEU APARECIDO; OLIVEIRA, H.C.",
+      "titulo": "Study of the interaction of a free and nanoencapsulated nitric oxide donor with soybean roots",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "197107479cb269748634682f702cf93ac026dc4f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PREISLER, ANA C ; SARAIVA-SANTOS, TELMA ; PIERETTI, JOANA C. ; SEABRA, A. B. ; VERRI, WALDICEU APARECIDO ; <b>OLIVEIRA, H.C.</b> . Study of the interaction of a free and nanoencapsulated nitric oxide donor with soybean roots. In: 9th Plant Nitric oxide International Meeting (PNO9), 2024, New Delhi. Abstract Book of the 9th Plant Nitric oxide International Meeting (PNO9), 2024. p. 50-50. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+    },
+    {
+      "numero_item": 158,
+      "raw": "CARMO, G. C. ; LIMA, J. D. O. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; OLIVEIRA, H.C. . The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. In: 26º World Congress IUFRO, 2024, Estocolmo. 26º World Congress IUFRO, 2024. p. 1-1.",
+      "autores": "CARMO, G. C.; LIMA, J. D. O.; PIERETTI, JOANA C.; SEABRA, A. B.; STOLF-MOREIRA, R.; PIMENTA, J. A.; OLIVEIRA, H.C.",
+      "titulo": "The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "936b22bb631cc599b3066620ca9676635032c3c3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARMO, G. C. ; LIMA, J. D. O. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; <b>OLIVEIRA, H.C.</b> . The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. In: 26º World Congress IUFRO, 2024, Estocolmo. 26º World Congress IUFRO, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "26º World Congress IUFRO"
+    },
+    {
+      "numero_item": 159,
+      "raw": "DA SILVA, JANAINA G. ; BARDY, LARA RAPOSO ; SOUSA, B. T. ; SANTOS, L. S. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; VENTURA, M. U. ; RESENDE, J. T. V. ; OLIVEIRA, H.C. . Seed nanopriming improves the quality of tomato plants. In: II Workshop Latinoamericano en Nano y Biotecnologia, 2024, Pucon. II Workshop Latinoamericano en Nano y Biotecnologia, 2024. p. 1-1.",
+      "autores": "DA SILVA, JANAINA G.; BARDY, LARA RAPOSO; SOUSA, B. T.; SANTOS, L. S.; PEREIRA, A. E. S.; FRACETO, L. F.; VENTURA, M. U.; RESENDE, J. T. V.; OLIVEIRA, H.C.",
+      "titulo": "Seed nanopriming improves the quality of tomato plants",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "482cd60ea2fe543687a3cd87599d1f7aec7cf4ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DA SILVA, JANAINA G. ; BARDY, LARA RAPOSO ; SOUSA, B. T. ; SANTOS, L. S. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; VENTURA, M. U. ; RESENDE, J. T. V. ; <b>OLIVEIRA, H.C.</b> . Seed nanopriming improves the quality of tomato plants. In: II Workshop Latinoamericano en Nano y Biotecnologia, 2024, Pucon. II Workshop Latinoamericano en Nano y Biotecnologia, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia"
+    },
+    {
+      "numero_item": 160,
+      "raw": "AMADOR, TALITA SILVEIRA ; OLIVEIRA, H.C. ; BARBEDO, C. J. . Efeito do Ácido Abscísico na Germinação de Sementes de Eugenia pyriformis. In: XXII Congresso Brasileiro de Sementes, 2024, Foz do Iguaçu. XXII Congresso Brasileiro de Sementes, 2024. p. 1-1.",
+      "autores": "AMADOR, TALITA SILVEIRA; OLIVEIRA, H.C.; BARBEDO, C. J.",
+      "titulo": "Efeito do Ácido Abscísico na Germinação de Sementes de Eugenia pyriformis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "66535f807ee56993ec3ca40407800192ee66f536",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AMADOR, TALITA SILVEIRA ; <b>OLIVEIRA, H.C.</b> ; BARBEDO, C. J. . Efeito do Ácido Abscísico na Germinação de Sementes de Eugenia pyriformis. In: XXII Congresso Brasileiro de Sementes, 2024, Foz do Iguaçu. XXII Congresso Brasileiro de Sementes, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXII Congresso Brasileiro de Sementes"
+    },
+    {
+      "numero_item": 161,
+      "raw": "SANTOS, M. S. ; OLIVEIRA, H.C. ; AMADOR, TALITA SILVEIRA . Utilização do Óleo Essencial de Eucalipto como Agente Fungicida em Sementes de Milho. In: XXII Congresso Brasileiro de Sementes, 2024, Foz do Iguaçu. XXII Congresso Brasileiro de Sementes, 2024. p. 1-1.",
+      "autores": "SANTOS, M. S.; OLIVEIRA, H.C.; AMADOR, TALITA SILVEIRA",
+      "titulo": "Utilização do Óleo Essencial de Eucalipto como Agente Fungicida em Sementes de Milho",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8fad459d8574cc1e4e28829ad0586c6e14d96109",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS, M. S. ; <b>OLIVEIRA, H.C.</b> ; AMADOR, TALITA SILVEIRA . Utilização do Óleo Essencial de Eucalipto como Agente Fungicida em Sementes de Milho. In: XXII Congresso Brasileiro de Sementes, 2024, Foz do Iguaçu. XXII Congresso Brasileiro de Sementes, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXII Congresso Brasileiro de Sementes"
+    },
+    {
+      "numero_item": 162,
+      "raw": "FIRMANI, J. F. ; BOVO, R. F. ; SOUSA, B. T. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; DALAZEN, G. ; OLIVEIRA, H.C. . Combinação de atrazina convencional e nanoencapsulada no controle de Conyza spp.. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 186-186.",
+      "autores": "FIRMANI, J. F.; BOVO, R. F.; SOUSA, B. T.; PEREIRA, A. E. S.; FRACETO, L. F.; DALAZEN, G.; OLIVEIRA, H.C.",
+      "titulo": "Combinação de atrazina convencional e nanoencapsulada no controle de Conyza spp",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b55b8a04f0b1168c638b31b4f8fe6167bdc47c44",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; BOVO, R. F. ; SOUSA, B. T. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; DALAZEN, G. ; <b>OLIVEIRA, H.C.</b> . Combinação de atrazina convencional e nanoencapsulada no controle de Conyza spp.. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malez",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 163,
+      "raw": "SOUSA, B. T. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; BARDY, LARA RAPOSO ; OLIVEIRA, H.C. ; DALAZEN, G. . Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 204-204.",
+      "autores": "SOUSA, B. T.; PEREIRA, A. E. S.; FRACETO, L. F.; BARDY, LARA RAPOSO; OLIVEIRA, H.C.; DALAZEN, G.",
+      "titulo": "Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "567bb6710f1d00c74d2b278c4f9abc2e7034e57f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUSA, B. T. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; BARDY, LARA RAPOSO ; <b>OLIVEIRA, H.C.</b> ; DALAZEN, G. . Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 204-204. ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 164,
+      "raw": "FIRMANI, J. F. ; VOLPATO, A. K. M. ; GUASQUE, G. ; BARDY, LARA RAPOSO ; DEBIASI, T. V. ; DALAZEN, G. ; OLIVEIRA, H.C. . Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de-botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 206-206.",
+      "autores": "FIRMANI, J. F.; VOLPATO, A. K. M.; GUASQUE, G.; BARDY, LARA RAPOSO; DEBIASI, T. V.; DALAZEN, G.; OLIVEIRA, H.C.",
+      "titulo": "Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de-botão",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7bd9f603fe2190537d1f739b87b9fa8f636d794a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; VOLPATO, A. K. M. ; GUASQUE, G. ; BARDY, LARA RAPOSO ; DEBIASI, T. V. ; DALAZEN, G. ; <b>OLIVEIRA, H.C.</b> . Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de-botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 165,
+      "raw": "FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; MARIANO, J. P. ; GOMES, D. G. ; OLIVEIRA, H.C. ; DALAZEN, G. . Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa brizantha BRS 'Piatã'. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 221-221.",
+      "autores": "FIRMANI, J. F.; SHIBAYAMA, L. J. K.; STEIDLE, J. E. C.; MARIANO, J. P.; GOMES, D. G.; OLIVEIRA, H.C.; DALAZEN, G.",
+      "titulo": "Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa brizantha BRS 'Piatã'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "72ce5f468d30e96557340a658133a4bea230fce3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; MARIANO, J. P. ; GOMES, D. G. ; <b>OLIVEIRA, H.C.</b> ; DALAZEN, G. . Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa brizantha BRS 'Piatã'. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latin",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 166,
+      "raw": "SOUSA, B. T. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, L. F. ; DALAZEN, G. ; OLIVEIRA, H.C. . Respostas de tolerância de plantas de milho (Zea mays L.) a três formulações de atrazina nanoencapsulada. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 224-224.",
+      "autores": "SOUSA, B. T.; PEREIRA, A. E. S.; OLIVEIRA, J. L.; FRACETO, L. F.; DALAZEN, G.; OLIVEIRA, H.C.",
+      "titulo": "Respostas de tolerância de plantas de milho (Zea mays L",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bd865b41dc873b7071c369b3c5118fa7c01bb2d2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUSA, B. T. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, L. F. ; DALAZEN, G. ; <b>OLIVEIRA, H.C.</b> . Respostas de tolerância de plantas de milho (Zea mays L.) a três formulações de atrazina nanoencapsulada. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamerica",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 167,
+      "raw": "DALAZEN, G. ; FIRMANI, J. F. ; PEREIRA, A. E. S. ; CAMPOS, ESTEFÂNIA V. R. ; OLIVEIRA, J. L. ; FRACETO, L. F. ; OLIVEIRA, H.C. . Nanoatrazina e atrazina convencional no controle pós-emergente de nabo (Raphanus sativus). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024. p. 229-229.",
+      "autores": "DALAZEN, G.; FIRMANI, J. F.; PEREIRA, A. E. S.; CAMPOS, ESTEFÂNIA V. R.; OLIVEIRA, J. L.; FRACETO, L. F.; OLIVEIRA, H.C.",
+      "titulo": "Nanoatrazina e atrazina convencional no controle pós-emergente de nabo (Raphanus sativus)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "70e33c72931fdb095f5d725c64ea4f08718cd058",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DALAZEN, G. ; FIRMANI, J. F. ; PEREIRA, A. E. S. ; CAMPOS, ESTEFÂNIA V. R. ; OLIVEIRA, J. L. ; FRACETO, L. F. ; <b>OLIVEIRA, H.C.</b> . Nanoatrazina e atrazina convencional no controle pós-emergente de nabo (Raphanus sativus). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas, 2024, Campinas. Anais do XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+    },
+    {
+      "numero_item": 168,
+      "raw": "HERTEL, M. F. ; SEKI, L. Y. ; BERGOC, H. G. ; SANTOS, E. C. ; OLIVEIRA, G. M. C. ; TOREZAN, J. M. D. ; STOLF-MOREIRA, R. ; BIANCHINI, E. ; PIMENTA, J. A. ; OLIVEIRA, H.C. . Biomarkers of nitrogen availability in tree species from a Brazilian Atlantic Forest fragment. In: XXVI IUFRO World Congress, 2024, Estocolmo. Book of Abstracts - XXVI IUFRO World Congress, 2024. p. 1317-1317.",
+      "autores": "HERTEL, M. F.; SEKI, L. Y.; BERGOC, H. G.; SANTOS, E. C.; OLIVEIRA, G. M. C.; TOREZAN, J. M. D.; STOLF-MOREIRA, R.; BIANCHINI, E.; PIMENTA, J. A.; OLIVEIRA, H.C.",
+      "titulo": "Biomarkers of nitrogen availability in tree species from a Brazilian Atlantic Forest fragment",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "912215f45a84794352a834726605bb1770100c5c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">HERTEL, M. F. ; SEKI, L. Y. ; BERGOC, H. G. ; SANTOS, E. C. ; OLIVEIRA, G. M. C. ; TOREZAN, J. M. D. ; STOLF-MOREIRA, R. ; BIANCHINI, E. ; PIMENTA, J. A. ; <b>OLIVEIRA, H.C.</b> . Biomarkers of nitrogen availability in tree species from a Brazilian Atlantic Forest fragment. In: XXVI IUFRO World Congress, 2024, Estocolmo. Book of Abstracts - XXVI IUFRO World Congress, 2024. p. 1317-1317. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "XXVI IUFRO World Congress"
+    },
+    {
+      "numero_item": 169,
+      "raw": "CARMO, G. C. ; PREISLER, A. C. ; LIMA, J. D. O. ; PEREIRA, R. H. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; SEABRA, A. B. ; OLIVEIRA, H.C. . Cecropia pachystachya seedlings submitted to moderate drought stress: application of GSNO-loaded chitosan nanoparticles and screening the stomatal response of different tree species to the application of GSNO-loaded chitosan nanoparticles. In: II Workshop Latinoamericano en Nano y Biotecnologia, 2024, Pucon. II Workshop Latinoamericano en Nano y Biotecnologia, 2024. p. 1-1.",
+      "autores": "CARMO, G. C.; PREISLER, A. C.; LIMA, J. D. O.; PEREIRA, R. H.; STOLF-MOREIRA, R.; PIMENTA, J. A.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "Cecropia pachystachya seedlings submitted to moderate drought stress: application of GSNO-loaded chitosan nanoparticles and screening the stomatal response of different tree species to the application of GSNO-loaded chitosan nanoparticles",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f5e16e5bfdbe4c0e8844a12bc8c81ff17fe056ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARMO, G. C. ; PREISLER, A. C. ; LIMA, J. D. O. ; PEREIRA, R. H. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . Cecropia pachystachya seedlings submitted to moderate drought stress: application of GSNO-loaded chitosan nanoparticles and screening the stomatal response of different tree species to the application of GSNO-loaded chitosan nanoparticles. In: II Workshop Latinoamericano en Nano y Biotecnolo",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia"
+    },
+    {
+      "numero_item": 301,
+      "raw": "CUNHA SERAFIM, ANA CAROLINA ; SIQUEIRA, ADRIANA DE PAULA CARDOSO ; CASTILHO, MARILZA ; SOARES, MÁRIO RODRIGO DOS SANTOS ; FORTUNA, AIRA TITÚS XAVIER ; TERZIOTTI, RAFAELA STRESSER ; THERÉZIO, ERALCI MOREIRA ; GOMES, DIEGO GENUÁRIO ; Oliveira, Halley Caixeta ; TEREZO, AILTON JOSE ; SIQUEIRA, ADRIANO BUZUTTI . Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach. Acs Agricultural Science & Technology , 2025.",
+      "autores": "CUNHA SERAFIM, ANA CAROLINA; SIQUEIRA, ADRIANA DE PAULA CARDOSO; CASTILHO, MARILZA; SOARES, MÁRIO RODRIGO DOS SANTOS; FORTUNA, AIRA TITÚS XAVIER; TERZIOTTI, RAFAELA STRESSER; THERÉZIO, ERALCI MOREIRA; GOMES, DIEGO GENUÁRIO; Oliveira, Halley Caixeta; TEREZO, AILTON JOSE; SIQUEIRA, ADRIANO BUZUTTI",
+      "titulo": "Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00411",
+      "fingerprint_sha1": "47fa935a7c1b9ce109a3e71b060f3980c3556825",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00411\" target=\"_blank\"></a>CUNHA SERAFIM, ANA CAROLINA ; SIQUEIRA, ADRIANA DE PAULA CARDOSO ; CASTILHO, MARILZA ; SOARES, MÁRIO RODRIGO DOS SANTOS ; FORTUNA, AIRA TITÚS XAVIER ; TERZIOTTI, RAFAELA STRESSER ; THERÉZIO, ERALCI MOREIRA ; GOMES, DIEGO GENUÁRIO ; <b>Oliveira, Halley Caixeta</b> ; TEREZO, AILTON JOSE ; SIQUEIRA, ADRIANO BUZUTTI . Plant Grow",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 302,
+      "raw": "OLIVEIRA, H.C. . Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "85549fa8319214787dd6665b48baaa9c0e6c6992",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 303,
+      "raw": "XAVIER, M. F. C. ; MORALES, J. H. B. ; TOFOLI, L. B. ; OLIVEIRA, H.C. . AVALIAÇÃO DO CRESCIMENTO DE FEIJOEIRO (PHASEOLUS VULGARIS) SOB O USO DE FERTILIZANTES, MATÉRIA ORG NICA E APLICAÇÃO DA BACTÉRIA AZOSPIRILLUM BRASILENSE AbV5 - FASE II. 2024. (Apresentação de Trabalho/Comunicação).",
+      "autores": "XAVIER, M. F. C.; MORALES, J. H. B.; TOFOLI, L. B.; OLIVEIRA, H.C.",
+      "titulo": "AVALIAÇÃO DO CRESCIMENTO DE FEIJOEIRO (PHASEOLUS VULGARIS) SOB O USO DE FERTILIZANTES, MATÉRIA ORG NICA E APLICAÇÃO DA BACTÉRIA AZOSPIRILLUM BRASILENSE AbV5 - FASE II",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6bc57b4a665051f82616208c8e2975befe27ac13",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XAVIER, M. F. C. ; MORALES, J. H. B. ; TOFOLI, L. B. ; <b>OLIVEIRA, H.C.</b> . AVALIAÇÃO DO CRESCIMENTO DE FEIJOEIRO (PHASEOLUS VULGARIS) SOB O USO DE FERTILIZANTES, MATÉRIA ORG NICA E APLICAÇÃO DA BACTÉRIA AZOSPIRILLUM BRASILENSE AbV5 - FASE II. 2024. (Apresentação de Trabalho/Comunicação). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+    },
+    {
+      "numero_item": 304,
+      "raw": "OLIVEIRA, H.C. . Estratégias baseadas em nanotecnologia verde para indução da tolerância à seca e outros estresses abióticos. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Estratégias baseadas em nanotecnologia verde para indução da tolerância à seca e outros estresses abióticos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3ad6c44c437a1eb50a0d9215f54990691255119f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Estratégias baseadas em nanotecnologia verde para indução da tolerância à seca e outros estresses abióticos. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 305,
+      "raw": "CARMO, G. C. ; LIMA, J. D. O. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; OLIVEIRA, H.C. . The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Apresentação de Trabalho/Comunicação).",
+      "autores": "CARMO, G. C.; LIMA, J. D. O.; PIERETTI, JOANA C.; SEABRA, A. B.; STOLF-MOREIRA, R.; PIMENTA, J. A.; OLIVEIRA, H.C.",
+      "titulo": "The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "37220b9ccfc1c8beda201cfb7d08d3b04bda0a5b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARMO, G. C. ; LIMA, J. D. O. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; STOLF-MOREIRA, R. ; PIMENTA, J. A. ; <b>OLIVEIRA, H.C.</b> . The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Apresentação de Trabalho/Comunicação). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+    },
+    {
+      "numero_item": 306,
+      "raw": "GUARIZ, H. R. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; OLIVEIRA, H.C. . S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field. 2024. (Apresentação de Trabalho/Comunicação).",
+      "autores": "GUARIZ, H. R.; PIERETTI, JOANA C.; SEABRA, A. B.; OLIVEIRA, H.C.",
+      "titulo": "S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c278404aacb36ac995889b4ac99df03eae4e4a96",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GUARIZ, H. R. ; PIERETTI, JOANA C. ; SEABRA, A. B. ; <b>OLIVEIRA, H.C.</b> . S-nitrosoglutathione-loaded chitosan nanoparticles improve the physiological performance and reduce the mortality of neotropical tree seedlings after transplanting to the field. 2024. (Apresentação de Trabalho/Comunicação). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+    },
+    {
+      "numero_item": 307,
+      "raw": "OLIVEIRA, H.C. . Nanotechnology and Associative Microorganisms as Nature-Based Solutions to Improve Plant Responses to Climate Change. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Nanotechnology and Associative Microorganisms as Nature-Based Solutions to Improve Plant Responses to Climate Change",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c5ff9875c24ee7d11100549092134a3611d2ef4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Nanotechnology and Associative Microorganisms as Nature-Based Solutions to Improve Plant Responses to Climate Change. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 308,
+      "raw": "OLIVEIRA, H.C. . Agricultural Applications of Nanopesticides and Nanofertilizers. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Agricultural Applications of Nanopesticides and Nanofertilizers",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b2c508917abbf6268fd299689b1c0ba4ead1e8bb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Agricultural Applications of Nanopesticides and Nanofertilizers. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 328,
+      "raw": "OLIVEIRA, H.C. . Comissão de Análise e Julgamento do Prêmio Capes de Tese Edição 2024, das teses defendidas no ano de 2023, na área de BIODIVERSIDADE. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Comissão de Análise e Julgamento do Prêmio Capes de Tese Edição 2024, das teses defendidas no ano de 2023, na área de BIODIVERSIDADE",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "86a67ad2167cbac080e1b8becaaa36bba42a047b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Comissão de Análise e Julgamento do Prêmio Capes de Tese Edição 2024, das teses defendidas no ano de 2023, na área de BIODIVERSIDADE. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 329,
+      "raw": "OLIVEIRA, H.C. . Assessor ad hoc de projetos da Fundação Araucária. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Assessor ad hoc de projetos da Fundação Araucária",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "15b6b432a5964308aa63d2b5ad890da6340c01d5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Assessor ad hoc de projetos da Fundação Araucária. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 336,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Journal of Experimental Botany",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "944a84515029da2997ef5ac231e7582730d30b3c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 337,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Nano Biology. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Nano Biology",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1172f5b2b3ddba6792a0fd232aac87bc5d1c8d69",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Nano Biology. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 338,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Journal of Experimental Botany",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "944a84515029da2997ef5ac231e7582730d30b3c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 339,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Journal of Experimental Botany",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "944a84515029da2997ef5ac231e7582730d30b3c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 340,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Journal of Experimental Botany",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "944a84515029da2997ef5ac231e7582730d30b3c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Journal of Experimental Botany. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 341,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Nano Biology. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Nano Biology",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1172f5b2b3ddba6792a0fd232aac87bc5d1c8d69",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Nano Biology. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 342,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Nano Biology. 2025.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Nano Biology",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1172f5b2b3ddba6792a0fd232aac87bc5d1c8d69",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Nano Biology. 2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 343,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Physiology and Biochemistry. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Physiology and Biochemistry",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c5340fba313fd95693a3f7c6bd2f68b2476d0cc6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Physiology and Biochemistry. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 344,
+      "raw": "Oliveira, H. C. . Revisor de manuscrito submetido à revista Ceres. 2024.",
+      "autores": "Oliveira, H. C.",
+      "titulo": "Revisor de manuscrito submetido à revista Ceres",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "55584e9768a75ac4531b44240a4536046bd5083c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Oliveira, H. C.</b>. Revisor de manuscrito submetido à revista Ceres. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 345,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Environmental and Experimental Botany. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Environmental and Experimental Botany",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cf5fcff6b657350373f6afcac8a80cebb4b06f47",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Environmental and Experimental Botany. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 346,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Nano Biology. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Nano Biology",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1a5d08927c4061adfa4053e3ef8ef057eae18371",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Nano Biology. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 347,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Environmental and Experimental Botany. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Environmental and Experimental Botany",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cf5fcff6b657350373f6afcac8a80cebb4b06f47",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Environmental and Experimental Botany. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 348,
+      "raw": "OLIVEIRA, H.C. . Revisor de manuscrito submetido à revista Plant Nano Biology. 2024.",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Revisor de manuscrito submetido à revista Plant Nano Biology",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1a5d08927c4061adfa4053e3ef8ef057eae18371",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Revisor de manuscrito submetido à revista Plant Nano Biology. 2024. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.947319"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
+      "autores": "Oliveira, H. C.; SEABRA, A. B.; ZUCARELI, C.; GOMES, D. G.; FERREIRA, A. S.; SOUZA, B. L.; PIERETTI, JOANA C.",
+      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "989dbc03ca75d0c82351934b521f2b9652861ca0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&amp;idCNPq=7663463280386141&amp;sequencial=728\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:39.949116"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 42,
+      "raw": "IVAMOTO-SUZUKI, S. T.; Oliveira, H. C. ; AMADOR, T. S.. ParticipaÃ§Ã£o em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTÃCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÃÃO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Biotecnologia) - Universidade Estadual de Londrina.",
+      "autores": "IVAMOTO-SUZUKI, S. T.; Oliveira, H. C.; AMADOR, T. S.. ParticipaÃ§Ã£o em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTÃCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÃÃO CONTRA ALTAS TEMPERATURAS.. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Biotecnologia) - Universidade Estadual de Londrina",
+      "titulo": "ParticipaÃ§Ã£o em banca de JULIA CACHEFO SGARIONI",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f37f4603b7960d14810cf1fecd8e05f797135b35",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">IVAMOTO-SUZUKI, S. T.; <b>Oliveira, H. C.</b>; AMADOR, T. S..  ParticipaÃ§Ã£o em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTÃCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÃÃO CONTRA ALTAS TEMPERATURAS.\n\t\t\t\t\t\t2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Biotecnologia)  - Universidade Estadual de Londrina. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:39.991411"
+      },
+      "veiculo": "PRIMING DE SEMENTES DE SOJA COM NANOPARTÃCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÃÃO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Biotecnologia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 1,
+      "raw": "2nd International Conference on Plant Nanotechnology. Nanotechnology applied to agriculture and forest restoration: studies in the frame of the INCT NanoAgro and NAPI Biodiversity. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Nanotechnology applied to agriculture and forest restoration: studies in the frame of the INCT NanoAgro and NAPI Biodiversity",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0a6d007e3a41d756910ef72df42db8ffbde1020d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">2nd International Conference on Plant Nanotechnology. Nanotechnology applied to agriculture and forest restoration: studies in the frame of the INCT NanoAgro and NAPI Biodiversity. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.006755"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "VI CONGRESSO DE BIOLOGIA DA UEL. Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produÃ§Ã£o vegetal em um cenÃ¡rio de mudanÃ§as climÃ¡ticas?. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produÃ§Ã£o vegetal em um cenÃ¡rio de mudanÃ§as climÃ¡ticas?",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b0256534a0d60f3aa7df10791290caccfeb14a69",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VI CONGRESSO DE BIOLOGIA DA UEL. Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produÃ§Ã£o vegetal em um cenÃ¡rio de mudanÃ§as climÃ¡ticas?. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.006755"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "26Âº World Congress IUFRO. The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "54baac5ca52a039a8b05b886c9c27172bc5fa08d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">26Âº World Congress IUFRO. The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.006755"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 34,
+      "raw": "OLIVEIRA, H.C. . 2o Workshop RESTORE. 2025. (Outro).",
+      "autores": "OLIVEIRA, H.C",
+      "titulo": "2o Workshop RESTORE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22b27a1bc925d8fd6ae7b54d6ce05aefd49eff5a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. 2o Workshop RESTORE. 2025. (Outro). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.006755"
+      },
+      "veiculo": "2025. (Outro)"
+    },
+    {
+      "numero_item": 35,
+      "raw": "OLIVEIRA, H.C. . MissÃ£o de pesquisadores da AustrÃ¡lia e MoÃ§ambique ao Estado do ParanÃ¡. 2024. (Outro).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "MissÃ£o de pesquisadores da AustrÃ¡lia e MoÃ§ambique ao Estado do ParanÃ¡",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "83595518a8fe81551d515cd96c1c3c247051540b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. MissÃ£o de pesquisadores da AustrÃ¡lia e MoÃ§ambique ao Estado do ParanÃ¡. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.006755"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Marcelo Canuto Gouveia. Tratamento de sementes com nanopartÃ­culas Ã base de cobre. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Tratamento de sementes com nanopartÃ­culas Ã base de cobre",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "77804e02ffa1129525fff7e684e0926fae8936c5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcelo Canuto Gouveia. Tratamento de sementes com nanopartÃ­culas Ã  base de cobre.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE ÃXIDO NÃTRICO SOBRE O DANO POR EMBEBIÃÃO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "EFEITO DO PRIMING DE SEMENTES COM DOADOR DE ÃXIDO NÃTRICO SOBRE O DANO POR EMBEBIÃÃO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6961bdb9c4537a7d8541b685ed1f8c2164235160",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3552348903812641\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE ÃXIDO NÃTRICO SOBRE O DANO POR EMBEBIÃÃO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina, C",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": ") Merr. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 3,
+      "raw": "JosÃ© FlÃ¡vio Firmani. HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO GRUPO QUÃMICO DAS TRIAZINAS: ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÃ E PÃS-EMERGENTE. InÃ­cio: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Coorientador).",
+      "autores": null,
+      "titulo": "HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO GRUPO QUÃMICO DAS TRIAZINAS: ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÃ E PÃS-EMERGENTE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a5c4a559ae2b775d3cdb6a9e32c4a08a7bd8b3a4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JosÃ© FlÃ¡vio Firmani. HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO  GRUPO QUÃMICO DAS TRIAZINAS:  ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÃ E PÃS-EMERGENTE.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Coorientador). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Karina Sanada. Priming de sementes com nanopartÃ­culas na mitigaÃ§Ã£o do dÃ©ficit hÃ­drico em mudas de espÃ©cies arbÃ³reas neotropicais.. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "Priming de sementes com nanopartÃ­culas na mitigaÃ§Ã£o do dÃ©ficit hÃ­drico em mudas de espÃ©cies arbÃ³reas neotropicais",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fe9fa15233682427da13453c710926d4460933c8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Karina Sanada. Priming de sementes com nanopartÃ­culas na mitigaÃ§Ã£o do dÃ©ficit hÃ­drico  em mudas de espÃ©cies arbÃ³reas neotropicais..\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "JoÃ£o Pedro Chacon Pereira. AplicaÃ§Ã£o de bioestimulantes baseados em GABA e nanopartÃ­culas liberadoras de Ã³xido nÃ­trico na cultura do milho. InÃ­cio: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "AplicaÃ§Ã£o de bioestimulantes baseados em GABA e nanopartÃ­culas liberadoras de Ã³xido nÃ­trico na cultura do milho",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "97363b3175b213ac4458a93d10d624c841fbb13a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5399315095225044\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>JoÃ£o Pedro Chacon Pereira. AplicaÃ§Ã£o de bioestimulantes baseados em GABA e nanopartÃ­culas liberadoras de Ã³xido nÃ­trico na cultura do milho.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Or",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Yves Rafael Bovolenta. InÃ­cio: 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0ec3fbb5430ee9691821f5c1545c598456647cb9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yves Rafael Bovolenta.\n\t\t\t\t\tInÃ­cio: 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Rafael Caetano da Silva. InÃ­cio: 2025. Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d9ef47b7d460fb7309d8737a981a2efb627b0a24",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Caetano da Silva.\n\t\t\t\t\tInÃ­cio: 2025. Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Isabella Martins LourenÃ§o. InÃ­cio: 2024. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4eace20e3c1ee98d894c350155be7011979edd65",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabella Martins LourenÃ§o.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Talita Amador. InÃ­cio: 2024. Universidade Estadual de Londrina.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c7dd83962122fbb4ad4941a1dc981fbf58eee847",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Talita Amador.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual de Londrina. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Danilo Ramos de Paula. InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e163dc5420af200cccbb7e53a28cc124872a0c2a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danilo Ramos de Paula. InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Beatriz Alves de Souza. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. InÃ­cio: 2025. OrientaÃ§Ã£o de outra natureza. Universidade Estadual de Londrina. FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. (Orientador).",
+      "autores": null,
+      "titulo": "TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8db95fe9d1671fac0005adcc60a993d68e182e63",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Alves de Souza. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual de Londrina. FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. (Orientador). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "InÃ­cio: 2025. OrientaÃ§Ã£o de outra natureza. Universidade Estadual de Londrina. FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. (Orientador)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "JosÃ© FlÃ¡vio Firmani. CombinaÃ§Ã£o de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L. e controle pÃ³s-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "CombinaÃ§Ã£o de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c3b17f49673908fab53c0e8429947b29b21c38c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JosÃ© FlÃ¡vio Firmani. CombinaÃ§Ã£o de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L. e controle pÃ³s-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "e controle pÃ³s-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 31,
+      "raw": "Rafael Caetano da Silva. O Papel do Ãxido NÃ­trico e de Fontes InorgÃ¢nicas de NitrogÃªnio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses AbiÃ³ticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de BotÃ¢nica, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Coorientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "O Papel do Ãxido NÃ­trico e de Fontes InorgÃ¢nicas de NitrogÃªnio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "17aa291648a6d014351cffbe38eb1588e8a46fe9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Caetano da Silva.\n\t\t\t\t\t\tO Papel do Ãxido NÃ­trico e de Fontes InorgÃ¢nicas de NitrogÃªnio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses AbiÃ³ticos.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Biodiversidade Vegetal e Meio Ambiente)  - Instituto de BotÃ¢nica, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Coorientador: Halley Cai",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": ") Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses AbiÃ³ticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de BotÃ¢nica"
+    },
+    {
+      "numero_item": 32,
+      "raw": "Bruno Teixeira de Sousa. Modo de aÃ§Ã£o da nanoatrazina em Zea mays L. e plantas daninhas sensÃ­veis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Modo de aÃ§Ã£o da nanoatrazina em Zea mays L",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dc4692a91cc7d800c12fb9c64a8bfd3f8577a0a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1223937773954109\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Bruno Teixeira de Sousa.\n\t\t\t\t\t\tModo de aÃ§Ã£o da nanoatrazina em Zea mays L. e plantas daninhas sensÃ­veis e tolerantes ao herbicida.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halle",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "e plantas daninhas sensÃ­veis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 33,
+      "raw": "Ana Cristina Preisler. Modo de aÃ§Ã£o de nanopartÃ­culas de quitosana contendo doador de Ã³xido nÃ­trico em plantas de soja. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Modo de aÃ§Ã£o de nanopartÃ­culas de quitosana contendo doador de Ã³xido nÃ­trico em plantas de soja",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e950238ddb119819aa35baa3841e31cff926d7ca",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7286022008401006\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ana Cristina Preisler.\n\t\t\t\t\t\tModo de aÃ§Ã£o de nanopartÃ­culas de quitosana contendo doador de Ã³xido nÃ­trico em plantas de soja.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley C",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 38,
+      "raw": "Tatiane Viegas Debiasi. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Halley Caixeta de Oliveira",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9a2867d0484fd6ddef90a327c6a3da3492dd41c4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tatiane Viegas Debiasi.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      }
+    },
+    {
+      "numero_item": 39,
+      "raw": "Bruno Teixeira de Sousa. 2025. Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Halley Caixeta de Oliveira",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b7088c72ea2c7f98fc98ed42315d5481f3719441",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruno Teixeira de Sousa.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Halley Caixeta de Oliveira. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      }
+    },
+    {
+      "numero_item": 40,
+      "raw": "Diego GenuÃ¡rio Gomes. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Halley Caixeta de Oliveira",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d5589f353bf82dc931e7c40116054f3175eab8f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Diego GenuÃ¡rio Gomes.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      }
+    },
+    {
+      "numero_item": 43,
+      "raw": "Euller Guilherme Sawai de Carvalho. AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "10082e9de99364ee33f856cf1f721bc457ca32ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tAvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 44,
+      "raw": "Ana Kely Meira Volpato. EficÃ¡cia de nanoformulaÃ§Ãµes de atrazina sobre o controle de capim-colchÃ£o (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granÃ­fero (Sorghum bicolor). 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "EficÃ¡cia de nanoformulaÃ§Ãµes de atrazina sobre o controle de capim-colchÃ£o (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granÃ­fero (Sorghum bicolor)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b00de10ae85a7f9b805629a42a59c1331b46a315",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Kely Meira Volpato.\n\t\t\t\t\t\tEficÃ¡cia de nanoformulaÃ§Ãµes de atrazina sobre o controle de capim-colchÃ£o (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granÃ­fero (Sorghum bicolor).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 45,
+      "raw": "Marcos Luciano Manoel. Efeito De HormÃ´nios NÃ£o ClÃ¡ssicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Efeito De HormÃ´nios NÃ£o ClÃ¡ssicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1f6c7143c4cb93061ce2bf94fc139a76fd42d022",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcos Luciano Manoel.\n\t\t\t\t\t\tEfeito De HormÃ´nios NÃ£o ClÃ¡ssicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 46,
+      "raw": "Laura Lopes Maldonado. EmergÃªncia e Desenvolvimento Inicial de PlÃ¢ntulas de EspÃ©cies ArbÃ³reas da Mata AtlÃ¢ntica em Resposta ao Priming de Sementes com Doador de Ãxido NÃ­trico Nanoencapsulado. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "EmergÃªncia e Desenvolvimento Inicial de PlÃ¢ntulas de EspÃ©cies ArbÃ³reas da Mata AtlÃ¢ntica em Resposta ao Priming de Sementes com Doador de Ãxido NÃ­trico Nanoencapsulado",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b2151a77a21cb04fc7cf87eb17c51e6fec587d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laura Lopes Maldonado.\n\t\t\t\t\t\tEmergÃªncia e Desenvolvimento Inicial de PlÃ¢ntulas de EspÃ©cies ArbÃ³reas da Mata AtlÃ¢ntica em Resposta ao Priming de Sementes com Doador de Ãxido NÃ­trico Nanoencapsulado.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Ol",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 47,
+      "raw": "Julia Cabral da Silva. EFEITOS DA APLICAÃÃO DE PONTOS QUÃNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÃGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS Ã ACLIMATAÃÃO EM SOL PLENO. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "EFEITOS DA APLICAÃÃO DE PONTOS QUÃNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÃGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS Ã ACLIMATAÃÃO EM SOL PLENO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3cf523e37d027037af92c1473c866df84ea4c08",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia Cabral da Silva.\n\t\t\t\t\t\tEFEITOS DA APLICAÃÃO DE PONTOS QUÃNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÃGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS Ã ACLIMATAÃÃO EM SOL PLENO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 48,
+      "raw": "Eloisa Merissi Ferreira. Efeito do priming de sementes com doador de Ã³xido nÃ­trico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Efeito do priming de sementes com doador de Ã³xido nÃ­trico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "de1c8379cc67f73b33548d8a45cfd7fca4793700",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eloisa Merissi Ferreira.\n\t\t\t\t\t\tEfeito do priming de sementes com doador de Ã³xido nÃ­trico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 49,
+      "raw": "BEATRIZ MARTINS DA COSTA PASSOS MOREIRA. Efeito de nanopartÃ­culas contendo doador de Ã³xido nÃ­trico no processo de transplantio de plÃ¢ntulas de Heliocarpus popayanensis Kunth. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Efeito de nanopartÃ­culas contendo doador de Ã³xido nÃ­trico no processo de transplantio de plÃ¢ntulas de Heliocarpus popayanensis Kunth",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "491b0cf90b49389d6e62971aefa2852e90d96854",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BEATRIZ MARTINS DA COSTA PASSOS MOREIRA.\n\t\t\t\t\t\tEfeito de nanopartÃ­culas contendo doador de Ã³xido nÃ­trico no processo de transplantio de plÃ¢ntulas de Heliocarpus popayanensis Kunth.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 50,
+      "raw": "Ana LuÃ­sa de Oliveira SimÃµes. Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "961e4c3b34e279722748593018214fbedb018fde",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana LuÃ­sa de Oliveira SimÃµes.\n\t\t\t\t\t\tEfeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 74,
+      "raw": "Euller Guilherme Sawai de Carvalho. UTILIZAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "UTILIZAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9fb1567a005ee6e16cb6cc71bcc648ee55b488c1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tUTILIZAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 75,
+      "raw": "Ana LuÃ­sa de Oliveira SimÃµes. Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4638ef2fe1addb5a0cc3e9d8238a8c91dcaa12c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana LuÃ­sa de Oliveira SimÃµes.\n\t\t\t\t\t\tEfeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 76,
+      "raw": "Euller Guilherme Sawai de Carvalho. AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2b54b52df84a04423914646058b0f09648a52283",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tAvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 77,
+      "raw": "Danilo Ramos de Paula. InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "815025577673d11f809876abdaba1335572e466d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danilo Ramos de Paula.\n\t\t\t\t\t\tInduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+    },
+    {
+      "numero_item": 78,
+      "raw": "Marina Mologni Kawazoe. APLICAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "APLICAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cc8229c63fa2c0917af0e21cb5fbec5bc341d436",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marina Mologni Kawazoe.\n\t\t\t\t\t\tAPLICAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 115,
+      "raw": "Beatriz Larissa de Souza. PERSISTÃNCIA DO EFEITO DO PRIMING COM DOADOR DE ÃXIDO NÃTRICO NANOENCAPSULADO NA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM TRIGO. 2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "PERSISTÃNCIA DO EFEITO DO PRIMING COM DOADOR DE ÃXIDO NÃTRICO NANOENCAPSULADO NA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM TRIGO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2ee700dfd6271f40b14e7ab977c5d0b26b15c330",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Larissa de Souza.\n\t\t\t\t\t\tPERSISTÃNCIA DO EFEITO DO PRIMING COM DOADOR DE ÃXIDO NÃTRICO NANOENCAPSULADO NA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM TRIGO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 116,
+      "raw": "Isabella Ramos Trevizani Thihara. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. 2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a9e741fdef079339a3b99a31f413a7378f08a305",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabella Ramos Trevizani Thihara.\n\t\t\t\t\t\tTÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 117,
+      "raw": "Lara Raposo Bardy. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. 2024. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3e3972f6e8a5a3f214a9692eaa0204ef3fc883b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lara Raposo Bardy.\n\t\t\t\t\t\tTÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 118,
+      "raw": "Geovana Gabrielly Cunha. NANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÃCIDO GIBERÃLICO. 2024. OrientaÃ§Ã£o de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
+      "autores": null,
+      "titulo": "NANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÃCIDO GIBERÃLICO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aa9414ee87bd678a8066440cf59d7f8a552898b9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Geovana Gabrielly Cunha.\n\t\t\t\t\t\tNANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÃCIDO GIBERÃLICO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Tecnico em Meio Ambiente)  - Albino Feijo Sanches,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:40.027054"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
+      "autores": "Oliveira, H. C.; SEABRA, A. B.; ZUCARELI, C.; GOMES, D. G.; FERREIRA, A. S.; SOUZA, B. L.; PIERETTI, JOANA C.",
+      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "989dbc03ca75d0c82351934b521f2b9652861ca0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&amp;idCNPq=7663463280386141&amp;sequencial=728\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO ",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:40.029058"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 2,
+      "raw": "DEBIASI, T. V. ; OLIVEIRA, H.C. . Nanotecnologia e soluÃ§Ãµes baseadas na natureza ajudam a aumentar seguranÃ§a alimentar e mitigar mudanÃ§as climÃ¡ticas. The Conversation Brasil, Brasil, 25 abr. 2025.",
+      "autores": "DEBIASI, T. V.; OLIVEIRA, H.C.",
+      "titulo": "Nanotecnologia e soluÃ§Ãµes baseadas na natureza ajudam a aumentar seguranÃ§a alimentar e mitigar mudanÃ§as climÃ¡ticas",
+      "ano": 2025,
+      "mes": "abr",
+      "doi": null,
+      "fingerprint_sha1": "dc8c2f56a14e694346abb7e473b8ddbdb98ada48",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DEBIASI, T. V. ; <b>OLIVEIRA, H.C.</b> . Nanotecnologia e soluÃ§Ãµes baseadas na natureza ajudam a aumentar seguranÃ§a alimentar e mitigar mudanÃ§as climÃ¡ticas. The Conversation Brasil, Brasil, 25 abr.  2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.031268"
+      },
+      "veiculo": "The Conversation Brasil"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Oliveira, H. C. ; GOMES, DIEGO G. ; CARVALHO, E. G. S. . SoluÃ§Ãµes baseadas na natureza: chÃ¡ verde e nanotecnologiajuntas na luta contra a doenÃ§a do cafÃ©. The Conversation Brasil, 08 out. 2025.",
+      "autores": "Oliveira, H. C.; GOMES, DIEGO G.; CARVALHO, E. G. S.",
+      "titulo": "SoluÃ§Ãµes baseadas na natureza: chÃ¡ verde e nanotecnologiajuntas na luta contra a doenÃ§a do cafÃ©",
+      "ano": 2025,
+      "mes": "out",
+      "doi": null,
+      "fingerprint_sha1": "8d2e6e5a1c619f968d6728cee1f179161e0ae2f6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Oliveira, H. C.</b>; GOMES, DIEGO G. ; CARVALHO, E. G. S. . SoluÃ§Ãµes baseadas na natureza: chÃ¡ verde e nanotecnologiajuntas na luta contra a doenÃ§a do cafÃ©. The Conversation Brasil, 08 out.  2025. </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.031268"
+      },
+      "veiculo": "The Conversation Brasil"
+    },
+    {
+      "numero_item": 5,
+      "raw": "OLIVEIRA, H.C. . Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "OLIVEIRA, H.C.",
+      "titulo": "Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fd5c887e6a29d6c24d016db0547c54f5af869728",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
+        "lattes_id": "7663463280386141",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:40.031268"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    }
+  ]
+}

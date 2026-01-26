@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "0913883987760007",
+    "full_name": "Carlos Alberto Pérez",
+    "slug": "carlos-alberto-perez",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:30.178173",
+    "source_file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+    "total_productions": 8,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 5,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 1,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 2,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 0,
+        "tipo_producao": "temp__orientacoes"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "CASSIMIRO, VINICIUS R. S. 2025 CASSIMIRO, VINICIUS R. S. ; CUNHA, RUBENS M. ; REHDER, GUSTAVO P. ; PEREYRA, INÉS ; CARREÑO, MARCELO N. P. ; ALAYO, MARCO I. ; TRCERA, NICOLAS ; SCOPEL, WANDERLÃ L. ; Pérez, Carlos A. ; RODRIGUES, CLEBER L. ; FANTINI, MÁRCIA C. A. . SiC Structural Analysis on Energized Microlamps in Micrometric Scale. ECS Journal of Solid State Science and Technology , v. 14, p. 043002, 2025.",
+      "autores": "CASSIMIRO, VINICIUS R. S. CASSIMIRO, VINICIUS R. S.; CUNHA, RUBENS M.; REHDER, GUSTAVO P.; PEREYRA, INÉS; CARREÑO, MARCELO N. P.; ALAYO, MARCO I.; TRCERA, NICOLAS; SCOPEL, WANDERLÃ L.; Pérez, Carlos A.; RODRIGUES, CLEBER L.; FANTINI, MÁRCIA C. A.",
+      "titulo": "SiC Structural Analysis on Energized Microlamps in Micrometric Scale",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1149/2162-8777/adc2d1",
+      "fingerprint_sha1": "32dd41376dbfffd4dca134ff93ce48a6d15a8360",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CASSIMIRO, VINICIUS R. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1149/2162-8777/adc2d1\" target=\"_blank\"></a>CASSIMIRO, VINICIUS R. S. ; CUNHA, RUBENS M. ; REHDER, GUSTAVO P. ; PEREYRA, INÉS ; CARREÑO, MAR",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:30.166877"
+      },
+      "veiculo": "ECS Journal of Solid State Science and Technology"
+    },
+    {
+      "numero_item": 2,
+      "raw": "LIMA, LUIZ HENRIQUE VIEIRA 2025 LIMA, LUIZ HENRIQUE VIEIRA ; LY, SERIGNE NDIAWAR ; ARAÚJO, RAUL SANTOS ROCHA DE ; NASCIMENTO, JAKSON DOS SANTOS ; BIONDI, CAROLINE MIRANDA ; Pérez, Carlos Alberto ; RABELO, RENATA SANTOS ; ECHEVARRIA, GUILLAUME ; VAN DER ENT, ANTONY ; NASCIMENTO, CLÍSTENES WILLIAMS ARAÚJO DO . Testing the Feasibility of Citric Acid-Assisted Nickel Agromining with Tropical and Temperate Hyperaccumulator Plants. ACS Omega , v. 10, p. 22018-22027, 2025.",
+      "autores": "LIMA, LUIZ HENRIQUE VIEIRA LIMA, LUIZ HENRIQUE VIEIRA; LY, SERIGNE NDIAWAR; ARAÚJO, RAUL SANTOS ROCHA DE; NASCIMENTO, JAKSON DOS SANTOS; BIONDI, CAROLINE MIRANDA; Pérez, Carlos Alberto; RABELO, RENATA SANTOS; ECHEVARRIA, GUILLAUME; VAN DER ENT, ANTONY; NASCIMENTO, CLÍSTENES WILLIAMS ARAÚJO DO",
+      "titulo": "Testing the Feasibility of Citric Acid-Assisted Nickel Agromining with Tropical and Temperate Hyperaccumulator Plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.5c02064",
+      "fingerprint_sha1": "0691ae9d18ca97b1da386711365ff6cce5c332ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LIMA, LUIZ HENRIQUE VIEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c02064\" target=\"_blank\"></a>LIMA, LUIZ HENRIQUE VIEIRA ; LY, SERIGNE NDIAWAR ; ARAÚJO, RAUL SANTOS ROCHA DE ; NASCIMENTO, J",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:30.166877"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 3,
+      "raw": "DE OLIVEIRA, VINICIUS H. 2024 DE OLIVEIRA, VINICIUS H. ; MAZZAFERA, PAULO ; FALEIRO, RODRIGO ; MAYER, JULIANA LISCHKA SAMPAIO ; HESTERBERG, DEAN ; Pérez, Carlos Alberto ; ANDRADE, SARA ADRIÁN L. . Tissue-level distribution and speciation of foliar manganese in Eucalyptus tereticornis by µ-SXRF and µ-XANES shed light on its detoxification mechanisms. JOURNAL OF HAZARDOUS MATERIALS , v. 461, p. 132555, 2024.",
+      "autores": "DE OLIVEIRA, VINICIUS H. DE OLIVEIRA, VINICIUS H.; MAZZAFERA, PAULO; FALEIRO, RODRIGO; MAYER, JULIANA LISCHKA SAMPAIO; HESTERBERG, DEAN; Pérez, Carlos Alberto; ANDRADE, SARA ADRIÁN L.",
+      "titulo": "Tissue-level distribution and speciation of foliar manganese in Eucalyptus tereticornis by µ-SXRF and µ-XANES shed light on its detoxification mechanisms",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jhazmat.2023.132555",
+      "fingerprint_sha1": "4585f1faffbfa6a5f47b5e36a185972212d28b24",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA, VINICIUS H.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jhazmat.2023.132555\" target=\"_blank\"></a>DE OLIVEIRA, VINICIUS H. ; MAZZAFERA, PAULO ; FALEIRO, RODRIGO ; MAYER, JULIANA LISCHKA SAMP",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:30.166877"
+      },
+      "veiculo": "JOURNAL OF HAZARDOUS MATERIALS"
+    },
+    {
+      "numero_item": 4,
+      "raw": "ALVES, FELIPE B. 2024 ALVES, FELIPE B. ; ANDRADA, HEBER E. ; FICO, BRUNO A. ; REINALDI, JULIA S. ; TAVARES, DENISE C. ; SQUARISI, IARA S. ; MONTANHA, GABRIEL SGARBIERO ; NUEVO, LAURA G. ; DE CARVALHO, HUDSON W. P. ; Pérez, Carlos A. ; MOLINA, EDUARDO F. . Facilitating Seed Iron Uptake through Amine-Epoxide Microgels: A Novel Approach to Enhance Cucumber (Cucumis sativus) Germination. JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY , v. 72, p. 14570-14580, 2024.",
+      "autores": "ALVES, FELIPE B. ALVES, FELIPE B.; ANDRADA, HEBER E.; FICO, BRUNO A.; REINALDI, JULIA S.; TAVARES, DENISE C.; SQUARISI, IARA S.; MONTANHA, GABRIEL SGARBIERO; NUEVO, LAURA G.; DE CARVALHO, HUDSON W. P.; Pérez, Carlos A.; MOLINA, EDUARDO F.",
+      "titulo": "Facilitating Seed Iron Uptake through Amine-Epoxide Microgels: A Novel Approach to Enhance Cucumber (Cucumis sativus) Germination",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acs.jafc.4c01522",
+      "fingerprint_sha1": "35e464b48aa51784bd832d0c85cb7f7d4779f060",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, FELIPE B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acs.jafc.4c01522\" target=\"_blank\"></a>ALVES, FELIPE B. ; ANDRADA, HEBER E. ; FICO, BRUNO A. ; REINALDI, JULIA S. ; TAVARES, DENISE C. ; SQUARIS",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:30.166877"
+      },
+      "veiculo": "JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY"
+    },
+    {
+      "numero_item": 144,
+      "raw": "BENATO, BETINA DEBASTIANI ; SIERRA RATIVA, ANGIE GERALDINE ; OLSSON, RAQUEL VARGAS ; LIMA-MELO, YUGO ; SANTOS, EDUARDO ; SGARBIERO MONTANHA, GABRIEL ; ALVES, JOVER DA SILVA ; PONTE, LUCAS ROANI ; FIORENTINI, VICTOR HUGO ROLLA ; MICHELON BETIN, FERNANDO MATEUS ; ORTOLAN, FRANCIELI ; MARQUES, JOÃO PAULO RODRIGUES ; SPEROTTO, RAUL ANTONIO ; PEREIRA DE CARVALHO, HUDSON WALLACE ; CESCO, STEFANO ; MIMMO, TANJA ; TIZIANI, RAPHAEL ; BEONE, GIAN MARIA ; NAVARRO, NATHALIA ; PÉREZ, C. A. ; et.al . Double knockout of rice Vacuolar Iron Transporters <i>OsVIT1</i> and <i>OsVIT2</i> reveals a trade-off between iron biofortification and iron excess tolerance. JOURNAL OF EXPERIMENTAL BOTANY , 2025.",
+      "autores": "BENATO, BETINA DEBASTIANI; SIERRA RATIVA, ANGIE GERALDINE; OLSSON, RAQUEL VARGAS; LIMA-MELO, YUGO; SANTOS, EDUARDO; SGARBIERO MONTANHA, GABRIEL; ALVES, JOVER DA SILVA; PONTE, LUCAS ROANI; FIORENTINI, VICTOR HUGO ROLLA; MICHELON BETIN, FERNANDO MATEUS; ORTOLAN, FRANCIELI; MARQUES, JOÃO PAULO RODRIGUES; SPEROTTO, RAUL ANTONIO; PEREIRA DE CARVALHO, HUDSON WALLACE; CESCO, STEFANO; MIMMO, TANJA; TIZIANI, RAPHAEL; BEONE, GIAN MARIA; NAVARRO, NATHALIA; PÉREZ, C. A.; et.al",
+      "titulo": "Double knockout of rice Vacuolar Iron Transporters <i>OsVIT1</i> and <i>OsVIT2</i> reveals a trade-off between iron biofortification and iron excess tolerance",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1093/jxb/eraf505",
+      "fingerprint_sha1": "b38ced4f78d887322c6ff02ef0ba315475864f95",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1093/jxb/eraf505\" target=\"_blank\"></a>BENATO, BETINA DEBASTIANI ; SIERRA RATIVA, ANGIE GERALDINE ; OLSSON, RAQUEL VARGAS ; LIMA-MELO, YUGO ; SANTOS, EDUARDO ; SGARBIERO MONTANHA, GABRIEL ; ALVES, JOVER DA SILVA ; PONTE, LUCAS ROANI ; FIORENTINI, VICTOR HUGO ROLLA ; MICHELON BETIN, FERNANDO MATEUS ;",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:30.166877"
+      },
+      "veiculo": "JOURNAL OF EXPERIMENTAL BOTANY"
+    },
+    {
+      "numero_item": 1,
+      "raw": "MONTANHA, G. S.; PÉREZ, CA . Participação em banca de Gabriel Sgabiero Montanha. Time-resolved elemental mapping and characterisation of storage proteins during soybean seeds development: a bottom-up strategy to increase protein content and quality. 2025. Tese (Doutorado em Quimica na Agricultura e Meio Ambiente) - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo.",
+      "autores": "MONTANHA, G. S.; PÉREZ, CA",
+      "titulo": "Participação em banca de Gabriel Sgabiero Montanha",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9fddcc8f31e3720cff13cd1d287f0b113909653a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MONTANHA, G. S.; <b>PÉREZ, CA</b>.  Participação em banca de Gabriel Sgabiero Montanha. Time-resolved elemental mapping and characterisation of storage proteins during soybean seeds development: a bottom-up strategy to increase protein content and quality. 2025. Tese (Doutorado em Quimica na Agricultura e Meio Ambiente)  - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo. </span></div>",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:30.168403"
+      },
+      "veiculo": "Time-resolved elemental mapping and characterisation of storage proteins during soybean seeds development: a bottom-up strategy to increase protein content and quality. 2025. Tese (Doutorado em Quimica na Agricultura e Meio Ambiente) - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo"
+    },
+    {
+      "numero_item": 1,
+      "raw": "17 RIO Simposium on Atomic Spectrometry. Nano-analytical techniques at the CARNAUBA beamline for experiments in several research areas of science. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Nano-analytical techniques at the CARNAUBA beamline for experiments in several research areas of science",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "04ec052858f867e37959123101ad802270137312",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">17 RIO Simposium on Atomic Spectrometry. Nano-analytical techniques at the CARNAUBA beamline for experiments in several research areas of  science. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:30.173037"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "PALSA 2025 - Advancing Sustainable Agriculture and Food Research. Micro- and nano-scale studies in agro-environmental science using the Carnaúba beamline at the Sirius synchrotron. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Micro- and nano-scale studies in agro-environmental science using the Carnaúba beamline at the Sirius synchrotron",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "531b264f3fbd31d7f2a64f7bd8b242d1239b6b56",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PALSA 2025 - Advancing Sustainable Agriculture and Food Research. Micro- and nano-scale studies in agro-environmental science using the Carnaúba beamline at the Sirius synchrotron. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
+        "lattes_id": "0913883987760007",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:30.173037"
+      },
+      "veiculo": "2025. (Congresso)"
+    }
+  ]
+}

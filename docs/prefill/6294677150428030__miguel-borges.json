@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "6294677150428030",
+    "full_name": "Miguel Borges",
+    "slug": "miguel-borges",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:38.671500",
+    "source_file": "6294677150428030__miguel-borges.full_profile.html",
+    "total_productions": 15,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 10,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 3,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "Blassioli-Moraes, M. C. 2025 Blassioli-Moraes, M. C. ; Khrimian, A. ; MICHEREFF, M. F. F. ; MAGALHÃES, D. M. ; COSTA, J. V. M. ; HICKEL, E. R. ; BARRIGOSSI, J. A. ; Laumann, R. A. ; GUGGILAPU, S. D. ; GRAZIA, J. ; Borges, M. . Shared Pheromone Compounds in Neotropical Rice Stink Bugs: The Role of Zingiberenol and Sesquipiperitol. JOURNAL OF CHEMICAL ECOLOGY , v. 51, p. 11-16, 2025.",
+      "autores": "Blassioli-Moraes, M. C. Blassioli-Moraes, M. C.; Khrimian, A.; MICHEREFF, M. F. F.; MAGALHÃES, D. M.; COSTA, J. V. M.; HICKEL, E. R.; BARRIGOSSI, J. A.; Laumann, R. A.; GUGGILAPU, S. D.; GRAZIA, J.; Borges, M.",
+      "titulo": "Shared Pheromone Compounds in Neotropical Rice Stink Bugs: The Role of Zingiberenol and Sesquipiperitol",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10886-025-01551-z",
+      "fingerprint_sha1": "402fea8e76f6deefaf1b911dca55cf94a5b63eb3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Blassioli-Moraes, M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10886-025-01551-z\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" target=\"_blank\" title=\"Clique p",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "JOURNAL OF CHEMICAL ECOLOGY"
+    },
+    {
+      "numero_item": 2,
+      "raw": "SANCHES, MATEUS DE SOUZA 2025 SANCHES, MATEUS DE SOUZA ; MICHEREFF, MIRIAN FERNANDES FURTADO ; Borges, Miguel ; LAUMANN, Raul Alberto ; DE OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA ; Blassioli-Moraes, Maria Carolina . How Much, How Long and When: Density, Duration and Plant Stage Affect Herbivore-induced Plant Volatiles in Maize by the Corn Leafhopper. JOURNAL OF CHEMICAL ECOLOGY , v. 51, p. 43-66, 2025.",
+      "autores": "SANCHES, MATEUS DE SOUZA SANCHES, MATEUS DE SOUZA; MICHEREFF, MIRIAN FERNANDES FURTADO; Borges, Miguel; LAUMANN, Raul Alberto; DE OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA; Blassioli-Moraes, Maria Carolina",
+      "titulo": "How Much, How Long and When: Density, Duration and Plant Stage Affect Herbivore-induced Plant Volatiles in Maize by the Corn Leafhopper",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10886-025-01600-7",
+      "fingerprint_sha1": "44d8a66d6325da40357bba0c1a3d2ca281d74790",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANCHES, MATEUS DE SOUZA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10886-025-01600-7\" target=\"_blank\"></a>SANCHES, MATEUS DE SOUZA ; MICHEREFF, MIRIAN FERNANDES FURTADO ; <b>Borges, Miguel</b> ; <a cla",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "JOURNAL OF CHEMICAL ECOLOGY"
+    },
+    {
+      "numero_item": 3,
+      "raw": "DE CASTRO, BRUNA SARTÓRIO 2025 DE CASTRO, BRUNA SARTÓRIO ; CORREIA, MAURO VICENTINI ; MICHEREFF, MIRIAN FERNANDES FURTADO ; LAUMANN, RAÚL ALBERTO ; Borges, Miguel ; Blassioli-Moraes, Maria Carolina . Impact of Crotalaria spectabilis and Zea mays volatiles on Spodoptera frugiperda behaviour: implications for sustainable maize pest management using companion plants. JOURNAL OF PEST SCIENCE , v. 1, p. 1-6, 2025.",
+      "autores": "DE CASTRO, BRUNA SARTÓRIO DE CASTRO, BRUNA SARTÓRIO; CORREIA, MAURO VICENTINI; MICHEREFF, MIRIAN FERNANDES FURTADO; LAUMANN, RAÚL ALBERTO; Borges, Miguel; Blassioli-Moraes, Maria Carolina",
+      "titulo": "Impact of Crotalaria spectabilis and Zea mays volatiles on Spodoptera frugiperda behaviour: implications for sustainable maize pest management using companion plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10340-025-01952-9",
+      "fingerprint_sha1": "e5f7ae1f378b2f90000ace74f6a14a5417515da0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE CASTRO, BRUNA SARTÓRIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10340-025-01952-9\" target=\"_blank\"></a>DE CASTRO, BRUNA SARTÓRIO ; CORREIA, MAURO VICENTINI ; MICHEREFF, MIRIAN FERNANDES FURTADO ; <",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "JOURNAL OF PEST SCIENCE"
+    },
+    {
+      "numero_item": 4,
+      "raw": "DE FREITAS, ALICE PEREIRA 2025 DE FREITAS, ALICE PEREIRA ; Blassioli-Moraes, Maria Carolina ; Borges, Miguel ; GOMES, ANA CRISTINA MENESES MENDES ; FILHO, MIGUEL MICHEREFF ; LAUMANN, RAÚL ALBERTO . Reproductive Behavior and Stridulatory Communication in Euscepes postfasciatus (Coleoptera: Curculionidae). NEOTROPICAL ENTOMOLOGY , v. 54, p. 114, 2025.",
+      "autores": "DE FREITAS, ALICE PEREIRA DE FREITAS, ALICE PEREIRA; Blassioli-Moraes, Maria Carolina; Borges, Miguel; GOMES, ANA CRISTINA MENESES MENDES; FILHO, MIGUEL MICHEREFF; LAUMANN, RAÚL ALBERTO",
+      "titulo": "Reproductive Behavior and Stridulatory Communication in Euscepes postfasciatus (Coleoptera: Curculionidae)",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s13744-025-01322-1",
+      "fingerprint_sha1": "0dc74b44debe7ed2e49c9de03143ebfd71086946",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE FREITAS, ALICE PEREIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s13744-025-01322-1\" target=\"_blank\"></a>DE FREITAS, ALICE PEREIRA ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" t",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "NEOTROPICAL ENTOMOLOGY"
+    },
+    {
+      "numero_item": 5,
+      "raw": "SANCHES, MATEUS SOUZA 2025 SANCHES, MATEUS SOUZA ; Borges, Miguel ; LAUMANN, Raul Alberto ; OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA ; Blassioli-Moraes, Maria Carolina . Males of Dalbulus maidis Attract Females Through Volatile Compounds with Potential Pheromone Function: A Tool for Pest Management. INSECTS , v. 16, p. 1021, 2025.",
+      "autores": "SANCHES, MATEUS SOUZA SANCHES, MATEUS SOUZA; Borges, Miguel; LAUMANN, Raul Alberto; OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA; Blassioli-Moraes, Maria Carolina",
+      "titulo": "Males of Dalbulus maidis Attract Females Through Volatile Compounds with Potential Pheromone Function: A Tool for Pest Management",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/insects16101021",
+      "fingerprint_sha1": "5a5f70364bbf6066f0de5e38558d65bd71f0bc0a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANCHES, MATEUS SOUZA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/insects16101021\" target=\"_blank\"></a>SANCHES, MATEUS SOUZA ; <b>Borges, Miguel</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/577810",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "INSECTS"
+    },
+    {
+      "numero_item": 6,
+      "raw": "OLIVEIRA, ISIS CAROLINA SOUTO 2025 OLIVEIRA, ISIS CAROLINA SOUTO ; BLASSIOLI'MORAES, MARIA CAROLINA ; TORRES, CAIO AUGUSTO ROSADO ; CATAFESTA, GIANCARLO ; FIDELIS, ELISANGELA GOMES ; LAUMANN, Raul Alberto ; Borges, Miguel ; LOPES, ROGERIO BIAGGIONI . Defensive compounds of (Hemiptera: Blissidae) as a barrier against infection by entomopathogenic fungi. PHYSIOLOGICAL ENTOMOLOGY , v. 1, p. 1-8, 2025.",
+      "autores": "OLIVEIRA, ISIS CAROLINA SOUTO OLIVEIRA, ISIS CAROLINA SOUTO; BLASSIOLI'MORAES, MARIA CAROLINA; TORRES, CAIO AUGUSTO ROSADO; CATAFESTA, GIANCARLO; FIDELIS, ELISANGELA GOMES; LAUMANN, Raul Alberto; Borges, Miguel; LOPES, ROGERIO BIAGGIONI",
+      "titulo": "Defensive compounds of (Hemiptera: Blissidae) as a barrier against infection by entomopathogenic fungi",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/phen.12494",
+      "fingerprint_sha1": "6b671f7a45e0abd3a3c94bc7e107183744526a09",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, ISIS CAROLINA SOUTO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/phen.12494\" target=\"_blank\"></a>OLIVEIRA, ISIS CAROLINA SOUTO ; BLASSIOLI'MORAES, MARIA CAROLINA ; TORRES, CAIO AUGUSTO ROSADO ; C",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "PHYSIOLOGICAL ENTOMOLOGY"
+    },
+    {
+      "numero_item": 7,
+      "raw": "LAGÔA, ANA CAROLINA G. 2024 LAGÔA, ANA CAROLINA G. ; TOGNI, PEDRO H. B. ; AQUINO, MICHELY F. ; Blassioli-Moraes, Maria Carolina ; Borges, Miguel ; Laumann, Raúl A. . Chemical and visual stimuli for conservation biological control of stink bugs in soybean: potential use and flaws on egg parasitoid recruitment. BIOCONTROL , v. 1, p. 1-5, 2024.",
+      "autores": "LAGÔA, ANA CAROLINA G. LAGÔA, ANA CAROLINA G.; TOGNI, PEDRO H. B.; AQUINO, MICHELY F.; Blassioli-Moraes, Maria Carolina; Borges, Miguel; Laumann, Raúl A.",
+      "titulo": "Chemical and visual stimuli for conservation biological control of stink bugs in soybean: potential use and flaws on egg parasitoid recruitment",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10526-024-10241-w",
+      "fingerprint_sha1": "63a5d422011ab1750cf0429c2ae6cad36f82e34c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LAGÔA, ANA CAROLINA G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10526-024-10241-w\" target=\"_blank\"></a>LAGÔA, ANA CAROLINA G. ; TOGNI, PEDRO H. B. ; AQUINO, MICHELY F. ; <a class=\"tooltip\" href=\"http:",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "BIOCONTROL"
+    },
+    {
+      "numero_item": 8,
+      "raw": "MICHEREFF, MIRIAN FERNANDES FURTADO 2024 MICHEREFF, MIRIAN FERNANDES FURTADO ; MAGALHÃES, DIEGO MARTINS ; DO NASCIMENTO, IZABELA NUNES ; LAUMANN, RAÚL ALBERTO ; Borges, Miguel ; WITHALL, DAVID MATTHEW ; BIRKETT, MICHAEL ALEXANDER ; BLASSIOLI'MORAES, MARIA CAROLINA . Attracting Scelionidae egg parasitoids to enhance stink bug egg parasitisation in soybean crops using methyl salicylate and ( )-α-farnesene. PEST MANAGEMENT SCIENCE , v. 1, p. 1-8, 2024.",
+      "autores": "MICHEREFF, MIRIAN FERNANDES FURTADO MICHEREFF, MIRIAN FERNANDES FURTADO; MAGALHÃES, DIEGO MARTINS; DO NASCIMENTO, IZABELA NUNES; LAUMANN, RAÚL ALBERTO; Borges, Miguel; WITHALL, DAVID MATTHEW; BIRKETT, MICHAEL ALEXANDER; BLASSIOLI'MORAES, MARIA CAROLINA",
+      "titulo": "Attracting Scelionidae egg parasitoids to enhance stink bug egg parasitisation in soybean crops using methyl salicylate and ( )-α-farnesene",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/ps.8274",
+      "fingerprint_sha1": "25ee5768a98b43f4f00593e2330607112f29d4d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MICHEREFF, MIRIAN FERNANDES FURTADO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/ps.8274\" target=\"_blank\"></a>MICHEREFF, MIRIAN FERNANDES FURTADO ; MAGALHÃES, DIEGO MARTINS ; DO NASCIMENTO, IZABELA NUNES ;",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "PEST MANAGEMENT SCIENCE"
+    },
+    {
+      "numero_item": 9,
+      "raw": "EVANGELISTA, JULIANE 2024 EVANGELISTA, JULIANE ; BLASSIOLI'MORAES, MARIA CAROLINA ; LAUMANN, RAÚL ALBERTO ; Borges, Miguel ; DE OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA . Bait type affects the diversity assessment of cetoniid beetles in the Brazilian Cerrado. ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA , v. 1, p. 1-8, 2024.",
+      "autores": "EVANGELISTA, JULIANE EVANGELISTA, JULIANE; BLASSIOLI'MORAES, MARIA CAROLINA; LAUMANN, RAÚL ALBERTO; Borges, Miguel; DE OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA",
+      "titulo": "Bait type affects the diversity assessment of cetoniid beetles in the Brazilian Cerrado",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1111/eea.13505",
+      "fingerprint_sha1": "b0958294557f6f7aa2eba51c4b854a5023c92101",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">EVANGELISTA, JULIANE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/eea.13505\" target=\"_blank\"></a>EVANGELISTA, JULIANE ; BLASSIOLI'MORAES, MARIA CAROLINA ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/577",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA"
+    },
+    {
+      "numero_item": 10,
+      "raw": "DIAS, DOUGLAS A. 2024 DIAS, DOUGLAS A. ; FERNANDES, ILIZANDRA A. ; MACHADO, ELIEL P. ; PEDOTT, LUIZ ; Blassioli-Moraes, Maria Carolina ; Borges, Miguel ; STEFFENS, JULIANA ; STEFFENS, CLARICE . Nanosensors for Detecting Volatile Compounds in Pest Management: A Focus on Agricultural Sustainability. Acs Agricultural Science & Technology , v. 1, p. 1-7, 2024.",
+      "autores": "DIAS, DOUGLAS A. DIAS, DOUGLAS A.; FERNANDES, ILIZANDRA A.; MACHADO, ELIEL P.; PEDOTT, LUIZ; Blassioli-Moraes, Maria Carolina; Borges, Miguel; STEFFENS, JULIANA; STEFFENS, CLARICE",
+      "titulo": "Nanosensors for Detecting Volatile Compounds in Pest Management: A Focus on Agricultural Sustainability",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.4c00531",
+      "fingerprint_sha1": "65564b92d06a0a764866f9161ab8e166756529b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DIAS, DOUGLAS A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.4c00531\" target=\"_blank\"></a>DIAS, DOUGLAS A. ; FERNANDES, ILIZANDRA A. ; MACHADO, ELIEL P. ; PEDOTT, LUIZ ; <a class=\"tooltip\" hr",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.645358"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 4,
+      "raw": "BLASSIOLI-MORAES, M. C. ; Borges, Miguel ; LAUMANN, R A ; GITZ, A. . COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR1020230213340, tÃ­tulo: \"COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 14/10/2024",
+      "autores": "BLASSIOLI-MORAES, M. C.; Borges, Miguel; LAUMANN, R A; GITZ, A.",
+      "titulo": "COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1528afb3545116d3900d7d2e0bbc82dd8a9df76a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR1020230213340&amp;idCNPq=6294677150428030&amp;sequencial=498\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>BLASSIOLI-MORAES, M. C. ; <b>Borges, Miguel</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5778107814199711\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LAUMANN, R A</a> ; GITZ, A. . COMPOSIÃÃO PARA ATR",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:38.647448"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 1,
+      "raw": "JoÃ£o Victor Costa Machado. NanoforlulaÃ§Ãµes para liberaÃ§Ã£o controlada do feromÃ´nio. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica) - Instituto Federal de BrasÃ­lia, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "NanoforlulaÃ§Ãµes para liberaÃ§Ã£o controlada do feromÃ´nio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e16132d6bf1a2a1daf76f9a0f2ebd6906139491f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JoÃ£o Victor Costa Machado. NanoforlulaÃ§Ãµes para liberaÃ§Ã£o controlada do feromÃ´nio. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica)  - Instituto Federal de BrasÃ­lia, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.661764"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em QuÃ­mica) - Instituto Federal de BrasÃ­lia"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Vinicius Alves. Estudos de semioquimicos de percevejos praga. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - UDF Centro UniversitÃ¡rio, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Estudos de semioquimicos de percevejos praga",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "359d277f9d1eaf09dbc72ac01eb8d49661c20b66",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vinicius Alves. Estudos de semioquimicos de percevejos praga. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - UDF Centro UniversitÃ¡rio, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.661764"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - UDF Centro UniversitÃ¡rio"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Amanda Mourao. Ecologia Quimica do percevejo E heros e D melacanthus. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Abi - CiÃªncias BiolÃ³gicas) - Universidade de BrasÃ­lia, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Ecologia Quimica do percevejo E heros e D melacanthus",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bbd4cfe99315030ed9c398a7a7be6edf1dd8b30c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Amanda Mourao. Ecologia Quimica do percevejo E heros e D melacanthus. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Abi - CiÃªncias BiolÃ³gicas)  - Universidade de BrasÃ­lia, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.661764"
+      },
+      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Abi - CiÃªncias BiolÃ³gicas) - Universidade de BrasÃ­lia"
+    },
+    {
+      "numero_item": 3,
+      "raw": "BLASSIOLI-MORAES, M. C. ; Borges, Miguel ; LAUMANN, R A ; GITZ, A. . COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR1020230213340, tÃ­tulo: \"COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 14/10/2024",
+      "autores": "BLASSIOLI-MORAES, M. C.; Borges, Miguel; LAUMANN, R A; GITZ, A.",
+      "titulo": "COMPOSIÃÃO PARA ATRAÃÃO E/OU CONTROLE DA MARIPOSA DIATRAEA SACCHARALIS E MÃTODO DE CONTROLE UTILIZANDO DITA COMPOSIÃÃO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1528afb3545116d3900d7d2e0bbc82dd8a9df76a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR1020230213340&amp;idCNPq=6294677150428030&amp;sequencial=498\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>BLASSIOLI-MORAES, M. C. ; <b>Borges, Miguel</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5778107814199711\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LAUMANN, R A</a> ; GITZ, A. . COMPOSIÃÃO PARA ATR",
+      "source": {
+        "file": "6294677150428030__miguel-borges.full_profile.html",
+        "lattes_id": "6294677150428030",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:38.663914"
+      },
+      "veiculo": "2024"
+    }
+  ]
+}

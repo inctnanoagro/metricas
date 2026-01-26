@@ -1,0 +1,589 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "4215849919453600",
+    "full_name": "Cláudia Bueno dos Reis Martinez",
+    "slug": "claudia-bueno-dos-reis-martinez",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:33.530421",
+    "source_file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+    "total_productions": 30,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 11,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 2,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 17,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "SANTOS, WILLIAN DE PAULA 2025 SANTOS, WILLIAN DE PAULA ; Santos, Caroline ; TAVARES, LETÍCIA PADUAN ; DE OLIVEIRA, JHONES LUÍS ; FRACETO, LEONARDO FERNANDES ; MARTINEZ, CLAUDIA BUENO DOS REIS . Different Concentrations of Nanoencapsulated Geraniol Induce Lethargy and Acetylcholinesterase Activity in Aquarana catesbeiana Tadpoles. BULLETIN OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY , v. 114, p. 60, 2025.",
+      "autores": "SANTOS, WILLIAN DE PAULA SANTOS, WILLIAN DE PAULA; Santos, Caroline; TAVARES, LETÍCIA PADUAN; DE OLIVEIRA, JHONES LUÍS; FRACETO, LEONARDO FERNANDES; MARTINEZ, CLAUDIA BUENO DOS REIS",
+      "titulo": "Different Concentrations of Nanoencapsulated Geraniol Induce Lethargy and Acetylcholinesterase Activity in Aquarana catesbeiana Tadpoles",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s00128-025-04035-8",
+      "fingerprint_sha1": "b097dca39a0667e2652f6147a71b21543494f803",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, WILLIAN DE PAULA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00128-025-04035-8\" target=\"_blank\"></a>SANTOS, WILLIAN DE PAULA ; Santos, Caroline ; TAVARES, LETÍCIA PADUAN ; DE OLIVEIRA, JHONES LUÍ",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "BULLETIN OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY"
+    },
+    {
+      "numero_item": 2,
+      "raw": "DE OLIVEIRA, LUCIANA FERNANDES 2025 DE OLIVEIRA, LUCIANA FERNANDES ; VIEIRA, CARLOS DELFINO ; RISSO, Wagner ; DOS REIS MARTINEZ, CLAUDIA BUENO . Comparative biochemistry and physiology, part C combined Zn and Mn affect osmoregulation of the freshwater teleost Prochilodus lineatus in distinct ways from isolated metals. COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY & PHARMACOLOGY , v. 1, p. 110225, 2025.",
+      "autores": "DE OLIVEIRA, LUCIANA FERNANDES DE OLIVEIRA, LUCIANA FERNANDES; VIEIRA, CARLOS DELFINO; RISSO, Wagner; DOS REIS MARTINEZ, CLAUDIA BUENO",
+      "titulo": "Comparative biochemistry and physiology, part C combined Zn and Mn affect osmoregulation of the freshwater teleost Prochilodus lineatus in distinct ways from isolated metals",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.cbpc.2025.110225",
+      "fingerprint_sha1": "974a3715b9da96f0c5ca34b03bbf181145461ba1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA, LUCIANA FERNANDES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.cbpc.2025.110225\" target=\"_blank\"></a>DE OLIVEIRA, LUCIANA FERNANDES ; VIEIRA, CARLOS DELFINO ; RISSO, Wagner ; <b>DOS REIS MAR",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY & PHARMACOLOGY"
+    },
+    {
+      "numero_item": 3,
+      "raw": "DE PAULA SANTOS, WILLIAN 2025 DE PAULA SANTOS, WILLIAN ; TAVARES, LETÍCIA PADUAN ; PONTES, CAROLINA GUERRA ; RISSO, Wagner Ezequiel ; TOCI, ALINE THEODORO ; DE OLIVEIRA, JHONES LUÍS ; FRACETO, LEONARDO FERNANDES ; BUENO DOS REIS MARTINEZ, CLAUDIA . Assessing the impacts of nanoencapsulated geraniol on amphibians: A step toward sustainable pesticide alternatives?. COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY & PHARMACOLOGY , v. 296, p. 110231, 2025.",
+      "autores": "DE PAULA SANTOS, WILLIAN DE PAULA SANTOS, WILLIAN; TAVARES, LETÍCIA PADUAN; PONTES, CAROLINA GUERRA; RISSO, Wagner Ezequiel; TOCI, ALINE THEODORO; DE OLIVEIRA, JHONES LUÍS; FRACETO, LEONARDO FERNANDES; BUENO DOS REIS MARTINEZ, CLAUDIA",
+      "titulo": "Assessing the impacts of nanoencapsulated geraniol on amphibians: A step toward sustainable pesticide alternatives?",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.cbpc.2025.110231",
+      "fingerprint_sha1": "4ca3a7c06b45f6d79c1d40fd62fd74efb03db532",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE PAULA SANTOS, WILLIAN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.cbpc.2025.110231\" target=\"_blank\"></a>DE PAULA SANTOS, WILLIAN ; TAVARES, LETÍCIA PADUAN ; PONTES, CAROLINA GUERRA ; <a class=\"toolti",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY & PHARMACOLOGY"
+    },
+    {
+      "numero_item": 4,
+      "raw": "DOS SANTOS SILVA, MILENA APARECIDA 2025 DOS SANTOS SILVA, MILENA APARECIDA ; ALVIM, TIAGO TOMIAMA ; DE OLIVEIRA, JHONES LUÍS ; FRACETO, LEONARDO FERNANDES ; BUENO DOS REIS MARTINEZ, CLAUDIA . Assessing nanoencapsulated geraniol as a safer pesticide alternative: insights from biomarker responses in a neotropical fish species. ECOTOXICOLOGY , v. 1, p. 02898-5, 2025.",
+      "autores": "DOS SANTOS SILVA, MILENA APARECIDA DOS SANTOS SILVA, MILENA APARECIDA; ALVIM, TIAGO TOMIAMA; DE OLIVEIRA, JHONES LUÍS; FRACETO, LEONARDO FERNANDES; BUENO DOS REIS MARTINEZ, CLAUDIA",
+      "titulo": "Assessing nanoencapsulated geraniol as a safer pesticide alternative: insights from biomarker responses in a neotropical fish species",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10646-025-02898-5",
+      "fingerprint_sha1": "95c84540e00c588d806a9df0640bed126459e29a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DOS SANTOS SILVA, MILENA APARECIDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10646-025-02898-5\" target=\"_blank\"></a>DOS SANTOS SILVA, MILENA APARECIDA ; ALVIM, TIAGO TOMIAMA ; DE OLIVEIRA, JHONES LUÍS ",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "ECOTOXICOLOGY"
+    },
+    {
+      "numero_item": 5,
+      "raw": "ALVIM, TIAGO TOMIAMA 2025 ALVIM, TIAGO TOMIAMA ; Santos, Caroline ; BUENO DOS REIS MARTINEZ, CLAUDIA . Combined effects of λ-cyhalothrin and imidacloprid formulated insecticides on the embryo-larval development of Danio rerio. ECOTOXICOLOGY , v. 1, p. 02902-y, 2025.",
+      "autores": "ALVIM, TIAGO TOMIAMA ALVIM, TIAGO TOMIAMA; Santos, Caroline; BUENO DOS REIS MARTINEZ, CLAUDIA",
+      "titulo": "Combined effects of λ-cyhalothrin and imidacloprid formulated insecticides on the embryo-larval development of Danio rerio",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10646-025-02902-y",
+      "fingerprint_sha1": "e444c373298874b82f2919b4ea55488a30dd3bb5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVIM, TIAGO TOMIAMA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10646-025-02902-y\" target=\"_blank\"></a>ALVIM, TIAGO TOMIAMA ; Santos, Caroline ; <b>BUENO DOS REIS MARTINEZ, CLAUDIA</b> . Combined effect",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "ECOTOXICOLOGY"
+    },
+    {
+      "numero_item": 6,
+      "raw": "VIEIRA, CARLOS EDUARDO DELFINO 2025 VIEIRA, CARLOS EDUARDO DELFINO ; TESSER, Maria Eduarda ; MELETTI, Paulo Cesar ; DOS REIS MARTINEZ, CLAUDIA BUENO . Chronic in-situ exposure to pesticide-contaminated water bodies impairs the metabolism, growth, and performance of the freshwater fish Prochilodus lineatus. SCIENCE OF THE TOTAL ENVIRONMENT , v. 995, p. 180085, 2025.",
+      "autores": "VIEIRA, CARLOS EDUARDO DELFINO VIEIRA, CARLOS EDUARDO DELFINO; TESSER, Maria Eduarda; MELETTI, Paulo Cesar; DOS REIS MARTINEZ, CLAUDIA BUENO",
+      "titulo": "Chronic in-situ exposure to pesticide-contaminated water bodies impairs the metabolism, growth, and performance of the freshwater fish Prochilodus lineatus",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2025.180085",
+      "fingerprint_sha1": "74542bd6369658d8de493f7993d05d3bae72c5d3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VIEIRA, CARLOS EDUARDO DELFINO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2025.180085\" target=\"_blank\"></a>VIEIRA, CARLOS EDUARDO DELFINO ; TESSER, Maria Eduarda ; <a class=\"tooltip\" href=\"ht",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 7,
+      "raw": "DE SOUZA MACHADO, ANDERSON ABEL 2025 DE SOUZA MACHADO, ANDERSON ABEL ; MATHIAS, ARTHUR JUAN COSTA ; JORGE, Marianna Basso ; LAUER, MARIANA MACHADO ; DA SILVA FONSECA, JULIANA ; DOS REIS MARTINEZ, CLAUDIA BUENO ; BIANCHINI, Adalto . Oxidative Stress-Related Biomarkers in Tissues of the Euryhaline Guppy Poecilia Vivipara Exposed In Situ to a Coastal Water Environment with a Long History of Metal Contamination. Earth: Environmental Sustainability , v. 1, p. 84-101, 2025.",
+      "autores": "DE SOUZA MACHADO, ANDERSON ABEL DE SOUZA MACHADO, ANDERSON ABEL; MATHIAS, ARTHUR JUAN COSTA; JORGE, Marianna Basso; LAUER, MARIANA MACHADO; DA SILVA FONSECA, JULIANA; DOS REIS MARTINEZ, CLAUDIA BUENO; BIANCHINI, Adalto",
+      "titulo": "Oxidative Stress-Related Biomarkers in Tissues of the Euryhaline Guppy Poecilia Vivipara Exposed In Situ to a Coastal Water Environment with a Long History of Metal Contamination",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.53941/eesus.2025.100007",
+      "fingerprint_sha1": "cd57e3b370befd7575d4f24715397fb78f3afdab",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SOUZA MACHADO, ANDERSON ABEL</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.53941/eesus.2025.100007\" target=\"_blank\"></a>DE SOUZA MACHADO, ANDERSON ABEL ; MATHIAS, ARTHUR JUAN COSTA ; JORGE, Marianna Basso ; L",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "Earth: Environmental Sustainability"
+    },
+    {
+      "numero_item": 8,
+      "raw": "RODA, JÉSSICA FERNANDA BERNARDES 2025 RODA, JÉSSICA FERNANDA BERNARDES ; ALVIM, TIAGO TOMIAMA ; MARTINEZ, CLAUDIA BUENO DOS REIS . Embryotoxicity of microplastics, isolated and associated with copper, in zebrafish (Danio rerio). HYDROBIOLOGIA , v. 1, p. 1-16, 2025.",
+      "autores": "RODA, JÉSSICA FERNANDA BERNARDES RODA, JÉSSICA FERNANDA BERNARDES; ALVIM, TIAGO TOMIAMA; MARTINEZ, CLAUDIA BUENO DOS REIS",
+      "titulo": "Embryotoxicity of microplastics, isolated and associated with copper, in zebrafish (Danio rerio)",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10750-025-06029-3",
+      "fingerprint_sha1": "2ffb3e4b10064ef22a7aa11cb6467891e07b56e8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RODA, JÉSSICA FERNANDA BERNARDES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10750-025-06029-3\" target=\"_blank\"></a>RODA, JÉSSICA FERNANDA BERNARDES ; ALVIM, TIAGO TOMIAMA ; <b>MARTINEZ, CLAUDIA BUENO DO",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "HYDROBIOLOGIA"
+    },
+    {
+      "numero_item": 9,
+      "raw": "ROSA, Jheimison Júnior da Silva 2024 ROSA, Jheimison Júnior da Silva ; CERQUEIRA, JULIA DE ANDRADE ; RISSO, WAGNER E. ; MARTINEZ, CLAUDIA BUENO DOS REIS . Multiple biomarker responses in Aegla castro exposed to copper: a laboratory approach. ARCHIVES OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY , v. 87, p. 1-17, 2024.",
+      "autores": "ROSA, Jheimison Júnior da Silva ROSA, Jheimison Júnior da Silva; CERQUEIRA, JULIA DE ANDRADE; RISSO, WAGNER E.; MARTINEZ, CLAUDIA BUENO DOS REIS",
+      "titulo": "Multiple biomarker responses in Aegla castro exposed to copper: a laboratory approach",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00244-024-01091-9",
+      "fingerprint_sha1": "2c355a65842caa9969d0c575d02b19aab41f1461",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ROSA, Jheimison Júnior da Silva</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00244-024-01091-9\" target=\"_blank\"></a>ROSA, Jheimison Júnior da Silva ; CERQUEIRA,  JULIA DE ANDRADE ; RISSO, WAGNER E. ; <b>M",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "ARCHIVES OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY"
+    },
+    {
+      "numero_item": 10,
+      "raw": "BATTISTI, LUCAS 2024 BATTISTI, LUCAS ; POTRICH, MICHELE ; MARTINEZ, CLÁUDIA BUENO DOS REIS ; SOFIA, Silvia H . Toxicity of glyphosate herbicides formulated for Africanized Apis mellifera Linnaeus, 1758 (Hymenoptera: Apidae). ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY , v. 287, p. 117247, 2024.",
+      "autores": "BATTISTI, LUCAS BATTISTI, LUCAS; POTRICH, MICHELE; MARTINEZ, CLÁUDIA BUENO DOS REIS; SOFIA, Silvia H",
+      "titulo": "Toxicity of glyphosate herbicides formulated for Africanized Apis mellifera Linnaeus, 1758 (Hymenoptera: Apidae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.ecoenv.2024.117247",
+      "fingerprint_sha1": "ab0b8d984b0991f4e520179ac275d75a11c0a257",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BATTISTI, LUCAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.ecoenv.2024.117247\" target=\"_blank\"></a>BATTISTI, LUCAS ; POTRICH, MICHELE ; <b>MARTINEZ, CLÁUDIA BUENO DOS REIS</b> ; <a class=\"tooltip\" href",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "veiculo": "ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY"
+    },
+    {
+      "numero_item": 109,
+      "raw": "MARTINEZ, CLÁUDIA BUENO REIS ; AGUIAR, ALINE . Effects of Pharmaceutical Compounds in Tadpoles. In: Eduardo Alves de Almeida; Juliane Silberschmidt Freitas. (Org.). Toxicology of Amphibian Tadpoles. 1aed.Boca Raton: CRC Press, 2024, v. , p. 185-206.",
+      "autores": "MARTINEZ, CLÁUDIA BUENO REIS; AGUIAR, ALINE",
+      "titulo": "Effects of Pharmaceutical Compounds in Tadpoles",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2d2a5fd0be9dd0fb56e0ab5dad828026a3046dc2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MARTINEZ, CLÁUDIA BUENO REIS</b>; AGUIAR, ALINE . Effects of Pharmaceutical Compounds in Tadpoles. In: Eduardo Alves de Almeida; Juliane Silberschmidt Freitas. (Org.). Toxicology of Amphibian Tadpoles. 1aed.Boca Raton: CRC Press, 2024, v. , p. 185-206. </span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.436110"
+      },
+      "livro": "Eduardo Alves de Almeida; Juliane Silberschmidt Freitas"
+    },
+    {
+      "numero_item": 1,
+      "raw": "FERNANDES, Marisa Narciso ; MARTINEZ, CLÃUDIA BUENO REIS ; SOUZA, Iara da Costa; MONTEIRO, Diana Amaral. ParticipaÃ§Ã£o em banca de Maira Rodrigues Lima. AVALIAÃÃO MORFO-FUNCIONAL DE BRÃNQUIAS E FÃGADO DE Oreochromis niloticus COLETADAS EM LAGOAS COSTEIRAS SOB INFLUÃNCIA DE ATIVIDADES MINERO-SIDERÃRGICA. 2024. DissertaÃ§Ã£o (Mestrado em Ecologia e Recursos Naturais) - Universidade Federal de SÃ£o Carlos.",
+      "autores": "FERNANDES, Marisa Narciso; MARTINEZ, CLÃUDIA BUENO REIS; SOUZA, Iara da Costa; MONTEIRO, Diana Amaral. ParticipaÃ§Ã£o em banca de Maira Rodrigues Lima",
+      "titulo": "ParticipaÃ§Ã£o em banca de Maira Rodrigues Lima",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ffd60b7a557d2854b356d67c77ab6adfb269237a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/3021357484136942\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">FERNANDES, Marisa Narciso</a>; <b>MARTINEZ, CLÃUDIA BUENO REIS</b>; SOUZA, Iara da Costa; MONTEIRO, Diana Amaral.  ParticipaÃ§Ã£o em banca de Maira Rodrigues Lima. AVALIAÃÃO MORFO-FUNCIONAL DE BRÃNQUIAS E FÃGADO DE Oreochromis niloticus COLETADAS EM LAGOAS COSTEIRAS SOB INFLUÃNCIA DE ATIVIDADES MINERO-SI",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:33.477100"
+      },
+      "veiculo": "AVALIAÃÃO MORFO-FUNCIONAL DE BRÃNQUIAS E FÃGADO DE Oreochromis niloticus COLETADAS EM LAGOAS COSTEIRAS SOB INFLUÃNCIA DE ATIVIDADES MINERO-SIDERÃRGICA. 2024. DissertaÃ§Ã£o (Mestrado em Ecologia e Recursos Naturais) - Universidade Federal de SÃ£o Carlos"
+    },
+    {
+      "numero_item": 49,
+      "raw": "ALMEIDA, Eduardo Alves; MARTINEZ, CLÃUDIA BUENO REIS ; FREITAS, Juliane Silberschmidt. ParticipaÃ§Ã£o em banca de Camila Fatima Rutkoski. Diferentes abordagens para a detecÃ§Ã£o de efeitos metabÃ³licos e fisiolÃ³gicos produzidos por fÃ¡rmacos de origem antrÃ³pica em girinos Aquarana catesbeinus e minhocas Eisenia fetida, bem como para a vermirremediaÃ§Ã£o de genes de resistÃªncia a antibiÃ³ticos no solo. 2024. Tese (Doutorado em Engenharia Ambiental) - FundaÃ§Ã£o Universidade Regional de Blumenau.",
+      "autores": "ALMEIDA, Eduardo Alves; MARTINEZ, CLÃUDIA BUENO REIS; FREITAS, Juliane Silberschmidt. ParticipaÃ§Ã£o em banca de Camila Fatima Rutkoski. Diferentes abordagens para a detecÃ§Ã£o de efeitos metabÃ³licos e fisiolÃ³gicos produzidos por fÃ¡rmacos de origem antrÃ³pica em girinos Aquarana catesbeinus e minhocas Eisenia fetida, bem como para a vermirremediaÃ§Ã£o de genes de resistÃªncia a antibiÃ³ticos no solo. 2024. Tese (Doutorado em Engenharia Ambiental) - FundaÃ§Ã£o Universidade Regional de Blumenau",
+      "titulo": "ParticipaÃ§Ã£o em banca de Camila Fatima Rutkoski",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ace90c35e68bef11d34d124d1838e288d933be03",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ALMEIDA, Eduardo Alves; <b>MARTINEZ, CLÃUDIA BUENO REIS</b>; FREITAS, Juliane Silberschmidt.  ParticipaÃ§Ã£o em banca de Camila Fatima Rutkoski. Diferentes abordagens para a detecÃ§Ã£o de efeitos metabÃ³licos e fisiolÃ³gicos produzidos por fÃ¡rmacos de origem antrÃ³pica em girinos Aquarana catesbeinus e minhocas Eisenia fetida, bem como para a vermirremediaÃ§Ã£o de genes de resistÃªncia a antibiÃ³ticos no solo. 2024. Tese (Doutorad",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:33.477100"
+      },
+      "veiculo": "Diferentes abordagens para a detecÃ§Ã£o de efeitos metabÃ³licos e fisiolÃ³gicos produzidos por fÃ¡rmacos de origem antrÃ³pica em girinos Aquarana catesbeinus e minhocas Eisenia fetida"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Carolina Guerra Pontes. AvaliaÃ§Ã£o dos Impactos de Contaminantes no RibeirÃ£o Cafezal em Diferentes Pontos Utilizando MÃºltiplos Biomarcadores e as EspÃ©cies Anodontites trapesialis, Prochilodus lineatus e Danio rerio. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o dos Impactos de Contaminantes no RibeirÃ£o Cafezal em Diferentes Pontos Utilizando MÃºltiplos Biomarcadores e as EspÃ©cies Anodontites trapesialis, Prochilodus lineatus e Danio rerio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5c7733a0fbfaf7ff2ca21d64da5a2a74fe52d625",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3382510914312318\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Carolina Guerra Pontes. AvaliaÃ§Ã£o dos Impactos de Contaminantes no RibeirÃ£o Cafezal em Diferentes Pontos Utilizando MÃºltiplos Biomarcadores e as EspÃ©cies Anodontites trapesialis, Prochilodus lineatus e Danio rerio.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em CiÃªncias BiolÃ³g",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Gabriela Cruz Alves. Efeitos do diclofenaco para o peixe Neotropical Prochilodus lineatus: anÃ¡lises in vitro e in vivo. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Efeitos do diclofenaco para o peixe Neotropical Prochilodus lineatus: anÃ¡lises in vitro e in vivo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8fa5d81e3b043bd1f6a4a5bc4b0767c5931d30d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela Cruz Alves. Efeitos do diclofenaco para o peixe Neotropical Prochilodus lineatus: anÃ¡lises in vitro e in vivo.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Raquel Rodrigues Casoti. AvaliaÃ§Ã£o da toxicidade do paracetamol e do microplÃ¡stico no mexilhÃ£o Anodontites trapesialis diante da crise climÃ¡tica. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o da toxicidade do paracetamol e do microplÃ¡stico no mexilhÃ£o Anodontites trapesialis diante da crise climÃ¡tica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3ac0bb9ae5f2e85f1b73bdb932455e4d876b5b0e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8974304523720028\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Raquel Rodrigues Casoti. AvaliaÃ§Ã£o da toxicidade do paracetamol e do microplÃ¡stico no mexilhÃ£o Anodontites trapesialis diante da crise climÃ¡tica.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Diego Espirito Santo. Efeitos do timol convencional e nanoencapsulado para juvenis de Prochilodus lineatus e para a fase embriolarval de Danio rerio: anÃ¡lise de mÃºltiplos biomarcadores. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "Efeitos do timol convencional e nanoencapsulado para juvenis de Prochilodus lineatus e para a fase embriolarval de Danio rerio: anÃ¡lise de mÃºltiplos biomarcadores",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "48308aa4e00d6afd716868401b7600c2fe803292",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4298214372751175\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Diego Espirito Santo. Efeitos do timol convencional e nanoencapsulado para juvenis de Prochilodus lineatus e para a fase embriolarval de Danio rerio: anÃ¡lise de mÃºltiplos biomarcadores.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina. (Orientador). ",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Isabela Toninato Tavares. ECOTOXICOLOGIA CIDADÃ: DOS EFEITOS DE EXPOSIÃÃES AO IMIDACLOPRIDO LIVRE E NANOENCAPSULADO EM ABELHAS Scaptotrigona postica Ã CONSCIENTIZAÃÃO DE ESCOLARES SOBRE O USO DE AGROTÃXICOS. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "ECOTOXICOLOGIA CIDADÃ: DOS EFEITOS DE EXPOSIÃÃES AO IMIDACLOPRIDO LIVRE E NANOENCAPSULADO EM ABELHAS Scaptotrigona postica Ã CONSCIENTIZAÃÃO DE ESCOLARES SOBRE O USO DE AGROTÃXICOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "93deed4bf9facf81d0b078fdc93a8b426dbe7262",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5254840931450857\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Isabela Toninato Tavares. ECOTOXICOLOGIA CIDADÃ: DOS EFEITOS DE EXPOSIÃÃES AO IMIDACLOPRIDO LIVRE E NANOENCAPSULADO EM ABELHAS Scaptotrigona postica Ã CONSCIENTIZAÃÃO DE ESCOLARES SOBRE O USO DE AGROTÃXICOS.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas)  - Universidade Estadual ",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Willian de Paula Santos. EFEITOS DE NANOBIOPESTICIDAS PARA GIRINOS DE Aquarana catesbeiana EM DIFERENTES CENÃRIOS DE MUDANÃAS CLIMÃTICAS. InÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "EFEITOS DE NANOBIOPESTICIDAS PARA GIRINOS DE Aquarana catesbeiana EM DIFERENTES CENÃRIOS DE MUDANÃAS CLIMÃTICAS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9b14a978e63ea28cd181e0db452c1cd08afb8157",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8743798863875876\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Willian de Paula Santos. EFEITOS DE NANOBIOPESTICIDAS PARA GIRINOS DE Aquarana catesbeiana EM DIFERENTES CENÃRIOS DE MUDANÃAS CLIMÃTICAS.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Supe",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Milena Aparecida dos Santos Silva. Efeitos de nanobiopesticidas em diferentes fases do desenvolvimento de Danio rerio: uma abordagem transgeracional. InÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Efeitos de nanobiopesticidas em diferentes fases do desenvolvimento de Danio rerio: uma abordagem transgeracional",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2027ff35336d6ea1a9ff9792e92d01971a9933b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3804786657004323\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Milena Aparecida dos Santos Silva. Efeitos de nanobiopesticidas em diferentes fases do desenvolvimento de Danio rerio: uma abordagem transgeracional.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Gustavo Henrique Zanuto. Monitoramento da qualidade do ribeirÃ£o CambÃ© (Norte do ParanÃ¡) por meio da anÃ¡lise de biomarcadores de estresse oxidativo em bivalves. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em FarmÃ¡cia) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. (Orientador).",
+      "autores": null,
+      "titulo": "Monitoramento da qualidade do ribeirÃ£o CambÃ© (Norte do ParanÃ¡) por meio da anÃ¡lise de biomarcadores de estresse oxidativo em bivalves",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "76e1878ccc78a3952b497a85cda3849edcef99ca",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gustavo Henrique Zanuto. Monitoramento da qualidade do ribeirÃ£o CambÃ© (Norte do ParanÃ¡) por meio da anÃ¡lise de biomarcadores de estresse oxidativo em bivalves. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em FarmÃ¡cia)  - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. (Orientador). </span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em FarmÃ¡cia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Thamires GonÃ§alves dos Santos. AvaliaÃ§Ã£o de microplÃ¡stico em bivalves coletados ao longo de um ribeirÃ£o, sujeito a diferentes tipos de contaminaÃ§Ã£o. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de microplÃ¡stico em bivalves coletados ao longo de um ribeirÃ£o, sujeito a diferentes tipos de contaminaÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0a0c2e71f376c7cadbf4224f78e12fcc6a6e698",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Thamires GonÃ§alves dos Santos. AvaliaÃ§Ã£o de microplÃ¡stico em bivalves coletados ao longo de um ribeirÃ£o, sujeito a diferentes tipos de contaminaÃ§Ã£o. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. (Orientador). </span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 12,
+      "raw": "LetÃ­cia Paduan Tavares. Efeitos de um nanobiofungicida no desenvolvimento embrionÃ¡rio e neurotransmissÃ£o nas fases iniciais de vida de Danio rerio. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Efeitos de um nanobiofungicida no desenvolvimento embrionÃ¡rio e neurotransmissÃ£o nas fases iniciais de vida de Danio rerio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f23385b1fe93dde8c4303fc1e2ce90ae9d50f6d4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LetÃ­cia Paduan Tavares. Efeitos de um nanobiofungicida no desenvolvimento embrionÃ¡rio e neurotransmissÃ£o nas fases iniciais de vida de Danio rerio. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Willian de Paula Santos. Efeitos de exposiÃ§Ãµes agudas ao geraniol em girinos Aquarana catesbeiana: comparaÃ§Ã£o entre as formas livre e nanoencapsulada. 2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "Efeitos de exposiÃ§Ãµes agudas ao geraniol em girinos Aquarana catesbeiana: comparaÃ§Ã£o entre as formas livre e nanoencapsulada",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b45ab17e26f1ff8baf3bba13f98f73e79802d748",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8743798863875876\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Willian de Paula Santos. Efeitos de exposiÃ§Ãµes agudas ao geraniol em girinos Aquarana catesbeiana: comparaÃ§Ã£o entre as formas livre e nanoencapsulada.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de P",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Milena Aparecida dos Santos Silva. Efeitos do geraniol convencional e nanoencapsulado em biomarcadores de Prochilodus lineatus. 2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina, Carrefour. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "Efeitos do geraniol convencional e nanoencapsulado em biomarcadores de Prochilodus lineatus",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "36e2a6dc372efcf438659ae009984c2cb68b7153",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3804786657004323\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Milena Aparecida dos Santos Silva. Efeitos do geraniol convencional e nanoencapsulado em biomarcadores de Prochilodus lineatus.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em CIÃNCIAS FISIOLÃGICAS)  - Universidade Estadual de Londrina, Carrefour. Orientador: ClÃ¡udia Bueno dos Reis Martinez. </span><",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em CIÃNCIAS FISIOLÃGICAS) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 85,
+      "raw": "Gabriela da Cruz Alves. AvaliaÃ§Ã£o in vitro da toxicidade de nanopartÃ­culas de geraniol em linhagem celular de Danio rerio (ZFL). 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o in vitro da toxicidade de nanopartÃ­culas de geraniol em linhagem celular de Danio rerio (ZFL)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e4eec41ec29a2fc3e4ffeb1a84b0b8f1c9b83c01",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela da Cruz Alves.\n\t\t\t\t\t\tAvaliaÃ§Ã£o in vitro da toxicidade de nanopartÃ­culas de geraniol em linhagem celular de Danio rerio (ZFL).\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 86,
+      "raw": "Raquel Rodrigues Casoti. Biomarcadores em mexilhÃµes Anodontites trapesialis submetidos a testes in situ ao longo de um ribeirÃ£o sujeito a diferentes tipos de contaminaÃ§Ã£o. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "Biomarcadores em mexilhÃµes Anodontites trapesialis submetidos a testes in situ ao longo de um ribeirÃ£o sujeito a diferentes tipos de contaminaÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3323590998292c2599e741d235589e0af7fc9b72",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raquel Rodrigues Casoti.\n\t\t\t\t\t\tBiomarcadores em mexilhÃµes Anodontites trapesialis submetidos a testes in situ ao longo de um ribeirÃ£o sujeito a diferentes tipos de contaminaÃ§Ã£o.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.\n\t\t\t\t\t</sp",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 124,
+      "raw": "Gabriela da Cruz Alves. AvaliaÃ§Ã£o da atividade da acetilcolinesterase em Anodontites trapesialis submetidos a exposiÃ§Ã£o in situ em um ribeirÃ£o com diversas influÃªncias antrÃ³picas. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o da atividade da acetilcolinesterase em Anodontites trapesialis submetidos a exposiÃ§Ã£o in situ em um ribeirÃ£o com diversas influÃªncias antrÃ³picas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "75271543e89963c8154568b4f5e0d4d8077b64d6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela da Cruz Alves.\n\t\t\t\t\t\tAvaliaÃ§Ã£o da atividade da acetilcolinesterase em Anodontites trapesialis submetidos a exposiÃ§Ã£o in situ em um ribeirÃ£o com diversas influÃªncias antrÃ³picas.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Marti",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 125,
+      "raw": "Alana Majewski Tarosso. Efeitos genotÃ³xicos do geraniol e geraniol nanoencapsulado para larvas de Danio rerio. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "Efeitos genotÃ³xicos do geraniol e geraniol nanoencapsulado para larvas de Danio rerio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4b7870595552980f340c698c9fd861b5503be54f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alana Majewski Tarosso.\n\t\t\t\t\t\tEfeitos genotÃ³xicos do geraniol e geraniol nanoencapsulado para larvas de Danio rerio.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundaÃ§Ã£o AraucÃ¡ria. Orientador: ClÃ¡udia Bueno dos Reis Martinez.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 126,
+      "raw": "LetÃ­cia Paduan Tavares. AvaliaÃ§Ã£o da neurotoxicidade de um nanofungicida de origem botÃ¢nica para girinos de Aquarana catesbeiana. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o da neurotoxicidade de um nanofungicida de origem botÃ¢nica para girinos de Aquarana catesbeiana",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "220e1cf7213b4322db8c30d450e8ca0386394edd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LetÃ­cia Paduan Tavares.\n\t\t\t\t\t\tAvaliaÃ§Ã£o da neurotoxicidade de um nanofungicida de origem botÃ¢nica para girinos de Aquarana catesbeiana.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: ClÃ¡udia Bueno dos Reis Martinez.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4215849919453600__claudia-bueno-dos-reis-martinez.full_profile.html",
+        "lattes_id": "4215849919453600",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:33.512800"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina"
+    }
+  ]
+}

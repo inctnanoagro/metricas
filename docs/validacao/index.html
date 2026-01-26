@@ -1,0 +1,616 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Validação de Produções</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f3ea;
+      --panel: #fffaf0;
+      --ink: #1e1b16;
+      --muted: #6a635c;
+      --accent: #1a4f5b;
+      --danger: #8a1f17;
+      --border: #d9d0c7;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+    }
+
+    h1, h2, h3 {
+      margin: 0 0 8px;
+      font-weight: 600;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .page-header {
+      display: grid;
+      gap: 16px;
+      padding: 16px 20px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+    }
+
+    .header-title {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .meta-card {
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      background: #fffdf8;
+    }
+
+    .meta-card span {
+      display: block;
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .meta-card strong {
+      display: block;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .actions a,
+    .actions button {
+      border: 1px solid var(--accent);
+      background: transparent;
+      color: var(--accent);
+      padding: 8px 12px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .actions button:hover,
+    .actions a:hover {
+      background: rgba(26, 79, 91, 0.08);
+    }
+
+    .panel {
+      margin-top: 20px;
+      padding: 16px 20px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+    }
+
+    .error-panel {
+      border-color: var(--danger);
+      background: #fff0ed;
+      color: var(--danger);
+    }
+
+    .error-panel pre {
+      white-space: pre-wrap;
+      background: #f8dfdb;
+      padding: 12px;
+      border: 1px solid var(--danger);
+      margin-top: 12px;
+    }
+
+    .filters {
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      align-items: start;
+    }
+
+    .filter-group {
+      display: grid;
+      gap: 8px;
+    }
+
+    .filter-title {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+    }
+
+    .filter-options {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      max-height: 200px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .filter-options label {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      font-size: 14px;
+    }
+
+    input[type="search"] {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      font-size: 14px;
+    }
+
+    .filter-status {
+      margin-top: 12px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 8px 10px;
+      vertical-align: top;
+      font-size: 14px;
+    }
+
+    th {
+      background: #efe8dc;
+      text-align: left;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    tbody tr:nth-child(even) {
+      background: #fffdf7;
+    }
+
+    details summary {
+      cursor: pointer;
+      color: var(--accent);
+    }
+
+    pre.raw-block {
+      white-space: pre-wrap;
+      margin: 8px 0 0;
+      background: #f4efe6;
+      padding: 8px;
+      border: 1px solid var(--border);
+      max-width: 520px;
+    }
+
+    @media print {
+      body {
+        background: white;
+        padding: 12px;
+      }
+      .actions, #filters-panel, #list-link {
+        display: none !important;
+      }
+      .panel {
+        border: none;
+        padding: 0;
+      }
+      th {
+        position: static;
+      }
+      a::after {
+        content: "";
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="page-header">
+    <div class="header-title">
+      <h1>Validação de Produções</h1>
+      <div id="source-line" class="muted"></div>
+    </div>
+    <div class="meta-grid">
+      <div class="meta-card">
+        <span>Pesquisador</span>
+        <strong id="researcher-name">--</strong>
+      </div>
+      <div class="meta-card">
+        <span>Lattes ID</span>
+        <strong id="researcher-id">--</strong>
+      </div>
+      <div class="meta-card">
+        <span>Extração</span>
+        <strong id="extracted-at">--</strong>
+      </div>
+      <div class="meta-card">
+        <span>Total de produções</span>
+        <strong id="total-productions">--</strong>
+      </div>
+    </div>
+    <div class="actions">
+      <a id="download-json" href="#" target="_blank" rel="noopener">Baixar JSON original</a>
+      <button id="print-btn" type="button">Exportar HTML (print)</button>
+      <a id="list-link" href="lista.html">Índice</a>
+    </div>
+  </header>
+
+  <section id="errors" class="panel error-panel" hidden>
+    <h2>Erros</h2>
+    <div id="error-message"></div>
+    <pre id="error-details"></pre>
+  </section>
+
+  <section id="summary-panel" class="panel" hidden>
+    <h2>Sumário por seção</h2>
+    <ul id="summary-list"></ul>
+  </section>
+
+  <section id="filters-panel" class="panel">
+    <h2>Filtros</h2>
+    <div class="filters">
+      <div class="filter-group">
+        <span class="filter-title">Ano</span>
+        <div id="year-filters" class="filter-options"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-title">Seção / Tipo</span>
+        <div id="section-filters" class="filter-options"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-title">Busca</span>
+        <input id="search-input" type="search" placeholder="Digite parte do título, veículo, autores ou raw" />
+      </div>
+    </div>
+    <div class="filter-status">Itens exibidos: <span id="visible-count">0</span> / <span id="total-count">0</span></div>
+  </section>
+
+  <section class="panel">
+    <h2>Produções</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Ordem</th>
+          <th>Número item</th>
+          <th>Ano</th>
+          <th>Tipo / Seção</th>
+          <th>Título</th>
+          <th>Veículo</th>
+          <th>Autores</th>
+          <th>Raw</th>
+        </tr>
+      </thead>
+      <tbody id="productions-body"></tbody>
+    </table>
+  </section>
+
+  <script>
+    const state = {
+      rows: [],
+      sections: [],
+      years: [],
+      sourceUrl: null,
+    };
+
+    const elements = {
+      sourceLine: document.getElementById('source-line'),
+      researcherName: document.getElementById('researcher-name'),
+      researcherId: document.getElementById('researcher-id'),
+      extractedAt: document.getElementById('extracted-at'),
+      totalProductions: document.getElementById('total-productions'),
+      downloadJson: document.getElementById('download-json'),
+      printBtn: document.getElementById('print-btn'),
+      errors: document.getElementById('errors'),
+      errorMessage: document.getElementById('error-message'),
+      errorDetails: document.getElementById('error-details'),
+      summaryPanel: document.getElementById('summary-panel'),
+      summaryList: document.getElementById('summary-list'),
+      yearFilters: document.getElementById('year-filters'),
+      sectionFilters: document.getElementById('section-filters'),
+      searchInput: document.getElementById('search-input'),
+      productionsBody: document.getElementById('productions-body'),
+      visibleCount: document.getElementById('visible-count'),
+      totalCount: document.getElementById('total-count'),
+    };
+
+    const safeText = (value) => (value === undefined || value === null) ? '' : String(value);
+
+    const normalizeWhitespace = (value) => safeText(value).replace(/\s+/g, ' ').trim();
+
+    const getSectionLabel = (item) => {
+      const source = item && item.source ? item.source : {};
+      return (
+        source.production_type ||
+        source.section_name ||
+        item.section_name ||
+        item.categoria ||
+        'Sem seção'
+      );
+    };
+
+    const getYear = (item) => {
+      return item.ano ?? item.year ?? item.ano_publicacao ?? item.ano_publicacao;
+    };
+
+    const getRawText = (item) => {
+      return item.raw ?? item.raw_text ?? '';
+    };
+
+    const showError = (message, details) => {
+      elements.errors.hidden = false;
+      elements.errorMessage.textContent = message;
+      elements.errorDetails.textContent = details || '';
+    };
+
+    const isAbsoluteUrl = (url) => {
+      try {
+        const parsed = new URL(url);
+        return parsed.protocol === 'http:' || parsed.protocol === 'https:';
+      } catch (err) {
+        return false;
+      }
+    };
+
+    const resolveSourceUrl = async () => {
+      const params = new URLSearchParams(window.location.search);
+      const sourceParam = params.get('source');
+      const prefillParam = params.get('prefill');
+
+      if (sourceParam) {
+        if (!isAbsoluteUrl(sourceParam)) {
+          throw new Error(`Parametro source precisa ser uma URL absoluta: ${sourceParam}`);
+        }
+        return sourceParam;
+      }
+
+      if (!prefillParam) {
+        throw new Error('Parametro prefill nao informado. Use ?prefill=<arquivo.json> ou ?prefill=<lattes_id>.');
+      }
+
+      if (/\.json$/i.test(prefillParam)) {
+        const filename = prefillParam.split('/').pop();
+        return new URL(`../prefill/${encodeURIComponent(filename)}`, window.location.href).href;
+      }
+
+      if (/^\d{16}$/.test(prefillParam)) {
+        const manifestUrl = new URL('../prefill/manifest.json', window.location.href).href;
+        const response = await fetch(manifestUrl, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`Falha ao carregar manifest: ${manifestUrl}`);
+        }
+        const manifest = await response.json();
+        const filename = manifest.by_lattes_id ? manifest.by_lattes_id[prefillParam] : null;
+        if (!filename) {
+          throw new Error(`lattes_id nao encontrado no manifest: ${prefillParam}`);
+        }
+        return new URL(`../prefill/${encodeURIComponent(filename)}`, window.location.href).href;
+      }
+
+      throw new Error(`Parametro prefill invalido: ${prefillParam}`);
+    };
+
+    const renderSummary = (productions, metadataSections) => {
+      const counts = new Map();
+      const seenOrder = [];
+
+      for (const item of productions) {
+        const label = getSectionLabel(item);
+        counts.set(label, (counts.get(label) || 0) + 1);
+        if (!seenOrder.includes(label)) {
+          seenOrder.push(label);
+        }
+      }
+
+      const summaryOrder = [];
+      if (Array.isArray(metadataSections) && metadataSections.length > 0) {
+        for (const section of metadataSections) {
+          const label = section.section_title || section.section_name || section.name;
+          if (label && !summaryOrder.includes(label)) {
+            summaryOrder.push(label);
+          }
+        }
+        for (const label of seenOrder) {
+          if (!summaryOrder.includes(label)) {
+            summaryOrder.push(label);
+          }
+        }
+      } else {
+        summaryOrder.push(...seenOrder);
+      }
+
+      if (summaryOrder.length === 0) {
+        return;
+      }
+
+      elements.summaryList.innerHTML = '';
+      for (const label of summaryOrder) {
+        const count = counts.get(label) || 0;
+        const li = document.createElement('li');
+        li.textContent = `${label}: ${count}`;
+        elements.summaryList.appendChild(li);
+      }
+      elements.summaryPanel.hidden = false;
+      state.sections = summaryOrder;
+    };
+
+    const renderFilters = () => {
+      elements.yearFilters.innerHTML = '';
+      elements.sectionFilters.innerHTML = '';
+
+      const uniqueYears = Array.from(new Set(state.rows.map((row) => row.dataset.year))).filter(Boolean);
+      uniqueYears.sort((a, b) => Number(a) - Number(b));
+      state.years = uniqueYears;
+
+      for (const year of uniqueYears) {
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.value = year;
+        input.checked = true;
+        input.addEventListener('change', applyFilters);
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(year));
+        elements.yearFilters.appendChild(label);
+      }
+
+      const sections = state.sections.length ? state.sections : Array.from(new Set(state.rows.map((row) => row.dataset.section)));
+      for (const section of sections) {
+        if (!section) continue;
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.value = section;
+        input.checked = true;
+        input.addEventListener('change', applyFilters);
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(section));
+        elements.sectionFilters.appendChild(label);
+      }
+    };
+
+    const applyFilters = () => {
+      const selectedYears = new Set(
+        Array.from(elements.yearFilters.querySelectorAll('input:checked')).map((el) => el.value)
+      );
+      const selectedSections = new Set(
+        Array.from(elements.sectionFilters.querySelectorAll('input:checked')).map((el) => el.value)
+      );
+      const query = elements.searchInput.value.trim().toLowerCase();
+
+      let visible = 0;
+      for (const row of state.rows) {
+        const yearOk = selectedYears.size === 0 || selectedYears.has(row.dataset.year);
+        const sectionOk = selectedSections.size === 0 || selectedSections.has(row.dataset.section);
+        const searchOk = !query || row.dataset.search.includes(query);
+        const show = yearOk && sectionOk && searchOk;
+        row.hidden = !show;
+        if (show) visible += 1;
+      }
+      elements.visibleCount.textContent = String(visible);
+    };
+
+    const renderTable = (productions) => {
+      elements.productionsBody.innerHTML = '';
+      state.rows = [];
+
+      productions.forEach((item, index) => {
+        const row = document.createElement('tr');
+        const sectionLabel = getSectionLabel(item);
+        const year = getYear(item);
+        const raw = getRawText(item);
+        const numeroItem = item.numero_item ?? item.ordem_lattes ?? '';
+
+        const cells = [
+          index + 1,
+          numeroItem,
+          year ?? '',
+          sectionLabel,
+          item.titulo ?? item.title ?? '',
+          item.veiculo ?? item.vehicle ?? '',
+          item.autores ?? '',
+          raw,
+        ];
+
+        cells.forEach((value, colIndex) => {
+          const cell = document.createElement('td');
+          if (colIndex === 7) {
+            const details = document.createElement('details');
+            const summary = document.createElement('summary');
+            summary.textContent = 'raw';
+            const pre = document.createElement('pre');
+            pre.className = 'raw-block';
+            pre.textContent = safeText(value);
+            details.appendChild(summary);
+            details.appendChild(pre);
+            cell.appendChild(details);
+          } else {
+            cell.textContent = safeText(value);
+          }
+          row.appendChild(cell);
+        });
+
+        row.dataset.year = safeText(year);
+        row.dataset.section = sectionLabel;
+        row.dataset.search = normalizeWhitespace(
+          `${item.titulo ?? ''} ${item.veiculo ?? ''} ${item.autores ?? ''} ${raw}`
+        ).toLowerCase();
+        elements.productionsBody.appendChild(row);
+        state.rows.push(row);
+      });
+
+      elements.totalCount.textContent = String(productions.length);
+      elements.visibleCount.textContent = String(productions.length);
+    };
+
+    const renderHeader = (data) => {
+      const researcher = data.researcher || {};
+      const metadata = data.metadata || {};
+
+      elements.researcherName.textContent = researcher.full_name || researcher.nome || data.pesquisador || '--';
+      elements.researcherId.textContent = researcher.lattes_id || metadata.lattes_id || (data.productions?.[0]?.source?.lattes_id || '--');
+      elements.extractedAt.textContent = metadata.extracted_at || researcher.last_update || data.generated_at || '--';
+      const total = metadata.total_productions ?? (Array.isArray(data.productions) ? data.productions.length : '--');
+      elements.totalProductions.textContent = String(total ?? '--');
+
+      elements.sourceLine.textContent = `Fonte: ${state.sourceUrl}`;
+      elements.downloadJson.href = state.sourceUrl;
+    };
+
+    const loadData = async () => {
+      try {
+        state.sourceUrl = await resolveSourceUrl();
+        const response = await fetch(state.sourceUrl, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`Falha ao carregar JSON (${response.status}): ${state.sourceUrl}`);
+        }
+        const data = await response.json();
+        if (!Array.isArray(data.productions)) {
+          throw new Error('JSON invalido: campo productions nao encontrado ou nao e um array.');
+        }
+
+        renderHeader(data);
+        renderSummary(data.productions, data.metadata?.sections || []);
+        renderTable(data.productions);
+        renderFilters();
+        applyFilters();
+      } catch (err) {
+        const details = err && err.stack ? err.stack : String(err);
+        showError('Erro ao carregar dados.', `${details}\n\nURL usada: ${state.sourceUrl || 'N/A'}`);
+      }
+    };
+
+    elements.searchInput.addEventListener('input', applyFilters);
+    elements.printBtn.addEventListener('click', () => window.print());
+
+    loadData();
+  </script>
+</body>
+</html>

@@ -1,0 +1,527 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "4898006494427762",
+    "full_name": "Diego Stéfani Teodoro Martinez",
+    "slug": "diego-stefani-teodoro-martinez",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:36.264365",
+    "source_file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+    "total_productions": 26,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 13,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 3,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 10,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 0,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "ZOURARIS, DIMITRIOS 2025 ZOURARIS, DIMITRIOS ; MAVROGIORGIS, ANGELOS ; TSOUMANIS, ANDREAS ; SAARIMÄKI, LAURA ALIISA ; DEL GIUDICE, GIUSY ; FEDERICO, ANTONIO ; SERRA, ANGELA ; GRECO, DARIO ; ROUSE, IAN ; SUBBOTINA, JULIA ; LOBASKIN, VLADIMIR ; JAGIELLO, KAROLINA ; CIURA, KRZESIMIR ; JUDZINSKA, BEATA ; MIKOLAJCZYK, ALICJA ; SOSNOWSKA, ANITA ; PUZYN, TOMASZ ; GULUMIAN, MARY ; WEPENER, VICTOR ; MARTINEZ, DIEGO S.T. ; et.al . CompSafeNano project: NanoInformatics approaches for safe-by-design nanomaterials. COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL , v. 29, p. 13-28, 2025.",
+      "autores": "ZOURARIS, DIMITRIOS ZOURARIS, DIMITRIOS; MAVROGIORGIS, ANGELOS; TSOUMANIS, ANDREAS; SAARIMÄKI, LAURA ALIISA; DEL GIUDICE, GIUSY; FEDERICO, ANTONIO; SERRA, ANGELA; GRECO, DARIO; ROUSE, IAN; SUBBOTINA, JULIA; LOBASKIN, VLADIMIR; JAGIELLO, KAROLINA; CIURA, KRZESIMIR; JUDZINSKA, BEATA; MIKOLAJCZYK, ALICJA; SOSNOWSKA, ANITA; PUZYN, TOMASZ; GULUMIAN, MARY; WEPENER, VICTOR; MARTINEZ, DIEGO S.T.; et.al",
+      "titulo": "CompSafeNano project: NanoInformatics approaches for safe-by-design nanomaterials",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.csbj.2024.12.024",
+      "fingerprint_sha1": "a49d191944453d68e912fc414d6ad18be703b059",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ZOURARIS, DIMITRIOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.csbj.2024.12.024\" target=\"_blank\"></a>ZOURARIS, DIMITRIOS ; MAVROGIORGIS, ANGELOS ; TSOUMANIS, ANDREAS ; SAARIMÄKI, LAURA ALIISA ; DEL GIU",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL"
+    },
+    {
+      "numero_item": 2,
+      "raw": "SERRA, ANGELA 2025 SERRA, ANGELA ; ZOURARIS, DIMITRIOS ; SCHAFFERT, ALEXANDRA ; MAIA, MARCELLA TORRES ; TSIROS, PERIKLIS ; VIRMANI, ISHITA ; DI LIETO, EMANUELE ; SAARIMÄKI, LAURA ALIISA ; MORIKKA, JACK ; RIUDAVETS-PUIG, RAFAEL ; VARSOU, DIMITRA-DANAI ; PAPAVASILEIOU, KONSTANTINOS D. ; KOLOKATHIS, PANAGIOTIS D. ; MINTIS, DIMITRIS G. ; TZOUPIS, HARALAMPOS ; TSOUMANIS, ANDREAS ; MELAGRAKI, GEORGIA ; ARVANITIDIS, ALEX ; DOGANIS, PHILIP ; STÉFANI, D. ; et.al . INSIGHT: An Integrated Framework for Safe and Sustainable Chemical and Material Assessment. COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL , v. 03, p. 1, 2025.",
+      "autores": "SERRA, ANGELA SERRA, ANGELA; ZOURARIS, DIMITRIOS; SCHAFFERT, ALEXANDRA; MAIA, MARCELLA TORRES; TSIROS, PERIKLIS; VIRMANI, ISHITA; DI LIETO, EMANUELE; SAARIMÄKI, LAURA ALIISA; MORIKKA, JACK; RIUDAVETS-PUIG, RAFAEL; VARSOU, DIMITRA-DANAI; PAPAVASILEIOU, KONSTANTINOS D.; KOLOKATHIS, PANAGIOTIS D.; MINTIS, DIMITRIS G.; TZOUPIS, HARALAMPOS; TSOUMANIS, ANDREAS; MELAGRAKI, GEORGIA; ARVANITIDIS, ALEX; DOGANIS, PHILIP; STÉFANI, D.; et.al",
+      "titulo": "INSIGHT: An Integrated Framework for Safe and Sustainable Chemical and Material Assessment",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.csbj.2025.03.042",
+      "fingerprint_sha1": "32976b0ae9d661869f9377b222e32ce8baace428",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SERRA, ANGELA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.csbj.2025.03.042\" target=\"_blank\"></a>SERRA, ANGELA ; ZOURARIS, DIMITRIOS ; SCHAFFERT, ALEXANDRA ; MAIA, MARCELLA TORRES ; TSIROS, PERIKLIS ; VI",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL"
+    },
+    {
+      "numero_item": 3,
+      "raw": "PUNZ, BENJAMIN 2025 PUNZ, BENJAMIN ; BRAJNIK, MAJA ; DOKLER, JOH ; AMOS, JALEESIA D ; JOHNSON, LITTY ; REILLY, KATIE ; PAPADIAMANTIS, ANASTASIOS G ; GREEN ETXABE, AMAIA ; WALKER, LEE ; MARTINEZ, DIEGO S T ; FRIEDRICHS, STEFFI ; WELTRING, KLAUS M ; GÜNDAY-TÜRELI, NAZENDE ; SVENDSEN, CLAUS ; OGILVIE HENDREN, CHRISTINE ; WIESNER, MARK R ; HIMLY, MARTIN ; LYNCH, ISEULT ; EXNER, THOMAS E . Instance maps as an organising concept for complex experimental workflows as demonstrated for (nano)material safety research. Beilstein Journal of Nanotechnology , v. 16, p. 57-77, 2025.",
+      "autores": "PUNZ, BENJAMIN PUNZ, BENJAMIN; BRAJNIK, MAJA; DOKLER, JOH; AMOS, JALEESIA D; JOHNSON, LITTY; REILLY, KATIE; PAPADIAMANTIS, ANASTASIOS G; GREEN ETXABE, AMAIA; WALKER, LEE; MARTINEZ, DIEGO S T; FRIEDRICHS, STEFFI; WELTRING, KLAUS M; GÜNDAY-TÜRELI, NAZENDE; SVENDSEN, CLAUS; OGILVIE HENDREN, CHRISTINE; WIESNER, MARK R; HIMLY, MARTIN; LYNCH, ISEULT; EXNER, THOMAS E",
+      "titulo": "Instance maps as an organising concept for complex experimental workflows as demonstrated for (nano)material safety research",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3762/bjnano.16.7",
+      "fingerprint_sha1": "94d1202339672e183366ca73b4216ebee824a722",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PUNZ, BENJAMIN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3762/bjnano.16.7\" target=\"_blank\"></a>PUNZ, BENJAMIN ; BRAJNIK, MAJA ; DOKLER, JOH ; AMOS, JALEESIA D ; JOHNSON, LITTY ; REILLY, KATIE ; PAPADIAMANTIS",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "Beilstein Journal of Nanotechnology"
+    },
+    {
+      "numero_item": 4,
+      "raw": "MAIA, MARCELLA T. 2024 MAIA, MARCELLA T. ; DELITE, FABRÍCIO S. ; DA SILVA, GABRIELA HELENA ; ELLIS, LAURA-JAYNE A. ; PAPADIAMANTIS, ANASTASIOS G. ; Paula, Amauri J. ; LYNCH, ISEULT ; Martinez, Diego Stéfani T. . Combined toxicity of fluorescent silica nanoparticles with cadmium in Ceriodaphnia dubia: Interactive effects of natural organic matter and green algae feeding. JOURNAL OF HAZARDOUS MATERIALS , v. 461, p. 132623, 2024.",
+      "autores": "MAIA, MARCELLA T. MAIA, MARCELLA T.; DELITE, FABRÍCIO S.; DA SILVA, GABRIELA HELENA; ELLIS, LAURA-JAYNE A.; PAPADIAMANTIS, ANASTASIOS G.; Paula, Amauri J.; LYNCH, ISEULT; Martinez, Diego Stéfani T.",
+      "titulo": "Combined toxicity of fluorescent silica nanoparticles with cadmium in Ceriodaphnia dubia: Interactive effects of natural organic matter and green algae feeding",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jhazmat.2023.132623",
+      "fingerprint_sha1": "b7f27818e003544ed8df43fb94df07983ad3785e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MAIA, MARCELLA T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jhazmat.2023.132623\" target=\"_blank\"></a>MAIA, MARCELLA T. ; DELITE, FABRÍCIO S. ; DA SILVA, GABRIELA HELENA ; ELLIS, LAURA-JAYNE A. ; PAPAD",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "JOURNAL OF HAZARDOUS MATERIALS"
+    },
+    {
+      "numero_item": 5,
+      "raw": "JACKSON, JENNIFER C. 2024 JACKSON, JENNIFER C. ; CAMARGOS, CAMILLA H. M. ; LIU, CAIHONG ; MARTINEZ, DIEGO ; DE PAULA, AMAURI JARDIM ; REZENDE, CAMILA ALVES ; FONSECA DE FARIA, ANDREIA . Antimicrobial activity of thin-film composite membranes functionalized with cellulose nanocrystals and silver nanoparticles via one-pot deposition and layer-by-layer assembly. Environmental Science-Water Research & Technology , v. 10, p. 639-651, 2024.",
+      "autores": "JACKSON, JENNIFER C. JACKSON, JENNIFER C.; CAMARGOS, CAMILLA H. M.; LIU, CAIHONG; MARTINEZ, DIEGO; DE PAULA, AMAURI JARDIM; REZENDE, CAMILA ALVES; FONSECA DE FARIA, ANDREIA",
+      "titulo": "Antimicrobial activity of thin-film composite membranes functionalized with cellulose nanocrystals and silver nanoparticles via one-pot deposition and layer-by-layer assembly",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1039/d3ew00826f",
+      "fingerprint_sha1": "ab62e3a1f6fb2b1d4f3b9e96a9cf861dbcc24139",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">JACKSON, JENNIFER C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1039/d3ew00826f\" target=\"_blank\"></a>JACKSON, JENNIFER C. ; CAMARGOS, CAMILLA H. M. ; LIU, CAIHONG ; <b>MARTINEZ, DIEGO</b> ; DE PAULA, AMAURI J",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "Environmental Science-Water Research & Technology"
+    },
+    {
+      "numero_item": 6,
+      "raw": "DE SOUSA MAIA, DJALMA LUCAS 2024 DE SOUSA MAIA, DJALMA LUCAS ; CÔA, FRANCINE ; DA SILVA, KELLY BARBOSA ; MARTINS, CARLOS HENRIQUE ZANINI ; Franqui, Lidiane Silva ; FONSECA, LEANDRO CARNEIRO ; DA SILVA, DOUGLAS SOARES ; DE SOUZA DELITE, FABRÍCIO ; Martinez, Diego Stéfani Teodoro ; Alves, Oswaldo Luiz . Drying of graphene oxide: effects on red blood cells and protein corona formation. JOURNAL OF MATERIALS SCIENCE , v. 59, p. 577-592, 2024.",
+      "autores": "DE SOUSA MAIA, DJALMA LUCAS DE SOUSA MAIA, DJALMA LUCAS; CÔA, FRANCINE; DA SILVA, KELLY BARBOSA; MARTINS, CARLOS HENRIQUE ZANINI; Franqui, Lidiane Silva; FONSECA, LEANDRO CARNEIRO; DA SILVA, DOUGLAS SOARES; DE SOUZA DELITE, FABRÍCIO; Martinez, Diego Stéfani Teodoro; Alves, Oswaldo Luiz",
+      "titulo": "Drying of graphene oxide: effects on red blood cells and protein corona formation",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10853-023-09163-2",
+      "fingerprint_sha1": "c0d544aa0cd0272a240e384cddfc3407379c49e4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SOUSA MAIA, DJALMA LUCAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10853-023-09163-2\" target=\"_blank\"></a>DE SOUSA MAIA, DJALMA LUCAS ; CÔA, FRANCINE ; DA SILVA, KELLY BARBOSA ; MARTINS, CARLOS HENR",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "JOURNAL OF MATERIALS SCIENCE"
+    },
+    {
+      "numero_item": 7,
+      "raw": "YANG, LIU 2024 YANG, LIU ; JACKSON, JENNIFER C. ; CAMARGOS, CAMILLA H. M. ; TORRES MAIA, MARCELLA ; Martinez, Diego Stéfani Teodoro ; JARDIM DE PAULA, AMAURI ; REZENDE, CAMILA A. ; FARIA, ANDREIA F. . Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications. Acs Applied Nano Materials , v. 7, p. 1477-1490, 2024.",
+      "autores": "YANG, LIU YANG, LIU; JACKSON, JENNIFER C.; CAMARGOS, CAMILLA H. M.; TORRES MAIA, MARCELLA; Martinez, Diego Stéfani Teodoro; JARDIM DE PAULA, AMAURI; REZENDE, CAMILA A.; FARIA, ANDREIA F.",
+      "titulo": "Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsanm.3c05880",
+      "fingerprint_sha1": "0a242e8a5b481d86e3a14727ae9eb5109a6fa337",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">YANG, LIU</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsanm.3c05880\" target=\"_blank\"></a>YANG, LIU ; JACKSON, JENNIFER C. ; CAMARGOS, CAMILLA H. M. ; TORRES MAIA, MARCELLA ; <b>Martinez, Diego Stéfani Te",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "Acs Applied Nano Materials"
+    },
+    {
+      "numero_item": 8,
+      "raw": "GUIDO, VINICIUS S. 2024 GUIDO, VINICIUS S. ; OLIVIERI, PAULO H. ; BRITO, MILENA L. ; PREZOTO, BENEDITO C. ; Martinez, Diego S. T. ; OLIVA, MARIA LUIZA V. ; SOUSA, ALIOSCKA A. . Stealth and Biocompatible Gold Nanoparticles through Surface Coating with a Zwitterionic Derivative of Glutathione. LANGMUIR , v. 40, p. 12167-12178, 2024.",
+      "autores": "GUIDO, VINICIUS S. GUIDO, VINICIUS S.; OLIVIERI, PAULO H.; BRITO, MILENA L.; PREZOTO, BENEDITO C.; Martinez, Diego S. T.; OLIVA, MARIA LUIZA V.; SOUSA, ALIOSCKA A.",
+      "titulo": "Stealth and Biocompatible Gold Nanoparticles through Surface Coating with a Zwitterionic Derivative of Glutathione",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acs.langmuir.4c01123",
+      "fingerprint_sha1": "45a657a185bb0371798c1df154d56669792c3d0d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUIDO, VINICIUS S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acs.langmuir.4c01123\" target=\"_blank\"></a>GUIDO, VINICIUS S. ; OLIVIERI, PAULO H. ; BRITO, MILENA L. ; PREZOTO, BENEDITO C. ; Martinez, Diego",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "LANGMUIR"
+    },
+    {
+      "numero_item": 9,
+      "raw": "ZHANG, PENG 2024 ZHANG, PENG ; CAO, MINGJING ; CHETWYND, ANDREW J. ; FASERL, KLAUS ; ABDOLAHPUR MONIKH, FAZEL ; ZHANG, WEI ; RAMAUTAR, RAWI ; ELLIS, LAURA-JAYNE A. ; DAVOUDI, HOSSEIN HAYAT ; REILLY, KATIE ; CAI, RONG ; WHEELER, KORIN E. ; Martinez, Diego Stéfani Teodoro ; GUO, ZHILING ; CHEN, CHUNYING ; LYNCH, ISEULT . Analysis of nanomaterial biocoronas in biological and environmental surroundings. Nature Protocols , v. 7, p. 1-43, 2024.",
+      "autores": "ZHANG, PENG ZHANG, PENG; CAO, MINGJING; CHETWYND, ANDREW J.; FASERL, KLAUS; ABDOLAHPUR MONIKH, FAZEL; ZHANG, WEI; RAMAUTAR, RAWI; ELLIS, LAURA-JAYNE A.; DAVOUDI, HOSSEIN HAYAT; REILLY, KATIE; CAI, RONG; WHEELER, KORIN E.; Martinez, Diego Stéfani Teodoro; GUO, ZHILING; CHEN, CHUNYING; LYNCH, ISEULT",
+      "titulo": "Analysis of nanomaterial biocoronas in biological and environmental surroundings",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1038/s41596-024-01009-8",
+      "fingerprint_sha1": "7da47b4f78181aaf231066b853e7bfd72ff1a6c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ZHANG, PENG</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1038/s41596-024-01009-8\" target=\"_blank\"></a>ZHANG, PENG ; CAO, MINGJING ; CHETWYND, ANDREW J. ; FASERL, KLAUS ; ABDOLAHPUR MONIKH, FAZEL ; ZHANG, WEI ; ",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "Nature Protocols"
+    },
+    {
+      "numero_item": 10,
+      "raw": "AZEVEDO, NATHALIA 2024 AZEVEDO, NATHALIA ; DE MEDEIROS, ALINE ; DA SILVA, GABRIELA ; BRITO, MILENA ; FARIA, JOÃO ; DELITE, FABRÍCIO ; PAULA, AMAURI ; MARTINEZ, DIEGO . Biocorona Formation and Hemolytic Effects of Graphene Oxide-Silver Nanoparticles. JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY , v. 35, p. 1-12, 2024.",
+      "autores": "AZEVEDO, NATHALIA AZEVEDO, NATHALIA; DE MEDEIROS, ALINE; DA SILVA, GABRIELA; BRITO, MILENA; FARIA, JOÃO; DELITE, FABRÍCIO; PAULA, AMAURI; MARTINEZ, DIEGO",
+      "titulo": "Biocorona Formation and Hemolytic Effects of Graphene Oxide-Silver Nanoparticles",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.21577/0103-5053.20240148",
+      "fingerprint_sha1": "51cd30395f9cc004f30030988c54ba966281533f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">AZEVEDO, NATHALIA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/0103-5053.20240148\" target=\"_blank\"></a>AZEVEDO, NATHALIA ; DE MEDEIROS, ALINE ; DA SILVA, GABRIELA ; BRITO, MILENA ; FARIA, JOÃO ; DELITE, F",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY"
+    },
+    {
+      "numero_item": 11,
+      "raw": "DA ROSA SALLES, THEODORO 2024 DA ROSA SALLES, THEODORO ; ZANCANARO, LEONARDO VIDAL ; DA SILVA BRUCKMANN, FRANCIELE ; GARCIA, WAGNER JESUS ; DE OLIVEIRA, ARTUR HARRES ; BAUMANN, LUIZA ; RHODEN, DANIELE SOARES BASSO ; MULLER, EDSON IRINEU ; MARTINEZ, DIEGO STEFANI TEODORO ; MORTARI, SERGIO ROBERTO ; RHODEN, CRISTIANO RODRIGO BOHN . Magnetic graphene derivates for efficient herbicide removal from aqueous solution through adsorption. Environmental Science and Pollution Research , v. 31, p. 25437-25453, 2024.",
+      "autores": "DA ROSA SALLES, THEODORO DA ROSA SALLES, THEODORO; ZANCANARO, LEONARDO VIDAL; DA SILVA BRUCKMANN, FRANCIELE; GARCIA, WAGNER JESUS; DE OLIVEIRA, ARTUR HARRES; BAUMANN, LUIZA; RHODEN, DANIELE SOARES BASSO; MULLER, EDSON IRINEU; MARTINEZ, DIEGO STEFANI TEODORO; MORTARI, SERGIO ROBERTO; RHODEN, CRISTIANO RODRIGO BOHN",
+      "titulo": "Magnetic graphene derivates for efficient herbicide removal from aqueous solution through adsorption",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11356-024-32845-6",
+      "fingerprint_sha1": "a37bddda301c3932bb9e9dec895349e1450f2fa5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA ROSA SALLES, THEODORO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11356-024-32845-6\" target=\"_blank\"></a>DA ROSA SALLES, THEODORO ; ZANCANARO, LEONARDO VIDAL ; DA SILVA BRUCKMANN, FRANCIELE ; GARCIA, ",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "Environmental Science and Pollution Research"
+    },
+    {
+      "numero_item": 12,
+      "raw": "PETRY, ROMANA 2024 PETRY, ROMANA ; DE ALMEIDA, JAMES M ; CÔA, FRANCINE ; CRASTO DE LIMA, FELIPE ; MARTINEZ, DIEGO STÉFANI T ; FAZZIO, ADALBERTO . Interaction of graphene oxide with tannic acid: computational modeling and toxicity mitigation in C. elegans. Beilstein Journal of Nanotechnology , v. 15, p. 1297-1311, 2024.",
+      "autores": "PETRY, ROMANA PETRY, ROMANA; DE ALMEIDA, JAMES M; CÔA, FRANCINE; CRASTO DE LIMA, FELIPE; MARTINEZ, DIEGO STÉFANI T; FAZZIO, ADALBERTO",
+      "titulo": "Interaction of graphene oxide with tannic acid: computational modeling and toxicity mitigation in C",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3762/bjnano.15.105",
+      "fingerprint_sha1": "b99e24b2101090998f9bf792d4b254c292fcd035",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PETRY, ROMANA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3762/bjnano.15.105\" target=\"_blank\"></a>PETRY, ROMANA ; DE ALMEIDA, JAMES M ; CÔA, FRANCINE ; CRASTO DE LIMA, FELIPE ; <b>MARTINEZ, DIEGO STÉFANI T</b>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "elegans. Beilstein Journal of Nanotechnology"
+    },
+    {
+      "numero_item": 13,
+      "raw": "DA SILVA, GABRIELA HELENA 2024 DA SILVA, GABRIELA HELENA ; JI, JING ; MAIA, MARCELLA TORRES ; MATTIA, DAVIDE ; Martinez, Diego Stéfani Teodoro . Exploring the combined toxicity of boron nitride nanosheets, cadmium and natural organic matter on Daphnia magna. AQUATIC TOXICOLOGY , v. 279, p. 107198, 2024.",
+      "autores": "DA SILVA, GABRIELA HELENA DA SILVA, GABRIELA HELENA; JI, JING; MAIA, MARCELLA TORRES; MATTIA, DAVIDE; Martinez, Diego Stéfani Teodoro",
+      "titulo": "Exploring the combined toxicity of boron nitride nanosheets, cadmium and natural organic matter on Daphnia magna",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aquatox.2024.107198",
+      "fingerprint_sha1": "900e26cc98ca2077f955e343ea3e9e24b5ab94ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, GABRIELA HELENA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aquatox.2024.107198\" target=\"_blank\"></a>DA SILVA, GABRIELA HELENA ; JI, JING ; MAIA, MARCELLA TORRES ; MATTIA, DAVIDE ; <b>Martinez",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.240566"
+      },
+      "veiculo": "AQUATIC TOXICOLOGY"
+    },
+    {
+      "numero_item": 8,
+      "raw": "MARTINEZ, D.S.T. . CNPEM-IBM School Sustainable Materials & AI. 2025. (Outro).",
+      "autores": "MARTINEZ, D.S.T.",
+      "titulo": "CNPEM-IBM School Sustainable Materials & AI",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1fac854109469092cd49db53bde7b1177f792037",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MARTINEZ, D.S.T.</b>. CNPEM-IBM School Sustainable Materials &amp; AI. 2025. (Outro). </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.249915"
+      },
+      "veiculo": "2025. (Outro)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "MARTINEZ, D.S.T. . VIII Curso de Introdução - Nanotecnologia & Nanotoxicologia. 2025. (Outro).",
+      "autores": "MARTINEZ, D.S.T.",
+      "titulo": "VIII Curso de Introdução - Nanotecnologia & Nanotoxicologia",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "13624f16fb97bdf23bf56ef9d20ab47c63430827",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MARTINEZ, D.S.T.</b>. VIII Curso de Introdução - Nanotecnologia &amp; Nanotoxicologia. 2025. (Outro). </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.249915"
+      },
+      "veiculo": "2025. (Outro)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "MARTINEZ, D.S.T. . VII Curso de Introdução - Nanotecnologia & Nanotoxicologia. 2024. (Outro).",
+      "autores": "MARTINEZ, D.S.T.",
+      "titulo": "VII Curso de Introdução - Nanotecnologia & Nanotoxicologia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0c9193511e4890c02d6ff3c371b797bb0e46c380",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MARTINEZ, D.S.T.</b>. VII Curso de Introdução - Nanotecnologia &amp; Nanotoxicologia. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.249915"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Laura Vieira Malachias. Machine learning and computational vision for aquatic ecotoxicity assessment. Início: 2025. Dissertação (Mestrado profissional em TECNOLOGIA) - Universidade Estadual de Campinas. (Orientador).",
+      "autores": null,
+      "titulo": "Machine learning and computational vision for aquatic ecotoxicity assessment",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7c87e652a0518aeff1707eeac4c91a5f5c32360b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3366213273880246\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Laura Vieira Malachias. Machine learning and computational vision for aquatic ecotoxicity assessment.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado profissional em TECNOLOGIA)  - Universidade Estadual de Campinas. (Orientador). </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2025. Dissertação (Mestrado profissional em TECNOLOGIA) - Universidade Estadual de Campinas. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Mateus Pereira Teles. Nanobiointerações do óxido de grafeno: Compreendendo os impactos do processamento do material na hemólise e na formação da corona de proteínas. Início: 2025. Dissertação (Mestrado profissional em Biologia Molecular e Morfofuncional) - Universidade Estadual de Campinas, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "Nanobiointerações do óxido de grafeno: Compreendendo os impactos do processamento do material na hemólise e na formação da corona de proteínas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3a7d19fa195a1f83d07399beb3c3aaeb969eb992",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/0321492082870334\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Mateus Pereira Teles. Nanobiointerações do óxido de grafeno: Compreendendo os impactos do processamento do material na hemólise e na formação da corona de proteínas.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado profissional em Biologia Molecular e Morfofuncional)  - Universidade Estadual de Campinas,",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2025. Dissertação (Mestrado profissional em Biologia Molecular e Morfofuncional) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Daniel Silva Violin. Influência do corona biomolecular do fluido perivitelínica na toxicidade de nanopartículas de óxido de cobre em embriões de Zebrafish. Início: 2024. Dissertação (Mestrado profissional em TECNOLOGIA) - Universidade Estadual de Campinas, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "Influência do corona biomolecular do fluido perivitelínica na toxicidade de nanopartículas de óxido de cobre em embriões de Zebrafish",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f14b515acd611812ddd1f9a7bc2cc3beae28cf94",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2029190893437621\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Daniel Silva Violin. Influência do corona biomolecular do fluido perivitelínica na toxicidade de nanopartículas de óxido de cobre em embriões de Zebrafish.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em TECNOLOGIA)  - Universidade Estadual de Campinas, Fundação de Amparo à Pesquisa do E",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2024. Dissertação (Mestrado profissional em TECNOLOGIA) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Manoel Messias Coutinho Meira. Biodegradação de nanocompósitos de pectina em larvas do inseto Tenebrio molitor: Caracterização integrada e Ecotoxicidade. Início: 2025. Tese (Doutorado em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Biodegradação de nanocompósitos de pectina em larvas do inseto Tenebrio molitor: Caracterização integrada e Ecotoxicidade",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ff9f61f7c77985601796215f32cd5d16b33dfb07",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1276479666609854\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Manoel Messias Coutinho Meira. Biodegradação de nanocompósitos de pectina em larvas do inseto Tenebrio molitor: Caracterização integrada e Ecotoxicidade.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Ciências (Energia Nuclear na Agricultura))  - Universidade de São Paulo, Coordenação de Aperfeiçoamento de Pes",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2025. Tese (Doutorado em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Heidie da Silva Torres. Nanotubos de carbono como materiais antimicrobianos: funcionalização, caracterização e toxicidade. Início: 2024. Tese (Doutorado em TECNOLOGIA) - Universidade Estadual de Campinas, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Nanotubos de carbono como materiais antimicrobianos: funcionalização, caracterização e toxicidade",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5de8121d84e9fb2d76f218ae37f1b115c3aee96d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3576750331618571\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Heidie da Silva Torres. Nanotubos de carbono como materiais antimicrobianos: funcionalização, caracterização e toxicidade.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em TECNOLOGIA)  - Universidade Estadual de Campinas, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em TECNOLOGIA) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Matheus Alves Siqueira de Assunção. New Approach Methodologies - Systems toxicology for understading the effects of pulmonary surfactant corona on graphene oxide-based materials toxicity. Início: 2024. Tese (Doutorado em Biologia Molecular e Morfofuncional) - Universidade Estadual de Campinas, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "New Approach Methodologies - Systems toxicology for understading the effects of pulmonary surfactant corona on graphene oxide-based materials toxicity",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "285e908fe456bfb0bd8f3b99e65fbefc7ea0aa7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3697149609126450\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Matheus Alves Siqueira de Assunção. New Approach Methodologies - Systems toxicology for understading the effects of pulmonary surfactant corona on graphene oxide-based materials toxicity.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Biologia Molecular e Morfofuncional)  - Universidade Estadual de Campinas, F",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em Biologia Molecular e Morfofuncional) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Francisco Lucas Chaves Almeida. Início: 2025. Centro Nacional de Pesquisa em Energia e Materiais, Fundação de Amparo à Pesquisa do Estado de São Paulo.",
+      "autores": null,
+      "titulo": "Início: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "04547b2dfc1443d3221f075e654e10e5e3338c58",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Francisco Lucas Chaves Almeida.\n\t\t\t\t\tInício: 2025. Centro Nacional de Pesquisa em Energia e Materiais, Fundação de Amparo à Pesquisa do Estado de São Paulo. </span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "Centro Nacional de Pesquisa em Energia e Materiais"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Romana Petry. Computational-experimental approach in Environmental Nanotoxicology - Tannic acid graphene-oxide and atrazine molecular interactions and mixture toxicity. 2024. Tese (Doutorado em Nanociências e Materiais Avançados) - Universidade Federal do ABC, Fundação de Amparo à Pesquisa do Estado de São Paulo. Coorientador: Diego Stéfani Teodoro Martinez.",
+      "autores": "Romana Petry. Computational-experimental approach in Environmental Nanotoxicology - Tannic acid graphene-oxide and atrazine molecular interactions and mixture toxicity. 2024. Tese (Doutorado em Nanociências e Materiais Avançados) - Universidade Federal do ABC, Fundação de Amparo à Pesquisa do Estado de São Paulo. Coorientador: Diego Stéfani Teodoro Martinez",
+      "titulo": "Computational-experimental approach in Environmental Nanotoxicology - Tannic acid graphene-oxide and atrazine molecular interactions and mixture toxicity",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "032fc62abd089ab837afd77819773a6ca3251b63",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8705312160206340\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Romana Petry.\n\t\t\t\t\t\tComputational-experimental approach in Environmental Nanotoxicology - Tannic acid graphene-oxide and atrazine molecular interactions and mixture toxicity.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Nanociências e Materiais Avançados)  - Universidade Federal do ABC, Fundação de Amparo à P",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "2024. Tese (Doutorado em Nanociências e Materiais Avançados) - Universidade Federal do ABC"
+    },
+    {
+      "numero_item": 35,
+      "raw": "Laura Vieira Malachias. Preparação, caracterização e ecotoxicidade de nanopartículas de lignina. 2024. Iniciação Científica. (Graduando em Iniciação Ciêntífica) - Centro Nacional de Pesquisa em Energia e Materiais, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Diego Stéfani Teodoro Martinez.",
+      "autores": null,
+      "titulo": "Preparação, caracterização e ecotoxicidade de nanopartículas de lignina",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4018141476439225f8156d641e78d599087f2aa1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laura Vieira Malachias.\n\t\t\t\t\t\tPreparação, caracterização e ecotoxicidade de nanopartículas de lignina.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Iniciação Ciêntífica)  - Centro Nacional de Pesquisa em Energia e Materiais,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Diego Stéfani Teodoro Martinez.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "2024. Iniciação Científica. (Graduando em Iniciação Ciêntífica) - Centro Nacional de Pesquisa em Energia e Materiais"
+    },
+    {
+      "numero_item": 36,
+      "raw": "Guilherme Albanese Trotta. Corona de lignina em nanopartícula de cobre e óxido de grafeno: avaliação da estabilidade e efeito na toxicidade. 2024. Iniciação Científica. (Graduando em Iniciação Ciêntífica) - Centro Nacional de Pesquisa em Energia e Materiais, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Diego Stéfani Teodoro Martinez.",
+      "autores": null,
+      "titulo": "Corona de lignina em nanopartícula de cobre e óxido de grafeno: avaliação da estabilidade e efeito na toxicidade",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22eb79cdd77787c876124488be9b12b65bd990ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Guilherme Albanese Trotta.\n\t\t\t\t\t\tCorona de lignina em nanopartícula de cobre e óxido de grafeno: avaliação da estabilidade e efeito na toxicidade.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Iniciação Ciêntífica)  - Centro Nacional de Pesquisa em Energia e Materiais,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Diego Stéfani Teodoro Martinez.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4898006494427762__diego-stefani-teodoro-martinez.full_profile.html",
+        "lattes_id": "4898006494427762",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.257808"
+      },
+      "veiculo": "2024. Iniciação Científica. (Graduando em Iniciação Ciêntífica) - Centro Nacional de Pesquisa em Energia e Materiais"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "5778107814199711",
+    "full_name": "Raúl Alberto Laumann",
+    "slug": "raul-alberto-laumann",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:38.072717",
+    "source_file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+    "total_productions": 16,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 13,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 3,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 0,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 2,
+      "raw": "TAKADA, SAYURI CRISTINA SANTOS 2025 TAKADA, SAYURI CRISTINA SANTOS ; Blassioli-Moraes, Maria Carolina ; Borges, Miguel ; Laumann, Raul Alberto ; MARAVALHO, IZABELLA VITÓRIA ; SILVA, WENDER ALVES . Microwave-Assisted Enantioselective Synthesis of (2R,5S)-Theaspirane: A Green Chemistry Approach. MOLECULES , v. 30, p. 1519, 2025.",
+      "autores": "TAKADA, SAYURI CRISTINA SANTOS TAKADA, SAYURI CRISTINA SANTOS; Blassioli-Moraes, Maria Carolina; Borges, Miguel; Laumann, Raul Alberto; MARAVALHO, IZABELLA VITÓRIA; SILVA, WENDER ALVES",
+      "titulo": "Microwave-Assisted Enantioselective Synthesis of (2R,5S)-Theaspirane: A Green Chemistry Approach",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/molecules30071519",
+      "fingerprint_sha1": "c77dc524908176003e3d8bb0880f90ff449d4075",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TAKADA, SAYURI CRISTINA SANTOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/molecules30071519\" target=\"_blank\"></a>TAKADA, SAYURI CRISTINA SANTOS ; Blassioli-Moraes, Maria Carolina ; Borges, Miguel ; <b>La",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "MOLECULES"
+    },
+    {
+      "numero_item": 3,
+      "raw": "OLIVEIRA, ISIS CAROLINA SOUTO 2025 OLIVEIRA, ISIS CAROLINA SOUTO ; BLASSIOLI'MORAES, MARIA CAROLINA ; TORRES, CAIO AUGUSTO ROSADO ; CATAFESTA, GIANCARLO ; FIDELIS, ELISANGELA GOMES ; Laumann, Raul Alberto ; Borges, Miguel ; LOPES, ROGERIO BIAGGIONI . Defensive compounds of Blissus pulchellus (Hemiptera: Blissidae) as a barrier against infection by entomopathogenic fungi. PHYSIOLOGICAL ENTOMOLOGY , v. 2025, p. 1-9, 2025.",
+      "autores": "OLIVEIRA, ISIS CAROLINA SOUTO OLIVEIRA, ISIS CAROLINA SOUTO; BLASSIOLI'MORAES, MARIA CAROLINA; TORRES, CAIO AUGUSTO ROSADO; CATAFESTA, GIANCARLO; FIDELIS, ELISANGELA GOMES; Laumann, Raul Alberto; Borges, Miguel; LOPES, ROGERIO BIAGGIONI",
+      "titulo": "Defensive compounds of Blissus pulchellus (Hemiptera: Blissidae) as a barrier against infection by entomopathogenic fungi",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/phen.12494",
+      "fingerprint_sha1": "8bcc6df548374a4582e91c51a19d5bc7d3987233",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, ISIS CAROLINA SOUTO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/phen.12494\" target=\"_blank\"></a>OLIVEIRA, ISIS CAROLINA SOUTO ; BLASSIOLI'MORAES, MARIA CAROLINA ; TORRES, CAIO AUGUSTO ROSADO ; C",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "PHYSIOLOGICAL ENTOMOLOGY"
+    },
+    {
+      "numero_item": 4,
+      "raw": "SANCHES, MATEUS DE SOUZA 2025 SANCHES, MATEUS DE SOUZA ; Michereff, Mirian Fernandes Furtado ; Borges, Miguel ; Laumann, Raul Alberto ; DE OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA ; Blassioli-Moraes, Maria Carolina . How Much, How Long and When: Density, Duration and Plant Stage Affect Herbivore-induced Plant Volatiles in Maize by the Corn Leafhopper. JOURNAL OF CHEMICAL ECOLOGY , v. 51, p. 1, 2025.",
+      "autores": "SANCHES, MATEUS DE SOUZA SANCHES, MATEUS DE SOUZA; Michereff, Mirian Fernandes Furtado; Borges, Miguel; Laumann, Raul Alberto; DE OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA; Blassioli-Moraes, Maria Carolina",
+      "titulo": "How Much, How Long and When: Density, Duration and Plant Stage Affect Herbivore-induced Plant Volatiles in Maize by the Corn Leafhopper",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10886-025-01600-7",
+      "fingerprint_sha1": "1a3da3fe061fa2450cc95fa3822a42a74ac8868f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANCHES, MATEUS DE SOUZA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10886-025-01600-7\" target=\"_blank\"></a>SANCHES, MATEUS DE SOUZA ; Michereff, Mirian Fernandes Furtado ; Borges, Miguel ; <b>Laumann, R",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "JOURNAL OF CHEMICAL ECOLOGY"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Blassioli-Moraes, M. C. 2025 Blassioli-Moraes, M. C. ; KHRIMIAN, A. ; MICHEREFF, M. F. F. ; MAGALHÃES, D. M. ; COSTA, J. V. M. ; HICKEL, E. R. ; BARRIGOSSI, J. A. ; LAUMANN, R. A. ; GUGGILAPU, S. D. ; GRAZIA, J. ; Borges, M. . Shared Pheromone Compounds in Neotropical Rice Stink Bugs: The Role of Zingiberenol and Sesquipiperitol. JOURNAL OF CHEMICAL ECOLOGY , v. 51, p. 1, 2025.",
+      "autores": "Blassioli-Moraes, M. C. Blassioli-Moraes, M. C.; KHRIMIAN, A.; MICHEREFF, M. F. F.; MAGALHÃES, D. M.; COSTA, J. V. M.; HICKEL, E. R.; BARRIGOSSI, J. A.; LAUMANN, R. A.; GUGGILAPU, S. D.; GRAZIA, J.; Borges, M.",
+      "titulo": "Shared Pheromone Compounds in Neotropical Rice Stink Bugs: The Role of Zingiberenol and Sesquipiperitol",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10886-025-01551-z",
+      "fingerprint_sha1": "7c29baac841c3eaf64d79e6cece144d1a1594517",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Blassioli-Moraes, M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10886-025-01551-z\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" target=\"_blank\" title=\"Clique p",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "JOURNAL OF CHEMICAL ECOLOGY"
+    },
+    {
+      "numero_item": 6,
+      "raw": "DE CASTRO, BRUNA SARTÓRIO 2025 DE CASTRO, BRUNA SARTÓRIO ; CORREIA, MAURO VICENTINI ; Michereff, Mirian Fernandes Furtado ; Laumann, Raúl Alberto ; Borges, Miguel ; Blassioli-Moraes, Maria Carolina . Impact of Crotalaria spectabilis and Zea mays volatiles on Spodoptera frugiperda behaviour: implications for sustainable maize pest management using companion plants. JOURNAL OF PEST SCIENCE , v. 1, p. 1, 2025.",
+      "autores": "DE CASTRO, BRUNA SARTÓRIO DE CASTRO, BRUNA SARTÓRIO; CORREIA, MAURO VICENTINI; Michereff, Mirian Fernandes Furtado; Laumann, Raúl Alberto; Borges, Miguel; Blassioli-Moraes, Maria Carolina",
+      "titulo": "Impact of Crotalaria spectabilis and Zea mays volatiles on Spodoptera frugiperda behaviour: implications for sustainable maize pest management using companion plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s10340-025-01952-9",
+      "fingerprint_sha1": "509086732cdf95d52b662e30bf0ef93435b4378a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE CASTRO, BRUNA SARTÓRIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10340-025-01952-9\" target=\"_blank\"></a>DE CASTRO, BRUNA SARTÓRIO ; CORREIA, MAURO VICENTINI ; Michereff, Mirian Fernandes Furtado ; <",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "JOURNAL OF PEST SCIENCE"
+    },
+    {
+      "numero_item": 7,
+      "raw": "SANCHES, MATEUS SOUZA 2025 SANCHES, MATEUS SOUZA ; Borges, Miguel ; Laumann, Raul Alberto ; OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA ; Blassioli-Moraes, Maria Carolina . Males of Dalbulus maidis Attract Females Through Volatile Compounds with Potential Pheromone Function: A Tool for Pest Management. INSECTS , v. 16, p. 1021, 2025.",
+      "autores": "SANCHES, MATEUS SOUZA SANCHES, MATEUS SOUZA; Borges, Miguel; Laumann, Raul Alberto; OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA; Blassioli-Moraes, Maria Carolina",
+      "titulo": "Males of Dalbulus maidis Attract Females Through Volatile Compounds with Potential Pheromone Function: A Tool for Pest Management",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/insects16101021",
+      "fingerprint_sha1": "943404e99313b2f1b6aa50c544ee9ca9304a283e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANCHES, MATEUS SOUZA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/insects16101021\" target=\"_blank\"></a>SANCHES, MATEUS SOUZA ; Borges, Miguel ; <b>Laumann, Raul Alberto</b> ; OLIVEIRA, CHARLES MARTINS ; F",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "INSECTS"
+    },
+    {
+      "numero_item": 8,
+      "raw": "DE LACERDA RAMOS, DAVI 2024 DE LACERDA RAMOS, DAVI ; BORDUCHI, LUÍS CARLOS LEVA ; COSTA, RAÍSSA ; FONTES, ELIANA MARIA GOUVEIA ; Laumann, Raul Alberto ; MENEZES, CRISTIANO ; MOTA, THEO ; SUJII, EDISON RYOITI ; PIRES, CARMEN SÍLVIA SOARES . Acclimatization and Foraging of Native Brazilian Stingless Bees in Arenas with Covering Materials of Different Spectral Properties. NEOTROPICAL ENTOMOLOGY , v. 53, p. 499-513, 2024.",
+      "autores": "DE LACERDA RAMOS, DAVI DE LACERDA RAMOS, DAVI; BORDUCHI, LUÍS CARLOS LEVA; COSTA, RAÍSSA; FONTES, ELIANA MARIA GOUVEIA; Laumann, Raul Alberto; MENEZES, CRISTIANO; MOTA, THEO; SUJII, EDISON RYOITI; PIRES, CARMEN SÍLVIA SOARES",
+      "titulo": "Acclimatization and Foraging of Native Brazilian Stingless Bees in Arenas with Covering Materials of Different Spectral Properties",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s13744-024-01140-x",
+      "fingerprint_sha1": "033805b851ebb5c321f1ca66bd3425f8a47051b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE LACERDA RAMOS, DAVI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s13744-024-01140-x\" target=\"_blank\"></a>DE LACERDA RAMOS, DAVI ; BORDUCHI, LUÍS CARLOS LEVA ; COSTA, RAÍSSA ; FONTES, ELIANA MARIA GOUVEI",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "NEOTROPICAL ENTOMOLOGY"
+    },
+    {
+      "numero_item": 9,
+      "raw": "DOS SANTOS, ETHIANE ROZO 2024 DOS SANTOS, ETHIANE ROZO ; DE CAMARGO, BRENDA RABELO ; DA SILVA, LEONARDO ASSIS ; Laumann, Raul Alberto ; RIBEIRO, BERGMANN MORAIS ; ARDISSON-ARAÚJO, DANIEL M. P. . The multispecies stinkbug iflavirus Halyomorpha halys virus detected in the multispecies stinkbug egg parasitoid microwasp, Telenomus podisi (Ashmead) (Hymenoptera: Platygastridae). BRAZILIAN JOURNAL OF MICROBIOLOGY , v. 1, p. 1, 2024.",
+      "autores": "DOS SANTOS, ETHIANE ROZO DOS SANTOS, ETHIANE ROZO; DE CAMARGO, BRENDA RABELO; DA SILVA, LEONARDO ASSIS; Laumann, Raul Alberto; RIBEIRO, BERGMANN MORAIS; ARDISSON-ARAÚJO, DANIEL M. P.",
+      "titulo": "The multispecies stinkbug iflavirus Halyomorpha halys virus detected in the multispecies stinkbug egg parasitoid microwasp, Telenomus podisi (Ashmead) (Hymenoptera: Platygastridae)",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s42770-024-01340-y",
+      "fingerprint_sha1": "c9e75e3943378289340dba0812c1c9c48b650b7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DOS SANTOS, ETHIANE ROZO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s42770-024-01340-y\" target=\"_blank\"></a>DOS SANTOS, ETHIANE ROZO ; DE CAMARGO, BRENDA RABELO ; DA SILVA, LEONARDO ASSIS ; <b>Laumann, R",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "BRAZILIAN JOURNAL OF MICROBIOLOGY"
+    },
+    {
+      "numero_item": 10,
+      "raw": "LAGÔA, ANA CAROLINA G. 2024 LAGÔA, ANA CAROLINA G. ; TOGNI, PEDRO H. B. ; AQUINO, MICHELY F. ; Blassioli-Moraes, Maria Carolina ; BORGES, Miguel ; Laumann, Raúl A. . Chemical and visual stimuli for conservation biological control of stink bugs in soybean: potential use and flaws on egg parasitoid recruitment. BIOCONTROL , v. 1, p. 1, 2024.",
+      "autores": "LAGÔA, ANA CAROLINA G. LAGÔA, ANA CAROLINA G.; TOGNI, PEDRO H. B.; AQUINO, MICHELY F.; Blassioli-Moraes, Maria Carolina; BORGES, Miguel; Laumann, Raúl A.",
+      "titulo": "Chemical and visual stimuli for conservation biological control of stink bugs in soybean: potential use and flaws on egg parasitoid recruitment",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10526-024-10241-w",
+      "fingerprint_sha1": "d71e5768f7262f287972c41286e31dda42cd5cb3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LAGÔA, ANA CAROLINA G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10526-024-10241-w\" target=\"_blank\"></a>LAGÔA, ANA CAROLINA G. ; TOGNI, PEDRO H. B. ; AQUINO, MICHELY F. ; Blassioli-Moraes, Maria Caroli",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "BIOCONTROL"
+    },
+    {
+      "numero_item": 11,
+      "raw": "CINGOLANI, MARÍA FERNANDA 2024 CINGOLANI, MARÍA FERNANDA ; Laumann, Raúl Alberto . Conservation biological control of stink bugs: current knowledge and future perspectives. BIOCONTROL , v. 1, p. 1, 2024.",
+      "autores": "CINGOLANI, MARÍA FERNANDA CINGOLANI, MARÍA FERNANDA; Laumann, Raúl Alberto",
+      "titulo": "Conservation biological control of stink bugs: current knowledge and future perspectives",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10526-024-10283-0",
+      "fingerprint_sha1": "cc00a216f18038eedc9b025f1424500eb72d6408",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CINGOLANI, MARÍA FERNANDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10526-024-10283-0\" target=\"_blank\"></a>CINGOLANI, MARÍA FERNANDA ; <b>Laumann, Raúl Alberto</b> . Conservation biological control of ",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "BIOCONTROL"
+    },
+    {
+      "numero_item": 12,
+      "raw": "EVANGELISTA, JULIANE 2024 EVANGELISTA, JULIANE ; BLASSIOLI'MORAES, MARIA CAROLINA ; Laumann, Raúl Alberto ; Borges, Miguel ; DE OLIVEIRA, CHARLES MARTINS ; FRIZZAS, MARINA REGINA . Bait type affects the diversity assessment of cetoniid beetles in the Brazilian Cerrado. ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA , v. 1, p. 1, 2024.",
+      "autores": "EVANGELISTA, JULIANE EVANGELISTA, JULIANE; BLASSIOLI'MORAES, MARIA CAROLINA; Laumann, Raúl Alberto; Borges, Miguel; DE OLIVEIRA, CHARLES MARTINS; FRIZZAS, MARINA REGINA",
+      "titulo": "Bait type affects the diversity assessment of cetoniid beetles in the Brazilian Cerrado",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1111/eea.13505",
+      "fingerprint_sha1": "5ae1b0cb9c431691f0f500dd62e621211a8b9b76",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">EVANGELISTA, JULIANE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/eea.13505\" target=\"_blank\"></a>EVANGELISTA, JULIANE ; BLASSIOLI'MORAES, MARIA CAROLINA ; <b>Laumann, Raúl Alberto</b> ; Borges, Miguel ; DE",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA"
+    },
+    {
+      "numero_item": 13,
+      "raw": "MARINS, GABRIEL 2024 MARINS, GABRIEL ; AQUINO, MICHELY FERREIRA SANTOS DE ; DA SILVA, ANA CLAUDIA ; DE QUEIROZ, HEITOR AUGUSTO CASTILHA ; Laumann, Raúl Alberto ; TOGNI, PEDRO HENRIQUE BRUM . Through the green mosaic: Different tropical vegetation types have complementary effects on parasitoid diversity and biological control in organic agroecosystems. AGRICULTURE ECOSYSTEMS & ENVIRONMENT , v. 374, p. 109162, 2024.",
+      "autores": "MARINS, GABRIEL MARINS, GABRIEL; AQUINO, MICHELY FERREIRA SANTOS DE; DA SILVA, ANA CLAUDIA; DE QUEIROZ, HEITOR AUGUSTO CASTILHA; Laumann, Raúl Alberto; TOGNI, PEDRO HENRIQUE BRUM",
+      "titulo": "Through the green mosaic: Different tropical vegetation types have complementary effects on parasitoid diversity and biological control in organic agroecosystems",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.agee.2024.109162",
+      "fingerprint_sha1": "d1f52fa6153ecf858fc0b557e4de283a82bde2eb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MARINS, GABRIEL</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.agee.2024.109162\" target=\"_blank\"></a>MARINS, GABRIEL ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3112210515284047\" target=\"_blank\" title",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "AGRICULTURE ECOSYSTEMS & ENVIRONMENT"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Michereff, Mirian Fernandes Furtado 2024 Michereff, Mirian Fernandes Furtado ; MAGALHÃES, DIEGO MARTINS ; DO NASCIMENTO, IZABELA NUNES ; Laumann, Raúl Alberto ; Borges, Miguel ; WITHALL, DAVID MATTHEW ; BIRKETT, MICHAEL ALEXANDER ; BLASSIOLI'MORAES, MARIA CAROLINA . Attracting Scelionidae egg parasitoids to enhance stink bug egg parasitisation in soybean crops using methyl salicylate and ( E , E )-α-farnesene. PEST MANAGEMENT SCIENCE , v. 1, p. 1, 2024.",
+      "autores": "Michereff, Mirian Fernandes Furtado Michereff, Mirian Fernandes Furtado; MAGALHÃES, DIEGO MARTINS; DO NASCIMENTO, IZABELA NUNES; Laumann, Raúl Alberto; Borges, Miguel; WITHALL, DAVID MATTHEW; BIRKETT, MICHAEL ALEXANDER; BLASSIOLI'MORAES, MARIA CAROLINA",
+      "titulo": "Attracting Scelionidae egg parasitoids to enhance stink bug egg parasitisation in soybean crops using methyl salicylate and ( E , E )-α-farnesene",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/ps.8274",
+      "fingerprint_sha1": "b85b11239957eead86e0142018cd2e2f4cca3927",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Michereff, Mirian Fernandes Furtado</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/ps.8274\" target=\"_blank\"></a>Michereff, Mirian Fernandes Furtado ; MAGALHÃES, DIEGO MARTINS ; DO NASCIMENTO, IZABELA NUNES ;",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:38.037126"
+      },
+      "veiculo": "PEST MANAGEMENT SCIENCE"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Mayara Siqueira Messias. Biologia de Blissus sp em milho e arroz. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Zoologia) - Universidade de BrasÃ­lia, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Biologia de Blissus sp em milho e arroz",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eabbf94275a930e757f09e1edfaea9c626ad6f04",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9438522278797472\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Mayara Siqueira Messias. Biologia de Blissus sp em milho e arroz.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Zoologia)  - Universidade de BrasÃ­lia, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.062108"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Zoologia) - Universidade de BrasÃ­lia"
+    },
+    {
+      "numero_item": 3,
+      "raw": "BÃ¡rbara Sthefanny Silva dos Santos. AvaliaÃ§Ã£o de armadilhas automatizadas para o monitoramento de percevejos em cultivos de soja.. InÃ­cio: 2025 - Empresa Brasileira de Pesquisa AgropecuÃ¡ria, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de armadilhas automatizadas para o monitoramento de percevejos em cultivos de soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a0a47a4982913b616d0bc5224c6c50368ba9a8b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BÃ¡rbara Sthefanny Silva dos Santos. AvaliaÃ§Ã£o de armadilhas automatizadas para o monitoramento de percevejos em cultivos de soja.. InÃ­cio: 2025 - Empresa Brasileira de Pesquisa AgropecuÃ¡ria, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.062108"
+      },
+      "veiculo": "InÃ­cio: 2025 - Empresa Brasileira de Pesquisa AgropecuÃ¡ria"
+    },
+    {
+      "numero_item": 63,
+      "raw": "Izabella Cerqueira de Paula. Aprimoramento e validaÃ§Ã£o a campo da estratÃ©gia atrai-infecta com o uso combinado de ferormÃ´nio e fungo entomopatogÃªnico visando ao controle biolÃ³gico da broca da bananeira. 2024. OrientaÃ§Ã£o de outra natureza - Empresa Brasileira de Pesquisa AgropecuÃ¡ria, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: RaÃºl Alberto Laumann.",
+      "autores": null,
+      "titulo": "Aprimoramento e validaÃ§Ã£o a campo da estratÃ©gia atrai-infecta com o uso combinado de ferormÃ´nio e fungo entomopatogÃªnico visando ao controle biolÃ³gico da broca da bananeira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f8e9f4d5d113c7a754f42eb76199737035a7adba",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Izabella Cerqueira de Paula.\n\t\t\t\t\t\tAprimoramento e validaÃ§Ã£o a campo da estratÃ©gia atrai-infecta com o uso combinado de ferormÃ´nio e fungo entomopatogÃªnico visando ao controle biolÃ³gico da broca da bananeira.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza - Empresa Brasileira de Pesquisa AgropecuÃ¡ria,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: RaÃºl Alberto Laumann.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5778107814199711__raul-alberto-laumann.full_profile.html",
+        "lattes_id": "5778107814199711",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:38.062108"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza - Empresa Brasileira de Pesquisa AgropecuÃ¡ria"
+    }
+  ]
+}

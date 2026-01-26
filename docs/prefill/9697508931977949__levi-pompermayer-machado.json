@@ -1,0 +1,671 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "9697508931977949",
+    "full_name": "Levi Pompermayer Machado",
+    "slug": "levi-pompermayer-machado",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:43.036632",
+    "source_file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+    "total_productions": 34,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 22,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 2,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 2,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 7,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "34 SILVA, L. L. 2025 SILVA, L. L. ; OBANDO, J. M. C. ; BUENO, G. W. ; P. Machado, Levi ; SANTOS, T. C. . Nori species (Rhodophyta, Bangiales): a brief review of nutritional and economic potential in Brazil 1. Revista Ciencia Agronomica , v. 56, p. e202494155, 2025.",
+      "autores": "34 SILVA, L. L. SILVA, L. L.; OBANDO, J. M. C.; BUENO, G. W.; P. Machado, Levi; SANTOS, T. C.",
+      "titulo": "Nori species (Rhodophyta, Bangiales): a brief review of nutritional and economic potential in Brazil 1",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5935/1806-6690.20250048",
+      "fingerprint_sha1": "bf889ebc632701b61e4cd1ab3bf8debc7b12b185",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">34</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, L. L.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5935/1806-6690.20250048\" target=\"_blank\"></a>SILVA, L. L. ; OBANDO, J. M. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "Revista Ciencia Agronomica"
+    },
+    {
+      "numero_item": 2,
+      "raw": "4 SANTOS, T. C. 2025 SANTOS, T. C. ; P. Machado, Levi ; PIMENTEL, A. L. V. ; VILLACA, R. C. ; CAVALCANTI, D. N. ; BUENO, G. W. ; SANCHES, A. L. M. ; OBANDO, J. M. C. . DERMOCOSMETIC PROPERTIES OF BIOPRODUCTS FROM Sargassum MACROALGAE: CHEMICAL ASPECTS, CHALLENGES, AND OPPORTUNITIES. FRONTIERS IN MARINE SCIENCE , v. 11, p. 1, 2025.",
+      "autores": "4 SANTOS, T. C. SANTOS, T. C.; P. Machado, Levi; PIMENTEL, A. L. V.; VILLACA, R. C.; CAVALCANTI, D. N.; BUENO, G. W.; SANCHES, A. L. M.; OBANDO, J. M. C.",
+      "titulo": "DERMOCOSMETIC PROPERTIES OF BIOPRODUCTS FROM Sargassum MACROALGAE: CHEMICAL ASPECTS, CHALLENGES, AND OPPORTUNITIES",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3389/fmars.2024.1500778",
+      "fingerprint_sha1": "84e4173704b9bf0541009debd08072ab030ceb2b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">4</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, T. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3389/fmars.2024.1500778\" target=\"_blank\"></a>SANTOS, T. C. ; <b>P. Machado, Levi</b> ; PIMENTEL, A. L. V. ; VILLACA, R. C. ; CAVALCANTI, D. N. ; <a cl",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "FRONTIERS IN MARINE SCIENCE"
+    },
+    {
+      "numero_item": 3,
+      "raw": "35 BUENO, G. W. 2025 BUENO, G. W. ; NAOE, R. K. ; Machado, L.P. ; TROMBETA, T. D. ; MATIAS, J. F. N. ; GAONA, C.A.P. ; TERAMOTO, E. T. . Transformation of agricultural productive sectors with the use of industry 5.0 technologies: digitalization of aquaculture. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 23, p. e9331, 2025.",
+      "autores": "35 BUENO, G. W. BUENO, G. W.; NAOE, R. K.; Machado, L.P.; TROMBETA, T. D.; MATIAS, J. F. N.; GAONA, C.A.P.; TERAMOTO, E. T.",
+      "titulo": "Transformation of agricultural productive sectors with the use of industry 5",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/oelv23n3-110",
+      "fingerprint_sha1": "647af90e2df39dbb85f05ff52757eec678594347",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">35</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BUENO, G. W.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv23n3-110\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
+    },
+    {
+      "numero_item": 4,
+      "raw": "2 HOFMANN, LAURIE C. 2025 HOFMANN, LAURIE C. ; BRAKEL, JANINA ; BARTSCH, INKA ; MONTECINOS ARISMENDI, GABRIEL ; BERMEJO, RICARDO ; PARENTE, MANUELA I. ; CREIS, EMELINE ; DE CLERCK, OLIVIER ; JACQUEMIN, BERTRAND ; KNOOP, JESSICA ; LORENZ, MAIKE ; MACHADO, LEVI POMPERMAYER ; MARTINS, NEUSA ; ORFANIDIS, SOTIRIS ; PROBERT, IAN ; RAD MENENDEZ, CECILIA ; ROSS, MICHAEL ; RAUTENBERGER, RALF ; SCHILLER, JESSICA ; SERRAO, ESTER A. ; et.al . A European biobanking strategy for safeguarding macroalgal genetic material to ensure food security, biosecurity and conservation of biodiversity. EUROPEAN JOURNAL OF PHYCOLOGY , v. 1, p. 1-24, 2025.",
+      "autores": "2 HOFMANN, LAURIE C. HOFMANN, LAURIE C.; BRAKEL, JANINA; BARTSCH, INKA; MONTECINOS ARISMENDI, GABRIEL; BERMEJO, RICARDO; PARENTE, MANUELA I.; CREIS, EMELINE; DE CLERCK, OLIVIER; JACQUEMIN, BERTRAND; KNOOP, JESSICA; LORENZ, MAIKE; MACHADO, LEVI POMPERMAYER; MARTINS, NEUSA; ORFANIDIS, SOTIRIS; PROBERT, IAN; RAD MENENDEZ, CECILIA; ROSS, MICHAEL; RAUTENBERGER, RALF; SCHILLER, JESSICA; SERRAO, ESTER A.; et.al",
+      "titulo": "A European biobanking strategy for safeguarding macroalgal genetic material to ensure food security, biosecurity and conservation of biodiversity",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1080/09670262.2025.2480569",
+      "fingerprint_sha1": "77769fbf668a458ba28f62701c72c984554383e6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">2</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HOFMANN, LAURIE C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/09670262.2025.2480569\" target=\"_blank\"></a>HOFMANN, LAURIE C. ; BRAKEL, JANINA ; BARTSCH, INKA ; MONTECINOS ARISMENDI, GABRIEL ; BERMEJO, RI",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY"
+    },
+    {
+      "numero_item": 5,
+      "raw": "38 OBANDO, J. M. C. 2025 OBANDO, J. M. C. ; BUENO, G. W. ; P. Machado, Levi ; SOUZA, A. A. P. ; SANTOS, T. C. . SEALLG: Innovation, Solutions, and Products derived from BeachCast Sargassum spp. - From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology , v. 1, p. 15, 2025.",
+      "autores": "38 OBANDO, J. M. C. OBANDO, J. M. C.; BUENO, G. W.; P. Machado, Levi; SOUZA, A. A. P.; SANTOS, T. C.",
+      "titulo": "SEALLG: Innovation, Solutions, and Products derived from BeachCast Sargassum spp",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.13140/RG.2.2.21666.95687",
+      "fingerprint_sha1": "06363336c5e9ec574bf89fc820ef4a027473a61c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">38</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OBANDO, J. M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.13140/RG.2.2.21666.95687\" target=\"_blank\"></a>OBANDO, J. M. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" ",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology"
+    },
+    {
+      "numero_item": 6,
+      "raw": "37 SEBASTIAO, M. V. R. 2025 SEBASTIAO, M. V. R. ; OBANDO, J. M. C. ; NASCIMENTO, D. S. ; CAROLINO, A. H. ; SILVA, G. S. ; PELLIS, B. ; ISRAEL, N. G. ; ALMEIDA, E. A. ; GAONA, C.A.P. ; BUENO, GUILHERME WOLFF ; MACHADO, L.P. ; SANCHES, A. L. M. . ECOTOXICOLOGICAL ASSESSMENT OF PESTICIDE MIXTURES: EFFECTS OF IMIDACLOPRID AND PROPICONAZOLE ON Danio rerio AND Astyanax lacustris. AQUATIC TOXICOLOGY , v. 288, p. 107544, 2025.",
+      "autores": "37 SEBASTIAO, M. V. R. SEBASTIAO, M. V. R.; OBANDO, J. M. C.; NASCIMENTO, D. S.; CAROLINO, A. H.; SILVA, G. S.; PELLIS, B.; ISRAEL, N. G.; ALMEIDA, E. A.; GAONA, C.A.P.; BUENO, GUILHERME WOLFF; MACHADO, L.P.; SANCHES, A. L. M.",
+      "titulo": "ECOTOXICOLOGICAL ASSESSMENT OF PESTICIDE MIXTURES: EFFECTS OF IMIDACLOPRID AND PROPICONAZOLE ON Danio rerio AND Astyanax lacustris",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.aquatox.2025.107544",
+      "fingerprint_sha1": "fac690669a5e9ee59821aad1fd95ef65f6ec93b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">37</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SEBASTIAO, M. V. R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aquatox.2025.107544\" target=\"_blank\"></a>SEBASTIAO, M. V. R. ; OBANDO, J. M. C. ; NASCIMENTO, D. S. ; CAROLINO, A. H. ; SILVA, G. S. ; P",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "AQUATIC TOXICOLOGY"
+    },
+    {
+      "numero_item": 7,
+      "raw": "5 DIAS, GABRIELA TESTA 2025 DIAS, GABRIELA TESTA ; OBANDO, JOHANA MARCELA CONCHA ; DOS SANTOS, THALISIA CUNHA ; GAONA, CARLOS AUGUSTO PRATA ; FIGUEIREDO, CÉLIA CRISTINA MALAGUTI ; DA SILVA, REGILDO MÁRCIO GONÇALVES ; VILLELA, LEONARDO ZAMBOTTI ; BUENO, GUILHERME WOLFF ; MACHADO, LEVI POMPERMYER . Chemical and biotechnological characterization of supercritical CO2 extracts and residual Humulus lupulus biomass from the Brazilian Atlantic Forest. BIOMASS CONVERSION AND BIOREFINERY , v. 15, p. 1, 2025.",
+      "autores": "5 DIAS, GABRIELA TESTA DIAS, GABRIELA TESTA; OBANDO, JOHANA MARCELA CONCHA; DOS SANTOS, THALISIA CUNHA; GAONA, CARLOS AUGUSTO PRATA; FIGUEIREDO, CÉLIA CRISTINA MALAGUTI; DA SILVA, REGILDO MÁRCIO GONÇALVES; VILLELA, LEONARDO ZAMBOTTI; BUENO, GUILHERME WOLFF; MACHADO, LEVI POMPERMYER",
+      "titulo": "Chemical and biotechnological characterization of supercritical CO2 extracts and residual Humulus lupulus biomass from the Brazilian Atlantic Forest",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s13399-025-06903-z",
+      "fingerprint_sha1": "ff3e21607013e08b92dc5e26b3f4f95991989acf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">5</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DIAS, GABRIELA TESTA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s13399-025-06903-z\" target=\"_blank\"></a>DIAS, GABRIELA TESTA ; OBANDO, JOHANA MARCELA CONCHA ; DOS SANTOS, THALISIA CUNHA ; GAONA, CARLOS ",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "BIOMASS CONVERSION AND BIOREFINERY"
+    },
+    {
+      "numero_item": 8,
+      "raw": "16 SANTOS, T. C. 2024 SANTOS, T. C. ; OBANDO, J. M. C. ; MARTINS, R. C. C. ; ALVES, M. A. ; VILLACA, R. C. ; MACHADO, LEVI P. ; GASPAROTO, M. C. G. ; CAVALCANTI, D. N. . Perfil químico por CLUE-EMAR e atividade antifúngica e antioxidante da macroalga marinha Dictyota menstrualis. REVISTA VIRTUAL DE QUÍMICA , v. 16, p. 30-41, 2024.",
+      "autores": "16 SANTOS, T. C. SANTOS, T. C.; OBANDO, J. M. C.; MARTINS, R. C. C.; ALVES, M. A.; VILLACA, R. C.; MACHADO, LEVI P.; GASPAROTO, M. C. G.; CAVALCANTI, D. N.",
+      "titulo": "Perfil químico por CLUE-EMAR e atividade antifúngica e antioxidante da macroalga marinha Dictyota menstrualis",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.21577/1984-6835.20230044",
+      "fingerprint_sha1": "401ee04e294c818cc2eca537e3a70254da3c275e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">16</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, T. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/1984-6835.20230044\" target=\"_blank\"></a>SANTOS, T. C. ; OBANDO, J. M. C. ; MARTINS, R. C. C. ; ALVES, M. A. ; VILLACA, R. C. ; <b>MACHADO, LEVI",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "REVISTA VIRTUAL DE QUÍMICA"
+    },
+    {
+      "numero_item": 9,
+      "raw": "1 HEITZMAN, BEATRIZ S. 2024 HEITZMAN, BEATRIZ S. ; BUENO, GUILHERME W. ; CAMARGO, TAVANI R. ; PROENÇA, DANILO C. ; YAEKASHI, CARLOS T.O. ; DA SILVA, REGILDO M.G. ; MACHADO, LEVI P. . Duckweed application in nature-based system for water phytoremediation and high-value coproducts at family agrisystem from a circular economy perspective. SCIENCE OF THE TOTAL ENVIRONMENT , v. 919, p. 170714, 2024.",
+      "autores": "1 HEITZMAN, BEATRIZ S. HEITZMAN, BEATRIZ S.; BUENO, GUILHERME W.; CAMARGO, TAVANI R.; PROENÇA, DANILO C.; YAEKASHI, CARLOS T.O.; DA SILVA, REGILDO M.G.; MACHADO, LEVI P.",
+      "titulo": "Duckweed application in nature-based system for water phytoremediation and high-value coproducts at family agrisystem from a circular economy perspective",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2024.170714",
+      "fingerprint_sha1": "8d12b3933ca48cfe3c6606d6263963a654654902",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">1</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HEITZMAN, BEATRIZ S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2024.170714\" target=\"_blank\"></a>HEITZMAN, BEATRIZ S",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 10,
+      "raw": "23 VIANA, NATÁLIA MORENO 2024 VIANA, NATÁLIA MORENO ; DA SILVA JÚNIOR, JAIM JOSÉ ; BUENO, GUILHERME WOLFF ; MACHADO, LEVI POMPERMAYER ; FERREIRA, MARIA FERNANDA NINCE ; TROMBETA, THIAGO DIAS . ANÁLISE PRODUTIVA E MERCADOLÓGICA DE BETACAROTENO OBTIDO DA MICROALGA DUNALIELLA SP.: CENÁRIOS ATUAIS E PERSPECTIVAS FUTURAS. RGSA (ANPAD) , v. 18, p. e04891, 2024.",
+      "autores": "23 VIANA, NATÁLIA MORENO VIANA, NATÁLIA MORENO; DA SILVA JÚNIOR, JAIM JOSÉ; BUENO, GUILHERME WOLFF; MACHADO, LEVI POMPERMAYER; FERREIRA, MARIA FERNANDA NINCE; TROMBETA, THIAGO DIAS",
+      "titulo": "ANÁLISE PRODUTIVA E MERCADOLÓGICA DE BETACAROTENO OBTIDO DA MICROALGA DUNALIELLA SP",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.24857/rgsa.v18n2-065",
+      "fingerprint_sha1": "e575ec7552d6e3d5cd43be9d6c0fe624e1eee627",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">23</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VIANA, NATÁLIA MORENO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.24857/rgsa.v18n2-065\" target=\"_blank\"></a>VIANA, NATÁLIA MORENO ; DA SILVA JÚNIOR, JAIM JOSÉ ; BUENO, GUILHERME WOLFF ; <b>MACHADO, LEVI POMP",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "RGSA (ANPAD)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "33 NERY, LILIANE MOREIRA 2024 NERY, LILIANE MOREIRA ; PERUCELLO, J. L. ; CUNHA-LIGNON, M. ; Machado, L.P. ; SILVA, D. C. C. E. . RETRATO AMBIENTAL DO COMPLEXO ESTUARINO LAGUNAR CANANEIA-IGUAPE: A INFLUÊNCIA DO CANAL VALO GRANDE. BOLETIM PARANAENSE DE GEOCIÊNCIAS , v. 82, p. 1, 2024.",
+      "autores": "33 NERY, LILIANE MOREIRA NERY, LILIANE MOREIRA; PERUCELLO, J. L.; CUNHA-LIGNON, M.; Machado, L.P.; SILVA, D. C. C. E.",
+      "titulo": "RETRATO AMBIENTAL DO COMPLEXO ESTUARINO LAGUNAR CANANEIA-IGUAPE: A INFLUÊNCIA DO CANAL VALO GRANDE",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5380/geo.v82i1.91877",
+      "fingerprint_sha1": "0311b1629ba04d0faf7cb2aa54de6860f5026054",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">33</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NERY, LILIANE MOREIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5380/geo.v82i1.91877\" target=\"_blank\"></a>NERY, LILIANE MOREIRA ; PERUCELLO, J. L. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/639673523",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "BOLETIM PARANAENSE DE GEOCIÊNCIAS"
+    },
+    {
+      "numero_item": 12,
+      "raw": "12 BORGES, EMANUELLE PEREIRA 2024 BORGES, EMANUELLE PEREIRA ; MACHADO, LEVI POMPERMAYER ; LOUZÃ, ANA CAROLINA ; RAMAGLIA, ANDRESSA CRISTINA ; SANTOS, MICHELLE ROBERTA ; AUGUSTO, ALESSANDRA . Physiological effects of feeding whiteleg shrimp (Penaeus vannamei) with the fresh macroalgae Chaetomorpha clavata. AQUACULTURE REPORTS , v. 37, p. 102222, 2024.",
+      "autores": "12 BORGES, EMANUELLE PEREIRA BORGES, EMANUELLE PEREIRA; MACHADO, LEVI POMPERMAYER; LOUZÃ, ANA CAROLINA; RAMAGLIA, ANDRESSA CRISTINA; SANTOS, MICHELLE ROBERTA; AUGUSTO, ALESSANDRA",
+      "titulo": "Physiological effects of feeding whiteleg shrimp (Penaeus vannamei) with the fresh macroalgae Chaetomorpha clavata",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aqrep.2024.102222",
+      "fingerprint_sha1": "b58d9df59ef0be2821c1264e7d1dd700a93ff94f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">12</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BORGES, EMANUELLE PEREIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aqrep.2024.102222\" target=\"_blank\"></a>BORGES, EMANUELLE PEREIRA ; <b>MACHADO, LEVI POMPERMAYER</b> ; LOUZÃ, ANA CAROLINA ; RAMAGL",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "AQUACULTURE REPORTS"
+    },
+    {
+      "numero_item": 13,
+      "raw": "9 NATI, NATALIA 2024 NATI, NATALIA ; GALTER, IASMINI NICOLI ; SOUZA COSTA, IARA ; FABRE GARCIA, EMILY ; AMORIM LOPES, GABRIEL ; SEIBERT FRANÇA, HILDEGARDO ; POMPERMAYER MACHADO, LEVI ; DA SILVA, REGILDO MÁRCIO GONÇALVES ; TAMIE MATSUMOTO, SILVIA . Cytotoxicity, chemical, and nutritional profile evaluation of biomass extracts of the Lemna aequinoctialis (duckweed) aquatic plant. JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES , v. 88, p. 1-19, 2024.",
+      "autores": "9 NATI, NATALIA NATI, NATALIA; GALTER, IASMINI NICOLI; SOUZA COSTA, IARA; FABRE GARCIA, EMILY; AMORIM LOPES, GABRIEL; SEIBERT FRANÇA, HILDEGARDO; POMPERMAYER MACHADO, LEVI; DA SILVA, REGILDO MÁRCIO GONÇALVES; TAMIE MATSUMOTO, SILVIA",
+      "titulo": "Cytotoxicity, chemical, and nutritional profile evaluation of biomass extracts of the Lemna aequinoctialis (duckweed) aquatic plant",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1080/15287394.2024.2397643",
+      "fingerprint_sha1": "9a9550f757a72a2c5ec974433627ba3b5642eb7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">9</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NATI, NATALIA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/15287394.2024.2397643\" target=\"_blank\"></a>NATI, NATALIA ; GALTER, IASMINI NICOLI ; SOUZA COSTA, IARA ; FABRE GARCIA, EMILY ; AMORIM LOPES, GABRI",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+    },
+    {
+      "numero_item": 14,
+      "raw": "36 DA SILVA, REGILDO MÁRCIO GONÇALVES 2024 DA SILVA, REGILDO MÁRCIO GONÇALVES ; DE OLIVEIRA MORAES, VANESSA MARQUES ; GRANERO, F. O. ; MALAGUTI FIGUEIREDO, CÉLIA CRISTINA ; DOS SANTOS, VALTER HENRIQUE MARINHO ; Machado, L.P. ; PEREIRA SILVA, LUCIANA . Cytogenotoxicity evaluation of heavy metals detected in extracts and infusion ofBaccharis trimera, potential bioaccumulator plant. JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES , v. 87, p. 108-119, 2024.",
+      "autores": "36 DA SILVA, REGILDO MÁRCIO GONÇALVES DA SILVA, REGILDO MÁRCIO GONÇALVES; DE OLIVEIRA MORAES, VANESSA MARQUES; GRANERO, F. O.; MALAGUTI FIGUEIREDO, CÉLIA CRISTINA; DOS SANTOS, VALTER HENRIQUE MARINHO; Machado, L.P.; PEREIRA SILVA, LUCIANA",
+      "titulo": "Cytogenotoxicity evaluation of heavy metals detected in extracts and infusion ofBaccharis trimera, potential bioaccumulator plant",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1080/15287394.2023.2279120",
+      "fingerprint_sha1": "852b1d15235c9135a1699d9361ad84847939b878",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">36</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, REGILDO MÁRCIO GONÇALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/15287394.2023.2279120\" target=\"_blank\"></a>DA SILVA, REGILDO MÁRCIO GONÇALVES ; DE OLIVEIRA MORAES, VANESSA MARQUES ; GRANE",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+    },
+    {
+      "numero_item": 15,
+      "raw": "11 DA SILVA, REGILDO MÁRCIO GONÇALVES 2024 DA SILVA, REGILDO MÁRCIO GONÇALVES ; LOURENÇÃO, ANDERSON ; FRANCISCATTI MECINA, GUSTAVO ; CORDEIRO-ARAÚJO, MICHELINE KÉZIA ; BITTENCOURT-OLIVEIRA, MARIA DO CARMO ; AHII CHIA, MATHIAS ; GRANERO, FILIPE OIVEIRA ; MALAGUTI FIGUEIREDO, CÉLIA CRISTINA ; POMPERMAYER MACHADO, LEVI ; PEREIRA SILVA, LUCIANA . Physiological and toxicological response of Microcystis aeruginosa BCCUSP232 exposed to Salvinia auriculata extracts. JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES , v. I, p. 1-17, 2024.",
+      "autores": "11 DA SILVA, REGILDO MÁRCIO GONÇALVES DA SILVA, REGILDO MÁRCIO GONÇALVES; LOURENÇÃO, ANDERSON; FRANCISCATTI MECINA, GUSTAVO; CORDEIRO-ARAÚJO, MICHELINE KÉZIA; BITTENCOURT-OLIVEIRA, MARIA DO CARMO; AHII CHIA, MATHIAS; GRANERO, FILIPE OIVEIRA; MALAGUTI FIGUEIREDO, CÉLIA CRISTINA; POMPERMAYER MACHADO, LEVI; PEREIRA SILVA, LUCIANA",
+      "titulo": "Physiological and toxicological response of Microcystis aeruginosa BCCUSP232 exposed to Salvinia auriculata extracts",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1080/15287394.2024.2366320",
+      "fingerprint_sha1": "3441b243b9ae72ae570bc8b95106e4c819f2ae58",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">11</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, REGILDO MÁRCIO GONÇALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/15287394.2024.2366320\" target=\"_blank\"></a>DA SILVA, REGILDO MÁRCIO GONÇALVES ; LOURENÇÃO, ANDERSON ; FRANCISCATTI MECINA, ",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+    },
+    {
+      "numero_item": 39,
+      "raw": "SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; Machado, L.P. ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e Antártica: Bioprospecção e Conservação na Década da Ciência Oceânica. 1. ed. Salvador: , 2025. v. 1. 89p .",
+      "autores": "SANTOS JUNIOR, A. F.; SANTOS, G. S.; Keila Almeida Santana; BRUNO, A. P.; LOPES, C. F.; PASQUALETTI, C. B.; SILVA, D. H. S.; SANTOS, G. N.; SILVA, G. S.; DEBONSI, H. M.; CASTRO-GAMBOA, I.; SILVA, I. J.; SOUZA, J. M. C.; NUNES, J. M. C.; RANGEL, K. C.; CLEMENTINO, L. C.; Machado, L.P.; GASPAR, L. R.; GRAMINHA, M. A. S.; KRESS, M. R. V. Z.; et.al",
+      "titulo": "Algas Marinhas do Brasil e Antártica: Bioprospecção e Conservação na Década da Ciência Oceânica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "797e20d94349b70c6fd7ac4989e0061fa1ca1052",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; <b>Machado, L.P.</b> ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e Antártica: Bioprospecção  e Conse",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "1. ed. Salvador:"
+    },
+    {
+      "numero_item": 40,
+      "raw": "Johana Marcela Concha ; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Guilherme Wolff ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão . The invisible world of brown seaweeds. 1. ed. Athena: São Paulo, 2025. v. 1. 59p .",
+      "autores": "Johana Marcela Concha; Thalisia Cunha dos; Clara Lopes dos; Maria Vitória Raupp; Guilherme Wolff; Levi Pompermayer; Valéria Laneuville; Diana Negrão",
+      "titulo": "The invisible world of brown seaweeds",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.22533/at.ed.607252508",
+      "fingerprint_sha1": "2c3796f82f31e22dfade39793a5e3f10f5c993f3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22533/at.ed.607252508\" target=\"_blank\"></a><b>Johana Marcela Concha</b>; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Guilherme Wolff ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão . The invisible world of brown seaweeds. 1. ed. Athena: São Paulo, 2025. v. 1. 59p . </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "1. ed. Athena: São Paulo"
+    },
+    {
+      "numero_item": 42,
+      "raw": "YOKOYA, N. S. ; SOUZA, J. M. C. ; MACHADO, L.P. . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÇÃO SUSTENTÁVEL DE BIOMASSA E DE BIOATIVOS. In: Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e Antártica Bioprospecção e Conservação na Década da Ciência Oceânica. 1ed.Salvador: , 2025, v. 1, p. 34-41.",
+      "autores": "YOKOYA, N. S.; SOUZA, J. M. C.; MACHADO, L.P",
+      "titulo": "o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÇÃO SUSTENTÁVEL DE BIOMASSA E DE BIOATIVOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f910bedb2669c32629ff23cf5aebffba0434d12a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">YOKOYA, N. S. ; SOUZA, J. M. C. ; <b>MACHADO, L.P.</b> . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÇÃO SUSTENTÁVEL DE BIOMASSA E DE BIOATIVOS. In: Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e Antártica Bioprospecção e Conservação na Década da Ciência Oceânica. 1ed.Salvador: , 2025, v. 1, p. 34-41. </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "livro": "Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana"
+    },
+    {
+      "numero_item": 107,
+      "raw": "MACHADO, LEVI P. ; YOKOYA, N. S. . Culture conditions for biomass growth and unialgal isolation of Ochtodes secundiramea (Rhodophyta, Gigartinales), a source of antifungal compound applied to postharvest diseases in tropical fruits. HOEHNEA (SÃO PAULO) , 2025.",
+      "autores": "MACHADO, LEVI P.; YOKOYA, N. S.",
+      "titulo": "Culture conditions for biomass growth and unialgal isolation of Ochtodes secundiramea (Rhodophyta, Gigartinales), a source of antifungal compound applied to postharvest diseases in tropical fruits",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "725eab0b2ef4b5e8740338779656b2e26373482d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; YOKOYA, N. S. . Culture conditions for biomass growth and unialgal isolation of Ochtodes secundiramea (Rhodophyta, Gigartinales), a source of antifungal compound applied to postharvest diseases in tropical fruits. HOEHNEA (SÃO PAULO)<sup><img class=\"ajaxJCR\" data-issn=\"00732877\" id=\"00732877_1\" src=\"/buscatextual/images/curriculo/jcr.gif\" style=\"display: none\"/></sup>, 2025. </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "HOEHNEA (SÃO PAULO)"
+    },
+    {
+      "numero_item": 132,
+      "raw": "MACHADO, LEVI P. ; BUENO, G. W. ; GAONA, C. A. P. ; PEIXOTO, G. ; YAEKASHI, C. T. ; MORAES, R. O. ; HEITZMAN, B. S. ; LOUREIRO, B. R. . transformação planta aquática em biocombustível. 2025.",
+      "autores": "MACHADO, LEVI P.; BUENO, G. W.; GAONA, C. A. P.; PEIXOTO, G.; YAEKASHI, C. T.; MORAES, R. O.; HEITZMAN, B. S.; LOUREIRO, B. R",
+      "titulo": "transformação planta aquática em biocombustível",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1aab9dbcb34a293e87d40eee61ba8a9ee958f335",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, G. W.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8125524094465667\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GAONA, C. A. P.</a> ; PEIXOTO, G. ; YAEKASHI, C. T. ; MORAES, R. O. ; HEITZMAN, B. S. ; LOUREIRO, B. R. . transformação planta aquática em bioco",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 140,
+      "raw": "MACHADO, LEVI P. . Pesquisa descobre Biocombustível sustentável de plantas aquáticas. 2024. (Programa de rádio ou TV/Entrevista).",
+      "autores": "MACHADO, LEVI P.",
+      "titulo": "Pesquisa descobre Biocombustível sustentável de plantas aquáticas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3318671b39710b814ece63f2c298f5db6d587318",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>. Pesquisa descobre Biocombustível sustentável de plantas aquáticas. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=0XoYhlSr-9Q')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 141,
+      "raw": "MACHADO, LEVI P. ; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "MACHADO, LEVI P.; YAEKASHI, C. T.; PEIXOTO, G.",
+      "titulo": "Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ef876ca7fa9161642bf7867da89d650243a17f45",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/11/04/pesquisa-da-unesp-araraquara-descobre-producao-de-biocombustivel-a-partir-de-planta-aquatica.ghtml')\" src=\"http://estati",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:42.983050"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "BUENO, G. W. ; TERAMOTO, E. T. ; BRAND, MAICON ROCHA ; NAOE, R. K. ; NAOE, ROBERTO KAZUYOSHI ; BRANDE, M. R. ; GAONA, C. A. P. ; GAONA, CARLOS AUGUSTO PRATA ; PROENCA, D. C. ; MACHADO, L.P. . SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS. 2025, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10202501646, título: \"SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 05/08/2025Instituição(ões) financiadora(s): FAPESP.",
+      "autores": "BUENO, G. W.; TERAMOTO, E. T.; BRAND, MAICON ROCHA; NAOE, R. K.; NAOE, ROBERTO KAZUYOSHI; BRANDE, M. R.; GAONA, C. A. P.; GAONA, CARLOS AUGUSTO PRATA; PROENCA, D. C.; MACHADO, L.P.",
+      "titulo": "SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e1cc7a31d6c681b08f22b0ee80e1460b9c95b61a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202501646&amp;idCNPq=9697508931977949&amp;sequencial=303\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"> </span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, G. W.</a> ; TERAMOTO, E. T. ; BRAND, MAICON ROCHA ; NAOE, R. K. ; NAOE, ROBERTO KAZUYOSHI ; BRANDE,",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:42.984521"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Bruna Roque Loureiro. Início: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": null,
+      "titulo": "Início: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b138fb4f5d5fc5529e876fda9974288a23e01ce",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna Roque Loureiro.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:43.016984"
+      },
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Rodolfo Osin de Moraes. BIOENSAIOS COM A LENTILHA-D'ÁGUA (Lemna minor ) APLICADOS A PROTOTIPAGEM E VALIDAÇÃO DE BIOINSUMOS AGRÍCOLAS. 2024. Dissertação (Mestrado em Engenharia de Biomateriais e Bioprocessos) - Universidade Estadual Paulista Júlio de Mesquita Filho, Empresa Brasileira de Pesquisa e Inovação Industrial. Orientador: Levi Pompermayer Machado.",
+      "autores": null,
+      "titulo": "BIOENSAIOS COM A LENTILHA-D'ÁGUA (Lemna minor ) APLICADOS A PROTOTIPAGEM E VALIDAÇÃO DE BIOINSUMOS AGRÍCOLAS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2a8fbdcaf2ee29bc1d809d028ecc579887c186fa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rodolfo Osin de Moraes. BIOENSAIOS COM A LENTILHA-D'ÁGUA (Lemna minor ) APLICADOS A PROTOTIPAGEM E VALIDAÇÃO DE BIOINSUMOS AGRÍCOLAS.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Engenharia de Biomateriais e Bioprocessos)  - Universidade Estadual Paulista Júlio de Mesquita Filho, Empresa Brasileira de Pesquisa e Inovação Industrial. Orientador: Levi Pompermayer Machado. </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:43.016984"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em Engenharia de Biomateriais e Bioprocessos) - Universidade Estadual Paulista Júlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 1,
+      "raw": "BUENO, G. W. ; TERAMOTO, E. T. ; BRAND, MAICON ROCHA ; NAOE, R. K. ; NAOE, ROBERTO KAZUYOSHI ; BRANDE, M. R. ; GAONA, C. A. P. ; GAONA, CARLOS AUGUSTO PRATA ; PROENCA, D. C. ; MACHADO, L.P. . SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS. 2025, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10202501646, título: \"SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 05/08/2025Instituição(ões) financiadora(s): FAPESP.",
+      "autores": "BUENO, G. W.; TERAMOTO, E. T.; BRAND, MAICON ROCHA; NAOE, R. K.; NAOE, ROBERTO KAZUYOSHI; BRANDE, M. R.; GAONA, C. A. P.; GAONA, CARLOS AUGUSTO PRATA; PROENCA, D. C.; MACHADO, L.P.",
+      "titulo": "SISTEMA E MÉTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÔMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÍCOLAS SOB DIFERENTES CONDIÇÕES CLIMÁTICAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e1cc7a31d6c681b08f22b0ee80e1460b9c95b61a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202501646&amp;idCNPq=9697508931977949&amp;sequencial=303\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"> </span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, G. W.</a> ; TERAMOTO, E. T. ; BRAND, MAICON ROCHA ; NAOE, R. K. ; NAOE, ROBERTO KAZUYOSHI ; BRANDE,",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:43.026048"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 11,
+      "raw": "MACHADO, LEVI P. ; BUENO, G. W. ; GAONA, C. A. P. ; PEIXOTO, G. ; YAEKASHI, C. T. ; MORAES, R. O. ; HEITZMAN, B. S. ; LOUREIRO, B. R. . transformação planta aquática em biocombustível. 2025.",
+      "autores": "MACHADO, LEVI P.; BUENO, G. W.; GAONA, C. A. P.; PEIXOTO, G.; YAEKASHI, C. T.; MORAES, R. O.; HEITZMAN, B. S.; LOUREIRO, B. R",
+      "titulo": "transformação planta aquática em biocombustível",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1aab9dbcb34a293e87d40eee61ba8a9ee958f335",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, G. W.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8125524094465667\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GAONA, C. A. P.</a> ; PEIXOTO, G. ; YAEKASHI, C. T. ; MORAES, R. O. ; HEITZMAN, B. S. ; LOUREIRO, B. R. . transformação planta aquática em bioco",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:43.026048"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 2,
+      "raw": "2 HOFMANN, LAURIE C. 2025 HOFMANN, LAURIE C. ; BRAKEL, JANINA ; BARTSCH, INKA ; MONTECINOS ARISMENDI, GABRIEL ; BERMEJO, RICARDO ; PARENTE, MANUELA I. ; CREIS, EMELINE ; DE CLERCK, OLIVIER ; JACQUEMIN, BERTRAND ; KNOOP, JESSICA ; LORENZ, MAIKE ; MACHADO, LEVI POMPERMAYER ; MARTINS, NEUSA ; ORFANIDIS, SOTIRIS ; PROBERT, IAN ; RAD MENENDEZ, CECILIA ; ROSS, MICHAEL ; RAUTENBERGER, RALF ; SCHILLER, JESSICA ; SERRAO, ESTER A. ; et.al . A European biobanking strategy for safeguarding macroalgal genetic material to ensure food security, biosecurity and conservation of biodiversity. EUROPEAN JOURNAL OF PHYCOLOGY , v. 1, p. 1-24, 2025.",
+      "autores": "2 HOFMANN, LAURIE C. HOFMANN, LAURIE C.; BRAKEL, JANINA; BARTSCH, INKA; MONTECINOS ARISMENDI, GABRIEL; BERMEJO, RICARDO; PARENTE, MANUELA I.; CREIS, EMELINE; DE CLERCK, OLIVIER; JACQUEMIN, BERTRAND; KNOOP, JESSICA; LORENZ, MAIKE; MACHADO, LEVI POMPERMAYER; MARTINS, NEUSA; ORFANIDIS, SOTIRIS; PROBERT, IAN; RAD MENENDEZ, CECILIA; ROSS, MICHAEL; RAUTENBERGER, RALF; SCHILLER, JESSICA; SERRAO, ESTER A.; et.al",
+      "titulo": "A European biobanking strategy for safeguarding macroalgal genetic material to ensure food security, biosecurity and conservation of biodiversity",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1080/09670262.2025.2480569",
+      "fingerprint_sha1": "77769fbf668a458ba28f62701c72c984554383e6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">2</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HOFMANN, LAURIE C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/09670262.2025.2480569\" target=\"_blank\"></a>HOFMANN, LAURIE C. ; BRAKEL, JANINA ; BARTSCH, INKA ; MONTECINOS ARISMENDI, GABRIEL ; BERMEJO, RI",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY"
+    },
+    {
+      "numero_item": 3,
+      "raw": "38 OBANDO, J. M. C. 2025 OBANDO, J. M. C. ; BUENO, G. W. ; P. Machado, Levi ; SOUZA, A. A. P. ; SANTOS, T. C. . SEALLG: Innovation, Solutions, and Products derived from BeachCast Sargassum spp. - From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology , v. 1, p. 15, 2025.",
+      "autores": "38 OBANDO, J. M. C. OBANDO, J. M. C.; BUENO, G. W.; P. Machado, Levi; SOUZA, A. A. P.; SANTOS, T. C.",
+      "titulo": "SEALLG: Innovation, Solutions, and Products derived from BeachCast Sargassum spp",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.13140/RG.2.2.21666.95687",
+      "fingerprint_sha1": "06363336c5e9ec574bf89fc820ef4a027473a61c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">38</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OBANDO, J. M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.13140/RG.2.2.21666.95687\" target=\"_blank\"></a>OBANDO, J. M. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" ",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology"
+    },
+    {
+      "numero_item": 5,
+      "raw": "SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; Machado, L.P. ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e AntÃ¡rtica: BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica. 1. ed. Salvador: , 2025. v. 1. 89p .",
+      "autores": "SANTOS JUNIOR, A. F.; SANTOS, G. S.; Keila Almeida Santana; BRUNO, A. P.; LOPES, C. F.; PASQUALETTI, C. B.; SILVA, D. H. S.; SANTOS, G. N.; SILVA, G. S.; DEBONSI, H. M.; CASTRO-GAMBOA, I.; SILVA, I. J.; SOUZA, J. M. C.; NUNES, J. M. C.; RANGEL, K. C.; CLEMENTINO, L. C.; Machado, L.P.; GASPAR, L. R.; GRAMINHA, M. A. S.; KRESS, M. R. V. Z.; et.al",
+      "titulo": "Algas Marinhas do Brasil e AntÃ¡rtica: BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a44980bdeb5bec803c58c5ebe41a154873d65068",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; <b>Machado, L.P.</b> ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e AntÃ¡rtica: BioprospecÃ§Ã£o  e Co",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "1. ed. Salvador:"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Johana Marcela Concha ; Thalisia Cunha dos ; Clara Lopes dos ; Maria VitÃ³ria Raupp ; Guilherme Wolff ; Levi Pompermayer ; ValÃ©ria Laneuville ; Diana NegrÃ£o . The invisible world of brown seaweeds. 1. ed. Athena: SÃ£o Paulo, 2025. v. 1. 59p .",
+      "autores": "Johana Marcela Concha; Thalisia Cunha dos; Clara Lopes dos; Maria VitÃ³ria Raupp; Guilherme Wolff; Levi Pompermayer; ValÃ©ria Laneuville; Diana NegrÃ£o",
+      "titulo": "The invisible world of brown seaweeds",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.22533/at.ed.607252508",
+      "fingerprint_sha1": "a957250b6281ebb32c288bd050b43747e0982a61",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22533/at.ed.607252508\" target=\"_blank\"></a><b>Johana Marcela Concha</b>; Thalisia Cunha dos ; Clara Lopes dos ; Maria VitÃ³ria Raupp ; Guilherme Wolff ; Levi Pompermayer ; ValÃ©ria Laneuville ; Diana NegrÃ£o . The invisible world of brown seaweeds. 1. ed. Athena: SÃ£o Paulo, 2025. v. 1. 59p . </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "1. ed. Athena: SÃ£o Paulo"
+    },
+    {
+      "numero_item": 10,
+      "raw": "YOKOYA, N. S. ; SOUZA, J. M. C. ; MACHADO, L.P. . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÃÃO SUSTENTÃVEL DE BIOMASSA E DE BIOATIVOS. In: AnÃ­bal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e AntÃ¡rtica BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica. 1ed.Salvador: , 2025, v. 1, p. 34-41.",
+      "autores": "YOKOYA, N. S.; SOUZA, J. M. C.; MACHADO, L.P",
+      "titulo": "o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÃÃO SUSTENTÃVEL DE BIOMASSA E DE BIOATIVOS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2de0a5707551687efa88e53832eed85907f85c74",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">YOKOYA, N. S. ; SOUZA, J. M. C. ; <b>MACHADO, L.P.</b> . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÃÃO SUSTENTÃVEL DE BIOMASSA E DE BIOATIVOS. In: AnÃ­bal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e AntÃ¡rtica BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica. 1ed.Salvador: , 2025, v. 1, p. 34-41. </span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "livro": "AnÃ­bal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana"
+    },
+    {
+      "numero_item": 15,
+      "raw": "MACHADO, LEVI P. . Pesquisa descobre BiocombustÃ­vel sustentÃ¡vel de plantas aquÃ¡ticas. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
+      "autores": "MACHADO, LEVI P.",
+      "titulo": "Pesquisa descobre BiocombustÃ­vel sustentÃ¡vel de plantas aquÃ¡ticas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "03204199f8d836e791df147ac181072dc0056290",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>. Pesquisa descobre BiocombustÃ­vel sustentÃ¡vel de plantas aquÃ¡ticas. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=0XoYhlSr-9Q')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 16,
+      "raw": "MACHADO, LEVI P. ; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustÃ­vel a partir de planta aquÃ¡tica. 2024. (Programa de rÃ¡dio ou TV/ComentÃ¡rio).",
+      "autores": "MACHADO, LEVI P.; YAEKASHI, C. T.; PEIXOTO, G.",
+      "titulo": "Pesquisa da Unesp Araraquara produz biocombustÃ­vel a partir de planta aquÃ¡tica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "68055594851aa169b2608906c39f87df5d4845aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustÃ­vel a partir de planta aquÃ¡tica. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rÃ¡dio ou TV/ComentÃ¡rio).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/11/04/pesquisa-da-unesp-araraquara-descobre-producao-de-biocombustivel-a-partir-de-planta-aquatica.ghtml')\" src=\"http://es",
+      "source": {
+        "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
+        "lattes_id": "9697508931977949",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:43.032125"
+      },
+      "veiculo": "2024. (Programa de rÃ¡dio ou TV/ComentÃ¡rio)"
+    }
+  ]
+}

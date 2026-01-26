@@ -1,0 +1,2031 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "5017639694729451",
+    "full_name": "David Ferreira Lopes Santos",
+    "slug": "david-ferreira-lopes-santos",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:36.866433",
+    "source_file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+    "total_productions": 110,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 51,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 13,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 4,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 41,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 1,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "MONTORO, S. B. 2025 MONTORO, S. B. ; LUCAS JUNIOR, J. ; SANTOS, D. F. L. . Exploring New Alternative Energy for Sustainable Food Production. Circular Economy and Sustainability , v. 4, p. 1-25, 2025.",
+      "autores": "MONTORO, S. B. MONTORO, S. B.; LUCAS JUNIOR, J.; SANTOS, D. F. L.",
+      "titulo": "Exploring New Alternative Energy for Sustainable Food Production",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s43615-024-00497-w",
+      "fingerprint_sha1": "a59e2d16834484bcba8de8e3c91b730f9740f75b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MONTORO, S. B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s43615-024-00497-w\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visua",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "Circular Economy and Sustainability"
+    },
+    {
+      "numero_item": 2,
+      "raw": "MONTEIRO, LETÍCIA ORSELLI 2025 MONTEIRO, LETÍCIA ORSELLI ; MONTORO, STELA BASSO ; SANTOS, David Ferreira Lopes . Desafios ao modelo de gestão de um Centro de Pesquisa e Desenvolvimento estruturado na relação universidade-empresa. RACEF ¿ REVISTA DE ADMINISTRAÇÃO, CONTABILIDADE E ECONOMIA DA FUNDACE , v. 16, p. 194-213, 2025.",
+      "autores": "MONTEIRO, LETÍCIA ORSELLI MONTEIRO, LETÍCIA ORSELLI; MONTORO, STELA BASSO; SANTOS, David Ferreira Lopes",
+      "titulo": "Desafios ao modelo de gestão de um Centro de Pesquisa e Desenvolvimento estruturado na relação universidade-empresa",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.13059/racef.v16i1.1277",
+      "fingerprint_sha1": "7d41237a20f1152051608060d64cb796d5ed4713",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MONTEIRO, LETÍCIA ORSELLI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.13059/racef.v16i1.1277\" target=\"_blank\"></a>MONTEIRO, LETÍCIA ORSELLI ; MONTORO, STELA BASSO ; <b>SANTOS, David Ferreira Lopes</b> . Desafi",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "RACEF ¿ REVISTA DE ADMINISTRAÇÃO"
+    },
+    {
+      "numero_item": 3,
+      "raw": "ROFNER, NELINO FLORIDA 2025 ROFNER, NELINO FLORIDA ; AYALA, NOI PATRICIA RODRÍGUEZ ; ROJAS, ALEX RENGIFO ; SANTOS, David Ferreira Lopes . Determinants of Cadmium and Lead Levels in Coffee Beans: A Regression Analysis from the Upper Huallaga Valley, Peru. Environmental Challenges , v. 21, p. 101244, 2025.",
+      "autores": "ROFNER, NELINO FLORIDA ROFNER, NELINO FLORIDA; AYALA, NOI PATRICIA RODRÍGUEZ; ROJAS, ALEX RENGIFO; SANTOS, David Ferreira Lopes",
+      "titulo": "Determinants of Cadmium and Lead Levels in Coffee Beans: A Regression Analysis from the Upper Huallaga Valley, Peru",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.envc.2025.101244",
+      "fingerprint_sha1": "3287bf6fbcdc79df9850737b9e5c8357c5478505",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ROFNER, NELINO FLORIDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envc.2025.101244\" target=\"_blank\"></a>ROFNER, NELINO FLORIDA ; AYALA, NOI PATRICIA RODRÍGUEZ ; ROJAS, ALEX RENGIFO ; <b>SANTOS, David F",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "Environmental Challenges"
+    },
+    {
+      "numero_item": 4,
+      "raw": "PIRES DA SILVA, ISABELLA 2025 PIRES DA SILVA, ISABELLA ; SANTOS, David Ferreira Lopes . RESULTADOS E TENDÊNCIAS NA PESQUISA CIENTÍFICA SOBRE AS INICIATIVAS AMBIENTAIS, SOCIAIS E GOVERNANÇA NO AGRONEGÓCIO BRASILEIRO. Revista Estudos e Pesquisas em Administração , v. 9, p. 7-25, 2025.",
+      "autores": "PIRES DA SILVA, ISABELLA PIRES DA SILVA, ISABELLA; SANTOS, David Ferreira Lopes",
+      "titulo": "RESULTADOS E TENDÊNCIAS NA PESQUISA CIENTÍFICA SOBRE AS INICIATIVAS AMBIENTAIS, SOCIAIS E GOVERNANÇA NO AGRONEGÓCIO BRASILEIRO",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.30781/v23zgr61",
+      "fingerprint_sha1": "139e61601824289f2028e2692abb55130f89fa45",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PIRES DA SILVA, ISABELLA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.30781/v23zgr61\" target=\"_blank\"></a>PIRES DA SILVA, ISABELLA ; <b>SANTOS, David Ferreira Lopes</b> . RESULTADOS E TENDÊNCIAS NA PESQUISA CIE",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "Revista Estudos e Pesquisas em Administração"
+    },
+    {
+      "numero_item": 5,
+      "raw": "LUMASINI, R. N. 2025 LUMASINI, R. N. ; CAMBAUVA, V. ; HADAD JUNIOR, E. ; BASSO, L. F. C. ; SANTOS, D. F. L. . Environmental, Social, and Governance initiatives important for the economic performance of food and beverage companies in developed and emerging countries. Economia agro-alimentare/Food Economy , v. 27, p. 1-29, 2025.",
+      "autores": "LUMASINI, R. N. LUMASINI, R. N.; CAMBAUVA, V.; HADAD JUNIOR, E.; BASSO, L. F. C.; SANTOS, D. F. L.",
+      "titulo": "Environmental, Social, and Governance initiatives important for the economic performance of food and beverage companies in developed and emerging countries",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3280/ecag2025oa18400",
+      "fingerprint_sha1": "023afcf1fb2b16a0141aae63e06eceb9f431cc49",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LUMASINI, R. N.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3280/ecag2025oa18400\" target=\"_blank\"></a>LUMASINI, R. N. ; CAMBAUVA, V. ; HADAD JUNIOR, E. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/45044008",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "Economia agro-alimentare/Food Economy"
+    },
+    {
+      "numero_item": 6,
+      "raw": "PITELLI, L. G. 2024 PITELLI, L. G. ; CONCEIÇÃO, E. V. ; SANTOS, D. F. L. . Aderência dos Princípios do Beyond Budget no Processo Orçamentário de uma Agroindústria. CONTEXTO , v. 24, p. 16-39, 2024.",
+      "autores": "PITELLI, L. G. PITELLI, L. G.; CONCEIÇÃO, E. V.; SANTOS, D. F. L.",
+      "titulo": "Aderência dos Princípios do Beyond Budget no Processo Orçamentário de uma Agroindústria",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d37d4fa9de1b315fe8740256a6dba90fa69cb868",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PITELLI, L. G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>PITELLI, L. G. ; CONCEIÇÃO, E. V. ; <b>SANTOS, D. F. L.</b> . Aderência dos Princípios do Beyond Budget no Processo Orçamentário de uma Agroindústria. CONTEXTO<sup><img class=\"ajaxJCR\" data-issn=\"21758751\" id=\"217",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "CONTEXTO"
+    },
+    {
+      "numero_item": 7,
+      "raw": "DE SANTANA RANGEL, HENRIQUE 2024 DE SANTANA RANGEL, HENRIQUE ; CONCEIÇÃO, ELIMAR VELOSO ; LOPES SANTOS, David Ferreira . The economic value of sustainability certification for sugarcane farms. JOURNAL OF CLEANER PRODUCTION , v. 467, p. 143005, 2024.",
+      "autores": "DE SANTANA RANGEL, HENRIQUE DE SANTANA RANGEL, HENRIQUE; CONCEIÇÃO, ELIMAR VELOSO; LOPES SANTOS, David Ferreira",
+      "titulo": "The economic value of sustainability certification for sugarcane farms",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jclepro.2024.143005",
+      "fingerprint_sha1": "836a41fa245ed5767e81c1dea56d1d66e821c3ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SANTANA RANGEL, HENRIQUE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jclepro.2024.143005\" target=\"_blank\"></a>DE SANTANA RANGEL, HENRIQUE ; CONCEIÇÃO, ELIMAR VELOSO ; <b>LOPES SANTOS, David Ferreira<",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "JOURNAL OF CLEANER PRODUCTION"
+    },
+    {
+      "numero_item": 8,
+      "raw": "COLENCI TREVELIN, ANA TERESA 2024 COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; SANTOS, D. F. L. . Como avaliar a intenção empreendedora no ensino profissional e tecnológico?. REVISTA LIVRE DE SUSTENTABILIDADE E EMPREENDEDORISMO , v. 9, p. 64-89, 2024.",
+      "autores": "COLENCI TREVELIN, ANA TERESA COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA; SANTOS, D. F. L.",
+      "titulo": "Como avaliar a intenção empreendedora no ensino profissional e tecnológico?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5281/zenodo.14293198",
+      "fingerprint_sha1": "1abcfb25cb554772d41bda9d0471c2e297a76624",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">COLENCI TREVELIN, ANA TERESA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.14293198\" target=\"_blank\"></a>COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; <b>SANTOS, D. F. L.</b> . Como avali",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "REVISTA LIVRE DE SUSTENTABILIDADE E EMPREENDEDORISMO"
+    },
+    {
+      "numero_item": 9,
+      "raw": "COSTA, W. F. I. 2024 COSTA, W. F. I. ; CONCEICAO, E. V. ; SANTOS, D. F. L. . Quais fundamentos financeiros contribuem para a resiliência das empresas estabelecidas no Brasil?. REVISTA EVIDENCIACAO CONTABIL & FINANCAS , v. 12, p. 38-55, 2024.",
+      "autores": "COSTA, W. F. I. COSTA, W. F. I.; CONCEICAO, E. V.; SANTOS, D. F. L.",
+      "titulo": "Quais fundamentos financeiros contribuem para a resiliência das empresas estabelecidas no Brasil?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.22478/ufpb.2318-1001.2024v12n1.68738",
+      "fingerprint_sha1": "41cb2b767c6011116b36c30e477d1e29fde0ef3a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">COSTA, W. F. I.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22478/ufpb.2318-1001.2024v12n1.68738\" target=\"_blank\"></a>COSTA, W. F. I. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1781793206123493\" target=\"",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "REVISTA EVIDENCIACAO CONTABIL & FINANCAS"
+    },
+    {
+      "numero_item": 151,
+      "raw": "GARCIA, L. C. ; BARBIERI, R. ; MONTORO, S. B. ; SANTOS, D. F. L. . Educação financeira e empreendedorismo no contexto rural: material didático para a Educação Básica. 1. ed. São Carlos: Pedro & João Editores, 2024. v. 1. 125p .",
+      "autores": "GARCIA, L. C.; BARBIERI, R.; MONTORO, S. B.; SANTOS, D. F. L.",
+      "titulo": "Educação financeira e empreendedorismo no contexto rural: material didático para a Educação Básica",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.51795/9786526511008",
+      "fingerprint_sha1": "ad6524893306f3bd172e7f1864acdd907fa351ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.51795/9786526511008\" target=\"_blank\"></a>GARCIA, L. C. ; BARBIERI, R. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MONTORO, S. B.</a> ; <b>SANTOS, D. F. L.</b> . Educação financeira e empreendedorismo no contexto rural: material didático para a Educação Básica. 1. ed. São Carlos: Pedro &amp;",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "1. ed. São Carlos: Pedro & João Editores"
+    },
+    {
+      "numero_item": 162,
+      "raw": "NUNES, L. G. A. ; SANTOS, D. F. L. . Modelo de nível de dano econômico para Sphenophorus levis em cana-de-açúcar: uma ferramenta tecnológica para tomada de decisão. In: X Simpósio em Gestão do Agronegócio, 2025, Jaboticabal. Ecoinovação no Agronegócio: Segurança hídrica e energética para um futuro sustentável. Jaboticabal: FUNEP, 2025. v. 1. p. 1-16.",
+      "autores": "NUNES, L. G. A.; SANTOS, D. F. L.",
+      "titulo": "Modelo de nível de dano econômico para Sphenophorus levis em cana-de-açúcar: uma ferramenta tecnológica para tomada de decisão",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "41428e2e0a54e0c9de20dd557a935dff32ac99af",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NUNES, L. G. A. ; <b>SANTOS, D. F. L.</b> . Modelo de nível de dano econômico para  Sphenophorus levis em cana-de-açúcar: uma ferramenta tecnológica para tomada de decisão. In: X Simpósio em Gestão do Agronegócio, 2025, Jaboticabal. Ecoinovação no Agronegócio: Segurança hídrica e energética para um futuro sustentável. Jaboticabal: FUNEP, 2025. v. 1. p. 1-16. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "X Simpósio em Gestão do Agronegócio"
+    },
+    {
+      "numero_item": 163,
+      "raw": "SANTOS, D. F. L. ; CASAGRANDE, E. E. ; MARCOMINI, G. R. ; PATINO, M. T. O. . Direções Emergentes à Sustentabilidade do Agronegócio Brasileiro: Proposição de um Modelo de Avaliação. In: XLIX Encontro da ANPAD - ENANPAD, 2025, Aracaju. Sustentabilidade em gestão: Reconhecendo identidades, experiências locais e desafios globais. Maringá: ANPAD, 2025. v. 1. p. 1-20.",
+      "autores": "SANTOS, D. F. L.; CASAGRANDE, E. E.; MARCOMINI, G. R.; PATINO, M. T. O.",
+      "titulo": "Direções Emergentes à Sustentabilidade do Agronegócio Brasileiro: Proposição de um Modelo de Avaliação",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b1f1eb849cace6b7d2e311e1e75ac9a1067ebf08",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; CASAGRANDE, E. E. ; MARCOMINI, G. R. ; PATINO, M. T. O. . Direções Emergentes à Sustentabilidade do Agronegócio Brasileiro: Proposição de um Modelo de Avaliação. In: XLIX Encontro da ANPAD - ENANPAD, 2025, Aracaju. Sustentabilidade em gestão: Reconhecendo identidades, experiências locais e desafios globais. Maringá: ANPAD, 2025. v. 1. p. 1-20. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XLIX Encontro da ANPAD - ENANPAD"
+    },
+    {
+      "numero_item": 164,
+      "raw": "SANTOS, D. F. L. ; BALDIM, I. D. ; MONTORO, S. B. . Modelo Bioeconômico para Seleção de Tecnologias de Controle Biológico na Cana-de-Açúcar. In: XLIX Encontro da ANPAD ? EnANPAD, 2025, Aracaju. Sustentabilidade em gestão: Reconhecendo identidades, experiências locais e desafios globais. Maringá: ANPAD, 2025. p. 1-23.",
+      "autores": "SANTOS, D. F. L.; BALDIM, I. D.; MONTORO, S. B.",
+      "titulo": "Modelo Bioeconômico para Seleção de Tecnologias de Controle Biológico na Cana-de-Açúcar",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e84f2184c8499dc71935e08192b4f621c9389557",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; BALDIM, I. D. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MONTORO, S. B.</a> . Modelo Bioeconômico para Seleção de Tecnologias de Controle Biológico na Cana-de-Açúcar. In: XLIX Encontro da ANPAD ? EnANPAD, 2025, Aracaju. Sustentabilidade em gestão: Reconhecendo identidades, experiências locais e desafios globais. Maringá: ANPAD",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XLIX Encontro da ANPAD ? EnANPAD"
+    },
+    {
+      "numero_item": 165,
+      "raw": "CAMBAUVA, V. ; SANTOS, D. F. L. ; BASSO, L. F. C. ; HADAD JUNIOR, E. ; LUMASINI, R. N. . ESG Initiatives and performance of global food and beverage companies. In: IFAMA 2024 Academic Symposium, 2024, Almería. Food Security Through Innovation & Sutainability, 2024. v. 1. p. 1-12.",
+      "autores": "CAMBAUVA, V.; SANTOS, D. F. L.; BASSO, L. F. C.; HADAD JUNIOR, E.; LUMASINI, R. N.",
+      "titulo": "ESG Initiatives and performance of global food and beverage companies",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4284e3b0199ef1dc47303af0face072f9e649460",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMBAUVA, V. ; <b>SANTOS, D. F. L.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BASSO, L. F. C.</a> ; HADAD JUNIOR, E. ; LUMASINI, R. N. . ESG Initiatives and performance of global food and beverage companies. In: IFAMA 2024 Academic Symposium, 2024, Almería. Food Security Through Innovation &amp; Sutainability, 2024. v. 1. p. 1-12. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "IFAMA 2024 Academic Symposium"
+    },
+    {
+      "numero_item": 166,
+      "raw": "JONES, J. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; FREITAS, M. A. G. M. ; SANTOS, D. F. L. . Programa de treinamento e desenvolvimento para novos funcionários na administração pública: Desafios e oportunidades. In: XXXI SIMPEP, 2024, Bauru. Inteligência artificial na gestão de operações: limitações e possibilidades. Bauru: FEB, 2024. v. 1. p. 1-12.",
+      "autores": "JONES, J.; COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA; FREITAS, M. A. G. M.; SANTOS, D. F. L.",
+      "titulo": "Programa de treinamento e desenvolvimento para novos funcionários na administração pública: Desafios e oportunidades",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7d92b3533359913fbed13a990c2f404fc172cc57",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JONES, J. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; FREITAS, M. A. G. M. ; <b>SANTOS, D. F. L.</b> . Programa de treinamento e desenvolvimento para novos funcionários na administração pública: Desafios e oportunidades. In: XXXI SIMPEP, 2024, Bauru. Inteligência artificial na gestão de operações: limitações e possibilidades. Bauru: FEB, 2024. v. 1. p. 1-12. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXI SIMPEP"
+    },
+    {
+      "numero_item": 167,
+      "raw": "COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; SANTOS, D. F. L. . Como avaliar a intenção empreendedora no ensino profissional e tecnológico?. In: XIII EGEPE - Encontro de Estudos sobre Empreendedorismo e Gestão de Pequenas Empresas, 2024, Curitiba. Empreendedorismo e pequenas organizações para uma sociedade inclusiva e sustentável. Curitiba: ANEGEPE, 2024. v. 1. p. 1-16.",
+      "autores": "COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA; SANTOS, D. F. L.",
+      "titulo": "Como avaliar a intenção empreendedora no ensino profissional e tecnológico?",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e026c126adfe485fbca536454ba14b0c784e3925",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; <b>SANTOS, D. F. L.</b> . Como avaliar a intenção empreendedora no ensino profissional e tecnológico?. In: XIII EGEPE - Encontro de Estudos sobre Empreendedorismo e Gestão de Pequenas Empresas, 2024, Curitiba. Empreendedorismo e pequenas organizações para uma sociedade inclusiva e sustentável. Curitiba: ANEGEPE, 2024. v. 1. p. 1-16. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XIII EGEPE - Encontro de Estudos sobre Empreendedorismo e Gestão de Pequenas Empresas"
+    },
+    {
+      "numero_item": 168,
+      "raw": "DEMARQUI, B. V. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; SANTOS, D. F. L. . Trajetória, Perfil E Estratégias De Inovação Na Cadeia Agroindustrial Têxtil Brasileira. In: XXI SIMPÓSIO DE EXCELÊNCIA EM GESTÃO E TECNOLOGIA - SEGeT, 2024, Resende. Governança, Responsabilidade Social e Meio Ambiente. Resende: UniDomBosco, 2024. v. 1. p. 1-12.",
+      "autores": "DEMARQUI, B. V.; COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA; SANTOS, D. F. L.",
+      "titulo": "Trajetória, Perfil E Estratégias De Inovação Na Cadeia Agroindustrial Têxtil Brasileira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d3da8faf92d32dc591a71393787bcd8f12ef9f55",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DEMARQUI, B. V. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; <b>SANTOS, D. F. L.</b> . Trajetória, Perfil E Estratégias De Inovação Na Cadeia Agroindustrial Têxtil Brasileira. In: XXI SIMPÓSIO DE EXCELÊNCIA EM GESTÃO E TECNOLOGIA - SEGeT, 2024, Resende. Governança, Responsabilidade Social e Meio Ambiente. Resende: UniDomBosco, 2024. v. 1. p. 1-12. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXI SIMPÓSIO DE EXCELÊNCIA EM GESTÃO E TECNOLOGIA - SEGeT"
+    },
+    {
+      "numero_item": 169,
+      "raw": "OLIVEIRA, F. A. ; SANTOS, D. F. L. . Avaliação estratégica de investimentos em equipamentos: o processo de decisão entre manutenção, reforma ou aquisição. In: XVI CASI - Congresso de Administração, Sociedade e Inovação, 2024, Niteroi. XVI CASI. Niteroi: UFF, 2024. v. 1. p. 1-12.",
+      "autores": "OLIVEIRA, F. A.; SANTOS, D. F. L.",
+      "titulo": "Avaliação estratégica de investimentos em equipamentos: o processo de decisão entre manutenção, reforma ou aquisição",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7d44e8f0384b2bdfa2318f52bbcaa4d2ac6780a2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, F. A. ; <b>SANTOS, D. F. L.</b> . Avaliação estratégica de investimentos em equipamentos: o processo de decisão entre manutenção, reforma ou aquisição. In: XVI CASI - Congresso de Administração, Sociedade e Inovação, 2024, Niteroi. XVI CASI. Niteroi: UFF, 2024. v. 1. p. 1-12. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XVI CASI - Congresso de Administração"
+    },
+    {
+      "numero_item": 242,
+      "raw": "ARCANJO, A. H. M. ; CASSIANO, G. A. ; SALLES, M. S. V. ; LISBOA, D. S. S. ; SILVA, E. A. ; COELHO, M. A. O. ; ZADRA, L. E. F. ; FRANCO, F. O. ; GONCALVES, C. C. M. ; SANTOS, D. F. L. . Análise detalhada dos custos associados ao cultivo de trigo para ensilagem. In: X Simpósio Internacional de Bovinocultura Leiteira, 2025, Viçosa. Anais X SIMLEITE. São Carlos: Editora Scienza, 2025. v. 1. p. 648-650.",
+      "autores": "ARCANJO, A. H. M.; CASSIANO, G. A.; SALLES, M. S. V.; LISBOA, D. S. S.; SILVA, E. A.; COELHO, M. A. O.; ZADRA, L. E. F.; FRANCO, F. O.; GONCALVES, C. C. M.; SANTOS, D. F. L.",
+      "titulo": "Análise detalhada dos custos associados ao cultivo de trigo para ensilagem",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7c41165128266ae02f5035de923d30161e4b7719",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARCANJO, A. H. M. ; CASSIANO, G. A. ; SALLES, M. S. V. ; LISBOA, D. S. S. ; SILVA, E. A. ; COELHO, M. A. O. ; ZADRA, L. E. F. ; FRANCO, F. O. ; GONCALVES, C. C. M. ; <b>SANTOS, D. F. L.</b> . Análise detalhada dos custos associados ao cultivo de trigo para ensilagem. In: X Simpósio Internacional de Bovinocultura Leiteira, 2025, Viçosa. Anais X SIMLEITE. São Carlos: Editora Scienza, 2025. v. 1. p. 648-650. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "X Simpósio Internacional de Bovinocultura Leiteira"
+    },
+    {
+      "numero_item": 243,
+      "raw": "CASSIANO, G. A. ; SANTOS, D. F. L. ; SIMILI, F. F. ; SANTOS, P. C. D. ; AFERRI, G. . Avaliação Econômica Comparativa Entre Brs Zuri E Mombaça Em Semeadura Consorciada Com Sorgo Para Produção De Silagem. In: IX Simpósio em Gestão do Agronegócio, 2024, Jaboticabal. Bem-estar e educação de qualidade no agronegócio. Jaboticabal: FUNEP, 2024. v. 1. p. 1-6.",
+      "autores": "CASSIANO, G. A.; SANTOS, D. F. L.; SIMILI, F. F.; SANTOS, P. C. D.; AFERRI, G.",
+      "titulo": "Avaliação Econômica Comparativa Entre Brs Zuri E Mombaça Em Semeadura Consorciada Com Sorgo Para Produção De Silagem",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4df1b131c3394367c27b12e51c6a0a69cc5a7325",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASSIANO, G. A. ; <b>SANTOS, D. F. L.</b> ; SIMILI, F. F. ; SANTOS, P. C. D. ; AFERRI, G. . Avaliação Econômica Comparativa Entre Brs Zuri E Mombaça Em Semeadura Consorciada Com Sorgo Para Produção De Silagem. In: IX Simpósio em Gestão do Agronegócio, 2024, Jaboticabal. Bem-estar e educação de qualidade no agronegócio. Jaboticabal: FUNEP, 2024. v. 1. p. 1-6. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "IX Simpósio em Gestão do Agronegócio"
+    },
+    {
+      "numero_item": 244,
+      "raw": "OLIVEIRA, I. C. ; SILVA, R. P. ; SANTOS, D. F. L. . Financial performance of tomato crop: a meta-analysis. In: V Simpósio Internacional em Agronegócio e Desenvolvimento, 2024, Tupã. Agronegócio em pauta: tecnologia e sustentabilidade. Unesp: FCE, 2024. v. 1. p. 1-6.",
+      "autores": "OLIVEIRA, I. C.; SILVA, R. P.; SANTOS, D. F. L.",
+      "titulo": "Financial performance of tomato crop: a meta-analysis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bca04dcfca7cf6b93ad3d58292fea06d07052efc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, I. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2228000606125587\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SILVA, R. P.</a> ; <b>SANTOS, D. F. L.</b> . Financial performance of tomato crop: a meta-analysis. In: V Simpósio Internacional em Agronegócio e Desenvolvimento, 2024, Tupã. Agronegócio em pauta: tecnologia e sustentabilidade. Unesp: FCE, 2024. v. 1. p. 1-6. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "V Simpósio Internacional em Agronegócio e Desenvolvimento"
+    },
+    {
+      "numero_item": 253,
+      "raw": "OLIVEIRA, I. C. ; SILVA, R. P. ; SANTOS, D. F. L. . Análise financeira da produção de amendoim no Brasil: uma meta-análise com Simulação de Monte Carlo. In: XXXVII Congresso de Iniciação Científica e Tecnológica Unesp, 2025, Jaboticabal. Ciência e liberdade de pensamento em uma época de extremos. Jaboticabal: Unesp, 2025. v. 1. p. 1-1.",
+      "autores": "OLIVEIRA, I. C.; SILVA, R. P.; SANTOS, D. F. L.",
+      "titulo": "Análise financeira da produção de amendoim no Brasil: uma meta-análise com Simulação de Monte Carlo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "901bf230e6a7f2f56d02176493007d3ed6ecbb10",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, I. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2228000606125587\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SILVA, R. P.</a> ; <b>SANTOS, D. F. L.</b> . Análise financeira da produção de amendoim no Brasil: uma meta-análise com Simulação de Monte Carlo. In: XXXVII Congresso de Iniciação Científica e Tecnológica Unesp, 2025, Jaboticabal. Ciência e liberdade de pensamento em uma época de extremos. Jab",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXVII Congresso de Iniciação Científica e Tecnológica Unesp"
+    },
+    {
+      "numero_item": 254,
+      "raw": "SILVERIO, L. G. ; SANTOS, D. F. L. . Valoração de projetos de pesquisa, desenvolvimento e inovação em sistemas de produção sustentáveis no agronegócio. In: XXXVII Congresso de Iniciação Científica e Tecnológica Unesp, 2025, Jaboticabal. Ciência e liberdade de pensamento em uma época de extremos. Jaboticabal: Unesp, 2025. v. 1. p. 1-1.",
+      "autores": "SILVERIO, L. G.; SANTOS, D. F. L.",
+      "titulo": "Valoração de projetos de pesquisa, desenvolvimento e inovação em sistemas de produção sustentáveis no agronegócio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b6967d643852c5a7a8a22205305280e068f054a5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVERIO, L. G. ; <b>SANTOS, D. F. L.</b> . Valoração de projetos de pesquisa, desenvolvimento e inovação em sistemas de produção sustentáveis no agronegócio. In: XXXVII Congresso de Iniciação Científica e Tecnológica Unesp, 2025, Jaboticabal. Ciência e liberdade de pensamento em uma época de extremos. Jaboticabal: Unesp, 2025. v. 1. p. 1-1. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXVII Congresso de Iniciação Científica e Tecnológica Unesp"
+    },
+    {
+      "numero_item": 255,
+      "raw": "DAMAS NETO, M. V. ; CASSIANO, G. A. ; LISBOA, D. S. S. ; SALLES, M. S. V. ; SANTOS, D. F. L. ; SILVA, G. H. B. ; NASCIMENTO, H. F. C. I. ; FRANCO, F. O. ; SILVA, E. A. . Custo-benefício da alimentação de novilhas Gir Leiteiro com inclusões crescentes de silagem de trigo na dieta. In: X Simpósio Internacional de Bovinocultura Leiteira, 2025, Viçosa. Anais X SIMLEITE. São Carlos: Editora Scienza, 2025. v. 1. p. 236-238.",
+      "autores": "DAMAS NETO, M. V.; CASSIANO, G. A.; LISBOA, D. S. S.; SALLES, M. S. V.; SANTOS, D. F. L.; SILVA, G. H. B.; NASCIMENTO, H. F. C. I.; FRANCO, F. O.; SILVA, E. A.",
+      "titulo": "Custo-benefício da alimentação de novilhas Gir Leiteiro com inclusões crescentes de silagem de trigo na dieta",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "97d12df836e21d96363dd7768cfc2c9047eefbc6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DAMAS NETO, M. V. ; CASSIANO, G. A. ; LISBOA, D. S. S. ; SALLES, M. S. V. ; <b>SANTOS, D. F. L.</b> ; SILVA, G. H. B. ; NASCIMENTO, H. F. C. I. ; FRANCO, F. O. ; SILVA, E. A. . Custo-benefício da alimentação de novilhas Gir Leiteiro com inclusões crescentes de silagem de trigo na dieta. In: X Simpósio Internacional de Bovinocultura Leiteira, 2025, Viçosa. Anais X SIMLEITE. São Carlos: Editora Scienza, 2025. v. 1. p. 236-238. </span>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "X Simpósio Internacional de Bovinocultura Leiteira"
+    },
+    {
+      "numero_item": 256,
+      "raw": "OLIVEIRA, I. C. ; SILVA, R. P. ; SANTOS, D. F. L. . Desempenho Financeiro da Cultura do Tomate: Meta-Análise. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1-1.",
+      "autores": "OLIVEIRA, I. C.; SILVA, R. P.; SANTOS, D. F. L.",
+      "titulo": "Desempenho Financeiro da Cultura do Tomate: Meta-Análise",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "66df1b4d81c82899732f6adb7a8db077fc3160a8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, I. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2228000606125587\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SILVA, R. P.</a> ; <b>SANTOS, D. F. L.</b> . Desempenho Financeiro da Cultura do Tomate: Meta-Análise. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1-1. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXVI Congresso de Iniciação Científica da Unesp"
+    },
+    {
+      "numero_item": 257,
+      "raw": "MORETTO, V. H. R. ; SANTOS, D. F. L. . Fatores Determinantes do Valor das Empresas do Agronegócio na Bolsa de Valores. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1.",
+      "autores": "MORETTO, V. H. R.; SANTOS, D. F. L.",
+      "titulo": "Fatores Determinantes do Valor das Empresas do Agronegócio na Bolsa de Valores",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ccdbdcf2e8f74c998aa38820002de5cee2aeca12",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MORETTO, V. H. R. ; <b>SANTOS, D. F. L.</b> . Fatores Determinantes do Valor das Empresas do Agronegócio na Bolsa de Valores. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXVI Congresso de Iniciação Científica da Unesp"
+    },
+    {
+      "numero_item": 258,
+      "raw": "TAKEMOTO, M. ; SANTOS, D. F. L. . Elaboração de um framework para avaliação de desempenho de centro de P&D no agronegócio. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1.",
+      "autores": "TAKEMOTO, M.; SANTOS, D. F. L.",
+      "titulo": "Elaboração de um framework para avaliação de desempenho de centro de P&D no agronegócio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "169ea658a0f84125b77da20d83bc6a874007ba5f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TAKEMOTO, M. ; <b>SANTOS, D. F. L.</b> . Elaboração de um framework para avaliação de desempenho de centro de P&amp;D no agronegócio. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Jaboticabal. Ciência em tempos de crise climática e social. Jaboticabal: UNESP, 2024. p. 1. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "livro": "XXXVI Congresso de Iniciação Científica da Unesp"
+    },
+    {
+      "numero_item": 310,
+      "raw": "SANTOS, D. F. L. . A histÃ³ria da Inova.Jab dentro da FCAV/UNESP. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "A histÃ³ria da Inova",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a7022188741390192f3647251d9bac7c6e168a56",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. A histÃ³ria da Inova.Jab dentro da FCAV/UNESP. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 311,
+      "raw": "SANTOS, D. F. L. ; BALDIM, I. D. ; MONTORO, S. B. . Modelo BioeconÃ´mico para SeleÃ§Ã£o de Tecnologias de Controle BiolÃ³gico na Cana-de-AÃ§Ãºcar. 2025. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "SANTOS, D. F. L.; BALDIM, I. D.; MONTORO, S. B.",
+      "titulo": "Modelo BioeconÃ´mico para SeleÃ§Ã£o de Tecnologias de Controle BiolÃ³gico na Cana-de-AÃ§Ãºcar",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3d8c578774985ddbadcade43ed239f13e3098c7c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; BALDIM, I. D. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MONTORO, S. B.</a> . Modelo BioeconÃ´mico para SeleÃ§Ã£o de Tecnologias de Controle BiolÃ³gico na Cana-de-AÃ§Ãºcar. 2025. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 312,
+      "raw": "SANTOS, D. F. L. ; CASAGRANDE, E. E. ; MARCOMINI, G. R. ; PATINO, M. T. O. . DireÃ§Ãµes Emergentes Ã Sustentabilidade do AgronegÃ³cio Brasileiro: ProposiÃ§Ã£o de um Modelo de AvaliaÃ§Ã£o. 2025. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "SANTOS, D. F. L.; CASAGRANDE, E. E.; MARCOMINI, G. R.; PATINO, M. T. O.",
+      "titulo": "DireÃ§Ãµes Emergentes Ã Sustentabilidade do AgronegÃ³cio Brasileiro: ProposiÃ§Ã£o de um Modelo de AvaliaÃ§Ã£o",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cab82cc6f63de5ba205e593976a821d65742f3c5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; CASAGRANDE, E. E. ; MARCOMINI, G. R. ; PATINO, M. T. O. . DireÃ§Ãµes Emergentes Ã  Sustentabilidade do AgronegÃ³cio Brasileiro: ProposiÃ§Ã£o de um Modelo de AvaliaÃ§Ã£o. 2025. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 313,
+      "raw": "SANTOS, D. F. L. . Como avaliar a intenÃ§Ã£o empreendedora no ensino profissional e tecnolÃ³gico?. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Como avaliar a intenÃ§Ã£o empreendedora no ensino profissional e tecnolÃ³gico?",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cbea9517644d88fb2bd3876a1593c08d563d5afd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Como avaliar a intenÃ§Ã£o empreendedora no ensino profissional e tecnolÃ³gico?. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 314,
+      "raw": "SANTOS, D. F. L. . Incubadora de Base TecnolÃ³gica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Incubadora de Base TecnolÃ³gica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e7ba5044e7f90603164c70d044f033ff0cc10c13",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Incubadora de Base TecnolÃ³gica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 315,
+      "raw": "JONES, J. ; FREITAS, M. A. G. M. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; SANTOS, D. F. L. . Programa de treinamento e desenvolvimento para novos funcionÃ¡rios na administraÃ§Ã£o pÃºblica: Desafios e oportunidades. 2024. (ApresentaÃ§Ã£o de Trabalho/SimpÃ³sio).",
+      "autores": "JONES, J.; FREITAS, M. A. G. M.; COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA; SANTOS, D. F. L.",
+      "titulo": "Programa de treinamento e desenvolvimento para novos funcionÃ¡rios na administraÃ§Ã£o pÃºblica: Desafios e oportunidades",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "30350a78d8792604749aca55154d19cdacee369c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JONES, J. ; FREITAS, M. A. G. M. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA ; <b>SANTOS, D. F. L.</b> . Programa de treinamento e desenvolvimento para novos funcionÃ¡rios na administraÃ§Ã£o pÃºblica: Desafios e oportunidades. 2024. (ApresentaÃ§Ã£o de Trabalho/SimpÃ³sio). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/SimpÃ³sio)"
+    },
+    {
+      "numero_item": 316,
+      "raw": "SANTOS, D. F. L. . Empreendedorismo CientÃ­fico e TecnolÃ³gico: Oportunidade para Carreira e CriaÃ§Ã£o de NegÃ³cios. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Empreendedorismo CientÃ­fico e TecnolÃ³gico: Oportunidade para Carreira e CriaÃ§Ã£o de NegÃ³cios",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0ba245fa4c4b9749103a3b245cd15e1605d22d92",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Empreendedorismo CientÃ­fico e TecnolÃ³gico: Oportunidade para  Carreira e CriaÃ§Ã£o de NegÃ³cios. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 358,
+      "raw": "MOREIRA, R. O. ; ROLOEM, A. M. ; MARTINS, I. F. ; SANTOS, D. F. L. . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024.",
+      "autores": "MOREIRA, R. O.; ROLOEM, A. M.; MARTINS, I. F.; SANTOS, D. F. L.",
+      "titulo": "Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e3f68c616aec6ea753c1c703a913b313a6f76053",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MOREIRA, R. O. ; ROLOEM, A. M. ; MARTINS, I. F. ; <b>SANTOS, D. F. L.</b> . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 359,
+      "raw": "REZENDE, R. L. ; CAMPOS, R. ; SANTOS, D. F. L. . Tecnologias 4.0 na Contabilidade de um Centro de ServiÃ§os Compartilhado. 2024.",
+      "autores": "REZENDE, R. L.; CAMPOS, R.; SANTOS, D. F. L.",
+      "titulo": "Tecnologias 4",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8e88c550d161c30fd888b735e4f80ca25ca6950e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">REZENDE, R. L. ; CAMPOS, R. ; <b>SANTOS, D. F. L.</b> . Tecnologias 4.0 na Contabilidade de um Centro de ServiÃ§os Compartilhado. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 365,
+      "raw": "SANTOS, D. F. L. . Artigo avaliaÃ§Ã£o para o Journal of Cleaner Production #D-25-15979. 2025.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Artigo avaliaÃ§Ã£o para o Journal of Cleaner Production #D-25-15979",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "47ab4172423cf6f21cd4ae9c6c48823137c498e8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Artigo avaliaÃ§Ã£o para o Journal of Cleaner Production #D-25-15979. 2025. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 366,
+      "raw": "SANTOS, D. F. L. . AvaliaÃ§Ã£o do PrÃªmio SOBER DissertaÃ§Ã£o (63a Congresso da SOBER). 2025.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "AvaliaÃ§Ã£o do PrÃªmio SOBER DissertaÃ§Ã£o (63a Congresso da SOBER)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b7cab550fffa968bea03a82550bdbc84a5b0b8e0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. AvaliaÃ§Ã£o do PrÃªmio SOBER DissertaÃ§Ã£o (63a Congresso da SOBER). 2025. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 367,
+      "raw": "SANTOS, D. F. L. . Avaliador de Resumos do CIC Unesp. 2025.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Avaliador de Resumos do CIC Unesp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fec22ebf7d6e177a85234f62a78edfbf565345ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Avaliador de Resumos do CIC Unesp. 2025. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 368,
+      "raw": "ROLOEM, A. M. ; MARTINS, I. F. ; MOREIRA, R. O. ; SANTOS, D. F. L. . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024.",
+      "autores": "ROLOEM, A. M.; MARTINS, I. F.; MOREIRA, R. O.; SANTOS, D. F. L.",
+      "titulo": "Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1b57082594e9c67c5a18eef98c7faad092efa2bd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROLOEM, A. M. ; MARTINS, I. F. ; MOREIRA, R. O. ; <b>SANTOS, D. F. L.</b> . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 369,
+      "raw": "SANTOS, D. F. L. . AvaliaÃ§Ã£o de artigo para a Brazilian Administration Review - BAR. 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "AvaliaÃ§Ã£o de artigo para a Brazilian Administration Review - BAR",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "52d2e6f800eb0460a123a13dd240965194781819",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. AvaliaÃ§Ã£o de artigo para a Brazilian Administration Review - BAR. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 370,
+      "raw": "SANTOS, D. F. L. . Artigo revisado para a Revista de Economia e AgronegÃ³cios (REA). 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Artigo revisado para a Revista de Economia e AgronegÃ³cios (REA)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a958ef555fe88809e7b3eebc820c0a51d225712b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Artigo revisado para a Revista de Economia e AgronegÃ³cios (REA). 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 371,
+      "raw": "SANTOS, D. F. L. . Artigo avaliado para Aquaculture 24-01734R1. 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Artigo avaliado para Aquaculture 24-01734R1",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1bec8dba2ec490c082cb13e0d330a599dc53bfc7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Artigo avaliado  para Aquaculture 24-01734R1. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 372,
+      "raw": "SANTOS, D. F. L. . Parecer emitido para o Projeto PIPE Fase 2 2024/09798-0. 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Parecer emitido para o Projeto PIPE Fase 2 2024/09798-0",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ba3fa9be9ce0a548ae3669b6cc55306ed2344b8c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Parecer emitido para o Projeto PIPE Fase 2 2024/09798-0. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 373,
+      "raw": "SANTOS, D. F. L. . Parecer emitido para Projeto de DissertaÃ§Ã£o Ã FAPESP. 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Parecer emitido para Projeto de DissertaÃ§Ã£o Ã FAPESP",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4206662bc56bc2d420c402c791f20ac8f882e30c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Parecer emitido para Projeto de DissertaÃ§Ã£o Ã  FAPESP. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 374,
+      "raw": "SANTOS, D. F. L. . Artigo avaliado para Journal of Applied Aquaculture (ID WJAA-2024-0213). 2024.",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "Artigo avaliado para Journal of Applied Aquaculture (ID WJAA-2024-0213)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cfb922de7b1fd7dfa6d980fcecf871d312612cc8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. Artigo avaliado para Journal of Applied Aquaculture (ID WJAA-2024-0213). 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 375,
+      "raw": "MONTORO, S. B. ; SANTOS, D. F. L. . Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO). 2024.",
+      "autores": "MONTORO, S. B.; SANTOS, D. F. L.",
+      "titulo": "Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "122c0871ed598f653924f4ad303e391216e3142d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MONTORO, S. B.</a> ; <b>SANTOS, D. F. L.</b> . Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO). 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 376,
+      "raw": "MONTORO, S. B. ; SANTOS, D. F. L. . Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO). 2024.",
+      "autores": "MONTORO, S. B.; SANTOS, D. F. L.",
+      "titulo": "Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "122c0871ed598f653924f4ad303e391216e3142d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MONTORO, S. B.</a> ; <b>SANTOS, D. F. L.</b> . Modelo de GestÃ£o do Centro de Pesquisa em Engenharia e Fitossanidade em Cana-de-AÃ§Ãºcar (CEPENFITO). 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 647,
+      "raw": "SANTOS, D. F. L. . EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6fd149370a568d075d3a7e0ee8a360c9f1ec2db3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 648,
+      "raw": "SANTOS, D. F. L. . EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6fd149370a568d075d3a7e0ee8a360c9f1ec2db3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. EducaÃ§Ã£o Financeira e ElaboraÃ§Ã£o de OrÃ§amento para Editais ArtÃ­sticos. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 649,
+      "raw": "SANTOS, D. F. L. . MÃ©todos de InvestigaciÃ³n Cuantitativos y Cualitativos en las Ciencias Sociales. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "SANTOS, D. F. L.",
+      "titulo": "MÃ©todos de InvestigaciÃ³n Cuantitativos y Cualitativos en las Ciencias Sociales",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "65b1402476774f611b17c2547efe302d4954cfbb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>. MÃ©todos de InvestigaciÃ³n Cuantitativos y Cualitativos en las Ciencias Sociales. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.752994"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "SCHREIBER, D.; BEZ, M. R.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina. ConsolidaÃ§Ã£o do modelo de negÃ³cio de uma startup: uma anÃ¡lise integrada considerando fatores que influenciam o desempenho e a trÃ­plice hÃ©lice. 2025. DissertaÃ§Ã£o (Mestrado em IndÃºstria Criativa) - Universidade Feevale.",
+      "autores": "SCHREIBER, D.; BEZ, M. R.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b6b5b6797d9e50d857ad0918ef4dc55e32f599ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SCHREIBER, D.; BEZ, M. R.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina. ConsolidaÃ§Ã£o do modelo de negÃ³cio de uma startup: uma anÃ¡lise integrada considerando fatores que influenciam o desempenho e a trÃ­plice hÃ©lice. 2025. DissertaÃ§Ã£o (Mestrado em IndÃºstria Criativa) - Universidade Feevale. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "ConsolidaÃ§Ã£o do modelo de negÃ³cio de uma startup: uma anÃ¡lise integrada considerando fatores que influenciam o desempenho e a trÃ­plice hÃ©lice. 2025. DissertaÃ§Ã£o (Mestrado em IndÃºstria Criativa) - Universidade Feevale"
+    },
+    {
+      "numero_item": 2,
+      "raw": "POPADIUK, S. ; PEREZ, G.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes. A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o no desempenho das organizaÃ§Ãµes em MoÃ§ambique. 2025. DissertaÃ§Ã£o (Mestrado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "POPADIUK, S.; PEREZ, G.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2c624275bbfbfd6916de6a6308e414c8fcb24dda",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/1784002683973468\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">POPADIUK, S.</a>; PEREZ, G.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes. A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o no desempenho das organizaÃ§Ãµes em MoÃ§ambique. 2025. DissertaÃ§Ã£o (Mestrado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiterian",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o no desempenho das organizaÃ§Ãµes em MoÃ§ambique. 2025. DissertaÃ§Ã£o (Mestrado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 20,
+      "raw": "BASSO, L. F. C. ; JUCA, M. N.; NAKAMURA, W. T.; KIMURA, H. ; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo. ESG/CSR measures impacting financial performance: an analysis of moderating variables. 2025. Tese (Doutorado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "BASSO, L. F. C.; JUCA, M. N.; NAKAMURA, W. T.; KIMURA, H.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "445bf5951b76907bb8eb7c2ce345c3490d74ed31",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BASSO, L. F. C.</a>; JUCA, M. N.; NAKAMURA, W. T.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2048706172366367\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">KIMURA, H.</a>; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo. ESG/CSR measures impacting fin",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "ESG/CSR measures impacting financial performance: an analysis of moderating variables. 2025. Tese (Doutorado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 21,
+      "raw": "LIMA, F. G.; SOUZA, R. F.; DONADON, F. A. B. ; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o. O efeito do polimorfismo da funÃ§Ã£o de pertinÃªncia na precificaÃ§Ã£o de derivativos financeiros. 2025. Tese (Doutorado em Controladoria e Contabilidade) - Universidade de SÃ£o Paulo.",
+      "autores": "LIMA, F. G.; SOUZA, R. F.; DONADON, F. A. B.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7c1642e6bb449837f9cbfdfe990b7976347d9b6a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LIMA, F. G.; SOUZA, R. F.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4564331372026147\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">DONADON, F. A. B.</a>; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o. O efeito do polimorfismo da funÃ§Ã£o de pertinÃªncia na precificaÃ§Ã£o de derivativos financeiros. 2025. Tese (Doutorado em Controladoria e Contabilidade)  - Universidade de SÃ£o Pa",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "O efeito do polimorfismo da funÃ§Ã£o de pertinÃªncia na precificaÃ§Ã£o de derivativos financeiros. 2025. Tese (Doutorado em Controladoria e Contabilidade) - Universidade de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 22,
+      "raw": "JUCA, M. N.; FORTE, D.; BASSO, L. F. C. ; VIEITO, J. P. T.; MUREN, P. D.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Carlos Henrique Firmino de Oliveira. The Impact of Innovation and Diversity on the Value Creation and Financial Performance of the Pharmaceutical Industry. 2024. Tese (Doutorado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "JUCA, M. N.; FORTE, D.; BASSO, L. F. C.; VIEITO, J. P. T.; MUREN, P. D.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Carlos Henrique Firmino de Oliveira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "41853745c8a2a3fca9351ebc613e6d6db8c5fdcf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JUCA, M. N.; FORTE, D.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BASSO, L. F. C.</a>; VIEITO, J. P. T.; MUREN, P. D.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Carlos Henrique Firmino de Oliveira. The Impact of Innovation and Diversity on the Value Creation and Financial Performance of the Pharmaceutical Industry. 2024. Tese (Doutorado em ",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "The Impact of Innovation and Diversity on the Value Creation and Financial Performance of the Pharmaceutical Industry. 2024. Tese (Doutorado em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 27,
+      "raw": "LIMA, F. G.; SOUZA, R. F.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o. O Efeito do Polimorfismo da FunÃ§Ã£o de PertinÃªncia na PrecificaÃ§Ã£o de Derivativos Financeiros. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Controladoria e Contabilidade) - Universidade de SÃ£o Paulo.",
+      "autores": "LIMA, F. G.; SOUZA, R. F.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cd57c4cce69c04ed595db4d7c02947af09dbadd1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LIMA, F. G.; SOUZA, R. F.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Elimar Veloso ConceiÃ§Ã£o. O Efeito do Polimorfismo da FunÃ§Ã£o de PertinÃªncia na PrecificaÃ§Ã£o de Derivativos Financeiros. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Controladoria e Contabilidade)  - Universidade de SÃ£o Paulo. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "O Efeito do Polimorfismo da FunÃ§Ã£o de PertinÃªncia na PrecificaÃ§Ã£o de Derivativos Financeiros. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Controladoria e Contabilidade) - Universidade de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 28,
+      "raw": "BASSO, L. F. C. ; JUCA, M. N.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo. CSR/ESG Measures impacting financial performance: an analysis of moderating variables. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "BASSO, L. F. C.; JUCA, M. N.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b22198cc5849e60d4a7e3735edd0dda684ba9e0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BASSO, L. F. C.</a>; JUCA, M. N.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Marcos Alexandre dos Reis Cardillo. CSR/ESG Measures impacting financial performance: an analysis of moderating variables. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas)  - Universidade Presbiteria",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "CSR/ESG Measures impacting financial performance: an analysis of moderating variables. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 29,
+      "raw": "BASSO, L. F. C. ; JUCA, M. N.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Marcelo Neves GonÃ§alves. Investigating the mediation effects of organizational culture and economic sector on the impact of ESG practices on financial performance. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "BASSO, L. F. C.; JUCA, M. N.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Marcelo Neves GonÃ§alves",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "196c3b1e10dd231e1951d6eeef41be0aec328544",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BASSO, L. F. C.</a>; JUCA, M. N.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Marcelo Neves GonÃ§alves. Investigating the mediation effects of organizational culture and economic sector on the impact of ESG practices on financial performance. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "Investigating the mediation effects of organizational culture and economic sector on the impact of ESG practices on financial performance. 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 30,
+      "raw": "HADAD JUNIOR, E.; NAKAMURA, W. T.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Arthur Garcia Silveira. A interaÃ§Ã£o entre desempenho financeiro e esportivo: um estudo sobre o endividamento e sustentabilidade dos clubes de futebol na era das sociedades anÃ´nimas de futebol (SAF). 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "HADAD JUNIOR, E.; NAKAMURA, W. T.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Arthur Garcia Silveira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ea6ace75d9d904f5fe26900b17e05726ea47f85",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">HADAD JUNIOR, E.; NAKAMURA, W. T.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Arthur Garcia Silveira. A interaÃ§Ã£o entre desempenho financeiro e esportivo: um estudo sobre o endividamento e sustentabilidade dos clubes de futebol na era das sociedades anÃ´nimas de futebol (SAF). 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas)  - Universidade Presbiteriana Mackenzie. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "A interaÃ§Ã£o entre desempenho financeiro e esportivo: um estudo sobre o endividamento e sustentabilidade dos clubes de futebol na era das sociedades anÃ´nimas de futebol (SAF). 2024. Exame de qualificaÃ§Ã£o (Doutorando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 37,
+      "raw": "POPADIUK, S. ; PEREZ, G.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes. A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o na performance das organizaÃ§Ãµes. 2025. Exame de qualificaÃ§Ã£o (Mestrando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie.",
+      "autores": "POPADIUK, S.; PEREZ, G.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e2d5753d72a0d960c9d430a4810acf7cf2937c72",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/1784002683973468\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">POPADIUK, S.</a>; PEREZ, G.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Joaquim Martins JosÃ© Lopes. A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o na performance das organizaÃ§Ãµes. 2025. Exame de qualificaÃ§Ã£o (Mestrando em AdministraÃ§Ã£o de Empresas)  - Universidade Presbiteriana ",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "A relaÃ§Ã£o entre capital social e capacidade para inovaÃ§Ã£o na performance das organizaÃ§Ãµes. 2025. Exame de qualificaÃ§Ã£o (Mestrando em AdministraÃ§Ã£o de Empresas) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 38,
+      "raw": "SCHREIBER, D.; BEZ, M. R.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina. AnÃ¡lise da ContribuiÃ§Ã£o das Universidades para a ConsolidaÃ§Ã£o de Startups. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Pos graduaÃ§Ã£o em ADMINISTRAÃÃO) - Universidade Feevale.",
+      "autores": "SCHREIBER, D.; BEZ, M. R.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f009a497a814c6af20ba7a188dbe7e0b66299463",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SCHREIBER, D.; BEZ, M. R.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Luciano de Oliveira Maurina. AnÃ¡lise da ContribuiÃ§Ã£o das Universidades para a ConsolidaÃ§Ã£o de Startups. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Pos graduaÃ§Ã£o em ADMINISTRAÃÃO)  - Universidade Feevale. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "AnÃ¡lise da ContribuiÃ§Ã£o das Universidades para a ConsolidaÃ§Ã£o de Startups. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Pos graduaÃ§Ã£o em ADMINISTRAÃÃO) - Universidade Feevale"
+    },
+    {
+      "numero_item": 39,
+      "raw": "HADAD JUNIOR, E.; FRANCISCHINI, A. S. N.; SCARANO, P. R.; SANTOS, D. F. L. . ParticipaÃ§Ã£o em banca de Gabriel Cardassi Grillo. IntervenÃ§Ãµes governamentais no Brasil de 1994 a 2024 Ã luz da teoria da renda permanente: uma validaÃ§Ã£o teÃ³rica e economÃ©trica. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Economia e Mercados) - Universidade Presbiteriana Mackenzie.",
+      "autores": "HADAD JUNIOR, E.; FRANCISCHINI, A. S. N.; SCARANO, P. R.; SANTOS, D. F. L.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Gabriel Cardassi Grillo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "08d461cdd79820f6542b867b65f519b906e8d311",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">HADAD JUNIOR, E.; FRANCISCHINI, A. S. N.; SCARANO, P. R.; <b>SANTOS, D. F. L.</b>.  ParticipaÃ§Ã£o em banca de Gabriel Cardassi Grillo. IntervenÃ§Ãµes governamentais no Brasil de 1994 a 2024 Ã  luz da teoria da renda permanente: uma validaÃ§Ã£o teÃ³rica e economÃ©trica. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Economia e Mercados)  - Universidade Presbiteriana Mackenzie. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "IntervenÃ§Ãµes governamentais no Brasil de 1994 a 2024 Ã luz da teoria da renda permanente: uma validaÃ§Ã£o teÃ³rica e economÃ©trica. 2025. Exame de qualificaÃ§Ã£o (Mestrando em Economia e Mercados) - Universidade Presbiteriana Mackenzie"
+    },
+    {
+      "numero_item": 57,
+      "raw": "SANTOS, D. F. L. ; ROSOLEM, A. M.; DONADON, F. A. B. . ParticipaÃ§Ã£o em banca de Melissa Takemoto.Modelo de desempenho para centros de pesquisa e desenvolvimento estruturados na relaÃ§Ã£o pÃºblico-privado. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "SANTOS, D. F. L.; ROSOLEM, A. M.; DONADON, F. A. B.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Melissa Takemoto",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4219954cdd32bbb1a99ee8da2d3149f33da2fa5c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; ROSOLEM, A. M.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4564331372026147\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">DONADON, F. A. B.</a>.  ParticipaÃ§Ã£o em banca de Melissa Takemoto.Modelo de desempenho para centros de pesquisa e desenvolvimento estruturados na relaÃ§Ã£o pÃºblico-privado.\n\t\t\t\t\t\t2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade E",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:36.804849"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Vision Tech Summit. CiÃªncia e EducaÃ§Ã£o: ImportÃ¢nciada da FormaÃ§Ã£o para o AgronegÃ³cio. 2024. (Feira).",
+      "autores": null,
+      "titulo": "CiÃªncia e EducaÃ§Ã£o: ImportÃ¢nciada da FormaÃ§Ã£o para o AgronegÃ³cio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ee37028da6ffd77deee052a670cf88018d26bc87",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vision Tech Summit. CiÃªncia e EducaÃ§Ã£o: ImportÃ¢nciada da FormaÃ§Ã£o para o  AgronegÃ³cio. 2024. (Feira). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.813440"
+      },
+      "veiculo": "2024. (Feira)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "SANTOS, D. F. L. ; LUCENTE, A. R. ; TAKEMOTO, M. . X SimpÃ³sio em GestÃ£o do AgronegÃ³cio. 2025. (Congresso).",
+      "autores": "SANTOS, D. F. L.; LUCENTE, A. R.; TAKEMOTO, M.",
+      "titulo": "X SimpÃ³sio em GestÃ£o do AgronegÃ³cio",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f2d0f50ee8ef19ab14e2eb9554bd9544b68cb697",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7780451856312553\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LUCENTE, A. R.</a> ; TAKEMOTO, M. . X SimpÃ³sio em GestÃ£o do AgronegÃ³cio. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.813440"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SANTOS, D. F. L. ; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA . Webinar ConexÃ£o Empreendedora Brasil-Portugal.. 2024. (Outro).",
+      "autores": "SANTOS, D. F. L.; COLENCI TREVELIN, ANA TERESA; GATTO, VANESSA CRISTHINA",
+      "titulo": "Webinar ConexÃ£o Empreendedora Brasil-Portugal",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "32a219f1c02eb7a2cb18cea5067e50003cc38785",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; COLENCI TREVELIN, ANA TERESA ; GATTO, VANESSA CRISTHINA . Webinar ConexÃ£o Empreendedora Brasil-Portugal.. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.813440"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "SANTOS, D. F. L. ; MONTORO, S. B. ; LUCENTE, A. R. . IX SimpÃ³sio em GestÃ£o do AgronegÃ³cio (SGAgro). 2024. (Congresso).",
+      "autores": "SANTOS, D. F. L.; MONTORO, S. B.; LUCENTE, A. R.",
+      "titulo": "IX SimpÃ³sio em GestÃ£o do AgronegÃ³cio (SGAgro)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8730cc306f4c77335d41b67f1940b6b45914f9cd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SANTOS, D. F. L.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4504400859902088\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MONTORO, S. B.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7780451856312553\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">LUCENTE, A. R.</a> . IX SimpÃ³sio em GestÃ£o do AgronegÃ³cio (SGAgro). 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:36.813440"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Luis Gustavo de Almeida Nunes. Viabilidade de Matriz Financeira na EstratÃ©gia de Controle de Pragas em Cana-de-AÃ§Ãºcar. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Viabilidade de Matriz Financeira na EstratÃ©gia de Controle de Pragas em Cana-de-AÃ§Ãºcar",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ae7f6432d399f0068015481f9a026d80a3c99604",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luis Gustavo de Almeida Nunes. Viabilidade de Matriz Financeira na EstratÃ©gia de Controle de Pragas em Cana-de-AÃ§Ãºcar.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Carlos Eduardo Costa de Glavina Reino. CertificaÃ§Ã£o Ambiental e Rastreabilidade como Vetores de Competitividade: Um Estudo Aplicado Ã Soja Brasileira Exportada pelas Grandes Tradings.. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "CertificaÃ§Ã£o Ambiental e Rastreabilidade como Vetores de Competitividade: Um Estudo Aplicado Ã Soja Brasileira Exportada pelas Grandes Tradings",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "25edd0a099aa2d51a21dde4accfa2de2af3dcacf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Carlos Eduardo Costa de Glavina Reino. CertificaÃ§Ã£o Ambiental e Rastreabilidade como Vetores de Competitividade: Um Estudo Aplicado Ã  Soja Brasileira Exportada pelas Grandes Tradings..\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Amanda Maira Rosolem. Gerenciamento de Projetos de Pesquisa e Desenvolvimento em Centros de Tecnologia e InovaÃ§Ã£o no AgronegÃ³cio. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Gerenciamento de Projetos de Pesquisa e Desenvolvimento em Centros de Tecnologia e InovaÃ§Ã£o no AgronegÃ³cio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9763ec07c7c340020c7bb4dee9b68d188e376251",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Amanda Maira Rosolem. Gerenciamento de Projetos de Pesquisa e Desenvolvimento em Centros de Tecnologia e InovaÃ§Ã£o no AgronegÃ³cio.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Juliana Cardoso Feltrin. Desafios na introduÃ§Ã£o da inovaÃ§Ã£o em empresas sucroenergÃ©ticas. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Desafios na introduÃ§Ã£o da inovaÃ§Ã£o em empresas sucroenergÃ©ticas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "65ddde3c521af3e99190a433317b7efb71fef107",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Juliana Cardoso Feltrin. Desafios na introduÃ§Ã£o da inovaÃ§Ã£o em empresas  sucroenergÃ©ticas.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Alex Rengifo Rojas. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dd58bd3a1dd6cbda6c68656422f44c9c2cee6375",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alex Rengifo Rojas.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Pedro Henrique Arico. Impacto EconÃ´mico do Preparo Reduzido do Solo em Sistemas de Cana-de-AÃ§Ãºcar com RotaÃ§Ã£o de Soja. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Impacto EconÃ´mico do Preparo Reduzido do Solo em Sistemas de Cana-de-AÃ§Ãºcar com RotaÃ§Ã£o de Soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b95dd9c11147634b63a8400538ac8a9babcbaba4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Henrique Arico. Impacto EconÃ´mico do Preparo Reduzido do Solo em Sistemas de Cana-de-AÃ§Ãºcar com RotaÃ§Ã£o de Soja.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Luiza Galesi Silverio. AvaliaÃ§Ã£o econÃ´mica do uso combinado de inseticidas quÃ­micos sobre Beauveria bassiana no controle de Sphenophorus levis. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o econÃ´mica do uso combinado de inseticidas quÃ­micos sobre Beauveria bassiana no controle de Sphenophorus levis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f15dd2875de8f28a5c581793e4b07facb34c3615",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luiza Galesi Silverio. AvaliaÃ§Ã£o econÃ´mica do uso combinado de inseticidas quÃ­micos sobre Beauveria bassiana no controle de Sphenophorus levis.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Maria Laura Vieira da Silva Trindade. AnÃ¡lise Comparativa da GestÃ£o da Tesouraria entre InstituiÃ§Ãµes Financeiras BancÃ¡rias e Cooperativas. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "AnÃ¡lise Comparativa da GestÃ£o da Tesouraria entre InstituiÃ§Ãµes Financeiras BancÃ¡rias e Cooperativas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "69c0d9670fcc689a8582c6f19596120117075172",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Laura Vieira da Silva Trindade. AnÃ¡lise Comparativa da GestÃ£o da Tesouraria entre InstituiÃ§Ãµes Financeiras BancÃ¡rias e Cooperativas.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Maria Eduarda Ramos Sacco. A influÃªncia da governanÃ§a corporativa na estratÃ©gia de inovaÃ§Ã£o do bancos estabelecidos no Brasil. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "A influÃªncia da governanÃ§a corporativa na estratÃ©gia de inovaÃ§Ã£o do bancos estabelecidos no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b36a5b6add2113bb7c03a744a4b9320fb637ba2f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Ramos Sacco. A influÃªncia da governanÃ§a corporativa na estratÃ©gia de inovaÃ§Ã£o do bancos estabelecidos no Brasil.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Nicole Schiavetto de Freitas. AnÃ¡lise da governanÃ§a corporativa na elaboraÃ§Ã£o do orÃ§amento de capital: o caso de uma agroindÃºstria. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "AnÃ¡lise da governanÃ§a corporativa na elaboraÃ§Ã£o do orÃ§amento de capital: o caso de uma agroindÃºstria",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6958937f51320d18dce255677e30fd49ed01bfcb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicole Schiavetto de Freitas. AnÃ¡lise da governanÃ§a corporativa na elaboraÃ§Ã£o do orÃ§amento de capital: o caso de uma agroindÃºstria.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "AndrÃ© Victor Nunes Borba. Impacto da GestÃ£o Financeira no Desempenho Esportivo dos Clubes de Futebol no Brasil. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Impacto da GestÃ£o Financeira no Desempenho Esportivo dos Clubes de Futebol no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5525d67f97631587f296af07fbd5fef793dee8db",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AndrÃ© Victor Nunes Borba. Impacto da GestÃ£o Financeira no Desempenho Esportivo dos Clubes de Futebol no Brasil.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Thayane Cristina Gomes dos Santos. InovaÃ§Ã£o e desempenho empresarial no setor sucroenergÃ©tico: evidÃªncias a partir dos relatÃ³rios comporativos. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "InovaÃ§Ã£o e desempenho empresarial no setor sucroenergÃ©tico: evidÃªncias a partir dos relatÃ³rios comporativos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ddd6183d0ded22bd7c03e3279d32dfb348e15f7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Thayane Cristina Gomes dos Santos. InovaÃ§Ã£o e desempenho empresarial no setor sucroenergÃ©tico: evidÃªncias a partir dos relatÃ³rios comporativos.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Melissa de Souza Ferreira. EstratÃ©gias de ecoinovaÃ§Ã£o nas agroindÃºstrias de fruticultura. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "EstratÃ©gias de ecoinovaÃ§Ã£o nas agroindÃºstrias de fruticultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "71622dca0f04fb26936c636551c610da8d5303fb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Melissa de Souza Ferreira. EstratÃ©gias de ecoinovaÃ§Ã£o nas agroindÃºstrias de fruticultura.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SÃ©rgio Vinicius dos Santos. ImplementaÃ§Ã£o de InteligÃªncia Artificial no Processo de DefiniÃ§Ã£o do EstÃ¡gio de Maturidade TecnolÃ³gica de Projetos de P&D em Fitossanidade. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "ImplementaÃ§Ã£o de InteligÃªncia Artificial no Processo de DefiniÃ§Ã£o do EstÃ¡gio de Maturidade TecnolÃ³gica de Projetos de P&D em Fitossanidade",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "37d001ec882d12b7dd3e60ef00134d0ada33e574",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SÃ©rgio Vinicius dos Santos. ImplementaÃ§Ã£o de InteligÃªncia Artificial no Processo de DefiniÃ§Ã£o do EstÃ¡gio de Maturidade TecnolÃ³gica de Projetos de P&amp;D em Fitossanidade.\n\t\t\t\t\tInÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "Karen Caroline Souza. A importÃ¢ncia da inovaÃ§Ã£o na sustentabilidade da agroindÃºstria no Brasil. InÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "A importÃ¢ncia da inovaÃ§Ã£o na sustentabilidade da agroindÃºstria no Brasil",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f80e9fbb0004a482155ae4a8a6bf65853a29dc0d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Karen Caroline Souza. A importÃ¢ncia da inovaÃ§Ã£o na sustentabilidade da agroindÃºstria no Brasil.\n\t\t\t\t\tInÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Mariana Marin Jorge. AvaliaÃ§Ã£o de investimentos em ecoinovaÃ§Ãµes nos sistemas de produÃ§Ã£o de cana-de-aÃ§Ãºcar (IC - Funep). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Apoio a Pesquisa, Ensino e ExtensÃ£o - FUNEP. (Orientador).",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de investimentos em ecoinovaÃ§Ãµes nos sistemas de produÃ§Ã£o de cana-de-aÃ§Ãºcar (IC - Funep)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "caf09a9c1a7b6680e7e15e1791cd381cb4a97503",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Mariana Marin Jorge. AvaliaÃ§Ã£o de investimentos em ecoinovaÃ§Ãµes nos sistemas de produÃ§Ã£o de cana-de-aÃ§Ãºcar (IC - Funep). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Apoio a Pesquisa, Ensino e ExtensÃ£o - FUNEP. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 17,
+      "raw": "LetÃ­cia Pereira Evaristo. O impacto das finanÃ§as sustentÃ¡veis na criaÃ§Ã£o de valor das empresas do agronegÃ³cio (PIBIC Jr. - CNPq). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "O impacto das finanÃ§as sustentÃ¡veis na criaÃ§Ã£o de valor das empresas do agronegÃ³cio (PIBIC Jr",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6f2b790467105ae88259422c8ff5a83556737868",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LetÃ­cia Pereira Evaristo. O impacto das finanÃ§as sustentÃ¡veis na criaÃ§Ã£o de valor das empresas do agronegÃ³cio (PIBIC Jr. - CNPq). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "- CNPq). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Emannuel Fiuza Rego Maltez. Risco SistemÃ¡tico e o Custo de Capital do Cultivo do Amendoim: Impacto no Valor EconÃ´mico da ProduÃ§Ã£o (PIBIC Jr. - PROPe)). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador).",
+      "autores": null,
+      "titulo": "Risco SistemÃ¡tico e o Custo de Capital do Cultivo do Amendoim: Impacto no Valor EconÃ´mico da ProduÃ§Ã£o (PIBIC Jr",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f94e0166c9793f1d456d43f79e86759b54297d71",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Emannuel Fiuza Rego Maltez. Risco SistemÃ¡tico e o Custo de Capital do Cultivo do Amendoim: Impacto no Valor EconÃ´mico da ProduÃ§Ã£o (PIBIC Jr. - PROPe)). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "- PROPe)). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 19,
+      "raw": "Gabriel Mesquita Vidal. ProposiÃ§Ã£o de Modelo BioeconÃ´mico Preditivo para a Cultura do Amendoim (PIBIC - Reitoria). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador).",
+      "autores": null,
+      "titulo": "ProposiÃ§Ã£o de Modelo BioeconÃ´mico Preditivo para a Cultura do Amendoim (PIBIC - Reitoria)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3775d5a98306db0ca688723c8fde1c2ef6ac3355",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Mesquita Vidal. ProposiÃ§Ã£o de Modelo BioeconÃ´mico Preditivo para a Cultura do Amendoim (PIBIC - Reitoria). InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 20,
+      "raw": "Conrado Henrique de Freitas Andrade. MÃ©todos de AvaliaÃ§Ã£o EconÃ´mica no Controle BiolÃ³gico de Pragas AgrÃ­colas. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador).",
+      "autores": null,
+      "titulo": "MÃ©todos de AvaliaÃ§Ã£o EconÃ´mica no Controle BiolÃ³gico de Pragas AgrÃ­colas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c7fd6a20704389c5ea72c0ca700206bf89fb1ceb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Conrado Henrique de Freitas Andrade. MÃ©todos de AvaliaÃ§Ã£o EconÃ´mica no Controle BiolÃ³gico de Pragas AgrÃ­colas. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. (Orientador). </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 21,
+      "raw": "Gabrielly Antunes Cassiano. Viabilidade EconÃ´mica do uso e comercializaÃ§Ã£o de silagens produzidas em diferentes sistemas de produtivos. 2025. DissertaÃ§Ã£o (Mestrado em ProduÃ§Ã£o Animal SustentÃ¡vel) - Instituto de Zootecnia do Governo do Estado de SÃ£o Paulo, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Viabilidade EconÃ´mica do uso e comercializaÃ§Ã£o de silagens produzidas em diferentes sistemas de produtivos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7e35a6abad37596713f265bb9f0bfd80ec71c048",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabrielly Antunes Cassiano. Viabilidade EconÃ´mica do uso e comercializaÃ§Ã£o de silagens produzidas em diferentes sistemas de produtivos.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em ProduÃ§Ã£o Animal SustentÃ¡vel)  - Instituto de Zootecnia do Governo do Estado de SÃ£o Paulo, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: David Ferreira Lopes Santos. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em ProduÃ§Ã£o Animal SustentÃ¡vel) - Instituto de Zootecnia do Governo do Estado de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 22,
+      "raw": "Kezia Montezo Marques. EstratÃ©gias de transferÃªncia tecnolÃ³gica de um Centro de Pesquisa e Desenvolvimento no AgronegÃ³cio. 2024. DissertaÃ§Ã£o (Mestrado em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: David Ferreira Lopes Santos.",
+      "autores": "Kezia Montezo Marques. EstratÃ©gias de transferÃªncia tecnolÃ³gica de um Centro de Pesquisa e Desenvolvimento no AgronegÃ³cio. . DissertaÃ§Ã£o (Mestrado em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Orientador: David Ferreira Lopes Santos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "11c878b9068dcdc831f04cda4a8167574797c348",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kezia Montezo Marques. EstratÃ©gias de transferÃªncia tecnolÃ³gica de um Centro de Pesquisa e Desenvolvimento no AgronegÃ³cio.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: David Ferreira Lopes Santos. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      }
+    },
+    {
+      "numero_item": 23,
+      "raw": "Ricardo Lombardi Rezende. O Alcance das Tecnologias 4.0 na Contabilidade: A experiÃªncia de um Centro de ServiÃ§os Compartilhados. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: David Ferreira Lopes Santos.",
+      "autores": "Ricardo Lombardi Rezende. O Alcance das Tecnologias 4.0 na Contabilidade: A experiÃªncia de um Centro de ServiÃ§os Compartilhados. . DissertaÃ§Ã£o (Mestrado em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Orientador: David Ferreira Lopes Santos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4fbbdafb879f36731b5ca536e3005bd232e5c02d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ricardo Lombardi Rezende. O Alcance das Tecnologias 4.0 na Contabilidade: A experiÃªncia de um Centro de ServiÃ§os Compartilhados.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Engenharia de ProduÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: David Ferreira Lopes Santos. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      }
+    },
+    {
+      "numero_item": 41,
+      "raw": "Marcelo Guilhermino Petersen. Protocolo TecnolÃ³gico de Processos ContÃ¡beis Sequenciais para ProspecÃ§Ã£o de dados e AnÃ¡lise Financeira Aplicada na GestÃ£o de Empreendimentos AquÃ­colas. 2024. Tese (Doutorado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Protocolo TecnolÃ³gico de Processos ContÃ¡beis Sequenciais para ProspecÃ§Ã£o de dados e AnÃ¡lise Financeira Aplicada na GestÃ£o de Empreendimentos AquÃ­colas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a270a877a774e73052486c80cf49bfdee0a28ee3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcelo Guilhermino Petersen.\n\t\t\t\t\t\tProtocolo TecnolÃ³gico de Processos ContÃ¡beis Sequenciais para ProspecÃ§Ã£o de dados e AnÃ¡lise Financeira Aplicada na GestÃ£o de  Empreendimentos AquÃ­colas.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em AqÃ¼icultura)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: David Ferreira Lopes Santos. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2024. Tese (Doutorado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 45,
+      "raw": "Stela Basso Montoro. 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "David Ferreira Lopes Santos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7625888ba29efe5880f5b7be4267ee5eac5eefe4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Stela Basso Montoro.\n\t\t\t\t\t\t2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. David Ferreira Lopes Santos. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      }
+    },
+    {
+      "numero_item": 50,
+      "raw": "Beatriz Pessoa Rossi. Os efeitos do letramento no bem-estar financeiros de adultos. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Os efeitos do letramento no bem-estar financeiros de adultos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "08873a7b1cbf33c227a266d6e3dd733f36414b33",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Pessoa Rossi.\n\t\t\t\t\t\tOs efeitos do letramento no bem-estar financeiros de adultos.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 51,
+      "raw": "VitÃ³ria Caroline Muxila Tavian. ValoraÃ§Ã£o de startups: um estudo de caso. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "ValoraÃ§Ã£o de startups: um estudo de caso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "19d024a07a3c6f78b41c457bd9aec8bd5f9ba380",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VitÃ³ria Caroline Muxila Tavian.\n\t\t\t\t\t\tValoraÃ§Ã£o de startups: um estudo de caso.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 52,
+      "raw": "Melissa Takemoto. Modelo de desempenho para centros de pesquisa e desenvolvimento estruturados na relaÃ§Ã£o pÃºblico-privado. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Modelo de desempenho para centros de pesquisa e desenvolvimento estruturados na relaÃ§Ã£o pÃºblico-privado",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f81a65c7e58661e29854b865040be374a0ffb888",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Melissa Takemoto.\n\t\t\t\t\t\tModelo de desempenho para centros de pesquisa e desenvolvimento estruturados na relaÃ§Ã£o pÃºblico-privado.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 53,
+      "raw": "Isabella Pires da Silva. Resultados e TendÃªncias da Pesquisa CientÃ­fica sobre ESG no AgronegÃ³cio Brasileiro. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Resultados e TendÃªncias da Pesquisa CientÃ­fica sobre ESG no AgronegÃ³cio Brasileiro",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f4633595fff31ef8db62e0454fc818b2a9f3e9ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabella Pires da Silva.\n\t\t\t\t\t\tResultados e TendÃªncias da Pesquisa CientÃ­fica sobre ESG no AgronegÃ³cio Brasileiro.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 142,
+      "raw": "Luiza Galesi Silverio. ValoraÃ§Ã£o de projetos de pequisa, desenvolvimento e inovaÃ§Ã£o em sistemas de produÃ§Ã£o sustentÃ¡veis no agronegÃ³cio (IC - PIBIC). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "ValoraÃ§Ã£o de projetos de pequisa, desenvolvimento e inovaÃ§Ã£o em sistemas de produÃ§Ã£o sustentÃ¡veis no agronegÃ³cio (IC - PIBIC)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c9de37250279feaf8a7b1588b7bb76d1334a07c0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luiza Galesi Silverio.\n\t\t\t\t\t\tValoraÃ§Ã£o de projetos de pequisa, desenvolvimento e inovaÃ§Ã£o em sistemas de produÃ§Ã£o sustentÃ¡veis no agronegÃ³cio (IC - PIBIC).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 143,
+      "raw": "Nicolas dos Anjos Gabriel. A importÃ¢ncia dos investimentos na sustentabilidade das empresas do agronegÃ³cio no Brasil (PIBIC Jr. - CNPq). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "A importÃ¢ncia dos investimentos na sustentabilidade das empresas do agronegÃ³cio no Brasil (PIBIC Jr",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b8ba70ee2e8cf0ed7892cd956e14190d08c29e34",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicolas dos Anjos Gabriel.\n\t\t\t\t\t\tA importÃ¢ncia dos investimentos na sustentabilidade das empresas do agronegÃ³cio no Brasil (PIBIC Jr. - CNPq).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "- CNPq). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 144,
+      "raw": "Francisco Martins Silva. ImportÃ¢ncia da Sustentabilidade no Retorno e Risco das Empresas do AgronegÃ³cio no Brasil (PIBIC Jr. - CNPq). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "ImportÃ¢ncia da Sustentabilidade no Retorno e Risco das Empresas do AgronegÃ³cio no Brasil (PIBIC Jr",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e657014ddbbf5aa90f41c8c8514f7ef9fb28d686",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Francisco Martins Silva.\n\t\t\t\t\t\tImportÃ¢ncia da Sustentabilidade no Retorno e Risco das Empresas do AgronegÃ³cio no Brasil (PIBIC Jr. - CNPq).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "- CNPq). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 145,
+      "raw": "Gabriel Rodrigues Cardoso dos Santos. A importÃ¢ncia dos fatores ambientais, sociais e de governanÃ§a corporativa na criaÃ§Ã£o de valor das empresas do agronegÃ³cio no Brasil (PIBIC Jr. - Bolsa Reitoria). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "A importÃ¢ncia dos fatores ambientais, sociais e de governanÃ§a corporativa na criaÃ§Ã£o de valor das empresas do agronegÃ³cio no Brasil (PIBIC Jr",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3083c03d62f52ba1a763b44f392d4351e26aa6b9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Rodrigues Cardoso dos Santos.\n\t\t\t\t\t\tA importÃ¢ncia dos fatores ambientais, sociais e de governanÃ§a corporativa na criaÃ§Ã£o de valor das empresas do agronegÃ³cio no Brasil (PIBIC Jr. - Bolsa Reitoria).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tUniversidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "- Bolsa Reitoria). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 146,
+      "raw": "Melissa Takemoto. AvaliaÃ§Ã£o de Desempenho dos Centros de Pesquisa & Desenvolvimento Estruturados na RelaÃ§Ã£o PÃºblico-Privado. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o de Desempenho dos Centros de Pesquisa & Desenvolvimento Estruturados na RelaÃ§Ã£o PÃºblico-Privado",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c1cc6fc19985f97ccbaf1d24cf3a5a7917501cf8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Melissa Takemoto.\n\t\t\t\t\t\tAvaliaÃ§Ã£o de Desempenho dos Centros de Pesquisa &amp; Desenvolvimento Estruturados na RelaÃ§Ã£o PÃºblico-Privado.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 147,
+      "raw": "Vitoria Helena Rodrigues Moretto. Fatores Determinantes do Valor das Empresas do AgronegÃ³cio. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Fatores Determinantes do Valor das Empresas do AgronegÃ³cio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0058ce029e609ba1a9f8784720b400335bbc4120",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vitoria Helena Rodrigues Moretto.\n\t\t\t\t\t\tFatores Determinantes do Valor das Empresas do AgronegÃ³cio.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 184,
+      "raw": "Julia Bobice Vieira. GovernanÃ§a e AdministraÃ§Ã£o na Inova.Jab (Bolsa EstÃ¡gio AUIN). 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "GovernanÃ§a e AdministraÃ§Ã£o na Inova",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "359954e98c75bde746132eacf7148ff8b51144fa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia Bobice Vieira.\n\t\t\t\t\t\tGovernanÃ§a e AdministraÃ§Ã£o na Inova.Jab (Bolsa EstÃ¡gio AUIN).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tUniversidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "Jab (Bolsa EstÃ¡gio AUIN). 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 185,
+      "raw": "Julia VitÃ³ria Amadeu. Processo de IncubaÃ§Ã£o de Startups (Bolsa EstÃ¡gio AUIN). 2025. OrientaÃ§Ã£o de outra natureza. (Zootecnia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Universidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Processo de IncubaÃ§Ã£o de Startups (Bolsa EstÃ¡gio AUIN)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0de400331b1ab4e0d45b8913e3383a998a1bbfc4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia VitÃ³ria Amadeu.\n\t\t\t\t\t\tProcesso de IncubaÃ§Ã£o de Startups (Bolsa EstÃ¡gio AUIN).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Zootecnia)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tUniversidade Estadual Paulista. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (Zootecnia) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 186,
+      "raw": "KÃ¡io Gabriel Ribeiro. Programa PAADES - AdministraÃ§Ã£o Financeira de Curto Prazo. 2025. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "Programa PAADES - AdministraÃ§Ã£o Financeira de Curto Prazo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "402939bce978437d62edcfef532c93ab7130ae06",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">KÃ¡io Gabriel Ribeiro.\n\t\t\t\t\t\tPrograma PAADES - AdministraÃ§Ã£o Financeira de Curto Prazo.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 187,
+      "raw": "Melissa Takemoto. RelatÃ³rio de EstÃ¡gio Supervisionado (Cooperativa Agroindustrial de Jaboticabal - COPLANA). 2025. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "RelatÃ³rio de EstÃ¡gio Supervisionado (Cooperativa Agroindustrial de Jaboticabal - COPLANA)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b03e126c2f917dcac5abeb164cae79ce93b10823",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Melissa Takemoto.\n\t\t\t\t\t\tRelatÃ³rio de EstÃ¡gio Supervisionado (Cooperativa Agroindustrial de Jaboticabal - COPLANA).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 188,
+      "raw": "OtÃ¡vio Henrique da Silva. AvaliaÃ§Ã£o econÃ´mica dos sistemas de produÃ§Ã£o de soja e cana (Treinamento TÃ©cnico). 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "AvaliaÃ§Ã£o econÃ´mica dos sistemas de produÃ§Ã£o de soja e cana (Treinamento TÃ©cnico)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d747c873c8b01416ff4018b66f3867ef13a8261a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OtÃ¡vio Henrique da Silva.\n\t\t\t\t\t\tAvaliaÃ§Ã£o econÃ´mica dos sistemas de produÃ§Ã£o de soja e cana (Treinamento TÃ©cnico).\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 189,
+      "raw": "Nicole Schiavetto de Freitas. RelatÃ³rio de EstÃ¡rgio Curricular do Curso de AdministraÃ§Ã£o (Baldan Implementos AgrÃ­colas S.A.). 2024. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.",
+      "autores": null,
+      "titulo": "RelatÃ³rio de EstÃ¡rgio Curricular do Curso de AdministraÃ§Ã£o (Baldan Implementos AgrÃ­colas S",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cb215bc4f786648f73bb0211aae48d1a8526affb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicole Schiavetto de Freitas.\n\t\t\t\t\t\tRelatÃ³rio de EstÃ¡rgio Curricular do Curso de AdministraÃ§Ã£o (Baldan Implementos AgrÃ­colas S.A.).\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.851358"
+      },
+      "veiculo": "A.). 2024. OrientaÃ§Ã£o de outra natureza. (AdministraÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: David Ferreira Lopes Santos"
+    },
+    {
+      "numero_item": 1,
+      "raw": "MOREIRA, R. O. ; ROLOEM, A. M. ; MARTINS, I. F. ; SANTOS, D. F. L. . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024.",
+      "autores": "MOREIRA, R. O.; ROLOEM, A. M.; MARTINS, I. F.; SANTOS, D. F. L.",
+      "titulo": "Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e3f68c616aec6ea753c1c703a913b313a6f76053",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MOREIRA, R. O. ; ROLOEM, A. M. ; MARTINS, I. F. ; <b>SANTOS, D. F. L.</b> . Ambiente de InovaÃ§Ã£o: Incubadora de Empresas de Base TecnolÃ³gica - InovaJab. 2024. </span></div>",
+      "source": {
+        "file": "5017639694729451__david-ferreira-lopes-santos.full_profile.html",
+        "lattes_id": "5017639694729451",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:36.852154"
+      },
+      "veiculo": "2024"
+    }
+  ]
+}

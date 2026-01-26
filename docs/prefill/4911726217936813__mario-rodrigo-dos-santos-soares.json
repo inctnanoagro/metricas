@@ -1,0 +1,391 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "4911726217936813",
+    "full_name": "Mario Rodrigo dos Santos Soares",
+    "slug": "mario-rodrigo-dos-santos-soares",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:36.314977",
+    "source_file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+    "total_productions": 19,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 10,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 6,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 3,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "DA SILVA, RAYSA 2025 DA SILVA, RAYSA ; DE JESUS, WAGNER ; SOARES, MÁRIO ; BARROS, ARIANE ; WEBER, OSCARLINA . EFEITO DAS DOSES DE DEJETO LÍQUIDO DE SUÍNOS NOS ATRIBUTOS FÍSICOS, QUÍMICOS E ELETROQUÍMICOS EM UM LATOSSOLO DO CERRADO. QUIMICA NOVA , v. 48, p. 1-5, 2025.",
+      "autores": "DA SILVA, RAYSA DA SILVA, RAYSA; DE JESUS, WAGNER; SOARES, MÁRIO; BARROS, ARIANE; WEBER, OSCARLINA",
+      "titulo": "EFEITO DAS DOSES DE DEJETO LÍQUIDO DE SUÍNOS NOS ATRIBUTOS FÍSICOS, QUÍMICOS E ELETROQUÍMICOS EM UM LATOSSOLO DO CERRADO",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.21577/0100-4042.20250004",
+      "fingerprint_sha1": "e18849f7aedbdb1aabd3bdda7ad595884603ee57",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, RAYSA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/0100-4042.20250004\" target=\"_blank\"></a>DA SILVA, RAYSA ; DE JESUS, WAGNER ; <b>SOARES, MÁRIO</b> ; BARROS, ARIANE ; WEBER, OSCARLINA . EFEITO ",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "QUIMICA NOVA"
+    },
+    {
+      "numero_item": 2,
+      "raw": "VIEIRA, AMANDA T. 2025 VIEIRA, AMANDA T. ; EBERT, HEVELYN V. ; THERÉZIO, ERALCI M. ; TEREZO, AILTON J. ; BARROS, ARIANE I. ; DE SIQUEIRA, ADRIANO B. ; SOARES, MARIO R.S. . Crude glycerol as a sustainable source for carbon-based photoluminescent material. BIOMASS & BIOENERGY , v. 193, p. 107556, 2025.",
+      "autores": "VIEIRA, AMANDA T. VIEIRA, AMANDA T.; EBERT, HEVELYN V.; THERÉZIO, ERALCI M.; TEREZO, AILTON J.; BARROS, ARIANE I.; DE SIQUEIRA, ADRIANO B.; SOARES, MARIO R.S.",
+      "titulo": "Crude glycerol as a sustainable source for carbon-based photoluminescent material",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.biombioe.2024.107556",
+      "fingerprint_sha1": "79926d5f71c003df518dae4879f08e568ab8a008",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VIEIRA, AMANDA T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.biombioe.2024.107556\" target=\"_blank\"></a>VIEIRA, AMANDA T. ; EBER",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "BIOMASS & BIOENERGY"
+    },
+    {
+      "numero_item": 3,
+      "raw": "BARROS, ARIANE ISIS 2025 BARROS, ARIANE ISIS ; MEDEIROS DA SILVA, ANA CLARA ; BRITO DA SILVA, JOSIMAR ; BABOS, DIEGO VICTOR ; GOMES DE VASCONCELOS, LEONARDO ; DOS SANTOS SOARES, MÁRIO RODRIGO ; DOS SANTOS WEBER, OSCARLINA LÚCIA . Fourier Transform Infrared (FTIR) Spectroscopy and Chemometrics for Determination of Total Organic Carbon in Liquid Porcine Waste Fertilized Cerrado Soils. ANALYTICAL LETTERS , v. 59, p. 1-12, 2025.",
+      "autores": "BARROS, ARIANE ISIS BARROS, ARIANE ISIS; MEDEIROS DA SILVA, ANA CLARA; BRITO DA SILVA, JOSIMAR; BABOS, DIEGO VICTOR; GOMES DE VASCONCELOS, LEONARDO; DOS SANTOS SOARES, MÁRIO RODRIGO; DOS SANTOS WEBER, OSCARLINA LÚCIA",
+      "titulo": "Fourier Transform Infrared (FTIR) Spectroscopy and Chemometrics for Determination of Total Organic Carbon in Liquid Porcine Waste Fertilized Cerrado Soils",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1080/00032719.2025.2464788",
+      "fingerprint_sha1": "131fcec833c6f1d25dbededf2cfda86f122fda0f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARROS, ARIANE ISIS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/00032719.2025.2464788\" target=\"_blank\"></a>BARROS, ARIANE ISIS ; MEDEIROS DA SILVA, ANA CLARA ; BRITO DA SILVA, JOSIMAR ; BABOS, DIEGO VICTO",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "ANALYTICAL LETTERS"
+    },
+    {
+      "numero_item": 16,
+      "raw": "CUNHA SERAFIM, ANA CAROLINA ; SIQUEIRA, ADRIANA DE PAULA CARDOSO ; CASTILHO, MARILZA ; SOARES, MÁRIO RODRIGO DOS SANTOS ; FORTUNA, AIRA TITÚS XAVIER ; TERZIOTTI, RAFAELA STRESSER ; THERÉZIO, ERALCI MOREIRA ; GOMES, DIEGO GENUÁRIO ; OLIVEIRA, HALLEY CAIXETA ; TEREZO, AILTON JOSE ; SIQUEIRA, ADRIANO BUZUTTI . Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach. Acs Agricultural Science & Technology , 2025.",
+      "autores": "CUNHA SERAFIM, ANA CAROLINA; SIQUEIRA, ADRIANA DE PAULA CARDOSO; CASTILHO, MARILZA; SOARES, MÁRIO RODRIGO DOS SANTOS; FORTUNA, AIRA TITÚS XAVIER; TERZIOTTI, RAFAELA STRESSER; THERÉZIO, ERALCI MOREIRA; GOMES, DIEGO GENUÁRIO; OLIVEIRA, HALLEY CAIXETA; TEREZO, AILTON JOSE; SIQUEIRA, ADRIANO BUZUTTI",
+      "titulo": "Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00411",
+      "fingerprint_sha1": "91087efefb4f9768c211171127fddeea9bccfa4e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00411\" target=\"_blank\"></a>CUNHA SERAFIM, ANA CAROLINA ; SIQUEIRA, ADRIANA DE PAULA CARDOSO ; CASTILHO, MARILZA ; <b>SOARES, MÁRIO RODRIGO DOS SANTOS</b> ; FORTUNA, AIRA TITÚS XAVIER ; TERZIOTTI, RAFAELA STRESSER ; THERÉZIO, ERALCI MOREIRA ; GOMES, DIEGO GENUÁRIO ; OLIVEIRA, HALLEY CAIXETA ; TEREZO, AILTON JOSE ; SIQUEIRA, ADRIANO BUZUTTI . Plant Grow",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 17,
+      "raw": "BARREIROS, V. C. ; SOARES, M. R. S. . Energia elétrica a partir de um tapete piezoelétrico. 2025. (Apresentação de Trabalho/Congresso).",
+      "autores": "BARREIROS, V. C.; SOARES, M. R. S.",
+      "titulo": "Energia elétrica a partir de um tapete piezoelétrico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "068244a55c65fc8a3c4a11188d86414531c16beb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BARREIROS, V. C. ; <b>SOARES, M. R. S.</b> . Energia elétrica a partir de um tapete piezoelétrico. 2025. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 18,
+      "raw": "ROCHA, A. V. M. ; SOARES, M. R. S. . Linter como fonte para bioplástico. 2025. (Apresentação de Trabalho/Congresso).",
+      "autores": "ROCHA, A. V. M.; SOARES, M. R. S.",
+      "titulo": "Linter como fonte para bioplástico",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ae4688fff39ccd8b3ca14139d86a25900fac5316",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROCHA, A. V. M. ; <b>SOARES, M. R. S.</b> . Linter como fonte para bioplástico. 2025. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 19,
+      "raw": "SOARES, M. R. S. . Biomassas residuais como matéria-prima sustentável para a preparação de nanomateriais promissores na gestão de água. 2025. (Apresentação de Trabalho/Congresso).",
+      "autores": "SOARES, M. R. S.",
+      "titulo": "Biomassas residuais como matéria-prima sustentável para a preparação de nanomateriais promissores na gestão de água",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1b13a4078e2b507f32823465e56aa75d93c6c314",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>SOARES, M. R. S.</b>. Biomassas residuais como matéria-prima sustentável para a preparação de nanomateriais promissores na gestão de água. 2025. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 45,
+      "raw": "Mário Rodrigo dos Santos Soares . Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aecda97f99106da36ec21525d3a1d14514c81817",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.secitec.mt.gov.br/w/escola-t%C3%A9cnica-estadual-revela-jovens-talentos-da-ci%C3%AAncia-em-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 46,
+      "raw": "Mário Rodrigo dos Santos Soares . ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE.. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bfdc16befd226a97c41e749f549d58270d9655ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE.. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.instagram.com/p/DMxvtKPtOkQ/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 47,
+      "raw": "Mário Rodrigo dos Santos Soares . Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c87532786eac72064cd66aa107bccb415a7bbb28",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.instagram.com/p/DMvQmykPLN6/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:36.307033"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Artur Vinícius Miranda Rocha. MICROPÓ DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE. Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "MICROPÓ DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bff23ed4c7709f9e56f7cbeae5fd6b4c1c2ed57b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Artur Vinícius Miranda Rocha. MICROPÓ DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Jennyfer Angelina Costa Ribeiro. FIBRAS RESIDUAIS DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE. Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "FIBRAS RESIDUAIS DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eb2cac540c0a4bfe0830b80b4b82d1be3b5d44f3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Jennyfer Angelina Costa Ribeiro. FIBRAS RESIDUAIS DE ALGODÃO PARA OBTENÇÃO DE NANOCRISTAIS DE CELULOSE.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Eduardo dos Santos Melo Filho. CELULOSE COMO FONTE PARA PARTÍCULAS FOTOLUMINESCENTES A BASE DE CARBONO. Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "CELULOSE COMO FONTE PARA PARTÍCULAS FOTOLUMINESCENTES A BASE DE CARBONO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "96d431ae9f22e6aa8d22b7a5723ef32817e88bba",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eduardo dos Santos Melo Filho. CELULOSE COMO FONTE PARA PARTÍCULAS FOTOLUMINESCENTES A BASE DE CARBONO.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Guilherme de Almeida Melo. ESTUDO PARA OBTENÇÃO DE BIOCHAR A PARTIR DE RESÍDUOS DA PRODUÇÃO DE FARINHA DE MANDIOCA. Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "ESTUDO PARA OBTENÇÃO DE BIOCHAR A PARTIR DE RESÍDUOS DA PRODUÇÃO DE FARINHA DE MANDIOCA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9ff416cd185115b9f853a1d8b28f91cdd3fd509a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Guilherme de Almeida Melo. ESTUDO PARA OBTENÇÃO DE BIOCHAR A PARTIR DE RESÍDUOS DA PRODUÇÃO DE FARINHA DE MANDIOCA.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Leonardo Guimarães Busanello da Silva. INVESTIGAÇÃO SOBRE MÉTODOS DE MODIFICAÇÃO DE CELULOSE. Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "INVESTIGAÇÃO SOBRE MÉTODOS DE MODIFICAÇÃO DE CELULOSE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c4f6ceefce927911daed04b83a53f9866bcc7e02",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Leonardo Guimarães Busanello da Silva. INVESTIGAÇÃO SOBRE MÉTODOS DE MODIFICAÇÃO DE CELULOSE.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Ana Carolina Cunha Serafim. SÍNTESE VERDE DE PONTOS QUÂNTICOS DE CARBONO A PARTIR DE EFLUENTE DA SUINOCULTURA. 2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Mario Rodrigo dos Santos Soares.",
+      "autores": null,
+      "titulo": "SÍNTESE VERDE DE PONTOS QUÂNTICOS DE CARBONO A PARTIR DE EFLUENTE DA SUINOCULTURA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ff3b45899d35209181eaf72307e1ac72c73e54c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Carolina Cunha Serafim. SÍNTESE VERDE DE PONTOS QUÂNTICOS DE CARBONO A PARTIR DE EFLUENTE DA SUINOCULTURA.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Quimica)  - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Mario Rodrigo dos Santos Soares. </span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:36.313104"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Mário Rodrigo dos Santos Soares . Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aecda97f99106da36ec21525d3a1d14514c81817",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. Escola Técnica Estadual revela jovens talentos da ciência em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.secitec.mt.gov.br/w/escola-t%C3%A9cnica-estadual-revela-jovens-talentos-da-ci%C3%AAncia-em-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:36.314022"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Mário Rodrigo dos Santos Soares . ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE.. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bfdc16befd226a97c41e749f549d58270d9655ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. ESCOLA TÉCNICA ESTADUAL REVELA JOVENS TALENTOS DA CIÊNCIA EM CAMPO VERDE.. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.instagram.com/p/DMxvtKPtOkQ/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:36.314022"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Mário Rodrigo dos Santos Soares . Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "Mário Rodrigo dos Santos Soares",
+      "titulo": "Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c87532786eac72064cd66aa107bccb415a7bbb28",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mário Rodrigo dos Santos Soares</b>. Programa nacional seleciona alunos da Escola Técnica Estadual de Campo Verde. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.instagram.com/p/DMvQmykPLN6/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
+        "lattes_id": "4911726217936813",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:36.314022"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    }
+  ]
+}

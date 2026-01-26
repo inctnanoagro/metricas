@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "8926782971408348",
+    "full_name": "Erika Alvim de Sá e Benevides",
+    "slug": "erika-alvim-de-sa-e-benevides",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:41.895281",
+    "source_file": "8926782971408348__erika-alvim-de-sa-e-benevides.full_profile.html",
+    "total_productions": 0,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 0,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": []
+}

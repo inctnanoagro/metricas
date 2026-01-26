@@ -1,0 +1,2495 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "8224498867270799",
+    "full_name": "Clarice Steffens",
+    "slug": "clarice-steffens",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:41.028654",
+    "source_file": "8224498867270799__clarice-steffens.full_profile.html",
+    "total_productions": 136,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 95,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 8,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 7,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 26,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 2,
+      "raw": "MANFIO, ADRIANO 2025 MANFIO, ADRIANO ; BAMPI, JAINE ; RIGO, DIANE ; STEFFENS, Juliana ; SOARES, MÓNICA BEATRIZ ALVARADO ; VALDUGA, EUNICE ; JUNGES, ALEXANDER ; STEFFENS, CLARICE ; ZENI, JAMILE ; BACKES, GECIANE TONIAZZO ; CANSIAN, ROGÉRIO LUIS . Use of disposable masks against Staphylococcus aureus in the chicken slaughter industry. CIÊNCIA RURAL , v. 55, p. 10.1590/0103-84, 2025.",
+      "autores": "MANFIO, ADRIANO MANFIO, ADRIANO; BAMPI, JAINE; RIGO, DIANE; STEFFENS, Juliana; SOARES, MÓNICA BEATRIZ ALVARADO; VALDUGA, EUNICE; JUNGES, ALEXANDER; STEFFENS, CLARICE; ZENI, JAMILE; BACKES, GECIANE TONIAZZO; CANSIAN, ROGÉRIO LUIS",
+      "titulo": "Use of disposable masks against Staphylococcus aureus in the chicken slaughter industry",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1590/0103-8478cr20230671",
+      "fingerprint_sha1": "cf66a8c556ec5f9579a4b47193350be343111a17",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MANFIO, ADRIANO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/0103-8478cr20230671\" target=\"_blank\"></a>MANFIO, ADRIANO ; BAMPI, JAINE ; RIGO, DIANE ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/295393546",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "CIÊNCIA RURAL"
+    },
+    {
+      "numero_item": 3,
+      "raw": "CENCE, KARINE 2025 CENCE, KARINE ; VENDRUSCOLO, MARILIA JORDANA DEQUI ; DA SILVA, LEONARDO MEIRELLES ; COLET, ROSICLER ; JUNGES, ALEXANDER ; STEFFENS, CLARICE ; ZENI, JAMILE ; VALDUGA, EUNICE . Impact of microencapsulated starter culture on the quality characteristics of Italian-type salami during storage. Journal of Food Measurement and Characterization , v. 19, p. 1913-1928, 2025.",
+      "autores": "CENCE, KARINE CENCE, KARINE; VENDRUSCOLO, MARILIA JORDANA DEQUI; DA SILVA, LEONARDO MEIRELLES; COLET, ROSICLER; JUNGES, ALEXANDER; STEFFENS, CLARICE; ZENI, JAMILE; VALDUGA, EUNICE",
+      "titulo": "Impact of microencapsulated starter culture on the quality characteristics of Italian-type salami during storage",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s11694-024-03083-8",
+      "fingerprint_sha1": "2a8fcb1553e431d154365d43ba86b27ee01d6f72",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CENCE, KARINE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11694-024-03083-8\" target=\"_blank\"></a>CENCE, KARINE ; VENDRUSCOLO, MARILIA JORDANA DEQUI ; DA SILVA, LEONARDO MEIRELLES ; COLET, ROSICLER ; <a c",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Measurement and Characterization"
+    },
+    {
+      "numero_item": 4,
+      "raw": "DE CASTRO GABRIEL TOMALOK, CARINA 2025 DE CASTRO GABRIEL TOMALOK, CARINA ; ZENI, JAMILE ; JUNGES, ALEXANDER ; VALDUGA, EUNICE ; STEFFENS, CLARICE ; CANSIAN, ROGÉRIO LUIS ; BACKES, GECIANE TONIAZZO . New trends in pork meat preservation: natural preservation and adaptation to the demands of conscious consumption. JOURNAL OF FOOD PROCESS ENGINEERING , v. 48, p. 1, 2025.",
+      "autores": "DE CASTRO GABRIEL TOMALOK, CARINA DE CASTRO GABRIEL TOMALOK, CARINA; ZENI, JAMILE; JUNGES, ALEXANDER; VALDUGA, EUNICE; STEFFENS, CLARICE; CANSIAN, ROGÉRIO LUIS; BACKES, GECIANE TONIAZZO",
+      "titulo": "New trends in pork meat preservation: natural preservation and adaptation to the demands of conscious consumption",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/jfpe.70084",
+      "fingerprint_sha1": "66560ea769286574bbf0d416550db763562aafcb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE CASTRO GABRIEL TOMALOK, CARINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/jfpe.70084\" target=\"_blank\"></a>DE CASTRO GABRIEL TOMALOK, CARINA ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/43449284480",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF FOOD PROCESS ENGINEERING"
+    },
+    {
+      "numero_item": 5,
+      "raw": "CAMARGO, SABRINA DUARTE 2025 CAMARGO, SABRINA DUARTE ; FERNANDES, ILIZANDRA APARECIDA ; DO NASCIMENTO, LUCAS HENRIQUE ; PUTON, BRUNA MARIA SAORIN ; CANSIAN, ROGÉRIO LUIS ; STEFFENS, CLARICE ; ZENI, JAMILE ; PAROUL, NATALIA . Biological activities of essential oil and leaf extracts from Erva Baleeira (Cordia verbenacea DC). Food and Humanity , v. 4, p. 100598, 2025.",
+      "autores": "CAMARGO, SABRINA DUARTE CAMARGO, SABRINA DUARTE; FERNANDES, ILIZANDRA APARECIDA; DO NASCIMENTO, LUCAS HENRIQUE; PUTON, BRUNA MARIA SAORIN; CANSIAN, ROGÉRIO LUIS; STEFFENS, CLARICE; ZENI, JAMILE; PAROUL, NATALIA",
+      "titulo": "Biological activities of essential oil and leaf extracts from Erva Baleeira (Cordia verbenacea DC)",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.foohum.2025.100598",
+      "fingerprint_sha1": "0b5d39ec4c9780dfb54d1785bcde7c6c054b63f1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMARGO, SABRINA DUARTE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.foohum.2025.100598\" target=\"_blank\"></a>CAMARGO, SABRINA DUARTE ; FERNANDES, ILIZANDRA APARECIDA ; DO NASCIMENTO, LUCAS HENRIQUE ; PUT",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Food and Humanity"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MORES, RÚBIA 2025 MORES, RÚBIA ; CUNHA JUNIOR, ANILDO ; ANTES, FABIANE GOLDSCHMIDT ; DI LUCCIO, MARCO ; ORO, CAROLINA E. DEMAMAN ; TRES, MARCUS V. ; STEFFENS, CLARICE ; STEFFENS, Juliana ; KUNZ, AIRTON ; DALLAGO, ROGÉRIO MARCOS . Electrochemical Precipitation of Struvite from Wastewater: A Sustainable Approach for Nitrogen Recovery. Separations , v. 12, p. 108, 2025.",
+      "autores": "MORES, RÚBIA MORES, RÚBIA; CUNHA JUNIOR, ANILDO; ANTES, FABIANE GOLDSCHMIDT; DI LUCCIO, MARCO; ORO, CAROLINA E. DEMAMAN; TRES, MARCUS V.; STEFFENS, CLARICE; STEFFENS, Juliana; KUNZ, AIRTON; DALLAGO, ROGÉRIO MARCOS",
+      "titulo": "Electrochemical Precipitation of Struvite from Wastewater: A Sustainable Approach for Nitrogen Recovery",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/separations12050108",
+      "fingerprint_sha1": "07fe88e1b8cc2a51858474d4fd383220edd53d5a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MORES, RÚBIA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/separations12050108\" target=\"_blank\"></a>MORES, RÚBIA ; CUNHA JUNIOR, ANILDO ; ANTES, FABIANE GOLDSCHMIDT ; DI LUCCIO, MARCO ; ORO, CAROLINA E. DEM",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Separations"
+    },
+    {
+      "numero_item": 7,
+      "raw": "BALLEN, SANDRA C. 2025 BALLEN, SANDRA C. ; SILVA, DIEGO MAROSO ; MACHADO, ELIEL PEREIRA ; SOARES, ANDREY COATRINI ; CORREA, DANJA ROSA ; DOS SANTOS, HELEN CRISTINA ; JACQUES, ROSÂNGELA ASSIS ; STEFFENS, Juliana ; STEFFENS, CLARICE . Enhanced detection of atrazine and simazine in agricultural and environmental waters using graphene oxide/tyrosinase nanobiosensors. MICROCHEMICAL JOURNAL , v. 214, p. 114000, 2025.",
+      "autores": "BALLEN, SANDRA C. BALLEN, SANDRA C.; SILVA, DIEGO MAROSO; MACHADO, ELIEL PEREIRA; SOARES, ANDREY COATRINI; CORREA, DANJA ROSA; DOS SANTOS, HELEN CRISTINA; JACQUES, ROSÂNGELA ASSIS; STEFFENS, Juliana; STEFFENS, CLARICE",
+      "titulo": "Enhanced detection of atrazine and simazine in agricultural and environmental waters using graphene oxide/tyrosinase nanobiosensors",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.microc.2025.114000",
+      "fingerprint_sha1": "25e7788962d7a9d017f7d9933ec571497b7fd738",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BALLEN, SANDRA C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.microc.2025.114000\" target=\"_blank\"></a>BALLEN, SANDRA C. ; SILVA, DIEGO MAROSO ; MACHADO, ELIEL PEREIRA ; SOARES, ANDREY COATRINI ; CORREA,",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 8,
+      "raw": "CARLESSO, L. C. 2025 CARLESSO, L. C. ; FELTES, G. ; LAJUS, C. R. ; ROSSONI, C. ; COLET, R. ; Clarice Steffens ; STEFFENS, J. . Effects of copper nanoparticle treatment on the properties of hybrid corn seeds. ACTA SCIENTIARUM-AGRONOMY , v. 47, p. e72076, 2025.",
+      "autores": "CARLESSO, L. C. CARLESSO, L. C.; FELTES, G.; LAJUS, C. R.; ROSSONI, C.; COLET, R.; Clarice Steffens; STEFFENS, J.",
+      "titulo": "Effects of copper nanoparticle treatment on the properties of hybrid corn seeds",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.4025/actasciagron.v47i1.72076",
+      "fingerprint_sha1": "db79b6b2e1f0465359aa9aadeccda1a39faa2ad9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARLESSO, L. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.4025/actasciagron.v47i1.72076\" target=\"_blank\"></a>CARLESSO, L. C. ; FELTES, G. ; LAJUS, C. R. ; ROSSONI, C. ; COLET, R. ; <b>Clarice Steffens</b> ; ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "ACTA SCIENTIARUM-AGRONOMY"
+    },
+    {
+      "numero_item": 9,
+      "raw": "CAMPEOL, E. 2025 ; BRUEL, G. ; OLDONI, B. T. ; BOFF, A. ; STEFFENS, C. ; DALLAGO, R. M. ; STEFFENS, J. . Application of Ultrafiltration Membranes in the Tertiary Treatment of Poultry Slaughterhouse Wastewater for Reuse. Global Journal of Applied Sciences and Technology , v. 7, p. 1-7, 2025.",
+      "autores": "CAMPEOL, E.; BRUEL, G.; OLDONI, B. T.; BOFF, A.; STEFFENS, C.; DALLAGO, R. M.; STEFFENS, J.",
+      "titulo": "Application of Ultrafiltration Membranes in the Tertiary Treatment of Poultry Slaughterhouse Wastewater for Reuse",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.36266/GJAST/193",
+      "fingerprint_sha1": "648af78431038d2de99565c287f1da4a40256642",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CAMPEOL, E.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.36266/GJAST/193\" target=\"_blank\"></a>CAMPEOL, E. ; BRUEL, G. ; OLDONI, B. T. ; BOFF, A. ; <b>STEFFENS, C.</b> ; DALLAGO, R. M. ; <a class=\"tooltip\" href=",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Global Journal of Applied Sciences and Technology"
+    },
+    {
+      "numero_item": 10,
+      "raw": "SANTOS, JÉSSICA SAMARA HEREK DOS 2025 SANTOS, JÉSSICA SAMARA HEREK DOS ; CORDEIRO, SABRINA G. ; WEBER, ANI C. ; OLIVEIRA, LETÍCIA A. DE ; COSTA, BRUNA ; DAHMER, BRUNO R. ; MARMITT, LUANA G. ; OBERHERR, RENATA ; HEIDRICH, DAIANE ; DELVING, JOÃO VITOR BECKER ; FREITAS, ELISETE MARIA DE ; ETHUR, EDUARDO M. ; FERRO, ELZIANE PEREIRA ; TEIXEIRA, JANIEIRY QUEIROGA DA COSTA ; STEFFENS, CLARICE ; GOMES, FILIPA REGO PINTO ; BARROSO, SÓNIA DUARTE ; HOEHNE, LUCÉLIA . Beyond Amoxicillin Removal: Investigating the Antimicrobial and Toxicological Effects of Its Byproducts. JOURNAL OF MANAGEMENT AND SUSTAINABILITY , v. 15, p. 53-61, 2025.",
+      "autores": "SANTOS, JÉSSICA SAMARA HEREK DOS SANTOS, JÉSSICA SAMARA HEREK DOS; CORDEIRO, SABRINA G.; WEBER, ANI C.; OLIVEIRA, LETÍCIA A. DE; COSTA, BRUNA; DAHMER, BRUNO R.; MARMITT, LUANA G.; OBERHERR, RENATA; HEIDRICH, DAIANE; DELVING, JOÃO VITOR BECKER; FREITAS, ELISETE MARIA DE; ETHUR, EDUARDO M.; FERRO, ELZIANE PEREIRA; TEIXEIRA, JANIEIRY QUEIROGA DA COSTA; STEFFENS, CLARICE; GOMES, FILIPA REGO PINTO; BARROSO, SÓNIA DUARTE; HOEHNE, LUCÉLIA",
+      "titulo": "Beyond Amoxicillin Removal: Investigating the Antimicrobial and Toxicological Effects of Its Byproducts",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5539/jms.v15n2p53",
+      "fingerprint_sha1": "644cf429ddbd7f1b267f6cd9f36bd244ea561e13",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, JÉSSICA SAMARA HEREK DOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5539/jms.v15n2p53\" target=\"_blank\"></a>SANTOS, JÉSSICA SAMARA HEREK DOS ; CORDEIRO, SABRINA G. ; WEBER, ANI C. ; OLIVEIRA, LETÍCIA A",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF MANAGEMENT AND SUSTAINABILITY"
+    },
+    {
+      "numero_item": 11,
+      "raw": "SILVA, DIEGO MAROSO 2025 SILVA, DIEGO MAROSO ; MACHADO, ELIEL PEREIRA ; FERNANDES, ILIZANDRA APARECIDA ; STEFFENS, Juliana ; STEFFENS, CLARICE . Characterization and performance of gas nanosensors for the detection of malathion and malaoxon and application in a kale (Brassica oleracea) environment. MICROCHEMICAL JOURNAL , v. 219, p. 115916, 2025.",
+      "autores": "SILVA, DIEGO MAROSO SILVA, DIEGO MAROSO; MACHADO, ELIEL PEREIRA; FERNANDES, ILIZANDRA APARECIDA; STEFFENS, Juliana; STEFFENS, CLARICE",
+      "titulo": "Characterization and performance of gas nanosensors for the detection of malathion and malaoxon and application in a kale (Brassica oleracea) environment",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.microc.2025.115916",
+      "fingerprint_sha1": "e357d1bafc2780eeabf7e82e460a02c5bfe48e2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, DIEGO MAROSO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.microc.2025.115916\" target=\"_blank\"></a>SILVA, DIEGO MAROSO ; MACHADO, ELIEL PEREIRA ; FERNANDES, ILIZANDRA APARECIDA ; <a class=\"tooltip\"",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 12,
+      "raw": "PALAVICINI, SANDRA MARIA SCHENATTO 2025 PALAVICINI, SANDRA MARIA SCHENATTO ; PUTON, BRUNA MARIA SAORIN ; JACQUES, ROSANGELA ASSIS ; VALDUGA, EUNICE ; BACKES, GECIANE TONIAZZO ; PAROUL, NATALIA ; STEFFENS, CLARICE ; CANSIAN, ROGÉRIO LUIS . Bioactive Compounds of Ilex paraguariensis: A Critical Update on Extraction, Gastrointestinal Stability, and Technological Applications. JOURNAL OF FOOD SCIENCE , v. 90, p. e70679, 2025.",
+      "autores": "PALAVICINI, SANDRA MARIA SCHENATTO PALAVICINI, SANDRA MARIA SCHENATTO; PUTON, BRUNA MARIA SAORIN; JACQUES, ROSANGELA ASSIS; VALDUGA, EUNICE; BACKES, GECIANE TONIAZZO; PAROUL, NATALIA; STEFFENS, CLARICE; CANSIAN, ROGÉRIO LUIS",
+      "titulo": "Bioactive Compounds of Ilex paraguariensis: A Critical Update on Extraction, Gastrointestinal Stability, and Technological Applications",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/1750-3841.70679",
+      "fingerprint_sha1": "3c835b27c0f0f30847d6b92635644f92755dc2a4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PALAVICINI, SANDRA MARIA SCHENATTO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/1750-3841.70679\" target=\"_blank\"></a>PALAVICINI, SANDRA MARIA SCHENATTO ; PUTON, BRUNA MARIA SAORIN ; JACQUES, ROSANGELA ASSI",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF FOOD SCIENCE"
+    },
+    {
+      "numero_item": 13,
+      "raw": "MARTINAZZO, JANINE 2025 MARTINAZZO, JANINE ; UTTEICH, RAFAELA VITÓRIA ; FERNANDES, ILIZANDRA A. ; DIAS, DOUGLAS ANTÔNIO ; LAUMANN, RAÚL ALBERTO ; MORAES, MARIA CAROLINA BLASSIOLI ; BORGES, MIGUEL ; STEFFENS, Juliana ; STEFFENS, CLARICE . Detection of Euschistus heros and Diceraeus melacanthus Volatile Semiochemicals Using PANI.Ag Cantilever Nanosensor. IEEE SENSORS JOURNAL , v. 25, p. 27808-27814, 2025.",
+      "autores": "MARTINAZZO, JANINE MARTINAZZO, JANINE; UTTEICH, RAFAELA VITÓRIA; FERNANDES, ILIZANDRA A.; DIAS, DOUGLAS ANTÔNIO; LAUMANN, RAÚL ALBERTO; MORAES, MARIA CAROLINA BLASSIOLI; BORGES, MIGUEL; STEFFENS, Juliana; STEFFENS, CLARICE",
+      "titulo": "Detection of Euschistus heros and Diceraeus melacanthus Volatile Semiochemicals Using PANI",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1109/jsen.2023.3329719",
+      "fingerprint_sha1": "6d72fd5eced94dbbd290fd498e845cd00855fc08",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MARTINAZZO, JANINE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1109/jsen.2023.3329719\" target=\"_blank\"></a>MARTINAZZO, JANINE ; UTTEICH, RAFAELA VITÓRIA ; FERNANDES, ILIZANDRA A. ; DIAS, DOUGLAS ANTÔNIO ; LAUM",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "IEEE SENSORS JOURNAL"
+    },
+    {
+      "numero_item": 14,
+      "raw": "VETTORELLO, GABRIELA 2024 VETTORELLO, GABRIELA ; SCHMIDT, LUCAS ; KUHN, DANIEL ; DA SILVA, BRUNO ; WEBER, ANI CAROLINE ; CORDEIRO, SABRINA ; HENN, GUILHERME ; COSTA, BRUNA ; DOS SANTOS, JÉSSICA ; WILLRICH, JOANA ; PEREIRA, CRISTIANO ; RIEGER, ALEXANDRE ; STEFFENS, CLARICE ; ETHUR, EDUARDO ; DE FREITAS, ELISETE ; HOEHNE, LUCÉLIA . Degradation of the Micropollutant Amoxicillin using Enzymatic Treatment and Evaluation of Resulting Byproducts. Brazilian Journal of Analytical Chemistry - BrJAC (Online) , p. 59-75, 2024.",
+      "autores": "VETTORELLO, GABRIELA VETTORELLO, GABRIELA; SCHMIDT, LUCAS; KUHN, DANIEL; DA SILVA, BRUNO; WEBER, ANI CAROLINE; CORDEIRO, SABRINA; HENN, GUILHERME; COSTA, BRUNA; DOS SANTOS, JÉSSICA; WILLRICH, JOANA; PEREIRA, CRISTIANO; RIEGER, ALEXANDRE; STEFFENS, CLARICE; ETHUR, EDUARDO; DE FREITAS, ELISETE; HOEHNE, LUCÉLIA",
+      "titulo": "Degradation of the Micropollutant Amoxicillin using Enzymatic Treatment and Evaluation of Resulting Byproducts",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.30744/brjac.2179-3425.AR-45-2023",
+      "fingerprint_sha1": "05a048f9136f3fc09c57f202f98d770f582a6c53",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VETTORELLO, GABRIELA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.30744/brjac.2179-3425.AR-45-2023\" target=\"_blank\"></a>VETTORELLO, GABRIELA ; SCHMIDT, LUCAS ; KUHN, DANIEL ; DA SILVA, BRUNO ; WEBER, ANI CAROLI",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Brazilian Journal of Analytical Chemistry - BrJAC (Online)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "FELL, EVILYN LUCAS 2024 FELL, EVILYN LUCAS ; BRUM, LÍVIA MAÍSA ; NICOLETTI, ENZO ; SARTORETO, LISIANE ; HOELSCHER, HENRIQUE ; COLET, ROSICLER ; STEFFENS, Juliana ; ZENI, JAMILE ; VALDUGA, EUNICE ; CANSIAN, ROGERIO LUIS ; BACKES, GECIANE TONIAZZO ; STEFFENS, CLARICE . Nisin or organic acid salt mixtures for the Calabrese-type sausages in industrial-scale production. Brazilian Journal of Food and Technology , v. 27, p. e2023061, 2024.",
+      "autores": "FELL, EVILYN LUCAS FELL, EVILYN LUCAS; BRUM, LÍVIA MAÍSA; NICOLETTI, ENZO; SARTORETO, LISIANE; HOELSCHER, HENRIQUE; COLET, ROSICLER; STEFFENS, Juliana; ZENI, JAMILE; VALDUGA, EUNICE; CANSIAN, ROGERIO LUIS; BACKES, GECIANE TONIAZZO; STEFFENS, CLARICE",
+      "titulo": "Nisin or organic acid salt mixtures for the Calabrese-type sausages in industrial-scale production",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1590/1981-6723.06123",
+      "fingerprint_sha1": "05dc606a2ab81409a4e067d10c237dda9987a4ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FELL, EVILYN LUCAS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1981-6723.06123\" target=\"_blank\"></a>FELL, EVILYN LUCAS ; BRUM, LÍVIA MAÍSA ; NICOLETTI, ENZO ; SARTORETO, LISIANE ; HOELSCHER, HENRIQUE ; CO",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Brazilian Journal of Food and Technology"
+    },
+    {
+      "numero_item": 16,
+      "raw": "BERNARDI, JULIA LISBOA 2024 BERNARDI, JULIA LISBOA ; FERREIRA, JANAIZA ALVES ; PUTON, BRUNA MARIA SAORIN ; CAMARGO, SABRINA DUARTE ; DAL MAGRO, JACIR ; JUNGES, ALEXANDER ; CANSIAN, ROGÉRIO LUIS ; STEFFENS, CLARICE ; ZENI, JAMILE ; PAROUL, NATALIA . Potential agrochemical applications of Schinus terebinthifolius essential oil. JOURNAL OF STORED PRODUCTS RESEARCH , v. 105, p. 102260, 2024.",
+      "autores": "BERNARDI, JULIA LISBOA BERNARDI, JULIA LISBOA; FERREIRA, JANAIZA ALVES; PUTON, BRUNA MARIA SAORIN; CAMARGO, SABRINA DUARTE; DAL MAGRO, JACIR; JUNGES, ALEXANDER; CANSIAN, ROGÉRIO LUIS; STEFFENS, CLARICE; ZENI, JAMILE; PAROUL, NATALIA",
+      "titulo": "Potential agrochemical applications of Schinus terebinthifolius essential oil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jspr.2024.102260",
+      "fingerprint_sha1": "f81a6a62e0626f849c6662ff252d7c13edd15d01",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BERNARDI, JULIA LISBOA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jspr.2024.102260\" target=\"_blank\"></a>BERNARDI, JULIA LISBOA ; FERREIRA, JANAIZA ALVES ; PUTON, BRUNA MARIA SAORIN ; CAMARGO, SABRINA D",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF STORED PRODUCTS RESEARCH"
+    },
+    {
+      "numero_item": 17,
+      "raw": "DE CEZARO, ALANA 2024 DE CEZARO, ALANA ; BALLEN, SANDRA CRISTINA ; STEFFENS, Juliana ; STEFFENS, CLARICE . Tyrosinase-based nanobiosensor for environmental monitoring of hormones in river water. ENVIRONMENTAL RESEARCH , v. 250, p. 118501, 2024.",
+      "autores": "DE CEZARO, ALANA DE CEZARO, ALANA; BALLEN, SANDRA CRISTINA; STEFFENS, Juliana; STEFFENS, CLARICE",
+      "titulo": "Tyrosinase-based nanobiosensor for environmental monitoring of hormones in river water",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.envres.2024.118501",
+      "fingerprint_sha1": "5444e40a76d3626035b0ff2e9fd5f7a0bbc38723",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE CEZARO, ALANA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envres.2024.118501\" target=\"_blank\"></a>DE CEZARO, ALANA ; BALLEN, SANDRA CRISTINA ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/295393546",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "ENVIRONMENTAL RESEARCH"
+    },
+    {
+      "numero_item": 18,
+      "raw": "GAYESKI, LUANA 2024 GAYESKI, LUANA ; GRIEP, PATRICIA ; FISCHER, BRUNO ; COLET, ROSICLER ; Franceschi, Elton ; JUNGES, ALEXANDER ; STEFFENS, CLARICE ; ZENI, JAMILE ; VALDUGA, EUNICE . Encapsulation of carotenoids produced by Sporidiobolus salmonicolor by freeze-drying technique: evaluation of physicochemical properties, stability during storage, and application potential in food. Journal of Food Measurement and Characterization , v. 18, p. 4514-4527, 2024.",
+      "autores": "GAYESKI, LUANA GAYESKI, LUANA; GRIEP, PATRICIA; FISCHER, BRUNO; COLET, ROSICLER; Franceschi, Elton; JUNGES, ALEXANDER; STEFFENS, CLARICE; ZENI, JAMILE; VALDUGA, EUNICE",
+      "titulo": "Encapsulation of carotenoids produced by Sporidiobolus salmonicolor by freeze-drying technique: evaluation of physicochemical properties, stability during storage, and application potential in food",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11694-024-02511-z",
+      "fingerprint_sha1": "c7ce583a13347443bb49a4f6408266116801b23a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GAYESKI, LUANA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11694-024-02511-z\" target=\"_blank\"></a>GAYESKI, LUANA ; GRIEP, PATRICIA ; FISCHER, BRUNO ; COLET, ROSICLER ; Franceschi, Elton ; <a class=\"toolt",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Measurement and Characterization"
+    },
+    {
+      "numero_item": 19,
+      "raw": "TROMBETA, P. 2024 ; FELTES, G. ; FEIDEN, T. ; BALLEN, S. C. ; STEFFENS, J. ; Steffens, C. . Assessment of aroma release in filled chocolate wafers through electronic nose analysis. EUROPEAN FOOD RESEARCH AND TECHNOLOGY , v. 250, p. 2681-2696, 2024.",
+      "autores": "TROMBETA, P.; FELTES, G.; FEIDEN, T.; BALLEN, S. C.; STEFFENS, J.; Steffens, C.",
+      "titulo": "Assessment of aroma release in filled chocolate wafers through electronic nose analysis",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s00217-024-04568-y",
+      "fingerprint_sha1": "dfd5f8f008e2169351888ec0d46a4649c3c7a6e5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TROMBETA, P.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00217-024-04568-y\" target=\"_blank\"></a>TROMBETA, P. ; FELTES, G. ; FEIDEN, T. ; BALLEN, S. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/295",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "EUROPEAN FOOD RESEARCH AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 20,
+      "raw": "DORIGON, CARINE PAULA 2024 DORIGON, CARINE PAULA ; COLET, ROSICLER ; FERNANDES, ILIZANDRA APARECIDA ; FELTES, GIOVANA ; RIGO, ELISANDRA ; STEFFENS, Juliana ; STEFFENS, CLARICE ; VALDUGA, EUNICE . Valorização inovadora do bagaço de malte: transformando subproduto da cerveja em pão integral rico em nutrientes. SCIENTIA PLENA , v. 20, p. 041501-1-041501 ? 14, 2024.",
+      "autores": "DORIGON, CARINE PAULA DORIGON, CARINE PAULA; COLET, ROSICLER; FERNANDES, ILIZANDRA APARECIDA; FELTES, GIOVANA; RIGO, ELISANDRA; STEFFENS, Juliana; STEFFENS, CLARICE; VALDUGA, EUNICE",
+      "titulo": "Valorização inovadora do bagaço de malte: transformando subproduto da cerveja em pão integral rico em nutrientes",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.14808/sci.plena.2024.041501",
+      "fingerprint_sha1": "5f9a4743addb73a6af3414d9bc9b1f92dc6e0d6f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DORIGON, CARINE PAULA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.14808/sci.plena.2024.041501\" target=\"_blank\"></a>DORIGON, CARINE PAULA ; COLET, ROSICLER ; FERNANDES, ILIZANDRA APARECIDA ; FELTES, GIOVANA ; R",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "SCIENTIA PLENA"
+    },
+    {
+      "numero_item": 21,
+      "raw": "Graboski, A. 2024 Graboski, A. ; FELTES, G. ; STEFFENS, J. ; PAROUL, N. ; Steffens, C. . Gas-sensing properties of polyaniline -based nanocomposites for d -limonene detection. JOURNAL OF APPLIED POLYMER SCIENCE , p. e55878, 2024.",
+      "autores": "Graboski, A. Graboski, A.; FELTES, G.; STEFFENS, J.; PAROUL, N.; Steffens, C.",
+      "titulo": "Gas-sensing properties of polyaniline -based nanocomposites for d -limonene detection",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/app.55878",
+      "fingerprint_sha1": "c0b550403b9a4aab1772587c7a46895edebee0d9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Graboski, A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/app.55878\" target=\"_blank\"></a>Graboski, A. ; FELTES, G. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF APPLIED POLYMER SCIENCE"
+    },
+    {
+      "numero_item": 22,
+      "raw": "POLINA, CAROLINE CHIES 2024 POLINA, CAROLINE CHIES ; ZANNONI, SABRINA PAVAN ; COLET, ROSICLER ; PERUZZOLO, MARCIELI ; CENI, GIOVANA CRISTINA ; STEFFENS, CLARICE ; CANSIAN, ROGÉRIO LUIS ; VALDUGA, EUNICE ; BACKES, GECIANE TONIAZZO . Stress tolerance in vitro, application in ice matrix and gastrointestinal simulation of Lactobacillus helveticus. Journal of Food Measurement and Characterization , v. 18, p. 5945-5955, 2024.",
+      "autores": "POLINA, CAROLINE CHIES POLINA, CAROLINE CHIES; ZANNONI, SABRINA PAVAN; COLET, ROSICLER; PERUZZOLO, MARCIELI; CENI, GIOVANA CRISTINA; STEFFENS, CLARICE; CANSIAN, ROGÉRIO LUIS; VALDUGA, EUNICE; BACKES, GECIANE TONIAZZO",
+      "titulo": "Stress tolerance in vitro, application in ice matrix and gastrointestinal simulation of Lactobacillus helveticus",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11694-024-02620-9",
+      "fingerprint_sha1": "c57b5bb127d161531b15d2357f09900dbd08c688",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">POLINA, CAROLINE CHIES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11694-024-02620-9\" target=\"_blank\"></a>POLINA, CAROLINE CHIES ; ZANNONI, SABRINA PAVAN ; COLET, ROSICLER ; PERUZZOLO, MARCIELI ; CENI, G",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Measurement and Characterization"
+    },
+    {
+      "numero_item": 23,
+      "raw": "FLORES, DÉBORA ZAMPROGNA 2024 FLORES, DÉBORA ZAMPROGNA ; STEFFENS, CLARICE ; PAROUL, NATALIA ; BACKES, GECIANE TONIAZZO ; STEFFENS, Juliana ; VALDUGA, EUNICE ; CANSIAN, ROGÉRIO LUIS . Enhancing microbial control in poultry processing: A comprehensive study on carcass washing systems. JOURNAL OF FOOD SAFETY , v. 44, p. e13151, 2024.",
+      "autores": "FLORES, DÉBORA ZAMPROGNA FLORES, DÉBORA ZAMPROGNA; STEFFENS, CLARICE; PAROUL, NATALIA; BACKES, GECIANE TONIAZZO; STEFFENS, Juliana; VALDUGA, EUNICE; CANSIAN, ROGÉRIO LUIS",
+      "titulo": "Enhancing microbial control in poultry processing: A comprehensive study on carcass washing systems",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1111/jfs.13151",
+      "fingerprint_sha1": "5e2508fb73b91b045e4c5d6086c24bbc620ce21d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FLORES, DÉBORA ZAMPROGNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/jfs.13151\" target=\"_blank\"></a>FLORES, DÉBORA ZAMPROGNA ; <b>STEFFENS, CLARICE</b> ; PAROUL, NATALIA ; <a class=\"tooltip\" href=\"http://",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF FOOD SAFETY"
+    },
+    {
+      "numero_item": 24,
+      "raw": "SIRENA, JANIER TERESINHA 2024 SIRENA, JANIER TERESINHA ; MAGRO, JACIR DAL ; JUNGES, ALEXANDER ; STEFFENS, CLARICE ; CANSIAN, ROGÉRIO LUIS ; PAROUL, NATALIA . Characterization of free and encapsulated cinnamon and clove essential oils for enhancing fresh sausage quality: A natural substitute for synthetic preservatives. Food Bioscience , v. 61, p. 104649, 2024.",
+      "autores": "SIRENA, JANIER TERESINHA SIRENA, JANIER TERESINHA; MAGRO, JACIR DAL; JUNGES, ALEXANDER; STEFFENS, CLARICE; CANSIAN, ROGÉRIO LUIS; PAROUL, NATALIA",
+      "titulo": "Characterization of free and encapsulated cinnamon and clove essential oils for enhancing fresh sausage quality: A natural substitute for synthetic preservatives",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.fbio.2024.104649",
+      "fingerprint_sha1": "8d7ee0de9b26d7d14188a866e524fdfd4c97b929",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SIRENA, JANIER TERESINHA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.fbio.2024.104649\" target=\"_blank\"></a>SIRENA, JANIER TERESINHA ; MAGRO, JACIR DAL ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/61",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Food Bioscience"
+    },
+    {
+      "numero_item": 25,
+      "raw": "HAMANN, DANIELE 2024 HAMANN, DANIELE ; ZICK, MARINA ; PERUZZOLO, MARCIELI ; PUTON, BRUNA MARIA SAORIN ; COLET, ROSICLER ; PAROUL, NATALIA ; VALDUGA, EUNICE ; ZENI, JAMILE ; MOREIRA, FRANCYS KLEY VIEIRA ; STEFFENS, CLARICE ; JUNGES, ALEXANDER ; TONIAZZO BACKES, GECIANE ; CANSIAN, ROGÉRIO LUIS . Starch based and green tea extract films: characterisation and evaluation of the shelf life of interleaved sliced calabrese sausage. INTERNATIONAL JOURNAL OF FOOD SCIENCE AND TECHNOLOGY , v. 59, p. 8899-8907, 2024.",
+      "autores": "HAMANN, DANIELE HAMANN, DANIELE; ZICK, MARINA; PERUZZOLO, MARCIELI; PUTON, BRUNA MARIA SAORIN; COLET, ROSICLER; PAROUL, NATALIA; VALDUGA, EUNICE; ZENI, JAMILE; MOREIRA, FRANCYS KLEY VIEIRA; STEFFENS, CLARICE; JUNGES, ALEXANDER; TONIAZZO BACKES, GECIANE; CANSIAN, ROGÉRIO LUIS",
+      "titulo": "Starch based and green tea extract films: characterisation and evaluation of the shelf life of interleaved sliced calabrese sausage",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1111/ijfs.17362",
+      "fingerprint_sha1": "df88fea4c97573d892b12e010f30d893d7119877",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HAMANN, DANIELE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/ijfs.17362\" target=\"_blank\"></a>HAMANN, DANIELE ; ZICK, MARINA ; PERUZZOLO, MARCIELI ; PUTON, BRUNA MARIA SAORIN ; COLET, ROSICLER ; PAROUL, NAT",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "INTERNATIONAL JOURNAL OF FOOD SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 26,
+      "raw": "SCAPIN, ENELISE 2024 SCAPIN, ENELISE ; CRISTINA BALLEN, SANDRA ; HENRIQUE DO NASCIMENTO, LUCAS ; MAROSO DA SILVA, DIEGO ; FERNANDO MENDES, TALLIS ; STEFFENS, Juliana ; ASSIS JACQUES, ROSÂNGELA ; STEFFENS, CLARICE . Nanobiosensors based on tyrosinase with alkanethiols for detection commercial formulation of atrazine in artesian water samples applied in agriculture crop. MICROCHEMICAL JOURNAL , v. 206, p. 111394, 2024.",
+      "autores": "SCAPIN, ENELISE SCAPIN, ENELISE; CRISTINA BALLEN, SANDRA; HENRIQUE DO NASCIMENTO, LUCAS; MAROSO DA SILVA, DIEGO; FERNANDO MENDES, TALLIS; STEFFENS, Juliana; ASSIS JACQUES, ROSÂNGELA; STEFFENS, CLARICE",
+      "titulo": "Nanobiosensors based on tyrosinase with alkanethiols for detection commercial formulation of atrazine in artesian water samples applied in agriculture crop",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.microc.2024.111394",
+      "fingerprint_sha1": "11e2dbdc3b806bc6b0bb5fa0f1e72100e1be8223",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SCAPIN, ENELISE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.microc.2024.111394\" target=\"_blank\"></a>SCAPIN, ENELISE ; CRISTINA BALLEN, SANDRA ; HENRIQUE DO NASCIMENTO, LUCAS ; MAROSO DA SILVA, DIEGO ; F",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 27,
+      "raw": "BALLEN, SANDRA CRISTINA 2024 BALLEN, SANDRA CRISTINA ; MACHADO, ELIEL PEREITA ; DA SILVA, DIEGO MAROSO ; STEFFENS, CLARICE ; STEFFENS, Juliana . Use of tyrosinase nanobiosensor for detection of atrazine and simazine and its application in real water samples. WATER SCIENCE AND TECHNOLOGY , v. 90, p. 1481-1500, 2024.",
+      "autores": "BALLEN, SANDRA CRISTINA BALLEN, SANDRA CRISTINA; MACHADO, ELIEL PEREITA; DA SILVA, DIEGO MAROSO; STEFFENS, CLARICE; STEFFENS, Juliana",
+      "titulo": "Use of tyrosinase nanobiosensor for detection of atrazine and simazine and its application in real water samples",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.2166/wst.2024.281",
+      "fingerprint_sha1": "bb521ad49d31aa32c84d24091ef6841e5e87db59",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BALLEN, SANDRA CRISTINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.2166/wst.2024.281\" target=\"_blank\"></a>BALLEN, SANDRA CRISTINA ; MACHADO, ELIEL PEREITA ; DA SILVA, DIEGO MAROSO ; <b>STEFFENS, CLARICE</b> ;",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "WATER SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 28,
+      "raw": "DIAS, DOUGLAS A. 2024 DIAS, DOUGLAS A. ; FERNANDES, ILIZANDRA A. ; MACHADO, ELIEL P. ; PEDOTT, LUIZ ; BLASSIOLI-MORAES, MARIA CAROLINA ; BORGES, MIGUEL ; STEFFENS, Juliana ; STEFFENS, CLARICE . Nanosensors for detecting volatile compounds in pest management: a focus on agricultural sustainability. Acs Agricultural Science & Technology , v. 4, p. 1250-1259, 2024.",
+      "autores": "DIAS, DOUGLAS A. DIAS, DOUGLAS A.; FERNANDES, ILIZANDRA A.; MACHADO, ELIEL P.; PEDOTT, LUIZ; BLASSIOLI-MORAES, MARIA CAROLINA; BORGES, MIGUEL; STEFFENS, Juliana; STEFFENS, CLARICE",
+      "titulo": "Nanosensors for detecting volatile compounds in pest management: a focus on agricultural sustainability",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.4c00531",
+      "fingerprint_sha1": "0a6f3d4b61791e20f25afd27d2109c895c90c6d3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DIAS, DOUGLAS A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.4c00531\" target=\"_blank\"></a>DIAS, DOUGLAS A. ; FERNANDES, ILIZANDRA A. ; MACHADO, ELIEL P. ; PEDOTT, LUIZ ; BLASSIOLI-MORAES, MAR",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 29,
+      "raw": "FELTES, GIOVANA 2024 FELTES, GIOVANA ; FISCHER, BRUNO ; JUNGES, ALEXANDER ; CANSIAN, ROGÉRIO L. ; PAROUL, NATALIA ; STEFFENS, CLARICE . Extraction of benzyl isothiocyanate from formosa papaya seeds (Carica papaya Linn) and evaluation of biological properties. Food Bioscience , v. 62, p. 105413, 2024.",
+      "autores": "FELTES, GIOVANA FELTES, GIOVANA; FISCHER, BRUNO; JUNGES, ALEXANDER; CANSIAN, ROGÉRIO L.; PAROUL, NATALIA; STEFFENS, CLARICE",
+      "titulo": "Extraction of benzyl isothiocyanate from formosa papaya seeds (Carica papaya Linn) and evaluation of biological properties",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.fbio.2024.105413",
+      "fingerprint_sha1": "68a531b21f2b5c274830e53b49194b657d8e1da5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FELTES, GIOVANA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.fbio.2024.105413\" target=\"_blank\"></a>FELTES, GIOVANA ; FISCHER, BRUNO ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6104621632883792\" targ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Food Bioscience"
+    },
+    {
+      "numero_item": 30,
+      "raw": "PIVA, G. S. 2024 PIVA, G. S. ; FISCHER, B. ; PERUZZOLO, M. ; PUTON, B. M. S. ; WESCHENFELDER, T. A. ; JUNGES, A. ; Clarice Steffens ; CANSIAN, R. L. ; Paroul, N. . Mathematical modeling of enzymatic esterification process between essential oil from Cymbopogon winterianus and cinnamic acid. INDUSTRIAL CROPS AND PRODUCTS , v. 222, p. 119919, 2024.",
+      "autores": "PIVA, G. S. PIVA, G. S.; FISCHER, B.; PERUZZOLO, M.; PUTON, B. M. S.; WESCHENFELDER, T. A.; JUNGES, A.; Clarice Steffens; CANSIAN, R. L.; Paroul, N.",
+      "titulo": "Mathematical modeling of enzymatic esterification process between essential oil from Cymbopogon winterianus and cinnamic acid",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.indcrop.2024.119919",
+      "fingerprint_sha1": "16f6b19830d6c2b54006d2d0b4da1850b1624361",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PIVA, G. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.indcrop.2024.119919\" target=\"_blank\"></a>PIVA, G. S. ; FISCHER, B. ; PERUZZOLO, M. ; PUTON, B. M. S. ; WESCHENFELDER, T. A. ; JUNGES, A. ; <b>Clar",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "INDUSTRIAL CROPS AND PRODUCTS"
+    },
+    {
+      "numero_item": 31,
+      "raw": "MINOZZO, MARIANE 2024 MINOZZO, MARIANE ; ANDREIA DE SOUZA, MARINA ; LISBOA BERNARDI, JULIA ; MARIA SAORIN PUTON, BRUNA ; HENRIQUE DO NASCIMENTO, LUCAS ; FONSECA DUARTE, PATRICIA ; JUNGES, ALEXANDER ; STEFFENS, CLARICE ; TONIAZZO BACKES, GECIANE ; PAROUL, NATALIA ; CANSIAN, ROGÉRIO LUIS . Chemical composition, toxicity, microencapsulation, and application of essential oil in maize flour: evaluating the persistence of aroma and color. JOURNAL OF ESSENTIAL OIL RESEARCH , v. 36, p. 614-625, 2024.",
+      "autores": "MINOZZO, MARIANE MINOZZO, MARIANE; ANDREIA DE SOUZA, MARINA; LISBOA BERNARDI, JULIA; MARIA SAORIN PUTON, BRUNA; HENRIQUE DO NASCIMENTO, LUCAS; FONSECA DUARTE, PATRICIA; JUNGES, ALEXANDER; STEFFENS, CLARICE; TONIAZZO BACKES, GECIANE; PAROUL, NATALIA; CANSIAN, ROGÉRIO LUIS",
+      "titulo": "Chemical composition, toxicity, microencapsulation, and application of essential oil in maize flour: evaluating the persistence of aroma and color",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1080/10412905.2024.2401844",
+      "fingerprint_sha1": "601d940be6956070f676f5055c84b168e88fd1bb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MINOZZO, MARIANE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/10412905.2024.2401844\" target=\"_blank\"></a>MINOZZO, MARIANE ; ANDREIA DE SOUZA, MARINA ; LISBOA BERNARDI, JULIA ; MARIA SAORIN PUTON, BRUNA ; H",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "JOURNAL OF ESSENTIAL OIL RESEARCH"
+    },
+    {
+      "numero_item": 32,
+      "raw": "UTTEICH, R. V. 2024 UTTEICH, R. V. ; FERNANDES, I. A. ; PERUZZOLO, M. ; MARTINAZZO, J. ; STEFFENS, C. . Avaliação da oxidação lipídica e composição físico-química de suplementos de ômega-3 em simulação gastrointestinal in vitro. REVISTA BRASILEIRA DE OBESIDADE, NUTRIÇÃO E EMAGRECIMENTO , v. 18, p. 1078-1087, 2024.",
+      "autores": "UTTEICH, R. V. UTTEICH, R. V.; FERNANDES, I. A.; PERUZZOLO, M.; MARTINAZZO, J.; STEFFENS, C.",
+      "titulo": "Avaliação da oxidação lipídica e composição físico-química de suplementos de ômega-3 em simulação gastrointestinal in vitro",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e880a4038492c5c558ec747252b9049d9881641a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">UTTEICH, R. V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>UTTEICH, R. V. ; FERNANDES, I. A. ; PERUZZOLO, M. ; MARTINAZZO, J. ; <b>STEFFENS, C.</b> . Avaliação da oxidação lipídica e composição físico-química de suplementos de ômega-3 em simulação gastrointestinal in vitr",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "REVISTA BRASILEIRA DE OBESIDADE"
+    },
+    {
+      "numero_item": 183,
+      "raw": "CAMPEOL, E. ; OLDONI, B. T. ; BRUEL, G. ; BOFF, A. ; STEFFENS, C. ; STEFFENS, J. . Tratamento de efluente de abatedouro de aves com membranas de ultrafiltração: uma abordagem para reúso. In: Luciana Dornelles Venquiaruto. (Org.). Expressões acadêmicas 2025: engenharia química. 1ed.ERECHIM: Edifapes, 2025, v. 1, p. 7-31.",
+      "autores": "CAMPEOL, E.; OLDONI, B. T.; BRUEL, G.; BOFF, A.; STEFFENS, C.; STEFFENS, J.",
+      "titulo": "Tratamento de efluente de abatedouro de aves com membranas de ultrafiltração: uma abordagem para reúso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d1ac9af0fc8cfeaefd623ca813429ced3f8c0dbf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMPEOL, E. ; OLDONI, B. T. ; BRUEL, G. ; BOFF, A. ; <b>STEFFENS, C.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currículo\">STEFFENS, J.</a> . Tratamento de efluente de abatedouro de aves com membranas de ultrafiltração: uma abordagem para reúso. In: Luciana Dornelles Venquiaruto. (Org.). Expressões acadêmicas 2025: engenharia química. 1ed.ERECHIM: Edifapes, ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "Luciana Dornelles Venquiaruto"
+    },
+    {
+      "numero_item": 184,
+      "raw": "POLON, T. ; Steffens, C. ; STEFFENS, J. . Reaproveitamento de subprodutos do processamento de pêssegos (Prunus persica) na obtenção de óleo da amêndoa e de adsorventes do endocarpo. In: Luciana Dornelles Venquiarutto. (Org.). Expressões acadêmicas 2024 [recurso eletrônico] : engenharia química. 1ed.Cruz Alta: Ilustração, 2024, v. 1, p. 95-113.",
+      "autores": "POLON, T.; Steffens, C.; STEFFENS, J.",
+      "titulo": "Reaproveitamento de subprodutos do processamento de pêssegos (Prunus persica) na obtenção de óleo da amêndoa e de adsorventes do endocarpo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "33387f1c831c8249a051fd6fa6856dffa55b8a25",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">POLON, T. ; <b>Steffens, C.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currículo\">STEFFENS, J.</a> . Reaproveitamento de subprodutos do processamento de pêssegos (Prunus persica) na obtenção de óleo da amêndoa e de adsorventes do endocarpo. In: Luciana Dornelles Venquiarutto. (Org.). Expressões acadêmicas 2024 [recurso eletrônico] : engenharia química. 1ed.C",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "Luciana Dornelles Venquiarutto"
+    },
+    {
+      "numero_item": 185,
+      "raw": "OTOWICZ, E. ; OLDONI, B. T. ; Steffens, C. . Produção e caracterização de adsorventes sustentáveis a partir do engaço da bananeira. In: Luciana Dornelles Venquiarutto. (Org.). Expressões acadêmicas 2024 [recurso eletrônico] : engenharia química. 1ed.Cruz Alta: Ilustração, 2024, v. 1, p. 59-80.",
+      "autores": "OTOWICZ, E.; OLDONI, B. T.; Steffens, C.",
+      "titulo": "Produção e caracterização de adsorventes sustentáveis a partir do engaço da bananeira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "219a820f69677087440852b9b3d53660b5970176",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OTOWICZ, E. ; OLDONI, B. T. ; <b>Steffens, C.</b> . Produção e caracterização de adsorventes sustentáveis a partir do engaço da bananeira. In: Luciana Dornelles Venquiarutto. (Org.). Expressões acadêmicas 2024 [recurso eletrônico] : engenharia química. 1ed.Cruz Alta: Ilustração, 2024, v. 1, p. 59-80. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "Luciana Dornelles Venquiarutto"
+    },
+    {
+      "numero_item": 207,
+      "raw": "PICOLI, F. E. ; PADILHA, L. R. ; BOFF, A. ; STEFFENS, C. ; Zeni, J. ; VANZ, J. . Ãcido hialurÃ´nico: funÃ§Ãµes, propriedades e aplicaÃ§Ãµes na biomedicina estÃ©tica. In: 12Âº Congresso Internacional em SaÃºde: SaÃºde em tempo de crise - tecnologias emergentes e equidade no acesso, 2025, ijui. 12Âº Congresso Internacional em SaÃºde: SaÃºde em tempo de crise - tecnologias emergentes e equidade no acesso, 2025.",
+      "autores": "PICOLI, F. E.; PADILHA, L. R.; BOFF, A.; STEFFENS, C.; Zeni, J.; VANZ, J.",
+      "titulo": "Ãcido hialurÃ´nico: funÃ§Ãµes, propriedades e aplicaÃ§Ãµes na biomedicina estÃ©tica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b839cb3b7215ce03f0bfb2a2f77591fee788168",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PICOLI, F. E. ; PADILHA, L. R. ; BOFF, A. ; <b>STEFFENS, C.</b> ; Zeni, J. ; VANZ, J. . Ãcido hialurÃ´nico: funÃ§Ãµes, propriedades e aplicaÃ§Ãµes na biomedicina estÃ©tica. In: 12Âº Congresso Internacional em SaÃºde: SaÃºde em tempo de crise - tecnologias emergentes e equidade no acesso, 2025, ijui. 12Âº Congresso Internacional em SaÃºde: SaÃºde em tempo de crise - tecnologias emergentes e equidade no acesso, 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "12Âº Congresso Internacional em SaÃºde: SaÃºde em tempo de crise - tecnologias emergentes e equidade no acesso"
+    },
+    {
+      "numero_item": 208,
+      "raw": "SEGALLA, R. ; NASCIMENTO, L. H. ; PERUZZOLO, M. ; CANSIAN, R. L. ; STEFFENS, C. ; TONIAZZO, G. . VIABILIDADE DE PROBIÃTICO LIVRE NA SIMULAÃÃO DE DIGESTÃO in vitro. In: 9 SimpÃ³sio de seguranÃ§a alimentar, 2025, Bento GonÃ§alvez. 9Âº SimpÃ³sio de seguranÃ§a alimentar, 2025. p. 1-6.",
+      "autores": "SEGALLA, R.; NASCIMENTO, L. H.; PERUZZOLO, M.; CANSIAN, R. L.; STEFFENS, C.; TONIAZZO, G.",
+      "titulo": "VIABILIDADE DE PROBIÃTICO LIVRE NA SIMULAÃÃO DE DIGESTÃO in vitro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4711814077294a28cf0d0537f8b3129087fbf4a5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SEGALLA, R. ; NASCIMENTO, L. H. ; PERUZZOLO, M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9406649599736742\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">CANSIAN, R. L.</a> ; <b>STEFFENS, C.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8422233899118714\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">TONIAZZO, G.</a> . VIABILIDADE DE PROBIÃTICO LIVRE NA SIMULAÃÃO DE DIGESTÃO in vitro. In:",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "9 SimpÃ³sio de seguranÃ§a alimentar"
+    },
+    {
+      "numero_item": 209,
+      "raw": "FUSINATO, V. B. ; FOZA, A. L. ; STEFFENS, C. ; FONSECA, E. A. ; MESQUITA, G. B. ; FELTES, G. ; LAUER, I. ; RACOSKI, L. ; DALLAGO, R. M. ; STEFFENS, J. . Performance of microfiltration membrane in poultry slaughterhouse wastewater treatment at laboratory scale. In: XII SIMPÃSIO EM CIÃNCIA E TECNOLOGIA AMBIENTAL e II INTERNATIONAL CONFERENCE ON ENVIRONMENTAL SCIENCE AND TECHNOLOGY, 2025, ERECHIM. XII SIMPÃSIO EM CIÃNCIA E TECNOLOGIA AMBIENTAL e II INTERNATIONAL CONFERENCE ON ENVIRONMENTAL SCIENCE AND TECHNOLOGY, 2025. p. 1.",
+      "autores": "FUSINATO, V. B.; FOZA, A. L.; STEFFENS, C.; FONSECA, E. A.; MESQUITA, G. B.; FELTES, G.; LAUER, I.; RACOSKI, L.; DALLAGO, R. M.; STEFFENS, J.",
+      "titulo": "Performance of microfiltration membrane in poultry slaughterhouse wastewater treatment at laboratory scale",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e82133e01e53bdaf046c2c0b100fa1a025f5b059",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FUSINATO, V. B. ; FOZA, A. L. ; <b>STEFFENS, C.</b> ; FONSECA, E. A. ; MESQUITA, G. B. ; FELTES, G. ; LAUER, I. ; RACOSKI, L. ; DALLAGO, R. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> . Performance of microfiltration membrane in poultry slaughterhouse wastewater treatment at laboratory scale. In: XII SIMPÃSIO EM CIÃNCIA E TECNOLO",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XII SIMPÃSIO EM CIÃNCIA E TECNOLOGIA AMBIENTAL e II INTERNATIONAL CONFERENCE ON ENVIRONMENTAL SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 210,
+      "raw": "SEGALLA, R. ; Steffens, C. ; BACKES, G. T. . AnÃ¡lise de visualizaÃ§Ã£o bibliomÃ©tica da utilizaÃ§Ã£o de Lactobacillus rhamnosus no transtorno do espectro autista. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025. p. 324-328.",
+      "autores": "SEGALLA, R.; Steffens, C.; BACKES, G. T.",
+      "titulo": "AnÃ¡lise de visualizaÃ§Ã£o bibliomÃ©tica da utilizaÃ§Ã£o de Lactobacillus rhamnosus no transtorno do espectro autista",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "747b92448c6e913374f341f279db7178a6ffb2a7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SEGALLA, R. ; <b>Steffens, C.</b> ; BACKES, G. T. . AnÃ¡lise de visualizaÃ§Ã£o bibliomÃ©tica da utilizaÃ§Ã£o de Lactobacillus rhamnosus no transtorno do espectro autista. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica"
+    },
+    {
+      "numero_item": 211,
+      "raw": "MAROSO, D. ; STEFFENS, J. ; Steffens, C. . DetecÃ§Ã£o ultra-sensÃ­vel de malation e malaoxon: monitoramento com nanossensor de alta precisÃ£o. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025. p. 329-333.",
+      "autores": "MAROSO, D.; STEFFENS, J.; Steffens, C.",
+      "titulo": "DetecÃ§Ã£o ultra-sensÃ­vel de malation e malaoxon: monitoramento com nanossensor de alta precisÃ£o",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "99e2fefa9497de1415dd13280a6f3bd394cbac22",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MAROSO, D. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> ; <b>Steffens, C.</b> . DetecÃ§Ã£o ultra-sensÃ­vel de malation e malaoxon: monitoramento com nanossensor de alta precisÃ£o. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXI",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica"
+    },
+    {
+      "numero_item": 212,
+      "raw": "SECRETTI, J. ; Steffens, C. ; STEFFENS, J. . Uso de enzimas no processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025. p. 334-339.",
+      "autores": "SECRETTI, J.; Steffens, C.; STEFFENS, J.",
+      "titulo": "Uso de enzimas no processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ac42bb5f38a90c6afe6689d269ac53be35cb2da0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SECRETTI, J. ; <b>Steffens, C.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> . Uso de enzimas no processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII Semin",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica"
+    },
+    {
+      "numero_item": 213,
+      "raw": "SEGALLA, R. ; LORANDI, G. ; PERUZZOLO, M. ; CANSIAN, R. L. ; STEFFENS, C. ; BACKES, G. T. . Viabilidade de Lactobacillus rhamnosus sob diferentes condiÃ§Ãµes de pH, sacarose e NaCl para aplicaÃ§Ã£o em alimentos funcionais. In: Congresso brasileiro de nutriÃ§Ã£o materno-infantil, 2025, Porto Alegre. 6Âº Congresso Brasileiro de NutriÃ§Ã£o Materno-Infantil, 2025.",
+      "autores": "SEGALLA, R.; LORANDI, G.; PERUZZOLO, M.; CANSIAN, R. L.; STEFFENS, C.; BACKES, G. T.",
+      "titulo": "Viabilidade de Lactobacillus rhamnosus sob diferentes condiÃ§Ãµes de pH, sacarose e NaCl para aplicaÃ§Ã£o em alimentos funcionais",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b5c80da4fe4703f5e1c1c3455b870f6efac02ef2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SEGALLA, R. ; LORANDI, G. ; PERUZZOLO, M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9406649599736742\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">CANSIAN, R. L.</a> ; <b>STEFFENS, C.</b> ; BACKES, G. T. . Viabilidade de Lactobacillus rhamnosus sob diferentes condiÃ§Ãµes de pH, sacarose e NaCl para aplicaÃ§Ã£o em alimentos funcionais. In: Congresso brasileiro de nutriÃ§Ã£o materno-infantil, 2025, Porto Alegre. ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "Congresso brasileiro de nutriÃ§Ã£o materno-infantil"
+    },
+    {
+      "numero_item": 214,
+      "raw": "FERNANDES, I. A. ; MACHADO, E. P. ; DIAS, D. A. ; FEIDEN, T. ; BALEN, S.B. ; MORAES, M. C. B. ; Steffens, C. ; STEFFENS, J. . CaracterizaÃ§Ã£o das camadas sensoras Pani, Pani.Ag e Pani/OG funcionalizadas em placas de silÃ­cio. In: o III SimpÃ³sio Online Sulamericano de Tecnologia, Engenharia e CiÃªncia de Alimentos, 2024. III SimpÃ³sio Online Sulamericano de Tecnologia, Engenharia e CiÃªncia de Alimentos - Alimentos funcionais: produtos voltados aos cuidados com a saÃºde e bem-estar, imunidade e longevidade, 2024. v. 3. p. 1.",
+      "autores": "FERNANDES, I. A.; MACHADO, E. P.; DIAS, D. A.; FEIDEN, T.; BALEN, S.B.; MORAES, M. C. B.; Steffens, C.; STEFFENS, J.",
+      "titulo": "CaracterizaÃ§Ã£o das camadas sensoras Pani, Pani",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c67c560d2409712fc6c907df054f98dff8f78402",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES, I. A. ; MACHADO, E. P. ; DIAS, D. A. ; FEIDEN, T. ; BALEN, S.B. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MORAES, M. C. B.</a> ; <b>Steffens, C.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> . CaracterizaÃ§Ã£o das camadas sensoras Pani, P",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "o III SimpÃ³sio Online Sulamericano de Tecnologia"
+    },
+    {
+      "numero_item": 215,
+      "raw": "RIGO, DIANE ; NASCIMENTO, L. H. ; FISCHER, B. ; Steffens, C. ; BRANCO, C. S. ; RIGOTTI, M. ; MALVESSI, E. ; Dallago, R. ; Zeni, J. . Biological properties of sodium hyaluronate produced by Streptococcus zooepidemicus immobilized. In: I Congresso Brasileiro de Biotecnologia Industrial, 2024, FlorianÃ³polis. I Congresso Brasileiro de Biotecnologia Industrial, 2024. p. 1-3.",
+      "autores": "RIGO, DIANE; NASCIMENTO, L. H.; FISCHER, B.; Steffens, C.; BRANCO, C. S.; RIGOTTI, M.; MALVESSI, E.; Dallago, R.; Zeni, J.",
+      "titulo": "Biological properties of sodium hyaluronate produced by Streptococcus zooepidemicus immobilized",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6fb2ab9e77c92fdb91ff686e5831be0c9d2a87da",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RIGO, DIANE ; NASCIMENTO, L. H. ; FISCHER, B. ; <b>Steffens, C.</b> ; BRANCO, C. S. ; RIGOTTI, M. ; MALVESSI, E. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/3006526142468362\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Dallago, R.</a> ; Zeni, J. . Biological properties of sodium hyaluronate produced by Streptococcus zooepidemicus immobilized. In: I Congresso Brasileiro de Biotecnologia Industrial, 2024, FlorianÃ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "I Congresso Brasileiro de Biotecnologia Industrial"
+    },
+    {
+      "numero_item": 216,
+      "raw": "FERNANDES, I. A. ; POTRICK, C. B. ; STEFFENS, C. ; MAROSO, D. ; MACHADO, E. P. ; STEFFENS, J. . AvaliaÃ§Ã£o da eficiÃªncia das camadas sensoras PANI.AG e PANI-OG na detecÃ§Ã£o de pesticidas e interferentes. In: VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS, 2024, Uberaba. VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS, 2024.",
+      "autores": "FERNANDES, I. A.; POTRICK, C. B.; STEFFENS, C.; MAROSO, D.; MACHADO, E. P.; STEFFENS, J.",
+      "titulo": "AvaliaÃ§Ã£o da eficiÃªncia das camadas sensoras PANI",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "38d093e51f85d03ceb2ef87ee3bedebe03dee762",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES, I. A. ; POTRICK, C. B. ; <b>STEFFENS, C.</b> ; MAROSO, D. ; MACHADO, E. P. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> . AvaliaÃ§Ã£o da eficiÃªncia das camadas sensoras PANI.AG e PANI-OG na detecÃ§Ã£o de pesticidas e interferentes. In: VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS, 2024, Uberaba. VIII ENCONT",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS"
+    },
+    {
+      "numero_item": 217,
+      "raw": "FERNANDES, I. A. ; STEFFENS, C. ; DIAS, DOUGLAS A. ; MACHADO, E. P. ; STEFFENS, J. ; MORAES, M. C. B. . AplicaÃ§Ã£o de Nanossensores para a DetecÃ§Ã£o de Compostos Liberados por Machos e FÃªmeas de Nezara Viridula. In: VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS, 2024, Uberaba. VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS, 2024.",
+      "autores": "FERNANDES, I. A.; STEFFENS, C.; DIAS, DOUGLAS A.; MACHADO, E. P.; STEFFENS, J.; MORAES, M. C. B.",
+      "titulo": "AplicaÃ§Ã£o de Nanossensores para a DetecÃ§Ã£o de Compostos Liberados por Machos e FÃªmeas de Nezara Viridula",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "293f90c06d9a29a75b9b136def9a5df6d03df6f4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FERNANDES, I. A. ; <b>STEFFENS, C.</b> ; DIAS, DOUGLAS A. ; MACHADO, E. P. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MORAES, M. C. B.</a> . AplicaÃ§Ã£o de Nanossensores para a DetecÃ§Ã£o de Compostos Liberad",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "VIII ENCONTRO DE DESENVOLVIMENTO DE PROCESSOS AGROINDUSTRIAIS"
+    },
+    {
+      "numero_item": 432,
+      "raw": "MACHADO, E. P. ; STEFFENS, C. . Desenvolvimento de nanossensores baseados em grafeno para monitoramento de pragas agrÃ­colas utilizando semioquÃ­micos. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025.",
+      "autores": "MACHADO, E. P.; STEFFENS, C.",
+      "titulo": "Desenvolvimento de nanossensores baseados em grafeno para monitoramento de pragas agrÃ­colas utilizando semioquÃ­micos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "243204a9f772577b83a8ae5ba94819ed8709eb02",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MACHADO, E. P. ; <b>STEFFENS, C.</b> . Desenvolvimento de nanossensores baseados em grafeno para monitoramento de pragas agrÃ­colas utilizando semioquÃ­micos. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica"
+    },
+    {
+      "numero_item": 433,
+      "raw": "AMARANTE, J. P. ; Steffens, C. . Boas prÃ¡ticas de fabricaÃ§Ã£o em agroindÃºstrias de pequeno e mÃ©dio porte da regiÃ£o do Alto Uruguai: orientaÃ§Ã£o, capacitaÃ§Ã£o e conformidade legal. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025.",
+      "autores": "AMARANTE, J. P.; Steffens, C.",
+      "titulo": "Boas prÃ¡ticas de fabricaÃ§Ã£o em agroindÃºstrias de pequeno e mÃ©dio porte da regiÃ£o do Alto Uruguai: orientaÃ§Ã£o, capacitaÃ§Ã£o e conformidade legal",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cd20293be250ab698cf4286ab2ebbafe5909a129",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AMARANTE, J. P. ; <b>Steffens, C.</b> . Boas prÃ¡ticas de fabricaÃ§Ã£o em agroindÃºstrias de pequeno e mÃ©dio porte da regiÃ£o do Alto Uruguai: orientaÃ§Ã£o, capacitaÃ§Ã£o e conformidade legal. In: XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica, InovaÃ§Ã£o e Tecnologia XXIX SeminÃ¡rio de IntegraÃ§Ã£o, Pesquisa e PÃ³sgraduaÃ§Ã£o (SIPPG) XXIII SeminÃ¡rio de ExtensÃ£o (SIEx), 2025, Frederico. XXXI SeminÃ¡rio Institucional de ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "XXXI SeminÃ¡rio Institucional de IniciaÃ§Ã£o CientÃ­fica"
+    },
+    {
+      "numero_item": 434,
+      "raw": "PEREIRA, C. A. ; SANTOS, J. S. H. ; WEBER, A. C. ; WILLRICH, J. E. ; SCHNEIDER, G. ; STEFFENS, C. ; ETHUR, E. M. ; DE FREITAS, ELISETE ; SILVA, B. E. ; HOEHNE, L. . DegradaÃ§Ã£o da amoxicilina em reator em fluxo usando fotÃ³lise. In: VII Congresso De CiÃªncia, Tecnologia E Conhecimento, 2024, Lageado. Anais do VII Congresso De CiÃªncia, Tecnologia E Conhecimento. Lageado: Univates, 2024.",
+      "autores": "PEREIRA, C. A.; SANTOS, J. S. H.; WEBER, A. C.; WILLRICH, J. E.; SCHNEIDER, G.; STEFFENS, C.; ETHUR, E. M.; DE FREITAS, ELISETE; SILVA, B. E.; HOEHNE, L.",
+      "titulo": "DegradaÃ§Ã£o da amoxicilina em reator em fluxo usando fotÃ³lise",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b7b9b44c176d8508d812ae6ba3ca525fc4b8a2c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PEREIRA, C. A. ; SANTOS, J. S. H. ; WEBER, A. C. ; WILLRICH, J. E. ; SCHNEIDER, G. ; <b>STEFFENS, C.</b> ; ETHUR, E. M. ; DE FREITAS, ELISETE ; SILVA, B. E. ; HOEHNE, L. . DegradaÃ§Ã£o da amoxicilina em reator em fluxo usando fotÃ³lise. In: VII Congresso De CiÃªncia, Tecnologia E Conhecimento, 2024, Lageado. Anais do VII Congresso De CiÃªncia, Tecnologia E Conhecimento. Lageado: Univates, 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "VII Congresso De CiÃªncia"
+    },
+    {
+      "numero_item": 435,
+      "raw": "PEREIRA, C. A. ; SANTOS, J. S. H. ; WEBER, A. C. ; WILLRICH, J. E. ; SILVA, B. E. ; SCHNEIDER, G. ; ETHUR, E. M. ; FREITAS, E. M. ; STEFFENS, C. ; HOEHNE, L. . DegradaÃ§Ã£o da amoxicilina por processos oxidativos avanÃ§ados em sistema de fluxo contÃ­nuo. In: VII Congresso De CiÃªncia, Tecnologia E Conhecimento, 2024, Lageado. Anais do VII Congresso De CiÃªncia, Tecnologia E Conhecimento. Lageado: Univates, 2024. p. 292.",
+      "autores": "PEREIRA, C. A.; SANTOS, J. S. H.; WEBER, A. C.; WILLRICH, J. E.; SILVA, B. E.; SCHNEIDER, G.; ETHUR, E. M.; FREITAS, E. M.; STEFFENS, C.; HOEHNE, L.",
+      "titulo": "DegradaÃ§Ã£o da amoxicilina por processos oxidativos avanÃ§ados em sistema de fluxo contÃ­nuo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a2eb75ae4133fccf28064c0fb5c70b08ad5c088d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PEREIRA, C. A. ; SANTOS, J. S. H. ; WEBER, A. C. ; WILLRICH, J. E. ; SILVA, B. E. ; SCHNEIDER, G. ; ETHUR, E. M. ; FREITAS, E. M. ; <b>STEFFENS, C.</b> ; HOEHNE, L. . DegradaÃ§Ã£o da amoxicilina por processos oxidativos avanÃ§ados em sistema de fluxo contÃ­nuo. In: VII Congresso De CiÃªncia, Tecnologia E Conhecimento, 2024, Lageado. Anais do VII Congresso De CiÃªncia, Tecnologia E Conhecimento. Lageado: Univates, 2024. p. 292. </spa",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "VII Congresso De CiÃªncia"
+    },
+    {
+      "numero_item": 436,
+      "raw": "STEFFENS, C. ; HOEHNE, L. . Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts. In: International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24) 29th - 30th April 2024 | Madrid, Spain, 2024, Madrid. International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24) 29th - 30th April 2024 | Madrid, Spain, 2024.",
+      "autores": "STEFFENS, C.; HOEHNE, L.",
+      "titulo": "Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ed3ed0b02df17e4b93de96bc64337e730e6bfd49",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>; HOEHNE, L. . Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts. In: International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24) 29th - 30th April 2024 | Madrid, Spain, 2024, Madrid. International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24) 29th - 30th April 2024 | Madrid, Spai",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "livro": "International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24) 29th - 30th April 2024 | Madrid"
+    },
+    {
+      "numero_item": 523,
+      "raw": "FELTES, GIOVANA ; FERNANDES, ILIZANDRA APARECIDA ; PASCHOALIN, RAFAELLA TAKEHARA ; STEFFENS, Juliana ; PAROUL, NATALIA ; STEFFENS, CLARICE . Biodegradable gas sensors based on PLA/PEG for discrimination of cinnamon bark essential oils using an electronic nose. SENSORS AND ACTUATORS A-PHYSICAL , 2025.",
+      "autores": "FELTES, GIOVANA; FERNANDES, ILIZANDRA APARECIDA; PASCHOALIN, RAFAELLA TAKEHARA; STEFFENS, Juliana; PAROUL, NATALIA; STEFFENS, CLARICE",
+      "titulo": "Biodegradable gas sensors based on PLA/PEG for discrimination of cinnamon bark essential oils using an electronic nose",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.sna.2025.117400",
+      "fingerprint_sha1": "0b9d04440b134064e5f4255c7c310b18c3fd6f81",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.sna.2025.117400\" target=\"_blank\"></a>FELTES, GIOVANA ; FERNANDES, ILIZANDRA APARECIDA ; PASCHOALIN, RAFAELLA TAKEHARA ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, Juliana</a> ; PAROUL, NATALIA ; <b>STEFFENS, CLARICE</b> . Biodegradable gas sensors based on PLA/PEG for discr",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "SENSORS AND ACTUATORS A-PHYSICAL"
+    },
+    {
+      "numero_item": 562,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. projetos do EDITAL FAPERGS 09/2023 PROGRAMA PESQUISADOR GAÃCHO ? PqG. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "16e3512e7372f73e364824702f03e224a4532261",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. projetos do EDITAL FAPERGS 09/2023 PROGRAMA PESQUISADOR GAÃCHO ? PqG. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "projetos do EDITAL FAPERGS 09/2023 PROGRAMA PESQUISADOR GAÃCHO ? PqG. 2025"
+    },
+    {
+      "numero_item": 563,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. EDITAL FAPERGS 05/2025 PROGRAMA DE UNIDADES DO CENTRO DE REFERÃNCIA INTERNACIONAL EM ESTUDOS RELACIONADOS ÃS MUDANÃAS CLIMÃTICAS ? CRIEC. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "329b05bfc46e37df100bef89eb4046530126b448",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. EDITAL FAPERGS 05/2025 PROGRAMA DE UNIDADES DO CENTRO DE REFERÃNCIA INTERNACIONAL EM ESTUDOS RELACIONADOS ÃS MUDANÃAS CLIMÃTICAS ? CRIEC. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "EDITAL FAPERGS 05/2025 PROGRAMA DE UNIDADES DO CENTRO DE REFERÃNCIA INTERNACIONAL EM ESTUDOS RELACIONADOS ÃS MUDANÃAS CLIMÃTICAS ? CRIEC. 2025"
+    },
+    {
+      "numero_item": 564,
+      "raw": "STEFFENS, C. . Avaliador ad Hoc projeto EDITAL FAPERGS 10/2024 - AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad Hoc projeto EDITAL FAPERGS 10/2024 - AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f6cf07036bd70b41dda7667942736806a2754ce5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad Hoc projeto \tEDITAL FAPERGS 10/2024 - AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 565,
+      "raw": "Steffens, C. . Consultor ad hoc de projeto de pesquisa do Edital 09/2022 FundaÃ§Ã£o de apoio Ã pesquisa do distrito federal (FAPDF). 2024.",
+      "autores": "Steffens, C.",
+      "titulo": "Consultor ad hoc de projeto de pesquisa do Edital 09/2022 FundaÃ§Ã£o de apoio Ã pesquisa do distrito federal (FAPDF)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "49ce0f0f1d0e118e1c2032b2c1476c71a3270356",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Steffens, C.</b>. Consultor ad hoc de projeto de pesquisa do Edital 09/2022 FundaÃ§Ã£o de apoio Ã  pesquisa do distrito federal (FAPDF). 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 566,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. de projetos do EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC (2 projetos). 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cc3a29428f58e49460031d6e80e2fbec1492806b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. de projetos do EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC (2 projetos). 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "de projetos do EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC (2 projetos). 2024"
+    },
+    {
+      "numero_item": 599,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Quimica nova. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1dc3d3bf0186b5fcf51539455069af2e46c67154",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Quimica nova. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Quimica nova. 2025"
+    },
+    {
+      "numero_item": 600,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Journal of Food Processing and Preservation. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b90145864393e8f138c5178ba0d7ae463cb1ec4c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Journal of Food Processing and Preservation. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Processing and Preservation. 2025"
+    },
+    {
+      "numero_item": 601,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Journal of Food Measurement and Characterization (SEIN). 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4a0b03b5028c1c765bda28134f3cd0fcc0bef1a3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Journal of Food Measurement and Characterization (SEIN). 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Measurement and Characterization (SEIN). 2025"
+    },
+    {
+      "numero_item": 602,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Sensors and Actuators: A. Physical. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3c228891c007e88d9f262193a90f0abc2818d479",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Sensors and Actuators: A. Physical. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Sensors and Actuators: A. Physical. 2025"
+    },
+    {
+      "numero_item": 603,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Small. 2025.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "08655b40bce447edbe162847b9cc910965e5a2a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Small. 2025. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Small. 2025"
+    },
+    {
+      "numero_item": 604,
+      "raw": "STEFFENS, C. . Avaliador ad Hoc FUNDAÃÃO DE APOIO Ã PESQUISA DO DISTRITO FEDERAL. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad Hoc FUNDAÃÃO DE APOIO Ã PESQUISA DO DISTRITO FEDERAL",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ddd5f3bcaeea8741cf6aa7b8ff157d68825cf134",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad Hoc FUNDAÃÃO DE APOIO Ã PESQUISA DO DISTRITO FEDERAL. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 605,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. Centelha MCTI. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0374d8ff178235854435bd5657a17a81690cfc29",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. Centelha MCTI. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Centelha MCTI. 2024"
+    },
+    {
+      "numero_item": 606,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. CiÃªncia Animal Brasileira. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aff3a17f07d12385b4c9f3976198a9ac55b85756",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. CiÃªncia Animal Brasileira. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "CiÃªncia Animal Brasileira. 2024"
+    },
+    {
+      "numero_item": 607,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. do International Journal of Biological Macromolecules. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "da82404c359c3aa24af94ff00873732ab6e4ced9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. do International Journal of Biological Macromolecules. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "do International Journal of Biological Macromolecules. 2024"
+    },
+    {
+      "numero_item": 608,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. Journal of Food Process Engineering. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eda2086c961786db3f23e2e6336ac1b604f4aa64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. Journal of Food Process Engineering. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Journal of Food Process Engineering. 2024"
+    },
+    {
+      "numero_item": 609,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. IEEE Sensors Journal. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "226370829ba38f46a3d164012935c14952ed8c94",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. IEEE Sensors Journal. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "IEEE Sensors Journal. 2024"
+    },
+    {
+      "numero_item": 610,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. of Journal of Food Measurement and Characterization (SEIN). 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "895687ce4d055ea58bc4a516e30318c51feb7354",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. of Journal of Food Measurement and Characterization (SEIN). 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "of Journal of Food Measurement and Characterization (SEIN). 2024"
+    },
+    {
+      "numero_item": 611,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. of Microchemical Journal. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4a3e0bf959c8e8367ac4843d89b466d9f3bbc073",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. of Microchemical Journal. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "of Microchemical Journal. 2024"
+    },
+    {
+      "numero_item": 612,
+      "raw": "STEFFENS, C. . Avaliador ad hoc. do Journal of Food Science. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador ad hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5ee0568cd391c67a18a55840dd4318b67952c17c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador ad hoc. do Journal of Food Science. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "do Journal of Food Science. 2024"
+    },
+    {
+      "numero_item": 613,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. of LWT - Food Science & Technology. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ab2cfb47e9e139173b06ee8f9f59eb9dea6df345",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. of LWT - Food Science &amp; Technology. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "of LWT - Food Science & Technology. 2024"
+    },
+    {
+      "numero_item": 614,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. IEEE Sensors Journal. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "226370829ba38f46a3d164012935c14952ed8c94",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. IEEE Sensors Journal. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "IEEE Sensors Journal. 2024"
+    },
+    {
+      "numero_item": 615,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc.Journal of Food Process Engineering. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "88a5e64c7207d01dbc658b43b926f94fe438c182",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc.Journal of Food Process Engineering. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 616,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Analytica Chimica Acta. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3a8000896e598e140cc40ae21d06b444c16376f1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Analytica Chimica Acta. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Analytica Chimica Acta. 2024"
+    },
+    {
+      "numero_item": 617,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. European Food Research and Technology. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3b04bfa78b9d3e755b0ee054d4103d0a03c0f025",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. European Food Research and Technology. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "European Food Research and Technology. 2024"
+    },
+    {
+      "numero_item": 618,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Innovative Food Science and Emerging Technologies. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "363955b891ff478b35f4ce431ca174a50b271896",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Innovative Food Science and Emerging Technologies. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Innovative Food Science and Emerging Technologies. 2024"
+    },
+    {
+      "numero_item": 619,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc.International Dairy Journal. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dbed6c389fcd6dbe07bc04e3b0f80d628ab3d78f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc.International Dairy Journal. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 620,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Brazilian Journal of Biology. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "18785215226edaada9bf01ae777f7e0dc6c7412a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Brazilian Journal of Biology. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Brazilian Journal of Biology. 2024"
+    },
+    {
+      "numero_item": 621,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. of Journal of Food Processing and Preservation. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e638ab8e43ff900bf5949bfe3c9f28e048c1b1ef",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. of Journal of Food Processing and Preservation. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "of Journal of Food Processing and Preservation. 2024"
+    },
+    {
+      "numero_item": 622,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Edital 09/2024- Programa Pesquisador GaÃºcho- PqG. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a5d1dce3032fcb2a39069436d68f586a53841563",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Edital 09/2024- Programa Pesquisador GaÃºcho- PqG. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Edital 09/2024- Programa Pesquisador GaÃºcho- PqG. 2024"
+    },
+    {
+      "numero_item": 623,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7b8653a7f53b16a1a403d313c8ab370a9a4a99f4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "EDITAL FAPERGS 08/2023 AUXÃLIO RECÃM-DOUTOR ou RECÃM-CONTRATADO ? ARD/ARC. 2024"
+    },
+    {
+      "numero_item": 624,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Edital de Chamada PÃºblica FAPESC nÂº 21/2024 ? UNIVERSAL. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8c293e3a4d61d868ed6878ebc086de860fd336ff",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Edital de Chamada PÃºblica FAPESC nÂº 21/2024 ? UNIVERSAL. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Edital de Chamada PÃºblica FAPESC nÂº 21/2024 ? UNIVERSAL. 2024"
+    },
+    {
+      "numero_item": 625,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Chamada FAPESB/CNPq N 01/2023 Programa de Apoio Ã FixaÃ§Ã£o de Jovens Doutores no Estado da Bahia. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e2fb90538e34a508b16de903cb27522c347b09ff",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Chamada FAPESB/CNPq N 01/2023 Programa de Apoio Ã  FixaÃ§Ã£o de Jovens Doutores no Estado da Bahia. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Chamada FAPESB/CNPq N 01/2023 Programa de Apoio Ã FixaÃ§Ã£o de Jovens Doutores no Estado da Bahia. 2024"
+    },
+    {
+      "numero_item": 626,
+      "raw": "STEFFENS, C. . Avaliador Ad Hoc. Chamada CNPq NÂº 32/2023 - PÃ³s-Doutorado JÃºnior - PDJ 2023. 2024.",
+      "autores": "STEFFENS, C.",
+      "titulo": "Avaliador Ad Hoc",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9a000561aeb1f6bfdddc9ffc6a6e7b7788d1a8da",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Avaliador Ad Hoc. Chamada CNPq NÂº 32/2023 - PÃ³s-Doutorado JÃºnior - PDJ 2023. 2024. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "Chamada CNPq NÂº 32/2023 - PÃ³s-Doutorado JÃºnior - PDJ 2023. 2024"
+    },
+    {
+      "numero_item": 717,
+      "raw": "C.STEFFENS . Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202549640: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "C.STEFFENS",
+      "titulo": "Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202549640: Erechim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6763212af3ffa3bc28bc0cce83da43ffd1b2eb2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>C.STEFFENS</b> . Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202549640: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 718,
+      "raw": "Steffens, C. . PanificaÃ§Ã£o Caseira - NÂº 202547474: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "Steffens, C.",
+      "titulo": "PanificaÃ§Ã£o Caseira - NÂº 202547474: Erechim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2cd37fab07a1f4f054c4a20e59f150e6a2e2c64c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Steffens, C.</b>. PanificaÃ§Ã£o Caseira - NÂº 202547474: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 719,
+      "raw": "Steffens, C. . Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202547121: Jacutinga. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "Steffens, C.",
+      "titulo": "Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202547121: Jacutinga",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3fd34b29d9a917c1f37b509379626f3da2f4318c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Steffens, C.</b>. Boas PrÃ¡ticas na FabricaÃ§Ã£o de Alimentos (BPF) - NÂº 202547121: Jacutinga. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 720,
+      "raw": "C.STEFFENS . ProduÃ§Ã£o de Derivados de Leite - NÂº 202545023: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "C.STEFFENS",
+      "titulo": "ProduÃ§Ã£o de Derivados de Leite - NÂº 202545023: Erechim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d9b416ea4ab364d076f19727b6578450806ad0f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>C.STEFFENS</b> . ProduÃ§Ã£o de Derivados de Leite - NÂº 202545023: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 721,
+      "raw": "Steffens, C. . Bolachas e Salgados Caseiros - NÂº 202543411: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "Steffens, C.",
+      "titulo": "Bolachas e Salgados Caseiros - NÂº 202543411: Erechim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b7a0f055d82927359d094bc3fcc50723eb99d78c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Steffens, C.</b>. Bolachas e Salgados Caseiros - NÂº 202543411: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 722,
+      "raw": "STEFFENS, C. . Processamento de Frutas - NÂº 202545534: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "Processamento de Frutas - NÂº 202545534: Erechim",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "15bfd7f1510ea1bbb1630418ca59e6780454a2d8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Processamento de Frutas - NÂº 202545534: Erechim. 2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2025. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 723,
+      "raw": "STEFFENS, C. . PanificaÃ§Ã£o Caseira-202431279. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "PanificaÃ§Ã£o Caseira-202431279",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d2ac653bf410e1eae67c03e338d08f797666da8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. PanificaÃ§Ã£o Caseira-202431279. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 724,
+      "raw": "STEFFENS, C. . Aproveitamento Integral de Alimentos - NÂº 202428914: Erechim. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "Aproveitamento Integral de Alimentos - NÂº 202428914: Erechim",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2154e2f202dcf266596bb91b1894973fba177d61",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Aproveitamento Integral de Alimentos - NÂº 202428914: Erechim. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 725,
+      "raw": "STEFFENS, C. . Bolachas e Salgados Caseiros - NÂº 202428885: CentenÃ¡rio. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "Bolachas e Salgados Caseiros - NÂº 202428885: CentenÃ¡rio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "477b93c94c2367be741c1df5c8e39199f8bf5f31",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Bolachas e Salgados Caseiros - NÂº 202428885: CentenÃ¡rio. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 726,
+      "raw": "STEFFENS, C. . Bolachas e Salgados Caseiros - NÂº 202428884: Erechim. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "Bolachas e Salgados Caseiros - NÂº 202428884: Erechim",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c6702c1cccebdabc9c7cfb4e3821c8c59fed016c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Bolachas e Salgados Caseiros - NÂº 202428884: Erechim. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 727,
+      "raw": "STEFFENS, C. . PanificaÃ§Ã£o Caseira - NÂº 202428883: SertÃ£o. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o).",
+      "autores": "STEFFENS, C.",
+      "titulo": "PanificaÃ§Ã£o Caseira - NÂº 202428883: SertÃ£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "785bf9b7637324c7f9582e0b068c4110f3a8eb51",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. PanificaÃ§Ã£o Caseira - NÂº 202428883: SertÃ£o. 2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:40.950194"
+      },
+      "veiculo": "2024. (Curso de curta duraÃ§Ã£o ministrado/ExtensÃ£o)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "STEFFENS, C. ; STEFFENS, J. ; BACKES, G. T.; MANZOLI, A. . ParticipaÃ§Ã£o em banca de Diego Maroso da Silva. CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ§Ã£o de malation e malaoxon e aplicaÃ§Ã£o em ambiente com couve folha (Brassica oleracea). 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "STEFFENS, C.; STEFFENS, J.; BACKES, G. T.; MANZOLI, A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Diego Maroso da Silva",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9c325f29cca665fd5200b7a85eb75fddf7b57d67",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; BACKES, G. T.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8318865433486386\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">MANZOLI, A.</a>.  ParticipaÃ§Ã£o em banca de Diego Maroso da Silva. CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ§Ã£o de malation e malaoxon e aplicaÃ§Ã£o em ambiente com couve folha (Brassica oleracea). 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Dallago, R. ; STEFFENS, J. ; MORES, R.; STEFFENS, C. . ParticipaÃ§Ã£o em banca de Itiana Lauer. Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as de Frango. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "Dallago, R.; STEFFENS, J.; MORES, R.; STEFFENS, C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Itiana Lauer",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f7459b8f96bce86caa8c00c9e4a624f260831205",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/3006526142468362\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Dallago, R.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; MORES, R.; <b>STEFFENS, C.</b>.  ParticipaÃ§Ã£o em banca de Itiana Lauer. Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as de Frango. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 3,
+      "raw": "STEFFENS, J. ; VALDUGA, E.; BRIAO, V. B.; STEFFENS, C. . ParticipaÃ§Ã£o em banca de Danieli Bucior. RecuperaÃ§Ã£o de lactose de soro de leite utilizando processos de separaÃ§Ã£o por membranas e obtenÃ§Ã£o do produto desidratado em escala industrial. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "STEFFENS, J.; VALDUGA, E.; BRIAO, V. B.; STEFFENS, C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Danieli Bucior",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dda113dd261d30d24f4d1fc8c9621311d398d7f9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; VALDUGA, E.; BRIAO, V. B.; <b>STEFFENS, C.</b>.  ParticipaÃ§Ã£o em banca de Danieli Bucior. RecuperaÃ§Ã£o de lactose de soro de leite utilizando processos de separaÃ§Ã£o por membranas e obtenÃ§Ã£o do produto desidratado em escala industrial. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alim",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "RecuperaÃ§Ã£o de lactose de soro de leite utilizando processos de separaÃ§Ã£o por membranas e obtenÃ§Ã£o do produto desidratado em escala industrial. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Dallago, R. ; STEFFENS, J. ; MORES, R.; STEFFENS, C. . ParticipaÃ§Ã£o em banca de Itiana Lauer. Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as de Frango. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "Dallago, R.; STEFFENS, J.; MORES, R.; STEFFENS, C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Itiana Lauer",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f7459b8f96bce86caa8c00c9e4a624f260831205",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/3006526142468362\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Dallago, R.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; MORES, R.; <b>STEFFENS, C.</b>.  ParticipaÃ§Ã£o em banca de Itiana Lauer. Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "Membranas no Tratamento de Ãgua do Sistema de PrÃ©-Resfriamento de CarcaÃ§as de Frango. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 16,
+      "raw": "STEFFENS, C. ; STEFFENS, J. ; FERNANDES, I. A.; CANSIAN, ROGERIO L. ; MORAES, M. C. B. . ParticipaÃ§Ã£o em banca de Douglas Antonio Dias. AplicaÃ§Ã£o de nanossensores para detecÃ§Ã£o de compostos volÃ¡teis de Nezara viridula e Dichelops melacanthus. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "STEFFENS, C.; STEFFENS, J.; FERNANDES, I. A.; CANSIAN, ROGERIO L.; MORAES, M. C. B.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Douglas Antonio Dias",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e478fdb43056415d5e0922acbde170a865114803",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; FERNANDES, I. A.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9406649599736742\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">CANSIAN, ROGERIO L.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6269532115803649\" target=\"_blank\" title=\"Clique para visu",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "AplicaÃ§Ã£o de nanossensores para detecÃ§Ã£o de compostos volÃ¡teis de Nezara viridula e Dichelops melacanthus. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 17,
+      "raw": "LASSALLE, V. L.; TRAID, H. D.; C.STEFFENS . ParticipaÃ§Ã£o em banca de Melanie Jesarela SCHRODER. Jornada de presentaciÃ³n de Seminarios del DCA del Doctorado en Ciencias Aplicadas- Planta Alta- sito en el Edificio de la FCEQyN? Sede Campus Universitario de la UNaM. 2025. Tese (Doutorado em CIENCIAS APLICADAS) - Universidad Nacional de Misiones.",
+      "autores": "LASSALLE, V. L.; TRAID, H. D.; C.STEFFENS",
+      "titulo": "ParticipaÃ§Ã£o em banca de Melanie Jesarela SCHRODER",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "79a69c5f178e994b02a08a994d656860690a5e1a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LASSALLE, V. L.; TRAID, H. D.; <b>C.STEFFENS</b>.  ParticipaÃ§Ã£o em banca de Melanie Jesarela SCHRODER. Jornada de presentaciÃ³n de Seminarios del DCA del Doctorado en Ciencias Aplicadas- Planta Alta- sito en el Edificio de la FCEQyN? Sede Campus Universitario de la UNaM. 2025. Tese (Doutorado em CIENCIAS APLICADAS)  - Universidad Nacional de Misiones. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "Jornada de presentaciÃ³n de Seminarios del DCA del Doctorado en Ciencias Aplicadas- Planta Alta- sito en el Edificio de la FCEQyN? Sede Campus Universitario de la UNaM. 2025. Tese (Doutorado em CIENCIAS APLICADAS) - Universidad Nacional de Misiones"
+    },
+    {
+      "numero_item": 27,
+      "raw": "ZAPATA, P. D.; FONSECA, M. I.; STEFFENS, C. . ParticipaÃ§Ã£o em banca de Ayala Schimpf, Alan R. 2Â° Seminario de avance. Doctorado en Ciencias Aplicadas ?ProducciÃ³n de una lacasa recombinante aplicada al desarrollo de un biosensor electroquÃ­mico para la detecciÃ³n de pesticidas en aguas superficiales?. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CIENCIAS APLICADAS) - Universidad Nacional de Misiones.",
+      "autores": "ZAPATA, P. D.; FONSECA, M. I.; STEFFENS, C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Ayala Schimpf, Alan R",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "32f85479feae182b91d237ad29e46eb061ecdbe6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ZAPATA, P. D.; FONSECA, M. I.; <b>STEFFENS, C.</b>.  ParticipaÃ§Ã£o em banca de Ayala Schimpf, Alan R. 2Â° Seminario de avance. Doctorado en Ciencias Aplicadas ?ProducciÃ³n de una lacasa recombinante aplicada al desarrollo de un biosensor electroquÃ­mico para la detecciÃ³n de pesticidas en aguas superficiales?. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CIENCIAS APLICADAS)  - Universidad Nacional de Misiones. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "2Â° Seminario de avance. Doctorado en Ciencias Aplicadas ?ProducciÃ³n de una lacasa recombinante aplicada al desarrollo de un biosensor electroquÃ­mico para la detecciÃ³n de pesticidas en aguas superficiales?. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CIENCIAS APLICADAS) - Universidad Nacional de Misiones"
+    },
+    {
+      "numero_item": 41,
+      "raw": "STEFFENS, J. ; VALDUGA, E.; Steffens, C. . ParticipaÃ§Ã£o em banca de Talita Polon.Estudo do reaproveitamento do caroÃ§o de pÃªssego na produÃ§Ã£o de adsorvente natural e obtenÃ§Ã£o de Ã³leo essencial. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": "STEFFENS, J.; VALDUGA, E.; Steffens, C.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Talita Polon",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d43338eed3f5a9b2792a40fc34c028a948fcfd8a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2953935460166799\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">STEFFENS, J.</a>; VALDUGA, E.; <b>Steffens, C.</b>.  ParticipaÃ§Ã£o em banca de Talita Polon.Estudo do reaproveitamento do caroÃ§o de pÃªssego na produÃ§Ã£o de adsorvente natural e obtenÃ§Ã£o de Ã³leo essencial.\n\t\t\t\t\t\t2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia QuÃ­mica)  - Universidade Re",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:40.983347"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 1,
+      "raw": "8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22a13bd1ae3d2eae84537b2100da7b096b305df5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22a13bd1ae3d2eae84537b2100da7b096b305df5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22a13bd1ae3d2eae84537b2100da7b096b305df5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso).",
+      "autores": null,
+      "titulo": "Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22a13bd1ae3d2eae84537b2100da7b096b305df5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">8 th International Congress on Contemporary Scientific Research. Reduction of Environmental Impacts Caused by Poultry Slaughterhouses Through Membrane Microfiltration Processes. 2025. (Congresso). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2025. (Congresso)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24). Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts. 2024. (Congresso).",
+      "autores": null,
+      "titulo": "Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4d09dd7e1a89d9e2a5005837f115963f5bde5a76",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">International Conference on Wastewater Treatment and Management Systems (ICWTMS - 24). Degradation of the emerging pollutant amoxicillin, evaluation of antimicrobial activity, and toxicity of UV/H2O2 treatment byproducts. 2024. (Congresso). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2024. (Congresso)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Steffens, C. . IX Encontro de Desenvolvimento de Processos Agroindustriais - EDEPA. 2025. (Outro).",
+      "autores": "Steffens, C.",
+      "titulo": "IX Encontro de Desenvolvimento de Processos Agroindustriais - EDEPA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "094c51c33af7a9d1fbde8b27f296d95991b7d705",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Steffens, C.</b>. IX Encontro de Desenvolvimento de Processos Agroindustriais - EDEPA. 2025. (Outro). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "2025. (Outro)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "STEFFENS, C. . Comite Cientifico da VIII Encontro de desenvolvimento de processos quÃ­micos agroindustriais. SessÃ£o III - processos quÃ­micos e agroindustriais. 2024. (Outro).",
+      "autores": "STEFFENS, C.",
+      "titulo": "Comite Cientifico da VIII Encontro de desenvolvimento de processos quÃ­micos agroindustriais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "397d9446c30fde74d3212f653f0584a1a773a718",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>STEFFENS, C.</b>. Comite Cientifico da VIII Encontro de desenvolvimento de processos quÃ­micos agroindustriais. SessÃ£o III - processos quÃ­micos e agroindustriais. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:40.993919"
+      },
+      "veiculo": "SessÃ£o III - processos quÃ­micos e agroindustriais. 2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Iagan Tussi Brunelo. Decepa radical da erva-mate adulta: alternativa para colheita mecanizada. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Decepa radical da erva-mate adulta: alternativa para colheita mecanizada",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1655a48a7339e1897183dd7eeab8cd987f27c1a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Iagan Tussi Brunelo. Decepa radical da erva-mate adulta: alternativa para colheita mecanizada.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Ecologia)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Gisele Drozda. Modelagem de tambleamento de corte carneo sob pressÃ£o. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador).",
+      "autores": null,
+      "titulo": "Modelagem de tambleamento de corte carneo sob pressÃ£o",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eae561fc6f52a2aa6011a6e57e875d38296b223e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gisele Drozda. Modelagem de tambleamento de corte carneo sob pressÃ£o.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Jovani Secretti. Processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em Tecnologias SustentÃ¡veis) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador).",
+      "autores": null,
+      "titulo": "Processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c9f777836cf4842d44529c35d3c4eff6ff2457a2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Jovani Secretti. Processo de degomagem aquosa em plantas de extraÃ§Ã£o de Ã³leo de soja.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Tecnologias SustentÃ¡veis)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em Tecnologias SustentÃ¡veis) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. (Orientador)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Ãmilly da Costa. Jardim de erva-mate (Ilex paraguariensis): abordagem ecolÃ³gica para obtenÃ§Ã£o de chÃ¡ preto oxidado por maceraÃ§Ã£o e secagem por micro-ondas. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Jardim de erva-mate (Ilex paraguariensis): abordagem ecolÃ³gica para obtenÃ§Ã£o de chÃ¡ preto oxidado por maceraÃ§Ã£o e secagem por micro-ondas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bc2696429d20661a8e1781524f4f244f31f5e139",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4473262029444191\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ãmilly da Costa. Jardim de erva-mate (Ilex paraguariensis): abordagem ecolÃ³gica para obtenÃ§Ã£o de chÃ¡ preto oxidado por maceraÃ§Ã£o e secagem por micro-ondas.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Ecologia)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµe",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado profissional em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Luan Tomas Nicolau. Tratamento de efluentes hospital veterinÃ¡rio. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Tratamento de efluentes hospital veterinÃ¡rio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "75e30844be65773116d7bc75392aff0a2691151c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luan Tomas Nicolau. Tratamento de efluentes hospital veterinÃ¡rio.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Ecologia)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Diego Maroso da Silva. Desenvolvimento de sensores de gases para detecÃ§Ã£o de pesticidas em trigo. InÃ­cio: 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Desenvolvimento de sensores de gases para detecÃ§Ã£o de pesticidas em trigo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d471800559bad328c0499f493f24f28986345235",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6455137903850291\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Diego Maroso da Silva. Desenvolvimento de sensores de gases para detecÃ§Ã£o de pesticidas em trigo.\n\t\t\t\t\tInÃ­cio: 2025. Tese (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orien",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 8,
+      "raw": "Jaqueline Vanz. Digestibilidade e estabilidade de Ã³leos essencias aplicados em produtos alimentÃ­cios. InÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Digestibilidade e estabilidade de Ã³leos essencias aplicados em produtos alimentÃ­cios",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "25bd6d972af0f36e65e6b3ffb8f7bfc705504ccc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Jaqueline Vanz. Digestibilidade e estabilidade de Ã³leos essencias aplicados em produtos alimentÃ­cios.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Raieli Segalla.. Uso de alimentos suplementados com probiÃ³ticos encapsulados como recurso terapÃªutico no transtorno do espectroÂ autistaÂ (TEA). InÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Uso de alimentos suplementados com probiÃ³ticos encapsulados como recurso terapÃªutico no transtorno do espectroÂ autistaÂ (TEA)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a5c0d131c18636690a6ddb2d62a661cab8255d0f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raieli Segalla.. Uso de alimentos suplementados com probiÃ³ticos encapsulados como recurso terapÃªutico no transtorno do espectroÂ autistaÂ (TEA).\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Giovana Feltes. InÃ­cio: 2025. Universidade Regional Integrada do Alto Uruguai e das MissÃµes, FundaÃ§Ã£o.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "874a6683e57a281f0553e8fecde9468dabae9492",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Giovana Feltes.\n\t\t\t\t\tInÃ­cio: 2025. Universidade Regional Integrada do Alto Uruguai e das MissÃµes, FundaÃ§Ã£o. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Ernesto Quast. InÃ­cio: 2025. Universidade Regional Integrada do Alto Uruguai e das MissÃµes.",
+      "autores": null,
+      "titulo": "InÃ­cio: 2025",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "15255f91b5bcf2e53bd0e8284513e7033bf2c091",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ernesto Quast.\n\t\t\t\t\tInÃ­cio: 2025. Universidade Regional Integrada do Alto Uruguai e das MissÃµes. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Eliel Pereira Machado. Nanobiosensor com tirosinase imobilizada em nanoflores hÃ­bridas para monitoramento de resÃ­duos de imidacloprido em Ã¡gua. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
+      "autores": null,
+      "titulo": "Nanobiosensor com tirosinase imobilizada em nanoflores hÃ­bridas para monitoramento de resÃ­duos de imidacloprido em Ã¡gua",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ca1892c24da794d604326a80c10e186dc154df19",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eliel Pereira Machado. Nanobiosensor com tirosinase imobilizada em nanoflores hÃ­bridas para monitoramento de resÃ­duos de imidacloprido em Ã¡gua. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 15,
+      "raw": "Laiane Racoski. Aprimoramento de Processos em AgroindÃºstrias do Alto Uruguai. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, URI. (Orientador).",
+      "autores": null,
+      "titulo": "Aprimoramento de Processos em AgroindÃºstrias do Alto Uruguai",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "574f3879cd251fa068e04335894e6244ecd7a696",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laiane Racoski. Aprimoramento de Processos em AgroindÃºstrias do Alto Uruguai. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, URI. (Orientador). </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Diego Maroso da Silva. CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ§Ã£o de malation e malaoxon e aplicaÃ§Ã£o em ambiente com couve folha (Brassica oleracea). 2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ§Ã£o de malation e malaoxon e aplicaÃ§Ã£o em ambiente com couve folha (Brassica oleracea)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "406be404ed353c2587c3ae92c3f35a91afe74f26",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6455137903850291\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Diego Maroso da Silva. CaracterizaÃ§Ã£o e desempenho de nanossensores de gÃ¡s na detecÃ§Ã£o de malation e malaoxon e aplicaÃ§Ã£o em ambiente com couve folha (Brassica oleracea).\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e ",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 17,
+      "raw": "Bruna de Lima Hennig. ?ElaboraÃ§Ã£o e otimizaÃ§Ã£o de meios de cultura alternativos para produÃ§Ã£o da microalga Chlorella sorokiniana LBA#39 e avaliaÃ§Ã£o toxicolÃ³gica da biomassa em camundongos. 2025. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "?ElaboraÃ§Ã£o e otimizaÃ§Ã£o de meios de cultura alternativos para produÃ§Ã£o da microalga Chlorella sorokiniana LBA#39 e avaliaÃ§Ã£o toxicolÃ³gica da biomassa em camundongos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4778211007146dfa6a57abc2b31da23ada28b4e5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna de Lima Hennig. ?ElaboraÃ§Ã£o e otimizaÃ§Ã£o de meios de cultura alternativos para produÃ§Ã£o da microalga Chlorella sorokiniana LBA#39 e avaliaÃ§Ã£o toxicolÃ³gica da biomassa em camundongos.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Ecologia)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Coorientador: Clarice Steffens. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. DissertaÃ§Ã£o (Mestrado em Ecologia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 37,
+      "raw": "Giovana Feltes. AplicaÃ§Ã£o do nariz eletrÃ´nico na discriminaÃ§Ã£o e detecÃ§Ã£o de adulteraÃ§Ãµes em Ã³leos essenciais de Cinnamomum cassia e Cinnamomum zeylanicum. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "AplicaÃ§Ã£o do nariz eletrÃ´nico na discriminaÃ§Ã£o e detecÃ§Ã£o de adulteraÃ§Ãµes em Ã³leos essenciais de Cinnamomum cassia e Cinnamomum zeylanicum",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2d50d52da9a521d342c5e981a817f8b51d60ea28",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7318834953111484\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Giovana Feltes.\n\t\t\t\t\t\tAplicaÃ§Ã£o do nariz eletrÃ´nico na discriminaÃ§Ã£o e detecÃ§Ã£o de adulteraÃ§Ãµes em Ã³leos essenciais de Cinnamomum cassia e Cinnamomum zeylanicum.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, C",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 38,
+      "raw": "Sandra Palavicini. Bioacessibilidade dos compostos ativos de erva-mate (Ilex paraguariensis) extraÃ­dos como chimarrÃ£o e chÃ¡ mate em cÃ¡psulas sob pressÃ£o. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, . Orientador: Clarice Steffens.",
+      "autores": "Sandra Palavicini. Bioacessibilidade dos compostos ativos de erva-mate (Ilex paraguariensis) extraÃ­dos como chimarrÃ£o e chÃ¡ mate em cÃ¡psulas sob pressÃ£o. . Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes,",
+      "titulo": "Orientador: Clarice Steffens",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2a89d0ef29946bd44e7ad2d3397de73255463eb6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Sandra Palavicini.\n\t\t\t\t\t\tBioacessibilidade dos compostos ativos de erva-mate (Ilex paraguariensis) extraÃ­dos como chimarrÃ£o e chÃ¡ mate em cÃ¡psulas sob pressÃ£o.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, . Orientador: Clarice Steffens. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      }
+    },
+    {
+      "numero_item": 39,
+      "raw": "Douglas Antonio Dias. AplicaÃ§Ã£o de nanossensores para detecÃ§Ã£o de compostos volÃ¡teis de Nezara viridula e Diceraeus melacanthus em sistemas agrÃ­colas. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "AplicaÃ§Ã£o de nanossensores para detecÃ§Ã£o de compostos volÃ¡teis de Nezara viridula e Diceraeus melacanthus em sistemas agrÃ­colas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6c33e8a01d7a85aa9c60329261df732a65249465",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Douglas Antonio Dias.\n\t\t\t\t\t\tAplicaÃ§Ã£o de nanossensores para detecÃ§Ã£o de compostos volÃ¡teis de Nezara viridula e Diceraeus melacanthus em sistemas agrÃ­colas.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 40,
+      "raw": "Celeste Ramona Barua. Doutorado sanduÃ­che UNaM, UBA, URI: Extratos de fungos comestÃ­veis como fonte de enzimas para a sÃ­ntese verde de AgNPs: uma abordagem biotecnolÃ³gica. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens.",
+      "autores": "Celeste Ramona Barua. Doutorado sanduÃ­che UNaM, UBA, URI: Extratos de fungos comestÃ­veis como fonte de enzimas para a sÃ­ntese verde de AgNPs: uma abordagem biotecnolÃ³gica. 2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens",
+      "titulo": "Doutorado sanduÃ­che UNaM, UBA, URI: Extratos de fungos comestÃ­veis como fonte de enzimas para a sÃ­ntese verde de AgNPs: uma abordagem biotecnolÃ³gica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4120215f58482d824e4a2f82650fa33e839d8992",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Celeste Ramona Barua.\n\t\t\t\t\t\tDoutorado sanduÃ­che UNaM, UBA, URI: Extratos de fungos comestÃ­veis como fonte de enzimas para a sÃ­ntese verde de AgNPs: uma abordagem biotecnolÃ³gica.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 41,
+      "raw": "Sandra Cristina Ballen. Desenvolvimento e aplicaÃ§Ã£o de nanobiossensores de cantilever para detecÃ§Ã£o de pesticidas triazÃ­nicos em Ã¡gua. 2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Desenvolvimento e aplicaÃ§Ã£o de nanobiossensores de cantilever para detecÃ§Ã£o de pesticidas triazÃ­nicos em Ã¡gua",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bb08dbc58821090e15634c8fd465873d32ac688c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4457828984916412\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Sandra Cristina Ballen.\n\t\t\t\t\t\tDesenvolvimento e aplicaÃ§Ã£o de nanobiossensores de cantilever para detecÃ§Ã£o de pesticidas triazÃ­nicos em Ã¡gua.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Engenharia de Alimentos)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, CoordenaÃ§Ã£o de AperfeiÃ§",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. Tese (Doutorado em Engenharia de Alimentos) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 55,
+      "raw": "FabrÃ­cio Hoff Dupont. 2024. Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Clarice Steffens.",
+      "autores": null,
+      "titulo": "Clarice Steffens",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cbb92b3e6b1593f7aaf26a432ecceaae940dd697",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FabrÃ­cio Hoff Dupont.\n\t\t\t\t\t\t2024. Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Clarice Steffens. </span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      }
+    },
+    {
+      "numero_item": 62,
+      "raw": "Emili Otowicz. ProduÃ§Ã£o de biossorvente a partir do engaÃ§o da bananeira para aplicaÃ§Ã£o em sistemas de biossorÃ§Ã£o. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "ProduÃ§Ã£o de biossorvente a partir do engaÃ§o da bananeira para aplicaÃ§Ã£o em sistemas de biossorÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "769399305cc121d00ee596fcb76ba4723ac59769",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Emili Otowicz.\n\t\t\t\t\t\tProduÃ§Ã£o de biossorvente a partir do engaÃ§o da bananeira para aplicaÃ§Ã£o em sistemas de biossorÃ§Ã£o.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia QuÃ­mica)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens"
+    },
+    {
+      "numero_item": 63,
+      "raw": "Luana Rafaela Padilha. Aplicabilidade do Ã¡cido hialurÃ´nico na biomedicina com foco na estÃ©tica. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Aplicabilidade do Ã¡cido hialurÃ´nico na biomedicina com foco na estÃ©tica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "760d83b7f63b35eaecbd849b7a403316e921eb47",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luana Rafaela Padilha.\n\t\t\t\t\t\tAplicabilidade do Ã¡cido hialurÃ´nico na biomedicina com foco na estÃ©tica.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens"
+    },
+    {
+      "numero_item": 64,
+      "raw": "Ãrica FÃ¡tima Rachelle. Potencial terapÃªutico da cannabis no tratamento de pacientes com a doenÃ§a de alzheimer. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Potencial terapÃªutico da cannabis no tratamento de pacientes com a doenÃ§a de alzheimer",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c19ddd442bd743bf6c852061885df638bb5ec441",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ãrica FÃ¡tima Rachelle.\n\t\t\t\t\t\tPotencial terapÃªutico da cannabis no tratamento de pacientes com a doenÃ§a de alzheimer.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Biomedicina) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes. Orientador: Clarice Steffens"
+    },
+    {
+      "numero_item": 82,
+      "raw": "Julia Pedranjo. Promover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, URI. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Promover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "40cca4859dd62675e7e2eb792829b91312a5a9e7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia Pedranjo.\n\t\t\t\t\t\tPromover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia QuÃ­mica)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes,\n\t\t\t\t\t\tURI. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia QuÃ­mica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 83,
+      "raw": "Eliel Pereira Machado. Desenvolvimento de nanosensores para Monitoramento de Pragas AgrÃ­colas. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia ElÃ©trica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Desenvolvimento de nanosensores para Monitoramento de Pragas AgrÃ­colas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aa06e96bbaabbc6b6e5fe0dc60802b841fd2513f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eliel Pereira Machado.\n\t\t\t\t\t\tDesenvolvimento de nanosensores para Monitoramento de Pragas AgrÃ­colas.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia ElÃ©trica)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia ElÃ©trica) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    },
+    {
+      "numero_item": 84,
+      "raw": "Chaline Bruna Potrick. Promover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em FarmÃ¡cia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes, URI. Orientador: Clarice Steffens.",
+      "autores": null,
+      "titulo": "Promover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "01c69b057f75bf7211fa134f65f82a40d3f55c68",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Chaline Bruna Potrick.\n\t\t\t\t\t\tPromover o desenvolvimento e implementaÃ§Ã£o das Boas PrÃ¡ticas de FabricaÃ§Ã£o em uma AgroindÃºstria de Pequeno Porte do Setor de Abate do MunÃ­cipio de Erechim - RS.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em FarmÃ¡cia)  - Universidade Regional Integrada do Alto Uruguai e das MissÃµes,\n\t\t\t\t\t\tURI. Orientador: Clarice Steffens.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "8224498867270799__clarice-steffens.full_profile.html",
+        "lattes_id": "8224498867270799",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:41.014872"
+      },
+      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em FarmÃ¡cia) - Universidade Regional Integrada do Alto Uruguai e das MissÃµes"
+    }
+  ]
+}

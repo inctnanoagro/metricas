@@ -1,0 +1,671 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "4355211015887363",
+    "full_name": "Daiana Silva de Ávila",
+    "slug": "daiana-silva-de-avila",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:34.030314",
+    "source_file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+    "total_productions": 34,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 18,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 16,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 0,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "COMIS-NETO, ANTÔNIO ALVENIR 2025 COMIS-NETO, ANTÔNIO ALVENIR ; JARDIM, NATÁLIA SILVA ; QUINES, CAROLINE BRANDÃO ; BIANCHINI, MATHEUS CHIMELO ; GOMES, JACQUELINE ; BATISTA, WESLEI TALHAFERRO ; de Ávila, Daiana Silva ; HAAS, SANDRA ELISA ; ROSA, SUZAN GONÇALVES ; Pinton, Simone . Repeated Oral Administration of Ivermectin Belatedly Induces Toxicity and Disrupts the Locomotion and Neuropsychiatric Behavior in Rats. ACS Omega , v. 10, p. 12993-13001, 2025.",
+      "autores": "COMIS-NETO, ANTÔNIO ALVENIR COMIS-NETO, ANTÔNIO ALVENIR; JARDIM, NATÁLIA SILVA; QUINES, CAROLINE BRANDÃO; BIANCHINI, MATHEUS CHIMELO; GOMES, JACQUELINE; BATISTA, WESLEI TALHAFERRO; de Ávila, Daiana Silva; HAAS, SANDRA ELISA; ROSA, SUZAN GONÇALVES; Pinton, Simone",
+      "titulo": "Repeated Oral Administration of Ivermectin Belatedly Induces Toxicity and Disrupts the Locomotion and Neuropsychiatric Behavior in Rats",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.4c09536",
+      "fingerprint_sha1": "94ab02f66cd2712d2f5da60f6dafe5a976f3e51d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">COMIS-NETO, ANTÔNIO ALVENIR</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c09536\" target=\"_blank\"></a>COMIS-NETO, ANTÔNIO ALVENIR ; JARDIM, NATÁLIA SILVA ; QUINES, CAROLINE BRANDÃO ; BIANCHINI, MA",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Dobrachinski, Fernando 2025 Dobrachinski, Fernando ; RIBEIRO, KÁTIA ALVES ; BEZERRA, IVERSON CONRADO ; DA SILVA, ARTUR JOSÉ ; PEREIRA, CAMILA MILAGRES MACEDO ; VELLASQUES, KELLE ; PADILHA, HELOÍSA AIOLFI ; HAAS, SANDRA ELISA ; Ávila, Daiana Silva ; Gubert, Priscila . Nutraceutical approaches for Autism Spectrum Disorder treatment. BEHAVIOURAL BRAIN RESEARCH , v. 492, p. 115653, 2025.",
+      "autores": "Dobrachinski, Fernando Dobrachinski, Fernando; RIBEIRO, KÁTIA ALVES; BEZERRA, IVERSON CONRADO; DA SILVA, ARTUR JOSÉ; PEREIRA, CAMILA MILAGRES MACEDO; VELLASQUES, KELLE; PADILHA, HELOÍSA AIOLFI; HAAS, SANDRA ELISA; Ávila, Daiana Silva; Gubert, Priscila",
+      "titulo": "Nutraceutical approaches for Autism Spectrum Disorder treatment",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.bbr.2025.115653",
+      "fingerprint_sha1": "1c76ad7fae3073a0875c4e95311ce8da8bc0a17e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Dobrachinski, Fernando</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.bbr.2025.115653\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2826962879978412\" target=\"_blank\" title=\"Clique par",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "BEHAVIOURAL BRAIN RESEARCH"
+    },
+    {
+      "numero_item": 3,
+      "raw": "DE ARAÚJO, LAURA COSTA ALVES 2025 DE ARAÚJO, LAURA COSTA ALVES ; LEITE, NATASHA RIOS ; DA ROCHA, PAOLA DOS SANTOS ; OLIVEIRA, ALEX SANTOS ; LEITE, DANIEL FERREIRA ; ESTIGARRIBIA, ISABELLA GIUNCO ; ALVES, MATHEUS HENRIQUE FRANCO ; SOUTILHA, ALÉRCIO DA SILVA ; DOS SANTOS, HELDER FREITAS ; BALDIVIA, DEBORA DA SILVA ; JUNIOR, NELSON CARVALHO FARIAS ; AGARRAYUA, DANIELLE ARAUJO ; de Ávila, Daiana Silva ; CAMPOS, JAQUELINE FERREIRA ; DE PICOLI SOUZA, KELY ; DOS SANTOS, EDSON LUCAS . Caryocar brasiliense Camb. Fruit Improves Health and Lifespan in Caenorhabditis elegans. FOOD SCIENCE & NUTRITION , v. 13, p. 13-70384, 2025.",
+      "autores": "DE ARAÚJO, LAURA COSTA ALVES DE ARAÚJO, LAURA COSTA ALVES; LEITE, NATASHA RIOS; DA ROCHA, PAOLA DOS SANTOS; OLIVEIRA, ALEX SANTOS; LEITE, DANIEL FERREIRA; ESTIGARRIBIA, ISABELLA GIUNCO; ALVES, MATHEUS HENRIQUE FRANCO; SOUTILHA, ALÉRCIO DA SILVA; DOS SANTOS, HELDER FREITAS; BALDIVIA, DEBORA DA SILVA; JUNIOR, NELSON CARVALHO FARIAS; AGARRAYUA, DANIELLE ARAUJO; de Ávila, Daiana Silva; CAMPOS, JAQUELINE FERREIRA; DE PICOLI SOUZA, KELY; DOS SANTOS, EDSON LUCAS",
+      "titulo": "Caryocar brasiliense Camb",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1002/fsn3.70384",
+      "fingerprint_sha1": "60ae20a1373531eea34e7a09a38a3578c4f97ce8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE ARAÚJO, LAURA COSTA ALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/fsn3.70384\" target=\"_blank\"></a>DE ARAÚJO, LAURA COSTA ALVES ; LEITE, NATASHA RIOS ; DA ROCHA, PAOLA DOS SANTOS ; OLIVEIRA, ALEX SA",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "Fruit Improves Health and Lifespan in Caenorhabditis elegans. FOOD SCIENCE & NUTRITION"
+    },
+    {
+      "numero_item": 4,
+      "raw": "FUNGHETTO-RIBEIRO, ANA POZZATO 2025 FUNGHETTO-RIBEIRO, ANA POZZATO ; MACIEL, TAMARA RAMOS ; DE OLIVEIRA PACHECO, CAMILA ; AGARRAYUA, DANIELLE ; SAVALL, ANNE SUÉLY ; MONTEIRO, EDUARDA ; CARDOSO, CAMILA ; CUNHA-FILHO, MARCÍLIO ; GELFUSO, GUILHERME MARTINS ; DA SILVA ÁVILA, DAIANA ; Pinton, Simone ; HAAS, SANDRA ELISA . Formulation development and toxicological assessment of colchicine-loaded nanocapsules. JOURNAL OF DRUG DELIVERY SCIENCE AND TECHNOLOGY , v. 106, p. 106722, 2025.",
+      "autores": "FUNGHETTO-RIBEIRO, ANA POZZATO FUNGHETTO-RIBEIRO, ANA POZZATO; MACIEL, TAMARA RAMOS; DE OLIVEIRA PACHECO, CAMILA; AGARRAYUA, DANIELLE; SAVALL, ANNE SUÉLY; MONTEIRO, EDUARDA; CARDOSO, CAMILA; CUNHA-FILHO, MARCÍLIO; GELFUSO, GUILHERME MARTINS; DA SILVA ÁVILA, DAIANA; Pinton, Simone; HAAS, SANDRA ELISA",
+      "titulo": "Formulation development and toxicological assessment of colchicine-loaded nanocapsules",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.jddst.2025.106722",
+      "fingerprint_sha1": "e0adae8084b73ee578d15579ddbd57722b79344d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FUNGHETTO-RIBEIRO, ANA POZZATO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jddst.2025.106722\" target=\"_blank\"></a>FUNGHETTO-RIBEIRO, ANA POZZATO ; MACIEL, TAMARA RAMOS ; DE OLIVEIRA PACHECO, CAMILA ; AG",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "JOURNAL OF DRUG DELIVERY SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 5,
+      "raw": "SOARES, MARCELL VALANDRO 2025 SOARES, MARCELL VALANDRO ; CORDEIRO, LARISSA MARAFIGA ; FRANZEN DA SILVA, ALINE ; UGALDE, GUSTAVO ; VENTURINI, LUIZA ; ANTUNES SOARES, FÉLIX ALEXANDRE ; Ávila, Daiana Silva . Early ageing in Caenorhabditis elegans caused by exposure to airborne benzene, toluene, ethylbenzene and xylenes (BTEX). CHEMOSPHERE , v. 387, p. 144624, 2025.",
+      "autores": "SOARES, MARCELL VALANDRO SOARES, MARCELL VALANDRO; CORDEIRO, LARISSA MARAFIGA; FRANZEN DA SILVA, ALINE; UGALDE, GUSTAVO; VENTURINI, LUIZA; ANTUNES SOARES, FÉLIX ALEXANDRE; Ávila, Daiana Silva",
+      "titulo": "Early ageing in Caenorhabditis elegans caused by exposure to airborne benzene, toluene, ethylbenzene and xylenes (BTEX)",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.chemosphere.2025.144624",
+      "fingerprint_sha1": "6b68422fb050afb62c02afab2e1dd2daf3c89a88",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOARES, MARCELL VALANDRO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.chemosphere.2025.144624\" target=\"_blank\"></a>SOARES, MARCELL VALANDRO ; CORDEIRO, LARISSA MARAFIGA ; FRANZEN DA SILVA, ALINE ; UGALDE",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "CHEMOSPHERE"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Ávila, Daiana Silva 2025 Ávila, Daiana Silva ; PEREIRA, CAMILA MILAGRES MACEDO ; BEZERRA, IVERSON CONRADO ; VIÇOZZI, GABRIEL PEDROSO ; ROSINI SILVA, ALEX APARECIDO ; SILVA, ARTUR JOSÉ DA ; PADILHA, HELOÍSA AIOLFI ; CORDEIRO, EMILLY DE SOUZA ; SILVA, ALINE CASTRO ; CARDOSO DE OLIVEIRA, DANILO ; DO NASCIMENTO, KATARINE GABRIELY AURISTA ; DE SANTANACAVALCANTE, JULIANNE ; SILVA, CLARICE BEATRIZ GONÇALVES ; SILVA, ROBERTO AFONSO DA ; BIANCHINI, MATHEUS CHIMELO ; DE LIMA FILHO, JOSÉ LUIZ ; PORCARI, ANDREIA M. ; Gubert, Priscila . Nutritional Supplementation Benefits in Caenorhabditis elegans under Developmental Disruption and Stress Conditions. ACS Omega , v. 10, p. 31313-31330, 2025.",
+      "autores": "Ávila, Daiana Silva Ávila, Daiana Silva; PEREIRA, CAMILA MILAGRES MACEDO; BEZERRA, IVERSON CONRADO; VIÇOZZI, GABRIEL PEDROSO; ROSINI SILVA, ALEX APARECIDO; SILVA, ARTUR JOSÉ DA; PADILHA, HELOÍSA AIOLFI; CORDEIRO, EMILLY DE SOUZA; SILVA, ALINE CASTRO; CARDOSO DE OLIVEIRA, DANILO; DO NASCIMENTO, KATARINE GABRIELY AURISTA; DE SANTANACAVALCANTE, JULIANNE; SILVA, CLARICE BEATRIZ GONÇALVES; SILVA, ROBERTO AFONSO DA; BIANCHINI, MATHEUS CHIMELO; DE LIMA FILHO, JOSÉ LUIZ; PORCARI, ANDREIA M.; Gubert, Priscila",
+      "titulo": "Nutritional Supplementation Benefits in Caenorhabditis elegans under Developmental Disruption and Stress Conditions",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.4c10748",
+      "fingerprint_sha1": "f95e718ca5decb8360127feebc4fdedaf806bdad",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Ávila, Daiana Silva</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c10748\" target=\"_blank\"></a><b>Ávila, Daiana Silva</b>; PEREIRA, CAMILA MILAGRES MACEDO ; BEZERRA, IVERSON CONRADO ; VIÇOZZI, GABR",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 7,
+      "raw": "MENEZES, JULIA MACHADO 2025 MENEZES, JULIA MACHADO ; RODRIGUES, BELISA AVILA ; DE ATHAYDE SAUL, DORA ; DA SILVA GOULART, ARIANE ; GUERRA, MATTEUS TEIXEIRA ; Ávila, Daiana Silva ; ZIMMER, KARINE RIGON ; DALLEGRAVE, ELIANE . Acute toxic effects of an imidacloprid-based commercial insecticide in Caenorhabditis elegans. ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY , v. 118, p. 104783, 2025.",
+      "autores": "MENEZES, JULIA MACHADO MENEZES, JULIA MACHADO; RODRIGUES, BELISA AVILA; DE ATHAYDE SAUL, DORA; DA SILVA GOULART, ARIANE; GUERRA, MATTEUS TEIXEIRA; Ávila, Daiana Silva; ZIMMER, KARINE RIGON; DALLEGRAVE, ELIANE",
+      "titulo": "Acute toxic effects of an imidacloprid-based commercial insecticide in Caenorhabditis elegans",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.etap.2025.104783",
+      "fingerprint_sha1": "3a12c956c7a14076a5ad5d3f6c5461324a4ae1e1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MENEZES, JULIA MACHADO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.etap.2025.104783\" target=\"_blank\"></a>MENEZES, JULIA MACHADO ; RODRIGUES, BELISA AVILA ; DE ATHAYDE SAUL, DORA ; DA SILVA GOULART, ARIA",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY"
+    },
+    {
+      "numero_item": 8,
+      "raw": "JARDIM, NATÁLIA SILVA 2024 JARDIM, NATÁLIA SILVA ; SILVA, ALINE CASTRO ; Avila, Daiana Silva . Using Low-cost Dyes to Visualize Glycogen Accumulation and Gut Integrity in Caenorhabditis elegans. Jove-Journal of Visualized Experiments , v. 23, p. 204, 2024.",
+      "autores": "JARDIM, NATÁLIA SILVA JARDIM, NATÁLIA SILVA; SILVA, ALINE CASTRO; Avila, Daiana Silva",
+      "titulo": "Using Low-cost Dyes to Visualize Glycogen Accumulation and Gut Integrity in Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3791/66084",
+      "fingerprint_sha1": "19bdb3274edcc8c0a78d595c7bbc17d4145107bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">JARDIM, NATÁLIA SILVA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3791/66084\" target=\"_blank\"></a>JARDIM, NATÁLIA SILVA ; SILVA, ALINE CASTRO ; <b>Avila, Daiana Silva</b> . Using Low-cost Dyes to Visualize Gly",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "Jove-Journal of Visualized Experiments"
+    },
+    {
+      "numero_item": 9,
+      "raw": "RODRIGUES, DANIELA TEIXEIRA 2024 RODRIGUES, DANIELA TEIXEIRA ; PADILHA, HELOÍSA AIOLFI ; SOARES, ANA THALITA GONÇALVES ; DE SOUZA, MARIA EDUARDA OLIVEIRA ; GUERRA, MATTEUS TEIXEIRA ; Ávila, Daiana Silva . The Caenorhabditis elegans neuroendocrine system and their modulators: An overview. MOLECULAR AND CELLULAR ENDOCRINOLOGY , v. 586, p. 112191, 2024.",
+      "autores": "RODRIGUES, DANIELA TEIXEIRA RODRIGUES, DANIELA TEIXEIRA; PADILHA, HELOÍSA AIOLFI; SOARES, ANA THALITA GONÇALVES; DE SOUZA, MARIA EDUARDA OLIVEIRA; GUERRA, MATTEUS TEIXEIRA; Ávila, Daiana Silva",
+      "titulo": "The Caenorhabditis elegans neuroendocrine system and their modulators: An overview",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.mce.2024.112191",
+      "fingerprint_sha1": "a42502b9f84831631c14553b5b6a6d6d8218e2ae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RODRIGUES, DANIELA TEIXEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.mce.2024.112191\" target=\"_blank\"></a>RODRIGUES, DANIELA TEIXEIRA ; PADILHA, HELOÍSA AIOLFI ; SOARES, ANA THALITA GONÇALVES ; DE SO",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "MOLECULAR AND CELLULAR ENDOCRINOLOGY"
+    },
+    {
+      "numero_item": 10,
+      "raw": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN 2024 DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; SANTOS, ALISSON GR. ; NETO, JOSÉ S.S. ; SILVA, GIOVANNA MELO MARTINS ; PINTON, SIMONE ; ZENI, GILSON R. ; NOGUEIRA, Cristina Wayne ; Ávila, Daiana Silva ; QUINES, CAROLINE BRANDÃO . (p-ClPhSe)2 modulation on carbohydrate and lipid metabolism requires the insulin-like signaling in Caenorhabditis elegans. BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS , v. 696, p. 149514, 2024.",
+      "autores": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN 2024 DE OLIVEIRA PEREIRA, FLÁVIA SUELEN; SANTOS, ALISSON GR.; NETO, JOSÉ S.S.; SILVA, GIOVANNA MELO MARTINS; PINTON, SIMONE; ZENI, GILSON R.; NOGUEIRA, Cristina Wayne; Ávila, Daiana Silva; QUINES, CAROLINE BRANDÃO",
+      "titulo": "(p-ClPhSe)2 modulation on carbohydrate and lipid metabolism requires the insulin-like signaling in Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.bbrc.2024.149514",
+      "fingerprint_sha1": "c1df40a71b6cf71869074e039304b859d00abe67",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA PEREIRA, FLÁVIA SUELEN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.bbrc.2024.149514\" target=\"_blank\"></a>DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; SANTOS, ALISSON GR. ; NETO, JOSÉ S.S. ; SILVA, G",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS"
+    },
+    {
+      "numero_item": 11,
+      "raw": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN 2024 DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; OLIVEIRA DE SOUZA, MARIA EDUARDA ; VIÇOZZI, GABRIEL PEDROSO ; CAURIO, ALINE CASTRO ; PINTON, SIMONE ; DENARDIN, CRISTIANE CASAGRANDE ; HAAS, SANDRA ELISA ; GASPAROTTO DENARDIN, ELTON LUIS ; Ávila, Daiana Silva . bracts extract in free and liposomal forms reduce hyperplasia induced by in. Chemistry & Biodiversity , p. e202300865, 2024.",
+      "autores": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN 2024 DE OLIVEIRA PEREIRA, FLÁVIA SUELEN; OLIVEIRA DE SOUZA, MARIA EDUARDA; VIÇOZZI, GABRIEL PEDROSO; CAURIO, ALINE CASTRO; PINTON, SIMONE; DENARDIN, CRISTIANE CASAGRANDE; HAAS, SANDRA ELISA; GASPAROTTO DENARDIN, ELTON LUIS; Ávila, Daiana Silva",
+      "titulo": "bracts extract in free and liposomal forms reduce hyperplasia induced by in",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/cbdv.202300865",
+      "fingerprint_sha1": "33e2efa88bfd0556706e1d7365c8cad05af5f9eb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA PEREIRA, FLÁVIA SUELEN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/cbdv.202300865\" target=\"_blank\"></a>DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; OLIVEIRA DE SOUZA, MARIA EDUARDA ; VIÇOZZI, GABRIEL ",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "Chemistry & Biodiversity"
+    },
+    {
+      "numero_item": 12,
+      "raw": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN 2024 DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; VIÇOZZI, GABRIEL PEDROSO ; SOUZA, MARIA EDUARDA OLIVEIRA ; TAMBARA, ANDREIA LIMANA ; MUNIEWEG, FÉLIX ROMAN ; HAAS, SANDRA ELISA ; DENARDIN, ELTON LUÍS GASPAROTTO ; PINTON, SIMONE ; DENARDIN, CRISTIANE CASAGRANDE ; Ávila, Daiana Silva . Purple pitanga extract and loaded liposomes effects in a tumorous Caenorhabditis elegans model. Journal Of Agriculture And Food Research , v. 15, p. 101049, 2024.",
+      "autores": "DE OLIVEIRA PEREIRA, FLÁVIA SUELEN DE OLIVEIRA PEREIRA, FLÁVIA SUELEN; VIÇOZZI, GABRIEL PEDROSO; SOUZA, MARIA EDUARDA OLIVEIRA; TAMBARA, ANDREIA LIMANA; MUNIEWEG, FÉLIX ROMAN; HAAS, SANDRA ELISA; DENARDIN, ELTON LUÍS GASPAROTTO; PINTON, SIMONE; DENARDIN, CRISTIANE CASAGRANDE; Ávila, Daiana Silva",
+      "titulo": "Purple pitanga extract and loaded liposomes effects in a tumorous Caenorhabditis elegans model",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jafr.2024.101049",
+      "fingerprint_sha1": "8ba329de4d7da1235cff77be9ab8987bca55fdb9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA PEREIRA, FLÁVIA SUELEN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jafr.2024.101049\" target=\"_blank\"></a>DE OLIVEIRA PEREIRA, FLÁVIA SUELEN ; VIÇOZZI, GABRIEL PEDROSO ; SOUZA, MARIA EDUARDA ",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "Journal Of Agriculture And Food Research"
+    },
+    {
+      "numero_item": 13,
+      "raw": "SILVA, ALINE CASTRO 2024 SILVA, ALINE CASTRO ; VIÇOZZI, GABRIEL PEDROSO ; FARINA, MARCELO ; ÁVILA, DAIANA SILVA . Caenorhabditis elegans as a Model for Evaluating the Toxicology of Inorganic Nanoparticles. JOURNAL OF APPLIED TOXICOLOGY , v. 45, p. 1124-1164, 2024.",
+      "autores": "SILVA, ALINE CASTRO SILVA, ALINE CASTRO; VIÇOZZI, GABRIEL PEDROSO; FARINA, MARCELO; ÁVILA, DAIANA SILVA",
+      "titulo": "Caenorhabditis elegans as a Model for Evaluating the Toxicology of Inorganic Nanoparticles",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/jat.4704",
+      "fingerprint_sha1": "969436de488e3056670b0b83079ff009881a8334",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, ALINE CASTRO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/jat.4704\" target=\"_blank\"></a>SILVA, ALINE CASTRO ; VIÇOZZI, GABRIEL PEDROSO ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/99951188358106",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "JOURNAL OF APPLIED TOXICOLOGY"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SAGINI, JOÃO PEDRO NUNES 2024 SAGINI, JOÃO PEDRO NUNES ; POSSAMAI ROSSATTO, FERNANDA CRISTINA ; SOUZA, FELIPE ; PILAU, EDUARDO ; QUINES, CAROLINE BRANDÃO ; Ávila, Daiana Silva ; LIGABUE-BRAUN, RODRIGO ; ZIMMER, ALINE RIGON ; PEREIRA, REBECA INHOQUE ; ZIMMER, KARINE RIGON . Inhibition of Staphylococcus epidermidis and Pseudomonas aeruginosa biofilms by grape and rice agroindustrial residues. MICROBIAL PATHOGENESIS , v. 197, p. 107019, 2024.",
+      "autores": "SAGINI, JOÃO PEDRO NUNES SAGINI, JOÃO PEDRO NUNES; POSSAMAI ROSSATTO, FERNANDA CRISTINA; SOUZA, FELIPE; PILAU, EDUARDO; QUINES, CAROLINE BRANDÃO; Ávila, Daiana Silva; LIGABUE-BRAUN, RODRIGO; ZIMMER, ALINE RIGON; PEREIRA, REBECA INHOQUE; ZIMMER, KARINE RIGON",
+      "titulo": "Inhibition of Staphylococcus epidermidis and Pseudomonas aeruginosa biofilms by grape and rice agroindustrial residues",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.micpath.2024.107019",
+      "fingerprint_sha1": "5e19f472dbdcda5b9fe9a35895334ca631d47b78",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SAGINI, JOÃO PEDRO NUNES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.micpath.2024.107019\" target=\"_blank\"></a>SAGINI, JOÃO PEDRO NUNES ; POSSAMAI ROSSATTO, FERNANDA CRISTINA ; SOUZA, FELIPE ; PILAU, EDU",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "MICROBIAL PATHOGENESIS"
+    },
+    {
+      "numero_item": 15,
+      "raw": "DA SILVA, CAMILA PIRES MACHADO 2024 DA SILVA, CAMILA PIRES MACHADO ; SARAIVA, NARIANI ROCHA ; VON POSER, GILSANE LINO ; Ávila, Daiana Silva ; RATES, STELA MARIS KUZE . Toxicity of Uliginosin B in Caenorhabditis elegans Involves P-Glycoprotein and Dopaminergic System. BRAZILIAN JOURNAL OF PHARMACOGNOSY , v. 35, p. 214-223, 2024.",
+      "autores": "DA SILVA, CAMILA PIRES MACHADO DA SILVA, CAMILA PIRES MACHADO; SARAIVA, NARIANI ROCHA; VON POSER, GILSANE LINO; Ávila, Daiana Silva; RATES, STELA MARIS KUZE",
+      "titulo": "Toxicity of Uliginosin B in Caenorhabditis elegans Involves P-Glycoprotein and Dopaminergic System",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s43450-024-00610-y",
+      "fingerprint_sha1": "7d2ddc45aeb6852fa8d200293cdfe17c5d2499fd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, CAMILA PIRES MACHADO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s43450-024-00610-y\" target=\"_blank\"></a>DA SILVA, CAMILA PIRES MACHADO ; SARAIVA, NARIANI ROCHA ; VON POSER, GILSANE LINO ; <b>Áv",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "BRAZILIAN JOURNAL OF PHARMACOGNOSY"
+    },
+    {
+      "numero_item": 16,
+      "raw": "WEISHAUPT, A. 2024 ; RUECKER, L. ; MEINERS, T. ; SCHWERDTLE, TANJA ; Avila, DS ; BORNHORST, JULIA . Copper-mediated neurotoxicity and genetic vulnerability in the background of neurodegenerative diseases in C. elegans. Toxicological Sciences , v. 201, p. 254-262, 2024.",
+      "autores": "WEISHAUPT, A.; RUECKER, L.; MEINERS, T.; SCHWERDTLE, TANJA; Avila, DS; BORNHORST, JULIA",
+      "titulo": "Copper-mediated neurotoxicity and genetic vulnerability in the background of neurodegenerative diseases in C",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1093/toxsci/kfae092",
+      "fingerprint_sha1": "2451e7e08cc7caa19ba86e02ca81c23b1405c891",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">WEISHAUPT, A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1093/toxsci/kfae092\" target=\"_blank\"></a>WEISHAUPT, A. ; RUECKER, L. ; MEINERS, T. ; SCHWERDTLE, TANJA ; <b>Avila, DS</b> ; BORNHORST, JULIA . Copper-m",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "elegans. Toxicological Sciences"
+    },
+    {
+      "numero_item": 159,
+      "raw": "NUNES, D. B. ; OLIVEIRA, JHONES L. ; MARTINEZ, C. ; PUNTEL, R. L. ; GAYER, MATEUS C. ; SILVA, A. C. ; FRACETO, LEONARDO FERNANDES ; Avila, D.S. . ANÁLISE DO EFEITO REPELENTE E/OU INSETICIDA DE NANOPARTÍCULAS CONTENDO GERANIOL EM DROSOPHILA MELANOGASTER. In: VIII SIMPÓSIO INTEGRADO DE PPGs, 2024, Uruguaiana. Anais do VIII Simpósio dos Programas de Pós-Graduação da UNIPAMPA, 2024. v. 8.",
+      "autores": "NUNES, D. B.; OLIVEIRA, JHONES L.; MARTINEZ, C.; PUNTEL, R. L.; GAYER, MATEUS C.; SILVA, A. C.; FRACETO, LEONARDO FERNANDES; Avila, D.S.",
+      "titulo": "ANÁLISE DO EFEITO REPELENTE E/OU INSETICIDA DE NANOPARTÍCULAS CONTENDO GERANIOL EM DROSOPHILA MELANOGASTER",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "30b5f7b86dfaf44bf9789575a941cad4236e0b54",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NUNES, D. B. ; OLIVEIRA, JHONES L. ; MARTINEZ, C. ; PUNTEL, R. L. ; GAYER, MATEUS C. ; SILVA, A. C. ; FRACETO, LEONARDO FERNANDES ; <b>Avila, D.S.</b> . ANÁLISE DO EFEITO REPELENTE E/OU INSETICIDA DE NANOPARTÍCULAS CONTENDO GERANIOL EM DROSOPHILA MELANOGASTER. In: VIII SIMPÓSIO INTEGRADO DE PPGs, 2024, Uruguaiana. Anais do VIII Simpósio dos Programas de Pós-Graduação da UNIPAMPA, 2024. v. 8. </span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "livro": "VIII SIMPÓSIO INTEGRADO DE PPGs"
+    },
+    {
+      "numero_item": 243,
+      "raw": "TEIXEIRA RODRIGUES, DANIELA ; CARLA KUHN, EUGÊNIA ; DALBIANCO GODOY DE OLIVEIRA, JULLIA ; DA SILVA SILVA JARDIM, NATÁLIA ; BALBÉ NUNES, DANIEL ; SANTOS DA SILVA, RAFAEL ; ENDRIGO DORNELES RODRIGUES, OSCAR ; DEOCARIS, CUSTER ; TEIXEIRA DA ROCHA, JOÃO BATISTA ; SILVA ÁVILA, DAIANA . In Vivo Safety Assessment of AZT-derived Organochalcogen Compounds with Promising Antiviral Effects against SARS-Cov-2. CURRENT MEDICINAL CHEMISTRY , 2025.",
+      "autores": "TEIXEIRA RODRIGUES, DANIELA; CARLA KUHN, EUGÊNIA; DALBIANCO GODOY DE OLIVEIRA, JULLIA; DA SILVA SILVA JARDIM, NATÁLIA; BALBÉ NUNES, DANIEL; SANTOS DA SILVA, RAFAEL; ENDRIGO DORNELES RODRIGUES, OSCAR; DEOCARIS, CUSTER; TEIXEIRA DA ROCHA, JOÃO BATISTA; SILVA ÁVILA, DAIANA",
+      "titulo": "In Vivo Safety Assessment of AZT-derived Organochalcogen Compounds with Promising Antiviral Effects against SARS-Cov-2",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.2174/0109298673367163250417065816",
+      "fingerprint_sha1": "6415146d18fc734e17e7cb8e18d4cb3f791150a1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.2174/0109298673367163250417065816\" target=\"_blank\"></a>TEIXEIRA RODRIGUES, DANIELA ; CARLA KUHN, EUGÊNIA ; DALBIANCO GODOY DE OLIVEIRA, JULLIA ; DA SILVA SILVA JARDIM, NATÁLIA ; BALBÉ NUNES, DANIEL ; SANTOS DA SILVA, RAFAEL ; ENDRIGO DORNELES RODRIGUES, OSCAR ; DEOCARIS, CUSTER ; TEIXEIRA DA ROCHA, JOÃO BATISTA ; <b>SILVA ÁVILA, DAIANA</b> . In Vivo Safety Assessment of ",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:33.989849"
+      },
+      "veiculo": "CURRENT MEDICINAL CHEMISTRY"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Yusuf Hamza. Therapeutic potential of organic compounds-conjugated nanoparticles in seizure modulation and epileptogenesis inhibition in C. elegans. Início: 2025. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Therapeutic potential of organic compounds-conjugated nanoparticles in seizure modulation and epileptogenesis inhibition in C",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "185aa7fa37936b257fb2f3972cc80b2284c32dc3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yusuf Hamza. Therapeutic potential of organic compounds-conjugated nanoparticles in seizure modulation and epileptogenesis inhibition in C. elegans.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "elegans. Início: 2025. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Matteus Teixeira Guerra. Avaliação do potencial antihelmíntico de sistemas nanoparticulados contendo óleos essenciais utilizando como modelo o Caenorhabditis elegans. Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Avaliação do potencial antihelmíntico de sistemas nanoparticulados contendo óleos essenciais utilizando como modelo o Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "578030f8cd1070a4bd78acbb0ae8458af0857af0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8038397101672281\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Matteus Teixeira Guerra. Avaliação do potencial antihelmíntico de sistemas nanoparticulados contendo óleos essenciais utilizando como modelo o Caenorhabditis elegans.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível ",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Heloisa Aiolfi Padilha. AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans. Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bd183bd2914694fa597b906f2493ee99a03392d0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7491622207264343\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Heloisa Aiolfi Padilha. AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Super",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Maria Eduarda Oliveira de Souza. AVALIAÇÃO DA AÇÃO ANTITUMORAL DE COMPOSTOS CAROTENOIDES UTILIZANDO O NEMATOIDE Caenorhabditis elegans, COM EXPOSIÇÃO À LUZ UV OU ALTOS NÍVEIS DE COLESTROL. Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DA AÇÃO ANTITUMORAL DE COMPOSTOS CAROTENOIDES UTILIZANDO O NEMATOIDE Caenorhabditis elegans, COM EXPOSIÇÃO À LUZ UV OU ALTOS NÍVEIS DE COLESTROL",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4188a93a55e593106c4dc9c8a1b968968c22d56e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/0895923716688884\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Maria Eduarda Oliveira de Souza. AVALIAÇÃO DA AÇÃO ANTITUMORAL DE COMPOSTOS CAROTENOIDES UTILIZANDO O NEMATOIDE Caenorhabditis elegans, COM EXPOSIÇÃO À LUZ UV OU ALTOS NÍVEIS DE COLESTROL.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoament",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Danielle Agarrayua de Souza. Início: 2024. Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico.",
+      "autores": null,
+      "titulo": "Início: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b9a64becc36e1d6fe294ce5dc8d279164318956",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danielle Agarrayua de Souza.\n\t\t\t\t\tInício: 2024. Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 9,
+      "raw": "Tarsila da Rosa. Avaliação Farmacológica de compostos bioativos em modelos de doenças em C. elegans. Início: 2024 - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Avaliação Farmacológica de compostos bioativos em modelos de doenças em C",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8020d7e52027cb00feabab0429b4f5f05e16c99a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tarsila da Rosa. Avaliação Farmacológica de compostos bioativos em modelos de doenças em C. elegans. Início: 2024 - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "elegans. Início: 2024 - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Helena de Souza de Oliveira Barcelos. Avaliação da Segurança de nanoformulações de carbendazina e simazina em C. elegans. Início: 2024. Iniciação científica (Graduando em Farmácia) - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Avaliação da Segurança de nanoformulações de carbendazina e simazina em C",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cee4ba585bb400c3a4b26349ee3a129b6d4259de",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Helena de Souza de Oliveira Barcelos. Avaliação da Segurança de nanoformulações de carbendazina e simazina em C. elegans. Início: 2024. Iniciação científica (Graduando em Farmácia)  - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "elegans. Início: 2024. Iniciação científica (Graduando em Farmácia) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Heloisa Aiolfi Padilha. AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans.. 2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "41af0a4fb4c4657f83d395a596c902eca1e97b13",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7491622207264343\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Heloisa Aiolfi Padilha. AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DE EXTRATOS CANABINOIDES SOBRE MODELOS DE DISTÚRBIOS DO NEURODESENVOLVIMENTO EM Caenorhabditis elegans..\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Níve",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 17,
+      "raw": "Maria Eduarda de Souza. Avaliação da atividade antiproliferativa de compostos bioativos em Caenorhabditis elegans. 2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "Avaliação da atividade antiproliferativa de compostos bioativos em Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3e41a9b51ebf5548836016f17b72caf1595a7393",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/0895923716688884\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Maria Eduarda de Souza. Avaliação da atividade antiproliferativa de compostos bioativos em Caenorhabditis elegans.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila. <",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 18,
+      "raw": "Matteus Guerra Teixeira. Avaliação do potencial antihelmíntico da tujona utilizando como modelo o Caenorhabditis elegans. 2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "Avaliação do potencial antihelmíntico da tujona utilizando como modelo o Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8f942768887e2c0318a30aa9a5d323d7618f1824",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8038397101672281\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Matteus Guerra Teixeira. Avaliação do potencial antihelmíntico da tujona utilizando como modelo o Caenorhabditis elegans.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Á",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 36,
+      "raw": "Ana Thalita Gonçalves Soares. O PAPEL DO MANGANÊS NA MODULAÇÃO DE NEUROTRANSMISSORES E SEU IMPACTO NO DESENVOLVIMENTO DA POLIGLUTAMINA EM Caenorhabditis elegans MODELO PARA DOENÇA DE HUNTINGTON. 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "O PAPEL DO MANGANÊS NA MODULAÇÃO DE NEUROTRANSMISSORES E SEU IMPACTO NO DESENVOLVIMENTO DA POLIGLUTAMINA EM Caenorhabditis elegans MODELO PARA DOENÇA DE HUNTINGTON",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b44f204d9bf6f7c41f1d0930d1076614802a95c4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5161169877147982\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ana Thalita Gonçalves Soares.\n\t\t\t\t\t\tO PAPEL DO MANGANÊS NA MODULAÇÃO DE NEUROTRANSMISSORES E SEU IMPACTO NO DESENVOLVIMENTO DA POLIGLUTAMINA EM Caenorhabditis elegans MODELO PARA DOENÇA DE HUNTINGTON.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em BIOQUÍMICA)  - Universidade Federal do Pampa, Coordenação de Ape",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 37,
+      "raw": "Gabriel Pedroso Viçozzi. AVALIAÇÃO BIOLÓGICA DE ORGANOCALCOGÊNIOS EM Caenorhabditis elegans: UMA POSSÍVEL TERAPIA CONTRA A COVID-19. 2024. Tese (Doutorado em Ciências Biológicas (Bioquímica Toxicológica)) - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "AVALIAÇÃO BIOLÓGICA DE ORGANOCALCOGÊNIOS EM Caenorhabditis elegans: UMA POSSÍVEL TERAPIA CONTRA A COVID-19",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4a6b53100cfd286773aff64bfaacb4659a610dae",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8853338925361174\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Gabriel Pedroso Viçozzi.\n\t\t\t\t\t\tAVALIAÇÃO BIOLÓGICA DE ORGANOCALCOGÊNIOS EM Caenorhabditis elegans: UMA POSSÍVEL TERAPIA CONTRA A COVID-19.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Ciências Biológicas (Bioquímica Toxicológica))  - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamento de Pesso",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Tese (Doutorado em Ciências Biológicas (Bioquímica Toxicológica)) - Universidade Federal de Santa Maria"
+    },
+    {
+      "numero_item": 38,
+      "raw": "Flávia Suelen de Oliveira Pereira. EXTRATOS DE PITANGA ROXA (Eugenia uniflora) E Bougainvillea glabra Choisy ATENUAM FENÓTIPOS E MELHORAM A QUALIDADE DE VIDA NOS MODELOS DE HIPERPLASIA E AGREGAÇÃO DE β-AMILÓIDE EM Caenorhabditis elegans. 2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "EXTRATOS DE PITANGA ROXA (Eugenia uniflora) E Bougainvillea glabra Choisy ATENUAM FENÓTIPOS E MELHORAM A QUALIDADE DE VIDA NOS MODELOS DE HIPERPLASIA E AGREGAÇÃO DE β-AMILÓIDE EM Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9836c64c2931bdafa7c7a603cfc2d02ff3eace88",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3281791473310195\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Flávia Suelen de Oliveira Pereira.\n\t\t\t\t\t\tEXTRATOS DE PITANGA ROXA (Eugenia uniflora) E Bougainvillea glabra Choisy ATENUAM FENÓTIPOS E MELHORAM A QUALIDADE DE VIDA NOS MODELOS DE HIPERPLASIA E AGREGAÇÃO DE β-AMILÓIDE EM  Caenorhabditis elegans.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em BIOQUÍMICA)  - Unive",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Tese (Doutorado em BIOQUÍMICA) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 49,
+      "raw": "Julia de Souza Esteves. AVALIAÇÃO DA SEGURANÇA DA HARMINA E HARMALINA EM Caenorhabditis elegans. 2025. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DA SEGURANÇA DA HARMINA E HARMALINA EM Caenorhabditis elegans",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "149091681cf787f610676394e0c8d8633721c0b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia de Souza Esteves.\n\t\t\t\t\t\tAVALIAÇÃO DA SEGURANÇA DA HARMINA E HARMALINA EM  Caenorhabditis elegans.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Farmácia)  - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila"
+    },
+    {
+      "numero_item": 50,
+      "raw": "Daniel Balbé Nunes. Avaliação de segurança de nanopartículas de zeína e lignina contendo geraniol em Caenorhabditis elegans. 2024. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "Avaliação de segurança de nanopartículas de zeína e lignina contendo geraniol em Caenorhabditis elegans",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d451044026ea40499cc0437102bf5bbf30fd5aee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Daniel Balbé Nunes.\n\t\t\t\t\t\tAvaliação de segurança de nanopartículas de zeína e lignina contendo geraniol em Caenorhabditis elegans.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Farmácia)  - Universidade Federal do Pampa,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Daiana Silva de Ávila.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa"
+    },
+    {
+      "numero_item": 51,
+      "raw": "Daniel Balbé Nunes. EFEITOS DE NANOBIOINSETICIDAS CONTENDO GERANIOL EM Caenorhabditis elegans e Drosophila melanogaster. 2024. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila.",
+      "autores": null,
+      "titulo": "EFEITOS DE NANOBIOINSETICIDAS CONTENDO GERANIOL EM Caenorhabditis elegans e Drosophila melanogaster",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a2566f260ccf377923d7e70dcadcf40777418139",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Daniel Balbé Nunes.\n\t\t\t\t\t\tEFEITOS DE NANOBIOINSETICIDAS CONTENDO GERANIOL EM Caenorhabditis elegans e Drosophila melanogaster.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Farmácia)  - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "4355211015887363__daiana-silva-de-avila.full_profile.html",
+        "lattes_id": "4355211015887363",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:34.021643"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Farmácia) - Universidade Federal do Pampa. Orientador: Daiana Silva de Ávila"
+    }
+  ]
+}

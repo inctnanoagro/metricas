@@ -1,0 +1,1318 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "6739201176070287",
+    "full_name": "Giliardi Dalazen",
+    "slug": "giliardi-dalazen",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:39.107436",
+    "source_file": "6739201176070287__giliardi-dalazen.full_profile.html",
+    "total_productions": 70,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 41,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 3,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 1,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 25,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 0,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "FIRMANI, J. F. 2025 FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; BOVO, R. F. ; GOMES, D. G. ; OLIVEIRA, H. C. ; DALAZEN, G. . Addition of PROTOX inhibitors herbicides to glyphosate in the desiccation of Urochloa brizantha BRS -Piatã.. COLLOQUIUM AGRARIAE (UNOESTE) , v. 21, p. 1-17, 2025.",
+      "autores": "FIRMANI, J. F. FIRMANI, J. F.; SHIBAYAMA, L. J. K.; STEIDLE, J. E. C.; BOVO, R. F.; GOMES, D. G.; OLIVEIRA, H. C.; DALAZEN, G.",
+      "titulo": "Addition of PROTOX inhibitors herbicides to glyphosate in the desiccation of Urochloa brizantha BRS -Piatã",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5747/ca.2025.v21.a544",
+      "fingerprint_sha1": "4c0749f6dfabf8713701a2a58dfe4c563e98d68a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FIRMANI, J. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5747/ca.2025.v21.a544\" target=\"_blank\"></a>FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; BOVO, R. F. ; GOMES, D. G. ; OLIVEIRA, H. C. ; <",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "COLLOQUIUM AGRARIAE (UNOESTE)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "SANTOS, R. W. 2025 SANTOS, R. W. ; SCHUCK, A. H. ; GOLTZ, W. A. ; CRIZANTE, E. J. ; KREMER, M. A. S. ; DALAZEN, GILIARDI . Performance of herbicide mixtures and sequential application for benghal dayflower management. Weed Control Journal , v. 24, p. 1-7, 2025.",
+      "autores": "SANTOS, R. W. SANTOS, R. W.; SCHUCK, A. H.; GOLTZ, W. A.; CRIZANTE, E. J.; KREMER, M. A. S.; DALAZEN, GILIARDI",
+      "titulo": "Performance of herbicide mixtures and sequential application for benghal dayflower management",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.7824/wcj.2025;24:00880",
+      "fingerprint_sha1": "4b82b35d7d207fccd01989fd9a6ba4437c298169",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, R. W.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7824/wcj.2025;24:00880\" target=\"_blank\"></a>SANTOS, R. W. ; SCHUCK, A. H. ; GOLTZ, W. A. ; CRIZANTE, E. J. ; KREMER, M. A. S. ; <b>DALAZEN, GILIARDI</b",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "Weed Control Journal"
+    },
+    {
+      "numero_item": 3,
+      "raw": "BOVO, RUBIA 2025 BOVO, RUBIA ; FIRMANI, JOSÉ FLAVIO ; DE ALMEIDA ROSAS, MYRTIS ELOINA ; MEIRA VOLPATO, ANA KELY ; ENDÍ CONSANI STEIDLE, JOÃO ; KATSUITI SHIBAYAMA, LUAN JUNIOR ; SCHUCK, ARTHUR HENRIQUE ; ALBERTH GOLTZ, WILLY ; HIJANO, NERIANE ; DALAZEN, GILIARDI . Sequential Application Interval of Burndown Herbicides for Fluroxypyr in Horseweed (Conyza sp) Control. ENSAIOS E CIÊNCIA: CIÊNCIAS BIOLÓGICAS, AGRÁRIAS E DA SAÚDE , v. 29, p. 341-352, 2025.",
+      "autores": "BOVO, RUBIA BOVO, RUBIA; FIRMANI, JOSÉ FLAVIO; DE ALMEIDA ROSAS, MYRTIS ELOINA; MEIRA VOLPATO, ANA KELY; ENDÍ CONSANI STEIDLE, JOÃO; KATSUITI SHIBAYAMA, LUAN JUNIOR; SCHUCK, ARTHUR HENRIQUE; ALBERTH GOLTZ, WILLY; HIJANO, NERIANE; DALAZEN, GILIARDI",
+      "titulo": "Sequential Application Interval of Burndown Herbicides for Fluroxypyr in Horseweed (Conyza sp) Control",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.17921/1415-6938.2025v29n2p341-352",
+      "fingerprint_sha1": "dee9c5b13cb276255bb1a8262cbca78e4cef1e25",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BOVO, RUBIA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.17921/1415-6938.2025v29n2p341-352\" target=\"_blank\"></a>BOVO, RUBIA ; FIRMANI, JOSÉ FLAVIO ; DE ALMEIDA ROSAS, MYRTIS ELOINA ; MEIRA VOLPATO, ANA KELY ; E",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "ENSAIOS E CIÊNCIA: CIÊNCIAS BIOLÓGICAS"
+    },
+    {
+      "numero_item": 4,
+      "raw": "AMORIM, E. A. 2025 AMORIM, E. A. ; FIRMANI, JOSÉ FLAVIO ; GASQUE, G. H. ; CHIANG, A. ; DALAZEN, GILIARDI . Sensitivity of soybean cultivars to the mixture of sulfentrazone + diuron applied in pre-emergence. REVISTA DE AGRICULTURA NEOTROPICAL , v. 12, p. e9239, 2025.",
+      "autores": "AMORIM, E. A. AMORIM, E. A.; FIRMANI, JOSÉ FLAVIO; GASQUE, G. H.; CHIANG, A.; DALAZEN, GILIARDI",
+      "titulo": "Sensitivity of soybean cultivars to the mixture of sulfentrazone + diuron applied in pre-emergence",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.32404/rean.v12i3.9239",
+      "fingerprint_sha1": "eba83f2574bdb5b9c364ab4e4c5440521631f900",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">AMORIM, E. A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.32404/rean.v12i3.9239\" target=\"_blank\"></a>AMORIM, E. A. ; FIRMANI, JOSÉ FLAVIO ; GASQUE, G. H. ; CHIANG, A. ; <b>DALAZEN, GILIARDI</b> . Sensitivity o",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "REVISTA DE AGRICULTURA NEOTROPICAL"
+    },
+    {
+      "numero_item": 5,
+      "raw": "FIRMANI, J. F. 2025 FIRMANI, J. F. ; GASQUE, G. H. ; CHIANG, A. ; VOLPATO, A. K. M. ; OGIDO, J. P. M. ; BOVO, RUBIA ; OLIVEIRA, H. C. ; DALAZEN, GILIARDI . Glyphosate formulations containing different salts in the desiccation of Urochloa brizantha ?BRS Piatã?. SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE) , v. 46, p. 1085-1100, 2025.",
+      "autores": "FIRMANI, J. F. FIRMANI, J. F.; GASQUE, G. H.; CHIANG, A.; VOLPATO, A. K. M.; OGIDO, J. P. M.; BOVO, RUBIA; OLIVEIRA, H. C.; DALAZEN, GILIARDI",
+      "titulo": "Glyphosate formulations containing different salts in the desiccation of Urochloa brizantha ?BRS Piatã?",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5433/1679-0359.2025v46n4p1085",
+      "fingerprint_sha1": "860254f5b0e031962749fbf1ee6946f5886ef49c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FIRMANI, J. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5433/1679-0359.2025v46n4p1085\" target=\"_blank\"></a>FIRMANI, J. F. ; GASQUE, G. H. ; CHIANG, A. ; VOLPATO, A. K. M. ; OGIDO, J. P. M. ; BOVO, RUBIA ; O",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
+    },
+    {
+      "numero_item": 6,
+      "raw": "SOUSA, B. T. 2025 SOUSA, B. T. ; SILVA, B. H. ; INEZ, E. ; PEREIRA, A. E. S. ; OLIVEIRA, J. ; FRACETO, LEONARDO F ; DALAZEN, GILIARDI ; OLIVEIRA, H. C. . Leveraging Nanotechnology for Safer Herbicide Use: Insights from Maize Tolerance to Nanoencapsulated Atrazine. ACS Omega , v. 10, p. 38943-38954, 2025.",
+      "autores": "SOUSA, B. T. SOUSA, B. T.; SILVA, B. H.; INEZ, E.; PEREIRA, A. E. S.; OLIVEIRA, J.; FRACETO, LEONARDO F; DALAZEN, GILIARDI; OLIVEIRA, H. C.",
+      "titulo": "Leveraging Nanotechnology for Safer Herbicide Use: Insights from Maize Tolerance to Nanoencapsulated Atrazine",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.5c04949",
+      "fingerprint_sha1": "bdf86689a06dfa82b982238a6ed9356d97d1c6bb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOUSA, B. T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c04949\" target=\"_blank\"></a>SOUSA, B. T. ; SILVA, B. H. ; INEZ, E. ; PEREIRA, A. E. S. ; OLIVEIRA, J. ; FRACETO, LEONARDO F ; <b>DALAZEN,",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 7,
+      "raw": "SOUSA, BRUNO T. 2025 SOUSA, BRUNO T. ; CARVALHO, LUCAS B. ; PREISLER, ANA C. ; SARAIVA-SANTOS, TELMA ; OLIVEIRA, JHONES L. ; VERRI, WALDICEU A. ; DALAZEN, GILIARDI ; FRACETO, LEONARDO F. ; OLIVEIRA, HALLEY . Chitosan Coating as a Strategy to Increase Postemergent Herbicidal Efficiency and Alter the Interaction of Nanoatrazine with Bidens pilosa Plants. ACS Applied Materials & Interfaces , v. 17, p. 13122-13134, 2025.",
+      "autores": "SOUSA, BRUNO T. SOUSA, BRUNO T.; CARVALHO, LUCAS B.; PREISLER, ANA C.; SARAIVA-SANTOS, TELMA; OLIVEIRA, JHONES L.; VERRI, WALDICEU A.; DALAZEN, GILIARDI; FRACETO, LEONARDO F.; OLIVEIRA, HALLEY",
+      "titulo": "Chitosan Coating as a Strategy to Increase Postemergent Herbicidal Efficiency and Alter the Interaction of Nanoatrazine with Bidens pilosa Plants",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsami.4c03800",
+      "fingerprint_sha1": "6b5551ea4eaa4ae97510c811f2541b1f5e832c94",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOUSA, BRUNO T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsami.4c03800\" target=\"_blank\"></a>SOUSA, BRUNO T. ; CARVALHO, LUCAS B. ; PREISLER, ANA C. ; SARAIVA-SANTOS, TELMA ; OLIVEIRA, JHONES L. ; VERR",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "ACS Applied Materials & Interfaces"
+    },
+    {
+      "numero_item": 8,
+      "raw": "OLIVEIRA, G. M. P. 2024 OLIVEIRA, G. M. P. ; GOMES, D. G. ; DALAZEN, G. . Clethodim and photosystem inhibitors on sourgrass control as a function of application time. Revista Ciencia Agronomica , v. 55, p. e20228334, 2024.",
+      "autores": "OLIVEIRA, G. M. P. OLIVEIRA, G. M. P.; GOMES, D. G.; DALAZEN, G.",
+      "titulo": "Clethodim and photosystem inhibitors on sourgrass control as a function of application time",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5935/1806-6690.20240039",
+      "fingerprint_sha1": "c6b0775871bb5347f019815b28b52ecbb1d1966f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, G. M. P.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5935/1806-6690.20240039\" target=\"_blank\"></a>OLIVEIRA, G. M. P. ; GOMES, D. G. ; <b>DALAZEN, G.</b> . Clethodim and photosystem inhibitors on sour",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "Revista Ciencia Agronomica"
+    },
+    {
+      "numero_item": 9,
+      "raw": "CARNEIRO, RODRIGO PEREIRA 2024 CARNEIRO, RODRIGO PEREIRA ; GARCIA, LUIZ CLÁUDIO ; DALAZEN, GILIARDI ; GOMES, JAIME ALBERTI ; RAETANO, CARLOS GILBERTO ; BOLLER, WALTER . VARIATION OF GLYPHOSATE SPRAY VOLUME IN THE DRYING OF GROUND COVER PLANTS WITH AN UNMANNED AERIAL VEHICLE. CROP PROTECTION , v. 181, p. 106694, 2024.",
+      "autores": "CARNEIRO, RODRIGO PEREIRA CARNEIRO, RODRIGO PEREIRA; GARCIA, LUIZ CLÁUDIO; DALAZEN, GILIARDI; GOMES, JAIME ALBERTI; RAETANO, CARLOS GILBERTO; BOLLER, WALTER",
+      "titulo": "VARIATION OF GLYPHOSATE SPRAY VOLUME IN THE DRYING OF GROUND COVER PLANTS WITH AN UNMANNED AERIAL VEHICLE",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.cropro.2024.106694",
+      "fingerprint_sha1": "cf7159e54de3a3d47b5ddc1d6bbb887b3ab42085",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARNEIRO, RODRIGO PEREIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.cropro.2024.106694\" target=\"_blank\"></a>CARNEIRO, RODRIGO PEREIRA ; GARCIA, LUIZ CLÁUDIO ; <b>DALAZEN, GILIARDI</b> ; GOMES, JAIME A",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "CROP PROTECTION"
+    },
+    {
+      "numero_item": 10,
+      "raw": "PISONI, A. 2024 ; DALAZEN, GILIARDI ; GALLON, M. ; MARKUS, CATARINE ; MEROTTO JR, A. . Evaluation of postharvest age and dormancy-breaking methods on Echinochloa crus-galli seed germination. Bioscience Journal , v. 40, p. e40047, 2024.",
+      "autores": "PISONI, A.; DALAZEN, GILIARDI; GALLON, M.; MARKUS, CATARINE; MEROTTO JR, A.",
+      "titulo": "Evaluation of postharvest age and dormancy-breaking methods on Echinochloa crus-galli seed germination",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.14393/bj-v40n0a2024-62804",
+      "fingerprint_sha1": "38c92c8f95e984378354ae11ce4ce09b679358dc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PISONI, A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.14393/bj-v40n0a2024-62804\" target=\"_blank\"></a>PISONI, A. ; <b>DALAZEN, GILIARDI</b> ; GALLON, M. ; MARKUS, CATARINE ; MEROTTO JR, A. . Evaluation of post",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "Bioscience Journal"
+    },
+    {
+      "numero_item": 11,
+      "raw": "DALAZEN, G. 2024 ; FIRMANI, J. F. ; BOVO, R. F. ; OGIDO, J. P. M. ; GASQUE, G. H. ; CHIANG, A. . Association of quizalofop-P-tefuril to 2,4-D in hairy fleabane (Conyza bonariensis) control: is the antagonism reciprocal to that observed in sourgrass (Digitaria insularis)?. Brazilian Journal of Animal and Environmental Research , v. 7, p. e71558, 2024.",
+      "autores": "DALAZEN, G.; FIRMANI, J. F.; BOVO, R. F.; OGIDO, J. P. M.; GASQUE, G. H.; CHIANG, A.",
+      "titulo": "Association of quizalofop-P-tefuril to 2,4-D in hairy fleabane (Conyza bonariensis) control: is the antagonism reciprocal to that observed in sourgrass (Digitaria insularis)?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.34188/bjaerv7n3-032",
+      "fingerprint_sha1": "2bfd6d2d1337e4ad5e676c4938967f1c8d02baee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DALAZEN, G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.34188/bjaerv7n3-032\" target=\"_blank\"></a><b>DALAZEN, G.</b>; FIRMANI, J. F. ; BOVO, R. F. ; OGIDO, J. P. M. ; GASQUE, G. H. ; CHIANG, A. . Association of",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "Brazilian Journal of Animal and Environmental Research"
+    },
+    {
+      "numero_item": 12,
+      "raw": "GARCIA, V. V. 2024 GARCIA, V. V. ; SILVA, M. A. A. E. ; DALAZEN, GILIARDI . Effect of straw and rainfall on Amaranthus hybriduscontrol with Imazethapyr + Flumioxazin. SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE) , v. 45, p. 1579-1592, 2024.",
+      "autores": "GARCIA, V. V. GARCIA, V. V.; SILVA, M. A. A. E.; DALAZEN, GILIARDI",
+      "titulo": "Effect of straw and rainfall on Amaranthus hybriduscontrol with Imazethapyr + Flumioxazin",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5433/1679-0359.2024v45n5p1579",
+      "fingerprint_sha1": "58593e9ff73ab727984dbfe478ae4b10620d47e4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GARCIA, V. V.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5433/1679-0359.2024v45n5p1579\" target=\"_blank\"></a>GARCIA, V. V. ; SILVA, M. A. A. E. ; <b>DALAZEN, GILIARDI</b> . Effect of straw and rainfall on Amar",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "FIRMANI, J. F. 2024 FIRMANI, J. F. ; GASQUE, G. H. ; TAKAHASHI, C. N. ; FIRMANO, L. A. ; AMORIM, E. A. ; BOVO, R. F. ; DALAZEN, GILIARDI ; STOLF-MOREIRA, R. . ADDITION OF AMMONIUM SULFATE TO GLYPHOSATE IN THE DESICCATION OF Urochloa Brizantha CV. BRS PIATÃ. Weed Control Journal , v. 23, p. 1, 2024.",
+      "autores": "FIRMANI, J. F. FIRMANI, J. F.; GASQUE, G. H.; TAKAHASHI, C. N.; FIRMANO, L. A.; AMORIM, E. A.; BOVO, R. F.; DALAZEN, GILIARDI; STOLF-MOREIRA, R.",
+      "titulo": "ADDITION OF AMMONIUM SULFATE TO GLYPHOSATE IN THE DESICCATION OF Urochloa Brizantha CV",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.7824/rbh.v23i2.857",
+      "fingerprint_sha1": "35b85a8d3d32443b1b1cfd776fc9a19935e8a657",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FIRMANI, J. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7824/rbh.v23i2.857\" target=\"_blank\"></a>FIRMANI, J. F. ; GASQUE, G. H. ; TAKAHASHI, C. N. ; FIRMANO, L. A. ; AMORIM, E. A. ; BOVO, R. F. ; <b>DALAZEN,",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "BRS PIATÃ. Weed Control Journal"
+    },
+    {
+      "numero_item": 14,
+      "raw": "MELO, A. A. 2024 MELO, A. A. ; MARTINI, A. T. ; DALAZEN, GILIARDI ; GARCIA, L. C. ; BOLLER, WALTER . Uso de Drones na Agricultura. INFORMAÇÕES AGRONÔMICAS , v. 2024, p. 5-17, 2024.",
+      "autores": "MELO, A. A. MELO, A. A.; MARTINI, A. T.; DALAZEN, GILIARDI; GARCIA, L. C.; BOLLER, WALTER",
+      "titulo": "Uso de Drones na Agricultura",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5ff3cadc95a6ba1c2b3d55ebbade52d8efbced32",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MELO, A. A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>MELO, A. A. ; MARTINI, A. T. ; <b>DALAZEN, GILIARDI</b> ; GARCIA, L. C. ; BOLLER, WALTER . Uso de Drones na Agricultura. INFORMAÇÕES AGRONÔMICAS<sup><img class=\"ajaxJCR\" data-issn=\"23115904\" id=\"23115904_14\" src=\"/bu",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "INFORMAÇÕES AGRONÔMICAS"
+    },
+    {
+      "numero_item": 61,
+      "raw": "GIRALDELI, A. L. ; SILVA, A. F. M. ; OLIVEIRA, G. M. P. ; DALAZEN, G. . Herbicidas inibidores do fotossistema II e do fotossistema I. In: Cristiano Piasecki. (Org.). Modo de ação e sintomatologia: como funcionam os herbicidas da absorção aos efeitos tóxicos que controlam as plantas daninhas. 1ed.Santo Ângelo: Editora Metrics, 2024, v. , p. 189-214.",
+      "autores": "GIRALDELI, A. L.; SILVA, A. F. M.; OLIVEIRA, G. M. P.; DALAZEN, G.",
+      "titulo": "Herbicidas inibidores do fotossistema II e do fotossistema I",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4bb85f399dadf77fef012d9821986eca80ab49c1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GIRALDELI, A. L. ; SILVA, A. F. M. ; OLIVEIRA, G. M. P. ; <b>DALAZEN, G.</b> . Herbicidas inibidores do fotossistema II e do fotossistema I. In: Cristiano Piasecki. (Org.). Modo de ação e sintomatologia: como funcionam os herbicidas da absorção aos efeitos tóxicos que controlam as plantas daninhas. 1ed.Santo Ângelo: Editora Metrics, 2024, v. , p. 189-214. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "Cristiano Piasecki"
+    },
+    {
+      "numero_item": 62,
+      "raw": "DALAZEN, G. . Herbicidas disruptores da divisão celular, inibidores da biossíntese de ácidos graxos de cadeia muito longa (AGCML) e inibidores da biossíntese de celulose. In: Cristiano Piasecki. (Org.). Modo de ação e sintomatologia: como funcionam os herbicidas da absorção aos efeitos tóxicos que controlam as plantas daninhas. 1ed.Santo Ângelo: Editora Metrics, 2024, v. , p. 257-281.",
+      "autores": "DALAZEN, G.",
+      "titulo": "Herbicidas disruptores da divisão celular, inibidores da biossíntese de ácidos graxos de cadeia muito longa (AGCML) e inibidores da biossíntese de celulose",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b87cebeb03b3b7a495bb35f6ecd70a1c7286ac0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, G.</b>. Herbicidas disruptores da divisão celular, inibidores da biossíntese de ácidos graxos de cadeia muito longa (AGCML) e inibidores da biossíntese de celulose. In: Cristiano Piasecki. (Org.). Modo de ação e sintomatologia: como funcionam os herbicidas da absorção aos efeitos tóxicos que controlam as plantas daninhas. 1ed.Santo Ângelo: Editora Metrics, 2024, v. , p. 257-281. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "Cristiano Piasecki"
+    },
+    {
+      "numero_item": 63,
+      "raw": "DALAZEN, GILIARDI . Herbicidas inibidores do fotossistema II e do fotossistema I. In: Cristiano Piasecki. (Org.). MODO DE AÇÃO E SINTOMATOLOGIA: COMO FUNCIONAM OS HERBICIDAS: Da absorção aos efeitos tóxicos que controlam as plantas daninhas. 11ed.Santo Ângelo: Metrics, 2024, v. , p. 189-214.",
+      "autores": "DALAZEN, GILIARDI",
+      "titulo": "Herbicidas inibidores do fotossistema II e do fotossistema I",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5485a46a027334e0ed9cfba3b3a67b494b2c49ea",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, GILIARDI</b>. Herbicidas inibidores do fotossistema II e do fotossistema I. In: Cristiano Piasecki. (Org.). MODO DE AÇÃO E SINTOMATOLOGIA: COMO FUNCIONAM OS HERBICIDAS: Da absorção aos efeitos tóxicos que controlam as plantas daninhas. 11ed.Santo Ângelo: Metrics, 2024, v. , p. 189-214. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "Cristiano Piasecki"
+    },
+    {
+      "numero_item": 119,
+      "raw": "BOVO, R. F. ; FAGUNDES, D. F. V. ; AQUINO, L. T. ; CHIANG, A. ; STEIDLE, J. E. C. ; HIJANO, N. ; DALAZEN, G. . Associação de inibidores da PROTOX com mimetizadores de auxina no controle de vassourinha-de-botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "BOVO, R. F.; FAGUNDES, D. F. V.; AQUINO, L. T.; CHIANG, A.; STEIDLE, J. E. C.; HIJANO, N.; DALAZEN, G.",
+      "titulo": "Associação de inibidores da PROTOX com mimetizadores de auxina no controle de vassourinha-de-botão",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1758b04d4f3fa6dda7b0cf550d7edf0ad0c4d142",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BOVO, R. F. ; FAGUNDES, D. F. V. ; AQUINO, L. T. ; CHIANG, A. ; STEIDLE, J. E. C. ; HIJANO, N. ; <b>DALAZEN, G.</b> . Associação de inibidores da PROTOX com mimetizadores de auxina no controle  de vassourinha-de-botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 120,
+      "raw": "CHIANG, A. ; BOVO, R. F. ; FIRMANI, J. F. ; VOLPATO, A. K. M. ; OGIDO, J. P. M. ; GASQUE, G. H. ; DALAZEN, GILIARDI . Controle pós-emergente de Digitaria insularis em resposta a doses de imazetapir. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "CHIANG, A.; BOVO, R. F.; FIRMANI, J. F.; VOLPATO, A. K. M.; OGIDO, J. P. M.; GASQUE, G. H.; DALAZEN, GILIARDI",
+      "titulo": "Controle pós-emergente de Digitaria insularis em resposta a doses de imazetapir",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "db9ca671b024800909463f08687c0f2651120e9e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CHIANG, A. ; BOVO, R. F. ; FIRMANI, J. F. ; VOLPATO, A. K. M. ; OGIDO, J. P. M. ; GASQUE, G. H. ; <b>DALAZEN, GILIARDI</b> . Controle pós-emergente de Digitaria insularis em resposta a doses de imazetapir. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 121,
+      "raw": "SOUZA, B. L. ; PEREIRA, A. E. S. ; FRACETO, LEONARDO F ; BARDY, L. R. ; OLIVEIRA, H. C. ; DALAZEN, G. . Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "SOUZA, B. L.; PEREIRA, A. E. S.; FRACETO, LEONARDO F; BARDY, L. R.; OLIVEIRA, H. C.; DALAZEN, G.",
+      "titulo": "Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aa9c745c3b8379f72c28090ad2d663842b27b51f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUZA, B. L. ; PEREIRA, A. E. S. ; FRACETO, LEONARDO F ; BARDY, L. R. ; OLIVEIRA, H. C. ; <b>DALAZEN, G.</b> . Modo de ação de atrazina nanoencapsulada em plantas de Bidens pilosa. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 122,
+      "raw": "FIRMANI, J. F. ; VOLPATO, A. K. M. ; GASQUE, G. H. ; BARDY, L. R. ; DEBIASI, T. V. ; DALAZEN, GILIARDI ; OLIVEIRA, H. C. . Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "FIRMANI, J. F.; VOLPATO, A. K. M.; GASQUE, G. H.; BARDY, L. R.; DEBIASI, T. V.; DALAZEN, GILIARDI; OLIVEIRA, H. C.",
+      "titulo": "Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de botão",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e3b5827e491a48c5021df60544fdbdf55f622712",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; VOLPATO, A. K. M. ; GASQUE, G. H. ; BARDY, L. R. ; DEBIASI, T. V. ; <b>DALAZEN, GILIARDI</b> ; OLIVEIRA, H. C. . Mistura de glufosinato de amônio e saflufenacil no controle de vassourinha-de botão. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 123,
+      "raw": "BOVO, R. F. ; GASQUE, G. H. ; AZEVEDO, C. F. ; SHIBAYAMA, L. J. K. ; VOLPATO, A. K. M. ; HIJANO, N. ; DALAZEN, GILIARDI . Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e Digitaria insularis. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "BOVO, R. F.; GASQUE, G. H.; AZEVEDO, C. F.; SHIBAYAMA, L. J. K.; VOLPATO, A. K. M.; HIJANO, N.; DALAZEN, GILIARDI",
+      "titulo": "Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e Digitaria insularis",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "337239f49879ea65b90e3d87e2f7706bec22279a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BOVO, R. F. ; GASQUE, G. H. ; AZEVEDO, C. F. ; SHIBAYAMA, L. J. K. ; VOLPATO, A. K. M. ; HIJANO, N. ; <b>DALAZEN, GILIARDI</b> . Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e  Digitaria insularis. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 124,
+      "raw": "TOCHA, B. G. ; ROSAS, M. E. A. ; GOLTZ, W. A. ; SCHUCK, A. H. ; DALAZEN, GILIARDI . Eficiência de herbicidas auxínicos e de aplicações sequenciais no controle de buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "TOCHA, B. G.; ROSAS, M. E. A.; GOLTZ, W. A.; SCHUCK, A. H.; DALAZEN, GILIARDI",
+      "titulo": "Eficiência de herbicidas auxínicos e de aplicações sequenciais no controle de buva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1fe1ceada220a385744f40ee6a5aaf1adce4c664",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TOCHA, B. G. ; ROSAS, M. E. A. ; GOLTZ, W. A. ; SCHUCK, A. H. ; <b>DALAZEN, GILIARDI</b> . Eficiência de herbicidas auxínicos e de aplicações sequenciais no controle de  buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 125,
+      "raw": "VOLPATO, A. K. M. ; FIRMANI, J. F. ; AZEVEDO, C. F. ; BOVO, R. F. ; CHIANG, A. ; DALAZEN, GILIARDI . Sinergismo da adição de saflufenacil ao glufosinato de amônio no controle de buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "VOLPATO, A. K. M.; FIRMANI, J. F.; AZEVEDO, C. F.; BOVO, R. F.; CHIANG, A.; DALAZEN, GILIARDI",
+      "titulo": "Sinergismo da adição de saflufenacil ao glufosinato de amônio no controle de buva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d1e9e619445bf11546e236783fd20b8fd12fad4e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VOLPATO, A. K. M. ; FIRMANI, J. F. ; AZEVEDO, C. F. ; BOVO, R. F. ; CHIANG, A. ; <b>DALAZEN, GILIARDI</b> . Sinergismo da adição de saflufenacil ao glufosinato de amônio no controle de  buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 126,
+      "raw": "FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; OGIDO, J. P. M. ; GOMES, D. G. ; OLIVEIRA, H. C. ; DALAZEN, GILIARDI . Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa brizantha BRS 'Piatã'. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "FIRMANI, J. F.; SHIBAYAMA, L. J. K.; STEIDLE, J. E. C.; OGIDO, J. P. M.; GOMES, D. G.; OLIVEIRA, H. C.; DALAZEN, GILIARDI",
+      "titulo": "Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa brizantha BRS 'Piatã'",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "56592c82808c05c6b3f3cc96a082d640641c79f5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; SHIBAYAMA, L. J. K. ; STEIDLE, J. E. C. ; OGIDO, J. P. M. ; GOMES, D. G. ; OLIVEIRA, H. C. ; <b>DALAZEN, GILIARDI</b> . Adição de inibidores da PROTOX ao glifosato na dessecação de Urochloa  brizantha BRS 'Piatã'. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 127,
+      "raw": "OLIVEIRA, G. M. P. ; PARENTI, M. V. ; OLIVEIRA, L. C. A. ; SARTORI, J. P. ; DALAZEN, GILIARDI . Sensibilidade de híbridos de milho a atrazina e mesotrione em misturas em tanque e formuladas. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "OLIVEIRA, G. M. P.; PARENTI, M. V.; OLIVEIRA, L. C. A.; SARTORI, J. P.; DALAZEN, GILIARDI",
+      "titulo": "Sensibilidade de híbridos de milho a atrazina e mesotrione em misturas em tanque e formuladas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3a8fd639c04e571441f6fed138d3ae586a2a4ed1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, G. M. P. ; PARENTI, M. V. ; OLIVEIRA, L. C. A. ; SARTORI, J. P. ; <b>DALAZEN, GILIARDI</b> . Sensibilidade de híbridos de milho a atrazina e mesotrione em misturas em  tanque e formuladas. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 128,
+      "raw": "SOUSA, B. T. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, LEONARDO F ; DALAZEN, GILIARDI ; OLIVEIRA, H. C. . Respostas de tolerância de plantas de milho (Zea mays L.) a três formulações de atrazina nanoencapsulada. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "SOUSA, B. T.; PEREIRA, A. E. S.; OLIVEIRA, J. L.; FRACETO, LEONARDO F; DALAZEN, GILIARDI; OLIVEIRA, H. C.",
+      "titulo": "Respostas de tolerância de plantas de milho (Zea mays L",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8b0415756496a9403e2d7da4fd3735592bc7ab44",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUSA, B. T. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, LEONARDO F ; <b>DALAZEN, GILIARDI</b> ; OLIVEIRA, H. C. . Respostas de tolerância de plantas de milho (Zea mays L.) a três formulações de  atrazina nanoencapsulada. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 129,
+      "raw": "ROSAS, M. E. A. ; VERSCHOOR, C. ; CARMO, M. V. L. ; BOSKA, M. O. ; DALAZEN, GILIARDI . Efeito de 2,4-D em diferentes doses e épocas de aplicação na pré-semeadura da soja. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "ROSAS, M. E. A.; VERSCHOOR, C.; CARMO, M. V. L.; BOSKA, M. O.; DALAZEN, GILIARDI",
+      "titulo": "Efeito de 2,4-D em diferentes doses e épocas de aplicação na pré-semeadura da soja",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a310f2b124cfbc97e8e44dd9672f7d1de9491310",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROSAS, M. E. A. ; VERSCHOOR, C. ; CARMO, M. V. L. ; BOSKA, M. O. ; <b>DALAZEN, GILIARDI</b> . Efeito de 2,4-D em diferentes doses e épocas de aplicação na pré-semeadura da  soja. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 130,
+      "raw": "DALAZEN, GILIARDI ; FIRMANI, J. F. ; CAMPOS, ESTEFÂNIA VR ; OLIVEIRA, J. L. ; FRACETO, LEONARDO FERNANDES ; OLIVEIRA, H. C. . Nanoatrazina e atrazina convencional no controle pós-emergente de nabo (Raphanus sativus). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "DALAZEN, GILIARDI; FIRMANI, J. F.; CAMPOS, ESTEFÂNIA VR; OLIVEIRA, J. L.; FRACETO, LEONARDO FERNANDES; OLIVEIRA, H. C.",
+      "titulo": "Nanoatrazina e atrazina convencional no controle pós-emergente de nabo (Raphanus sativus)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1bb305fb7838ec0c6bca30cd6291db54b2b2cb56",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, GILIARDI</b>; FIRMANI, J. F. ; CAMPOS, ESTEFÂNIA VR ; OLIVEIRA, J. L. ; FRACETO, LEONARDO FERNANDES ; OLIVEIRA, H. C. . Nanoatrazina e atrazina convencional no controle pós-emergente de nabo  (Raphanus sativus). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 131,
+      "raw": "ROSAS, M. E. A. ; SCHUCK, A. H. ; GOLTZ, W. A. ; CARMO, M. V. L. ; BOVO, R. F. ; DALAZEN, GILIARDI . Manejo sequencial de buva: intervalos de aplicações e herbicidas de contato após a aplicação de fluroxipir-metílico. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "ROSAS, M. E. A.; SCHUCK, A. H.; GOLTZ, W. A.; CARMO, M. V. L.; BOVO, R. F.; DALAZEN, GILIARDI",
+      "titulo": "Manejo sequencial de buva: intervalos de aplicações e herbicidas de contato após a aplicação de fluroxipir-metílico",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bbb2bdda23c0f6bb87d344bdd368c691debc8e58",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROSAS, M. E. A. ; SCHUCK, A. H. ; GOLTZ, W. A. ; CARMO, M. V. L. ; BOVO, R. F. ; <b>DALAZEN, GILIARDI</b> . Manejo sequencial de buva: intervalos de aplicações e herbicidas de contato  após a aplicação de fluroxipir-metílico. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 132,
+      "raw": "SANTOS, R. W. ; SCHUCK, A. H. ; GOLTZ, W. A. ; MARCONDES, M. O. ; ROSAS, M. E. A. ; STAUDT, A. E. ; DALAZEN, GILIARDI . Herbicidas auxínicos e aplicações sequenciais no controle pós-emergente de trapoeraba (Commelina benghalensis L.). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "SANTOS, R. W.; SCHUCK, A. H.; GOLTZ, W. A.; MARCONDES, M. O.; ROSAS, M. E. A.; STAUDT, A. E.; DALAZEN, GILIARDI",
+      "titulo": "Herbicidas auxínicos e aplicações sequenciais no controle pós-emergente de trapoeraba (Commelina benghalensis L",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a9e9889101200b79472730506f2d324b03aefffa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS, R. W. ; SCHUCK, A. H. ; GOLTZ, W. A. ; MARCONDES, M. O. ; ROSAS, M. E. A. ; STAUDT, A. E. ; <b>DALAZEN, GILIARDI</b> . Herbicidas auxínicos e aplicações sequenciais no controle pós-emergente de  trapoeraba (Commelina benghalensis L.). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 133,
+      "raw": "GASQUE, G. H. ; OGIDO, J. P. M. ; CHIANG, A. ; STEIDLE, J. E. C. ; SHIBAYAMA, L. J. K. ; HIJANO, N. ; DALAZEN, GILIARDI . Eficácia de herbicidas pré-emergentes no controle de vassourinha-de-botão (Spermacoce verticillata). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "GASQUE, G. H.; OGIDO, J. P. M.; CHIANG, A.; STEIDLE, J. E. C.; SHIBAYAMA, L. J. K.; HIJANO, N.; DALAZEN, GILIARDI",
+      "titulo": "Eficácia de herbicidas pré-emergentes no controle de vassourinha-de-botão (Spermacoce verticillata)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "296ca7e0e24eb881f92d5e0c2884bbeeaeac51b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GASQUE, G. H. ; OGIDO, J. P. M. ; CHIANG, A. ; STEIDLE, J. E. C. ; SHIBAYAMA, L. J. K. ; HIJANO, N. ; <b>DALAZEN, GILIARDI</b> . Eficácia de herbicidas pré-emergentes no controle de vassourinha-de-botão  (Spermacoce verticillata). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 134,
+      "raw": "OGIDO, J. P. M. ; GASQUE, G. H. ; CHIANG, A. ; STEIDLE, J. E. C. ; SHIBAYAMA, L. J. K. ; HIJANO, N. ; DALAZEN, G. . Eficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha (Eleusine indica). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "OGIDO, J. P. M.; GASQUE, G. H.; CHIANG, A.; STEIDLE, J. E. C.; SHIBAYAMA, L. J. K.; HIJANO, N.; DALAZEN, G.",
+      "titulo": "Eficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha (Eleusine indica)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6e5d9b091ab3b93802db648be7c652a24f342362",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OGIDO, J. P. M. ; GASQUE, G. H. ; CHIANG, A. ; STEIDLE, J. E. C. ; SHIBAYAMA, L. J. K. ; HIJANO, N. ; <b>DALAZEN, G.</b> . Eficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha  (Eleusine indica). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 135,
+      "raw": "STEIDLE, J. E. C. ; FIRMANI, J. F. ; MARCOS, A. W. ; DOMINGUES, P. H. M. ; OGIDO, J. P. M. ; VOLPATO, A. K. M. ; DALAZEN, GILIARDI . Controle pré-emergente de picão-preto em resposta à atrazina e terbutilazina. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "STEIDLE, J. E. C.; FIRMANI, J. F.; MARCOS, A. W.; DOMINGUES, P. H. M.; OGIDO, J. P. M.; VOLPATO, A. K. M.; DALAZEN, GILIARDI",
+      "titulo": "Controle pré-emergente de picão-preto em resposta à atrazina e terbutilazina",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1c2ed843df12586b2a3390263502099a1ab4adac",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">STEIDLE, J. E. C. ; FIRMANI, J. F. ; MARCOS, A. W. ; DOMINGUES, P. H. M. ; OGIDO, J. P. M. ; VOLPATO, A. K. M. ; <b>DALAZEN, GILIARDI</b> . Controle pré-emergente de picão-preto em resposta à atrazina e terbutilazina. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 136,
+      "raw": "SCHUCK, A. H. ; GOLTZ, W. A. ; QUADROS, J. P. ; FIELKA, G. ; SANTOS, R. W. ; KANAYAMA, D. T. ; GAZZIERO, D. L. P. ; DALAZEN, GILIARDI . Controle de plantas daninhas no milho com atrazina e terbutilazina aplicadas em diferentes momentos. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "SCHUCK, A. H.; GOLTZ, W. A.; QUADROS, J. P.; FIELKA, G.; SANTOS, R. W.; KANAYAMA, D. T.; GAZZIERO, D. L. P.; DALAZEN, GILIARDI",
+      "titulo": "Controle de plantas daninhas no milho com atrazina e terbutilazina aplicadas em diferentes momentos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e06bcb1ff794b520c6f1c8eac6e0916cdd808b4f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SCHUCK, A. H. ; GOLTZ, W. A. ; QUADROS, J. P. ; FIELKA, G. ; SANTOS, R. W. ; KANAYAMA, D. T. ; GAZZIERO, D. L. P. ; <b>DALAZEN, GILIARDI</b> . Controle de plantas daninhas no milho com atrazina e terbutilazina aplicadas  em diferentes momentos. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 137,
+      "raw": "GOLTZ, W. A. ; SCHUCK, A. H. ; KANAYAMA, D. T. ; FIELKA, G. ; DALAZEN, GILIARDI . Eficiência de herbicidas pré-emergentes no controle de azevém na cultura do trigo. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "GOLTZ, W. A.; SCHUCK, A. H.; KANAYAMA, D. T.; FIELKA, G.; DALAZEN, GILIARDI",
+      "titulo": "Eficiência de herbicidas pré-emergentes no controle de azevém na cultura do trigo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fa6dde2d30661181d48683b0770b7cfd960851b8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GOLTZ, W. A. ; SCHUCK, A. H. ; KANAYAMA, D. T. ; FIELKA, G. ; <b>DALAZEN, GILIARDI</b> . Eficiência de herbicidas pré-emergentes no controle de azevém na cultura do  trigo. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 138,
+      "raw": "FIELKA, G. ; KANAYAMA, D. T. ; TOCHA, B. G. ; ROSAS, M. E. A. ; DALAZEN, GILIARDI ; GARCIA, L. C. . Volumes de calda na pulverização de glufosinato de amônio com veículo aéreo não-tripulado para o controle de buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "FIELKA, G.; KANAYAMA, D. T.; TOCHA, B. G.; ROSAS, M. E. A.; DALAZEN, GILIARDI; GARCIA, L. C.",
+      "titulo": "Volumes de calda na pulverização de glufosinato de amônio com veículo aéreo não-tripulado para o controle de buva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "28e7589480e11db20806debc48813471bb69ccb4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIELKA, G. ; KANAYAMA, D. T. ; TOCHA, B. G. ; ROSAS, M. E. A. ; <b>DALAZEN, GILIARDI</b> ; GARCIA, L. C. . Volumes de calda na pulverização de glufosinato de amônio com veículo aéreo  não-tripulado para o controle de buva. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 139,
+      "raw": "KANAYAMA, D. T. ; FIELKA, G. ; GOLTZ, W. A. ; SCHUCK, A. H. ; DALAZEN, GILIARDI ; GARCIA, L. C. . Volumes de calda e doses de glufosinato de amônio na aplicação terrestre para o controle da buva (Conyza spp.). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "KANAYAMA, D. T.; FIELKA, G.; GOLTZ, W. A.; SCHUCK, A. H.; DALAZEN, GILIARDI; GARCIA, L. C.",
+      "titulo": "Volumes de calda e doses de glufosinato de amônio na aplicação terrestre para o controle da buva (Conyza spp",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8980ac826ab48ef5670adf9c5dd728e0fc95cf6c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">KANAYAMA, D. T. ; FIELKA, G. ; GOLTZ, W. A. ; SCHUCK, A. H. ; <b>DALAZEN, GILIARDI</b> ; GARCIA, L. C. . Volumes de calda e doses de glufosinato de amônio na aplicação terrestre para o  controle da buva (Conyza spp.). In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 140,
+      "raw": "FIRMANI, J. F. ; BOVO, R. F. ; SOUZA, B. L. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; DALAZEN, GILIARDI ; OLIVEIRA, H. C. . Combinação de atrazina convencional e nanoencapsulada no controle de Conyza spp.. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024.",
+      "autores": "FIRMANI, J. F.; BOVO, R. F.; SOUZA, B. L.; PEREIRA, A. E. S.; FRACETO, L. F.; DALAZEN, GILIARDI; OLIVEIRA, H. C.",
+      "titulo": "Combinação de atrazina convencional e nanoencapsulada no controle de Conyza spp",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "87015fdeadf68043a17296485feb7c70e0527fe1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIRMANI, J. F. ; BOVO, R. F. ; SOUZA, B. L. ; PEREIRA, A. E. S. ; FRACETO, L. F. ; <b>DALAZEN, GILIARDI</b> ; OLIVEIRA, H. C. . Combinação de atrazina convencional e nanoencapsulada no controle de Conyza  spp.. In: XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas, 2024, Campinas. Anais XXXIII CBCPD, 2024. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas"
+    },
+    {
+      "numero_item": 226,
+      "raw": "DALAZEN, GILIARDI . O Futuro no Manejo das Plantas Daninhas. 2024. (Apresentação de Trabalho/Simpósio).",
+      "autores": "DALAZEN, GILIARDI",
+      "titulo": "O Futuro no Manejo das Plantas Daninhas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "751b770bda2146658eaafac616caa8a40be1d328",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, GILIARDI</b>. O Futuro no Manejo das  Plantas Daninhas. 2024. (Apresentação de Trabalho/Simpósio). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Simpósio)"
+    },
+    {
+      "numero_item": 227,
+      "raw": "DALAZEN, GILIARDI . O Futuro do Controle de Plantas Daninhas. 2024. (Apresentação de Trabalho/Seminário).",
+      "autores": "DALAZEN, GILIARDI",
+      "titulo": "O Futuro do Controle de Plantas Daninhas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "282953c826a790ff486e589c522ddb504d997602",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, GILIARDI</b>. O Futuro do Controle de Plantas Daninhas. 2024. (Apresentação de Trabalho/Seminário). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:39.071943"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Seminário)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "DALAZEN, GILIARDI ; ZUCARELI, C.; HIJANO, N.. Participação em banca de Rafael Berta. Eficiência e seletividade de herbicidas pré-emergentes no controle de plantas daninhas na cultura da soja.. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina.",
+      "autores": "DALAZEN, GILIARDI; ZUCARELI, C.; HIJANO, N.. Participação em banca de Rafael Berta. Eficiência e seletividade de herbicidas pré-emergentes no controle de plantas daninhas na cultura da soja.. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina",
+      "titulo": "Participação em banca de Rafael Berta",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5b39b451455328fc091e9ff695d6ac6029c2e0b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DALAZEN, GILIARDI</b>; ZUCARELI, C.; HIJANO, N..  Participação em banca de Rafael Berta. Eficiência e seletividade de herbicidas pré-emergentes no controle de plantas daninhas na cultura da soja.. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:39.088105"
+      },
+      "veiculo": "Eficiência e seletividade de herbicidas pré-emergentes no controle de plantas daninhas na cultura da soja.. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 4,
+      "raw": "PRIA, M. D.; LANGE, R. R. M.; DALAZEN, GILIARDI . Participação em banca de Henrique Luis da Silva. DESEMPENHO AGRONÔMICO DE DIFERENTES CATEGORIAS DE SEMENTES COMPARADAS À UTILIZAÇÃO DE ?GRÃOS? EM LAVOURAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia) - Universidade Estadual de Ponta Grossa.",
+      "autores": "PRIA, M. D.; LANGE, R. R. M.; DALAZEN, GILIARDI",
+      "titulo": "Participação em banca de Henrique Luis da Silva",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2ff545fdb7057874dba89b5a4ec2b39df929031d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PRIA, M. D.; LANGE, R. R. M.; <b>DALAZEN, GILIARDI</b>.  Participação em banca de Henrique Luis da Silva. DESEMPENHO AGRONÔMICO DE DIFERENTES CATEGORIAS DE SEMENTES COMPARADAS À UTILIZAÇÃO DE ?GRÃOS? EM LAVOURAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia)  - Universidade Estadual de Ponta Grossa. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:39.088105"
+      },
+      "veiculo": "DESEMPENHO AGRONÔMICO DE DIFERENTES CATEGORIAS DE SEMENTES COMPARADAS À UTILIZAÇÃO DE ?GRÃOS? EM LAVOURAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 5,
+      "raw": "PRIA, M. D.; LANGE, R. R. M.; DALAZEN, GILIARDI . Participação em banca de Pâmela Vanessa Scortegagna. INDUÇÃO DE RESISTÊNCIA À MANCHA ANGULAR EM PLANTAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia) - Universidade Estadual de Ponta Grossa.",
+      "autores": "PRIA, M. D.; LANGE, R. R. M.; DALAZEN, GILIARDI",
+      "titulo": "Participação em banca de Pâmela Vanessa Scortegagna",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "156224b47d7d36bfcdddf15f16d4af72909298cc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PRIA, M. D.; LANGE, R. R. M.; <b>DALAZEN, GILIARDI</b>.  Participação em banca de Pâmela Vanessa Scortegagna. INDUÇÃO DE RESISTÊNCIA À MANCHA ANGULAR EM PLANTAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia)  - Universidade Estadual de Ponta Grossa. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:39.088105"
+      },
+      "veiculo": "INDUÇÃO DE RESISTÊNCIA À MANCHA ANGULAR EM PLANTAS DE FEIJÃO. 2025. Exame de qualificação (Doutorando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 9,
+      "raw": "OHSE, S. ; DALAZEN, GILIARDI . Acolhida ao calouro de Agronomia - 2024. 2024. (Outro).",
+      "autores": "OHSE, S.; DALAZEN, GILIARDI",
+      "titulo": "Acolhida ao calouro de Agronomia - 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "22d00031066760cc33f62086ee7d26d74a5f8a0d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OHSE, S. ; <b>DALAZEN, GILIARDI</b> . Acolhida ao calouro de Agronomia - 2024. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:39.093241"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Vitor Hugo Pires Cardoso. Seletividade de Clomazone e Fomesafen para as culturas de soja e milho, quando aplicados em diferentes épocas da cultura da soja. Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "Seletividade de Clomazone e Fomesafen para as culturas de soja e milho, quando aplicados em diferentes épocas da cultura da soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ebd757e865b0a86c6ddb3e71acdf96ab0ed3d4a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vitor Hugo Pires Cardoso. Seletividade de Clomazone e Fomesafen para as culturas de soja e milho, quando aplicados em diferentes épocas da cultura da soja.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Grabriel Fielka. Associação de herbicidas de glufosinato e inibidores de PROTOX no controle de plantas daninhas. Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Ponta Grossa. (Orientador).",
+      "autores": null,
+      "titulo": "Associação de herbicidas de glufosinato e inibidores de PROTOX no controle de plantas daninhas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3caa317b573aad0a2fef08f4849b672e9caa873e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Grabriel Fielka. Associação de herbicidas de glufosinato e inibidores de PROTOX no controle de plantas daninhas.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Agronomia)  - Universidade Estadual de Ponta Grossa. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Ponta Grossa. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Myrtis Rosas Vershoor. Efeito de palhada e herbicidas pré-emergentes no manejo de plantas daninhas. Início: 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Ponta Grossa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Efeito de palhada e herbicidas pré-emergentes no manejo de plantas daninhas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0596167b86850332711d769167eabab4f24c7014",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Myrtis Rosas Vershoor. Efeito de palhada e herbicidas pré-emergentes no manejo de plantas daninhas.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado em Agronomia)  - Universidade Estadual de Ponta Grossa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Rafael de Souza Luiz. ESTUDOS PRELIMINARES SOBRE O CAPIM-PÉ-DE-GALINHA (Eleusine indica) POSSIVELMENTE RESISTENTE AO GLUFOSINATE. Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina. (Orientador).",
+      "autores": null,
+      "titulo": "ESTUDOS PRELIMINARES SOBRE O CAPIM-PÉ-DE-GALINHA (Eleusine indica) POSSIVELMENTE RESISTENTE AO GLUFOSINATE",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ec716a13eb5e7436c92563fc9b7c7ecd657fb7eb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael de Souza Luiz. ESTUDOS PRELIMINARES SOBRE O CAPIM-PÉ-DE-GALINHA (Eleusine indica) POSSIVELMENTE RESISTENTE AO GLUFOSINATE.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "José Flávio Firmani. Atrazina e terbutilazina: seletividade para culturas e controle pré e pós-emergente de plantas daninhas. Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Atrazina e terbutilazina: seletividade para culturas e controle pré e pós-emergente de plantas daninhas",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "18a6ab12e4d352a80489b8961ff97b80e0b0e5ba",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">José Flávio Firmani. Atrazina e terbutilazina: seletividade para culturas e controle pré e pós-emergente de plantas daninhas.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MARÍLIA APARECIDA STROKA KREMER. INVESTIGAÇÃO DE MECANISMOS DE RESISTÊNCIA NÃO RELACIONADOS AO LOCAL ALVO EM CRAVORANA (Ambrosia artemisiifolia L.) RESISTENTE AO GLIFOSATO. Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Ponta Grossa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "INVESTIGAÇÃO DE MECANISMOS DE RESISTÊNCIA NÃO RELACIONADOS AO LOCAL ALVO EM CRAVORANA (Ambrosia artemisiifolia L",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7d0dfa679714cdccefee7e663cca0a2c0361a13b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MARÍLIA APARECIDA STROKA KREMER. INVESTIGAÇÃO DE MECANISMOS DE RESISTÊNCIA NÃO RELACIONADOS AO LOCAL ALVO EM CRAVORANA (Ambrosia artemisiifolia L.) RESISTENTE AO GLIFOSATO.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Ponta Grossa, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": ") RESISTENTE AO GLIFOSATO. Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 9,
+      "raw": "ANA EDUARDA STAUDT. POTENCIAL DE SUBSTITUIÇÃO DE ATRAZINA POR TERBUTILAZINA PARA O CONTROLE DE PLANTAS DANINHAS NA CULTURA DO MILHO. Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa, PIBIC/UEPG. (Orientador).",
+      "autores": null,
+      "titulo": "POTENCIAL DE SUBSTITUIÇÃO DE ATRAZINA POR TERBUTILAZINA PARA O CONTROLE DE PLANTAS DANINHAS NA CULTURA DO MILHO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cd1155c1f75f7beb36715e3c0888972351fad09b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ANA EDUARDA STAUDT. POTENCIAL DE SUBSTITUIÇÃO DE ATRAZINA POR TERBUTILAZINA PARA O CONTROLE DE PLANTAS DANINHAS NA CULTURA DO MILHO. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Ponta Grossa, PIBIC/UEPG. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 10,
+      "raw": "MAYARA VERONICA LEMES DO CARMO. EFEITO DA PALHADA E DE PRECIPITAÇÃO PLUVIOMÉTROCA NA DINÂMICA DE HERBICIDAS PRÉ-EMERGENTES PARA O CONTROLE DE AZEVÉM. Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "EFEITO DA PALHADA E DE PRECIPITAÇÃO PLUVIOMÉTROCA NA DINÂMICA DE HERBICIDAS PRÉ-EMERGENTES PARA O CONTROLE DE AZEVÉM",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "db0fa7d94ba3a0846cf0d5d048b3155327d9b163",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MAYARA VERONICA LEMES DO CARMO. EFEITO DA PALHADA E DE PRECIPITAÇÃO PLUVIOMÉTROCA NA DINÂMICA DE HERBICIDAS PRÉ-EMERGENTES PARA O CONTROLE DE AZEVÉM. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Eduardo Jorge Crizante. AVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA NO CONTROLE DE PLANTAS DANINHAS E SELETIVIDADE SOBRE MILHO. Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA NO CONTROLE DE PLANTAS DANINHAS E SELETIVIDADE SOBRE MILHO",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "14230652fa1bffeac3e2785bb45cb0d6d7195140",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eduardo Jorge Crizante. AVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA NO CONTROLE DE PLANTAS DANINHAS E SELETIVIDADE SOBRE MILHO. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 12,
+      "raw": "EVERTON FELIPE MAYER. CONTROLE DE PLANTAS DANINHAS NO MILHO COM ATRAZINA E TERBUTILAZINA APLICADAS EM DIFERENTES MOMENTOS. Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa, Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "CONTROLE DE PLANTAS DANINHAS NO MILHO COM ATRAZINA E TERBUTILAZINA APLICADAS EM DIFERENTES MOMENTOS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "00904ba2c9ae02ead78b58ebad4f3ab5a0fd0cdf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">EVERTON FELIPE MAYER. CONTROLE DE PLANTAS DANINHAS NO MILHO COM ATRAZINA E TERBUTILAZINA APLICADAS EM DIFERENTES MOMENTOS. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Ponta Grossa, Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 13,
+      "raw": "Gabriel Aires. CONTROLE PRÉ-EMERGENTE DE PLANTAS DANINHAS NA CULTURA DA SOJA POR MEIO DA UTILIZAÇÃO DE MISTURAS DE HERBICIDAS. Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnologógico. (Orientador).",
+      "autores": null,
+      "titulo": "CONTROLE PRÉ-EMERGENTE DE PLANTAS DANINHAS NA CULTURA DA SOJA POR MEIO DA UTILIZAÇÃO DE MISTURAS DE HERBICIDAS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0bd25c1b6a5ad67daa38b8416ae4b531cb4baa16",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Aires. CONTROLE PRÉ-EMERGENTE DE PLANTAS DANINHAS NA CULTURA DA SOJA POR MEIO DA UTILIZAÇÃO DE MISTURAS DE HERBICIDAS. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Ponta Grossa, Conselho Nacional de Desenvolvimento Científico e Tecnologógico. (Orientador). </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Ponta Grossa"
+    },
+    {
+      "numero_item": 14,
+      "raw": "Rubia Fernanda Bovo. Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e Digitaria insularis. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e Digitaria insularis",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3ba2892b0ef0940ee12326013875bcbc588503d0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8510070715327233\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Rubia Fernanda Bovo. Associação de herbicidas auxínicos ao cletodim no controle de Eleusine indica e  Digitaria insularis.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Giliardi Dala",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 15,
+      "raw": "João Pedro Mariano Ogido. Monitoramento de resistência e estratégias de controle de Eleusine indica. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Monitoramento de resistência e estratégias de controle de Eleusine indica",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f29e7213821017b1748abd79663ade66eff791b9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">João Pedro Mariano Ogido. Monitoramento de resistência e estratégias de controle de Eleusine indica.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Giliardi Dalazen. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 16,
+      "raw": "José Flávio Firmani. COMBINAÇÃO DE ATRAZINA NANOENCAPSULADA E CONVENCIONAL: SELETIVIDADE PARA Zea mays L. E CONTROLE PÓS-EMERGENTE DE Raphanus sativus L. E Conyza bonariensis CRONQUIST. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "COMBINAÇÃO DE ATRAZINA NANOENCAPSULADA E CONVENCIONAL: SELETIVIDADE PARA Zea mays L",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "333e6bbd547a8dba6adaeb659991a0199ca4046d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">José Flávio Firmani. COMBINAÇÃO DE ATRAZINA NANOENCAPSULADA E CONVENCIONAL: SELETIVIDADE PARA Zea mays L. E CONTROLE PÓS-EMERGENTE DE Raphanus sativus L. E Conyza bonariensis CRONQUIST.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Giliardi Dalazen. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "E CONTROLE PÓS-EMERGENTE DE Raphanus sativus L. E Conyza bonariensis CRONQUIST. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 17,
+      "raw": "Rafael Berta. EFICIÊNCIA DE PRÉ-EMERGENTES NO CONTROLE DE Amaranthus hybridus NA CULTURA DA SOJA. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, . Orientador: Giliardi Dalazen.",
+      "autores": "Rafael Berta. EFICIÊNCIA DE PRÉ-EMERGENTES NO CONTROLE DE Amaranthus hybridus NA CULTURA DA SOJA.. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina,",
+      "titulo": "Orientador: Giliardi Dalazen",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b086a50b81ecb56bf7ce21d579b1958f9abe68cc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1819966767070199\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Rafael Berta. EFICIÊNCIA DE PRÉ-EMERGENTES NO CONTROLE DE Amaranthus hybridus NA CULTURA DA SOJA.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, . Orientador: Giliardi Dalazen. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      }
+    },
+    {
+      "numero_item": 21,
+      "raw": "Bruno Teixeira de Sousa. MODO DE AÇÃO DE NANOATRAZINA EM PLANTAS DE MILHO E DANINHAS SUSCETÍVEIS E TOLERANTES AO HERBICIDA. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "MODO DE AÇÃO DE NANOATRAZINA EM PLANTAS DE MILHO E DANINHAS SUSCETÍVEIS E TOLERANTES AO HERBICIDA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a36cbd5083dec2679bd37cab2415e960bca041a4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruno Teixeira de Sousa.\n\t\t\t\t\t\tMODO DE AÇÃO DE NANOATRAZINA EM PLANTAS DE MILHO E DANINHAS SUSCETÍVEIS E TOLERANTES AO  HERBICIDA.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Giliardi Dalazen. </span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 24,
+      "raw": "Gabriel Aires. CONTROLE DE PLANTAS DANINHAS EM RESPOSTA AO USO DE HERBICIDAS PRÉ-EMERGENTES NA CULTURA DA SOJA. 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina, PIBIC/UEPG. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "CONTROLE DE PLANTAS DANINHAS EM RESPOSTA AO USO DE HERBICIDAS PRÉ-EMERGENTES NA CULTURA DA SOJA",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "14cbfba8205787178538cf874c5d30fe0508e77f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Aires.\n\t\t\t\t\t\tCONTROLE DE PLANTAS DANINHAS EM RESPOSTA AO USO DE HERBICIDAS PRÉ-EMERGENTES NA CULTURA DA SOJA.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tPIBIC/UEPG. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 25,
+      "raw": "MARCELO ANGELI HALAT KILLAR. EFICIÊNCIA DE HERBICIDAS PÓS-EMERGENTES PARA O CONTROLE DE NABIÇA E SELETIVIDADE NA CULTURA DO TRIGO. 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "EFICIÊNCIA DE HERBICIDAS PÓS-EMERGENTES PARA O CONTROLE DE NABIÇA E SELETIVIDADE NA CULTURA DO TRIGO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "244e36ab1eb00d827bb3b2cd0eaa4a1f386a6ae5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MARCELO ANGELI HALAT KILLAR.\n\t\t\t\t\t\tEFICIÊNCIA DE HERBICIDAS PÓS-EMERGENTES PARA O CONTROLE DE NABIÇA E SELETIVIDADE NA CULTURA DO TRIGO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 26,
+      "raw": "Eduardo Jorge Crizante. AVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA EM COMPARAÇÃO COM ATRAZINA E TERBUTILAZINA NO CONTROLE DE TRAPOERABA E SELETIVIDADE SOBRE MILHO. 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina, PIBITI/UEPG. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "AVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA EM COMPARAÇÃO COM ATRAZINA E TERBUTILAZINA NO CONTROLE DE TRAPOERABA E SELETIVIDADE SOBRE MILHO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c83e063b3a16a044b37a5665917a9e79004bad0e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eduardo Jorge Crizante.\n\t\t\t\t\t\tAVALIAÇÃO DE NANOFORMULAÇÃO DE ATRAZINA EM COMPARAÇÃO COM ATRAZINA E TERBUTILAZINA NO CONTROLE DE TRAPOERABA E SELETIVIDADE SOBRE MILHO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tPIBITI/UEPG. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina"
+    },
+    {
+      "numero_item": 27,
+      "raw": "ARTHUR HENRIQUE SCHUCK. Controle de plantas daninhasno milho com atrazina e terbutilazina aplicadas em diferentes momentos. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Controle de plantas daninhasno milho com atrazina e terbutilazina aplicadas em diferentes momentos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3df27980fdc675ade63c6b9788b831a7dd027734",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARTHUR HENRIQUE SCHUCK.\n\t\t\t\t\t\tControle de plantas daninhasno milho com atrazina e terbutilazina aplicadas em diferentes momentos.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 28,
+      "raw": "JOAO PAULO ROSAS NADAL. Eficácia de herbicidas em pós-emergência na cultura do milho. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Eficácia de herbicidas em pós-emergência na cultura do milho",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "81dcf45b57afb77e805191dc6347430818b98783",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JOAO PAULO ROSAS NADAL.\n\t\t\t\t\t\tEficácia de herbicidas em pós-emergência na cultura do milho.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 29,
+      "raw": "LUIS FELIPE BATISTA. Seletividade de herbicidas pós-emergentes na cultura do trigo. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Seletividade de herbicidas pós-emergentes na cultura do trigo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "14df1778805f515b5436d5b363e3e604db631d82",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LUIS FELIPE BATISTA.\n\t\t\t\t\t\tSeletividade de herbicidas pós-emergentes na cultura do trigo.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 30,
+      "raw": "RICHARD WILLIAN DOS SANTOS. Eficiência de herbicidas em misturas e aplicações sequenciais no controle de trapoeraba (Commelina benghalensis). 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Eficiência de herbicidas em misturas e aplicações sequenciais no controle de trapoeraba (Commelina benghalensis)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "986b86cadfccb6bf7993d80c240bdb2db4d0d7c8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RICHARD WILLIAN DOS SANTOS.\n\t\t\t\t\t\tEficiência de herbicidas em misturas e aplicações sequenciais no controle de trapoeraba (Commelina benghalensis).\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 31,
+      "raw": "WILLY ALBERTH GOLTZ. Eficiência de herbicidas pré-emergentes no controle de azevém na cultura do trigo. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Eficiência de herbicidas pré-emergentes no controle de azevém na cultura do trigo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e0fb270116229577eda3ceee80961d8d3fa2c634",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">WILLY ALBERTH GOLTZ.\n\t\t\t\t\t\tEficiência de herbicidas pré-emergentes no controle de azevém na cultura do trigo.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Ponta Grossa. Orientador: Giliardi Dalazen"
+    },
+    {
+      "numero_item": 32,
+      "raw": "Gustavo Henrique Gasque. Eficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen.",
+      "autores": null,
+      "titulo": "Eficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "07784e1bfd41f136a654384cc8e77c9dd13326a2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gustavo Henrique Gasque.\n\t\t\t\t\t\tEficácia de herbicidas pré-emergentes no controle de capim-pé-de-galinha.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "6739201176070287__giliardi-dalazen.full_profile.html",
+        "lattes_id": "6739201176070287",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:39.100834"
+      },
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Giliardi Dalazen"
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "3399995941990393",
+    "full_name": "Hudson Wallace Pereira de Carvalho",
+    "slug": "hudson-wallace-pereira-de-carvalho",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:32.662859",
+    "source_file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+    "total_productions": 41,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 29,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 3,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 1,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 8,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 0,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "TAVARES, TIAGO RODRIGUES 2025 TAVARES, TIAGO RODRIGUES ; MINASNY, BUDIMAN ; MCBRATNEY, ALEX ; MOLIN, JOSÉ PAULO ; MARQUES, GABRIEL TOLEDO ; RAGAGNIN, MARCOS MANTELLI ; DOS SANTOS, FELIPE RODRIGUES ; DE CARVALHO, HUDSON WALLACE PEREIRA ; LAVRES, JOSÉ . Do XRF local models have temporal stability for predicting plant-available nutrients in different years? A long-term study showing the effect of soil fertility management in a tropical field. SOIL & TILLAGE RESEARCH , v. 245, p. 106307-x, 2025.",
+      "autores": "TAVARES, TIAGO RODRIGUES TAVARES, TIAGO RODRIGUES; MINASNY, BUDIMAN; MCBRATNEY, ALEX; MOLIN, JOSÉ PAULO; MARQUES, GABRIEL TOLEDO; RAGAGNIN, MARCOS MANTELLI; DOS SANTOS, FELIPE RODRIGUES; DE CARVALHO, HUDSON WALLACE PEREIRA; LAVRES, JOSÉ",
+      "titulo": "Do XRF local models have temporal stability for predicting plant-available nutrients in different years? A long-term study showing the effect of soil fertility management in a tropical field",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.still.2024.106307",
+      "fingerprint_sha1": "6e81463b789a85249cf36780e041bd279d04a476",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TAVARES, TIAGO RODRIGUES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.still.2024.106307\" target=\"_blank\"></a>TAVARES, TIAGO RODRIGUES ; MINASNY, BUDIMAN ; MCBRATNEY, ALEX ; MOLIN, JOSÉ PAULO ; MARQUES, G",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SOIL & TILLAGE RESEARCH"
+    },
+    {
+      "numero_item": 2,
+      "raw": "BELTRAME, ANITA 2025 BELTRAME, ANITA ; RODRIGUES MARQUES, JOÃO PAULO ; AYRES RODRIGUES, MARIANA ; DE ALMEIDA, EDUARDO ; ARRUDA BACCHI, MÁRCIO ; DE NADAI FERNANDES, ELISABETE APARECIDA ; OTTO, RAFAEL ; PEREIRA DE CARVALHO, HUDSON WALLACE . Foliar Application and Translocation of Radiolabeled Zinc Oxide Suspension vs. Zinc Sulfate Solution by Soybean Plants. AGRICULTURE , v. 15, p. 197, 2025.",
+      "autores": "BELTRAME, ANITA BELTRAME, ANITA; RODRIGUES MARQUES, JOÃO PAULO; AYRES RODRIGUES, MARIANA; DE ALMEIDA, EDUARDO; ARRUDA BACCHI, MÁRCIO; DE NADAI FERNANDES, ELISABETE APARECIDA; OTTO, RAFAEL; PEREIRA DE CARVALHO, HUDSON WALLACE",
+      "titulo": "Foliar Application and Translocation of Radiolabeled Zinc Oxide Suspension vs",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/agriculture15020197",
+      "fingerprint_sha1": "f7f282f8fe1b1afc22c420caad39090b570e3d43",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BELTRAME, ANITA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agriculture15020197\" target=\"_blank\"></a>BELTRAME, ANITA ; RODRIGUES MARQUES, JOÃO PAULO ; AYRES RODRIGUES, MARIANA ; DE ALMEIDA, EDUARDO ; ARRU",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Zinc Sulfate Solution by Soybean Plants. AGRICULTURE"
+    },
+    {
+      "numero_item": 3,
+      "raw": "ALVES, FELIPE B. 2025 ALVES, FELIPE B. ; GOÑI, ADELA S. M. ; FICO, BRUNO A. ; SILVA, VANESSA S. A. ; ORENHA, RENATO P. ; PARREIRA, RENATO L. T. ; ANDRADA, HEBER E. ; MONTANHA, GABRIEL SGARBIERO ; DA SILVA, HIGOR J. F. A. ; DE ALMEIDA, EDUARDO ; DE CARVALHO, HUDSON W. P. ; CHITTOLINA, NATÁLIA ; MASTRANGELO, CLÍSSIA B. ; MOLINA, EDUARDO F. . Nano-Enabled Seed Treatment Using Bisepoxide-Polyoxypropylenetriamine Polymeric Gel with Different Embedded Zinc Sources. GELS , v. 11, p. 167, 2025.",
+      "autores": "ALVES, FELIPE B. ALVES, FELIPE B.; GOÑI, ADELA S. M.; FICO, BRUNO A.; SILVA, VANESSA S. A.; ORENHA, RENATO P.; PARREIRA, RENATO L. T.; ANDRADA, HEBER E.; MONTANHA, GABRIEL SGARBIERO; DA SILVA, HIGOR J. F. A.; DE ALMEIDA, EDUARDO; DE CARVALHO, HUDSON W. P.; CHITTOLINA, NATÁLIA; MASTRANGELO, CLÍSSIA B.; MOLINA, EDUARDO F.",
+      "titulo": "Nano-Enabled Seed Treatment Using Bisepoxide-Polyoxypropylenetriamine Polymeric Gel with Different Embedded Zinc Sources",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/gels11030167",
+      "fingerprint_sha1": "59a4f6de220b9d301e91f3d5733911ea9b5337f6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, FELIPE B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/gels11030167\" target=\"_blank\"></a>ALVES, FELIPE B. ; GOÑI, ADELA S. M. ; FICO, BRUNO A. ; SILVA, VANESSA S. A. ; ORENHA, RENATO P. ; PARREIRA, ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "GELS"
+    },
+    {
+      "numero_item": 4,
+      "raw": "DE SOUZA, MARCO ANTONIO ALVES 2025 DE SOUZA, MARCO ANTONIO ALVES ; DE LIMA, RAFAEL GIOVANINI ; MONTEIRO, PAULO SÉRGIO ; MENDES, FABRÍCIA QUEIROZ ; DE CARVALHO, HUDSON WALLACE PEREIRA ; MACEDO, WILLIAN RODRIGUES . ALFALFA SEEDS BIOFORTIFICATION WITH ZINC FOR PRODUCTION OF ENRICHED SPROUTS. Journal of Trace Elements and Minerals , v. x, p. 100230-x, 2025.",
+      "autores": "DE SOUZA, MARCO ANTONIO ALVES DE SOUZA, MARCO ANTONIO ALVES; DE LIMA, RAFAEL GIOVANINI; MONTEIRO, PAULO SÉRGIO; MENDES, FABRÍCIA QUEIROZ; DE CARVALHO, HUDSON WALLACE PEREIRA; MACEDO, WILLIAN RODRIGUES",
+      "titulo": "ALFALFA SEEDS BIOFORTIFICATION WITH ZINC FOR PRODUCTION OF ENRICHED SPROUTS",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.jtemin.2025.100230",
+      "fingerprint_sha1": "cad1b92dfaca92377d3e4b4f7b67a75930327645",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE SOUZA, MARCO ANTONIO ALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jtemin.2025.100230\" target=\"_blank\"></a>DE SOUZA, MARCO ANTONIO ALVES ; DE LIMA, RAFAEL GIOVANINI ; MONTEIRO, PAULO SÉRGIO ; MEN",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Journal of Trace Elements and Minerals"
+    },
+    {
+      "numero_item": 5,
+      "raw": "OVANI, VAGNER 2025 OVANI, VAGNER ; DE ALMEIDA, EDUARDO ; PÉREZ-MÁRQUEZ, SIMÓN ; LIMA, PAULO DE MELLO TAVARES ; LOUVANDINI, HELDER ; DE CARVALHO, HUDSON WALLACE PEREIRA ; ABDALLA, ADIBE LUIZ . Use of energy dispersive X-ray fluorescence (EDXRF) spectrometry to determine external markers in animal intake estimation trials. MICROCHEMICAL JOURNAL , v. 212, p. 113582-x, 2025.",
+      "autores": "OVANI, VAGNER OVANI, VAGNER; DE ALMEIDA, EDUARDO; PÉREZ-MÁRQUEZ, SIMÓN; LIMA, PAULO DE MELLO TAVARES; LOUVANDINI, HELDER; DE CARVALHO, HUDSON WALLACE PEREIRA; ABDALLA, ADIBE LUIZ",
+      "titulo": "Use of energy dispersive X-ray fluorescence (EDXRF) spectrometry to determine external markers in animal intake estimation trials",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.microc.2025.113582",
+      "fingerprint_sha1": "6d845018bc5a45b238c277c865fb9390a789216e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OVANI, VAGNER</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.microc.2025.113582\" target=\"_blank\"></a>OVANI, VAGNER ; DE ALMEIDA, EDUARDO ; PÉREZ-MÁRQUEZ, SIMÓN ; LIMA, PAULO DE MELLO TAVARES ; LOUVANDINI, ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "MICROCHEMICAL JOURNAL"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MOREIRA, LÍLIAN ANGÉLICA 2025 MOREIRA, LÍLIAN ANGÉLICA ; OTTO, RAFAEL ; GUERRINI, FILIPE BELLUCO ; CARVALHO, HUDSON WALLACE PEREIRA DE ; FERRAZ-ALMEIDA, RISELY ; BENDASSOLLI, JOSÉ ALBERTINHO ; LAVRES JUNIOR, JOSÉ ; MARIANO, EDUARDO . The addition of molybdenum to urea changes its characteristics and can react with N-(n-butyl) thiophosphoric triamide. SCIENTIA AGRICOLA , v. 82, p. x-x, 2025.",
+      "autores": "MOREIRA, LÍLIAN ANGÉLICA MOREIRA, LÍLIAN ANGÉLICA; OTTO, RAFAEL; GUERRINI, FILIPE BELLUCO; CARVALHO, HUDSON WALLACE PEREIRA DE; FERRAZ-ALMEIDA, RISELY; BENDASSOLLI, JOSÉ ALBERTINHO; LAVRES JUNIOR, JOSÉ; MARIANO, EDUARDO",
+      "titulo": "The addition of molybdenum to urea changes its characteristics and can react with N-(n-butyl) thiophosphoric triamide",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1590/1678-992x-2023-0295",
+      "fingerprint_sha1": "b3265457e6b637a5b26a8381696387826cea9865",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MOREIRA, LÍLIAN ANGÉLICA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1678-992x-2023-0295\" target=\"_blank\"></a>MOREIRA, LÍLIAN ANGÉLICA ; OTTO, RAFAEL ; GUERRINI, FILIPE BELLUCO ; <b>CARVALHO, HUDSON WALLA",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SCIENTIA AGRICOLA"
+    },
+    {
+      "numero_item": 7,
+      "raw": "ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ 2025 ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ ; DEMATTÊ, JOSÉ A.M. ; ROSIN, NÍCOLAS AUGUSTO ; ROSAS, JORGE TADEU FIM ; CONTRERAS, AQUILES ENRIQUE DARGHAN ; CARVALHO, HUDSON WALLACE PEREIRA DE . A PROGRESSIVE KNOWLEDGE STRATEGY FOR MONITORING SOIL MICROBIOLOGICAL ACTIVITY BY MICROSCALE SPECTROSCOPIC DETECTION. Soil Advances , v. x, p. 100058-x, 2025.",
+      "autores": "ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ; DEMATTÊ, JOSÉ A.M.; ROSIN, NÍCOLAS AUGUSTO; ROSAS, JORGE TADEU FIM; CONTRERAS, AQUILES ENRIQUE DARGHAN; CARVALHO, HUDSON WALLACE PEREIRA DE",
+      "titulo": "A PROGRESSIVE KNOWLEDGE STRATEGY FOR MONITORING SOIL MICROBIOLOGICAL ACTIVITY BY MICROSCALE SPECTROSCOPIC DETECTION",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.soilad.2025.100058",
+      "fingerprint_sha1": "4222bc1972c73fb754564e3e8facddf70a7cb024",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.soilad.2025.100058\" target=\"_blank\"></a>ALBARRACÍN, HEIDY SOLEDAD RODRÍGUEZ ; DEMATTÊ, JOSÉ A.M. ; ROSIN, NÍCOLAS AUGUSTO ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Soil Advances"
+    },
+    {
+      "numero_item": 8,
+      "raw": "LAVRES, JOSÉ 2025 LAVRES, JOSÉ ; SILVA, KELLY NASCIMENTO ; CARR, NATALIA FERNANDES ; DE ALMEIDA MACHADO, BIANCA ; RABÊLO, FLÁVIO HENRIQUE SILVEIRA ; DE OLIVEIRA, JÉSSICA BEZERRA ; DE CARVALHO, HUDSON WALLACE PEREIRA . Genotypic-specific silicon uptake kinetics and ionomic modulation in common beans: implications for drought tolerance. Theoretical and Experimental Plant Physiology , v. 37, p. 28, 2025.",
+      "autores": "LAVRES, JOSÉ LAVRES, JOSÉ; SILVA, KELLY NASCIMENTO; CARR, NATALIA FERNANDES; DE ALMEIDA MACHADO, BIANCA; RABÊLO, FLÁVIO HENRIQUE SILVEIRA; DE OLIVEIRA, JÉSSICA BEZERRA; DE CARVALHO, HUDSON WALLACE PEREIRA",
+      "titulo": "Genotypic-specific silicon uptake kinetics and ionomic modulation in common beans: implications for drought tolerance",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s40626-025-00374-3",
+      "fingerprint_sha1": "24f67b7754e94e927d60db71af82b804f56df752",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LAVRES, JOSÉ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s40626-025-00374-3\" target=\"_blank\"></a>LAVRES, JOSÉ ; SILVA, KELLY NASCIMENTO ; CARR, NATALIA FERNANDES ; DE ALMEIDA MACHADO, BIANCA ; RABÊLO, FLÁ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Theoretical and Experimental Plant Physiology"
+    },
+    {
+      "numero_item": 9,
+      "raw": "TAVARES, TIAGO R. 2025 TAVARES, TIAGO R. ; DEMATTÊ, JOSÉ A.M. ; MOUAZEN, ABDUL M. ; BEN-DOR, EYAL ; ANSELMI, ADRIANO A. ; CAMPOS, VICTOR MONSEFF DE A. ; MINASNY, BUDIMAN ; SILVA, SÉRGIO H. GODINHO ; CHABRILLAT, SABINE ; KARYOTIS, KONSTANTINOS ; CANTARELLA, HEITOR ; ANDRADE, CRISTIANO A. ; CHERUBIN, MAURÍCIO R. ; DE CARVALHO, HUDSON W.P. ; LAVRES, JOSÉ . Proficiency tests for soil analysis services via proximal sensing. GEODERMA , v. 460, p. 117434, 2025.",
+      "autores": "TAVARES, TIAGO R. TAVARES, TIAGO R.; DEMATTÊ, JOSÉ A.M.; MOUAZEN, ABDUL M.; BEN-DOR, EYAL; ANSELMI, ADRIANO A.; CAMPOS, VICTOR MONSEFF DE A.; MINASNY, BUDIMAN; SILVA, SÉRGIO H. GODINHO; CHABRILLAT, SABINE; KARYOTIS, KONSTANTINOS; CANTARELLA, HEITOR; ANDRADE, CRISTIANO A.; CHERUBIN, MAURÍCIO R.; DE CARVALHO, HUDSON W.P.; LAVRES, JOSÉ",
+      "titulo": "Proficiency tests for soil analysis services via proximal sensing",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.geoderma.2025.117434",
+      "fingerprint_sha1": "a7fc1d3eb193163f827fb14e27cd223c87292ae9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TAVARES, TIAGO R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.geoderma.2025.117434\" target=\"_blank\"></a>TAVARES, TIAGO R. ; DEMATTÊ, JOSÉ A.M. ; MOUAZEN, ABDUL M. ; BEN-DOR, EYAL ; ANSELMI, ADRIANO A. ;",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "GEODERMA"
+    },
+    {
+      "numero_item": 10,
+      "raw": "DA SILVA, HIGOR JOSÉ FREITAS ALVES 2025 DA SILVA, HIGOR JOSÉ FREITAS ALVES ; DE ALMEIDA, EDUARDO ; ALVES, FELIPE BREDA ; FICO, BRUNO ANDRADE ; MOLINA, EDUARDO FERREIRA ; DE CARVALHO, HUDSON WALLACE PEREIRA . Physical and Chemical Compatibility between Fungicides (Emulsifiable Concentrate and Suspension Concentrate) and Soluble Manganese and Zinc Fertilizers. Acs Agricultural Science & Technology , v. x, p. x, 2025.",
+      "autores": "DA SILVA, HIGOR JOSÉ FREITAS ALVES DA SILVA, HIGOR JOSÉ FREITAS ALVES; DE ALMEIDA, EDUARDO; ALVES, FELIPE BREDA; FICO, BRUNO ANDRADE; MOLINA, EDUARDO FERREIRA; DE CARVALHO, HUDSON WALLACE PEREIRA",
+      "titulo": "Physical and Chemical Compatibility between Fungicides (Emulsifiable Concentrate and Suspension Concentrate) and Soluble Manganese and Zinc Fertilizers",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00393",
+      "fingerprint_sha1": "31a1b4506fb63c3400a7ba65462ab8b6576a7167",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, HIGOR JOSÉ FREITAS ALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00393\" target=\"_blank\"></a>DA SILVA, HIGOR JOSÉ FREITAS ALVES ; DE ALMEIDA, EDUARDO ; ALVES, FELIPE BREDA ; FI",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 11,
+      "raw": "REZENDE, VINICIUS PIRES 2025 REZENDE, VINICIUS PIRES ; SANTOS, EDUARDO ; MONTANHA, GABRIEL SGARBIERO ; DA SILVA, HIGOR JOSÉ FREITAS ALVES ; FRANCO, FELIPE SOUSA ; DE CARVALHO, HUDSON WALLACE PEREIRA . Foliar Absorption and Translocation of Metal-Amino Acid Complexes in Soybean: A Case Study of Manganese, Zinc, Glutamate, and Histidine. Acs Agricultural Science & Technology , v. x, p. x-x, 2025.",
+      "autores": "REZENDE, VINICIUS PIRES REZENDE, VINICIUS PIRES; SANTOS, EDUARDO; MONTANHA, GABRIEL SGARBIERO; DA SILVA, HIGOR JOSÉ FREITAS ALVES; FRANCO, FELIPE SOUSA; DE CARVALHO, HUDSON WALLACE PEREIRA",
+      "titulo": "Foliar Absorption and Translocation of Metal-Amino Acid Complexes in Soybean: A Case Study of Manganese, Zinc, Glutamate, and Histidine",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00364",
+      "fingerprint_sha1": "13a308c53dd0ca2a02ca8049ef4e16b412b848c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">REZENDE, VINICIUS PIRES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00364\" target=\"_blank\"></a>REZENDE, VINICIUS PIRES ; SANTOS, EDUARDO ; MONTANHA, GABRIEL SGARBIERO ; DA SILVA, HIGOR JOSÉ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 12,
+      "raw": "ENGEL, DANIELE CAROLINE HÖRZ 2025 ENGEL, DANIELE CAROLINE HÖRZ ; RODRIGUES, MAYARA ; BAPTISTELLA, JOÃO LEONARDO CORTE ; FALEIRO, RODRIGO ; DE CARVALHO, HUDSON WALLACE PEREIRA ; LAVRES, JOSÉ ; FILHO, MÁRIO TOMMASIELLO ; MAYER, JULIANA LISCHKA SAMPAIO ; MAZZAFERA, PAULO . Wood characteristics of nine eucalypt species grown under partial substitution of potassium by sodium. TREES-STRUCTURE AND FUNCTION , v. 39, p. x-x, 2025.",
+      "autores": "ENGEL, DANIELE CAROLINE HÖRZ ENGEL, DANIELE CAROLINE HÖRZ; RODRIGUES, MAYARA; BAPTISTELLA, JOÃO LEONARDO CORTE; FALEIRO, RODRIGO; DE CARVALHO, HUDSON WALLACE PEREIRA; LAVRES, JOSÉ; FILHO, MÁRIO TOMMASIELLO; MAYER, JULIANA LISCHKA SAMPAIO; MAZZAFERA, PAULO",
+      "titulo": "Wood characteristics of nine eucalypt species grown under partial substitution of potassium by sodium",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s00468-025-02688-w",
+      "fingerprint_sha1": "9dd55fcf5fe2e5e3700eeecf1862eea255fcea6c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ENGEL, DANIELE CAROLINE HÖRZ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00468-025-02688-w\" target=\"_blank\"></a>ENGEL, DANIELE CAROLINE HÖRZ ; RODRIGUES, MAYARA ; BAPTISTELLA, JOÃO LEONARDO CORTE ; FALEI",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+    },
+    {
+      "numero_item": 13,
+      "raw": "HORNINK, BRUNA 2025 HORNINK, BRUNA ; ORTEGA-RODRIGUEZ, DAIGARD RICARDO ; AMORIM, DEOCLECIO J. ; GROENENDIJK, PETER ; PAREDES-VILLANUEVA, KATHELYN ; ROQUETTE, JOSÉ GUILHERME ; BARBOSA, ANA CAROLINA M.C. ; VIDAL, EDSON ; GONTIJO, ALEXANDRE BAHIA ; COSTA, MONIQUE S. ; RODRIGUES NUNES DE SENNA, NORMA ; DE LEMOS, DAVI NEVES ; VENEGAS-GONZALEZ, ALEJANDRO ; CALLADO, CATIA H. ; JAÉN-BARRIOS, NELSON ; FONTANA, CLÁUDIA ; GRANATO-SOUZA, DANIELA ; ASSIS-PEREIRA, GABRIEL ; REQUENA-ROJAS, EDILSON J. ; CARVALHO, H. W. P. ; et.al . Combining wood traits as a promising timber origin verification and its application in the Brazilian trade chain. SCIENCE OF THE TOTAL ENVIRONMENT , v. 1003, p. 180710-x, 2025.",
+      "autores": "HORNINK, BRUNA HORNINK, BRUNA; ORTEGA-RODRIGUEZ, DAIGARD RICARDO; AMORIM, DEOCLECIO J.; GROENENDIJK, PETER; PAREDES-VILLANUEVA, KATHELYN; ROQUETTE, JOSÉ GUILHERME; BARBOSA, ANA CAROLINA M.C.; VIDAL, EDSON; GONTIJO, ALEXANDRE BAHIA; COSTA, MONIQUE S.; RODRIGUES NUNES DE SENNA, NORMA; DE LEMOS, DAVI NEVES; VENEGAS-GONZALEZ, ALEJANDRO; CALLADO, CATIA H.; JAÉN-BARRIOS, NELSON; FONTANA, CLÁUDIA; GRANATO-SOUZA, DANIELA; ASSIS-PEREIRA, GABRIEL; REQUENA-ROJAS, EDILSON J.; CARVALHO, H. W. P.; et.al",
+      "titulo": "Combining wood traits as a promising timber origin verification and its application in the Brazilian trade chain",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2025.180710",
+      "fingerprint_sha1": "f32a5c65f2b0f09b092f39a9db1530e9abaf0e42",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HORNINK, BRUNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2025.180710\" target=\"_blank\"></a>HORNINK, BRUNA ; ORTEGA-RODRIGUEZ, DAIGARD RICARDO ; AMORIM, DEOCLECIO J. ; GROENENDIJK, PETER ; PAR",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 14,
+      "raw": "REZENDE, VINICIUS PIRES 2025 REZENDE, VINICIUS PIRES ; SANTOS, EDUARDO ; ALMEIDA, EDUARDO ; DA SILVA, HIGOR JOSÉ FREITAS ALVES ; BRANDÃO, JÚLIA ROSSATTO ; MONTANHA, GABRIEL SGARBIERO ; RODRIGUES DOS SANTOS, FELIPE ; CARVALHO, HUDSON WALLACE PEREIRA DE . Reviewing Manganese and Zinc Foliar Fertilization Approaches and Results through a Quantitative Metadata Analysis. Acs Agricultural Science & Technology , v. x, p. x-x, 2025.",
+      "autores": "REZENDE, VINICIUS PIRES REZENDE, VINICIUS PIRES; SANTOS, EDUARDO; ALMEIDA, EDUARDO; DA SILVA, HIGOR JOSÉ FREITAS ALVES; BRANDÃO, JÚLIA ROSSATTO; MONTANHA, GABRIEL SGARBIERO; RODRIGUES DOS SANTOS, FELIPE; CARVALHO, HUDSON WALLACE PEREIRA DE",
+      "titulo": "Reviewing Manganese and Zinc Foliar Fertilization Approaches and Results through a Quantitative Metadata Analysis",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.5c00420",
+      "fingerprint_sha1": "7a4078f91f8edb53d5bbba9e417cf87209fb0e0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">REZENDE, VINICIUS PIRES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00420\" target=\"_blank\"></a>REZENDE, VINICIUS PIRES ; SANTOS, EDUARDO ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/788",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Acs Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 15,
+      "raw": "LAVANDOSQUE, L.L. 2024 LAVANDOSQUE, L.L. ; HENNEMANN, A.L. ; MASTRANGELO, C.B. ; CARVALHO, H.W.P.C. ; GUIMARÃES, R.R. ; ARAKI, K. ; WINCK, F.V. . Fast multispectral imaging analysis as phenotyping platform: Effect of titanium dioxide nanoparticles on microalgae physiology. Algal Research-Biomass Biofuels and Bioproducts , v. x, p. 103433-x, 2024.",
+      "autores": "LAVANDOSQUE, L.L. LAVANDOSQUE, L.L.; HENNEMANN, A.L.; MASTRANGELO, C.B.; CARVALHO, H.W.P.C.; GUIMARÃES, R.R.; ARAKI, K.; WINCK, F.V.",
+      "titulo": "Fast multispectral imaging analysis as phenotyping platform: Effect of titanium dioxide nanoparticles on microalgae physiology",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.algal.2024.103433",
+      "fingerprint_sha1": "33471c203d5be76b5181f0267728d736847d9ce0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LAVANDOSQUE, L.L.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.algal.2024.103433\" target=\"_blank\"></a>LAVANDOSQUE, L.L. ; HENNEMANN, A.L. ; MASTRANGELO, C.B. ; <b>CARVALHO, H.W.P.C.</b> ; GUIMARÃES, R.R.",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Algal Research-Biomass Biofuels and Bioproducts"
+    },
+    {
+      "numero_item": 16,
+      "raw": "OLDONI, HENRIQUE 2024 OLDONI, HENRIQUE ; TAVARES, TIAGO RODRIGUES ; BRASCO, THIAGO LUIS ; CHERUBIN, MAURÍCIO ROBERTO ; DE CARVALHO, HUDSON W. PEREIRA ; MAGALHÃES, PAULO S. GRAZIANO ; DO AMARAL, LUCAS RIOS . Temporal evaluation of soil chemical quality using VNIR and XRF spectroscopies. SOIL & TILLAGE RESEARCH , v. 240, p. 106087, 2024.",
+      "autores": "OLDONI, HENRIQUE OLDONI, HENRIQUE; TAVARES, TIAGO RODRIGUES; BRASCO, THIAGO LUIS; CHERUBIN, MAURÍCIO ROBERTO; DE CARVALHO, HUDSON W. PEREIRA; MAGALHÃES, PAULO S. GRAZIANO; DO AMARAL, LUCAS RIOS",
+      "titulo": "Temporal evaluation of soil chemical quality using VNIR and XRF spectroscopies",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.still.2024.106087",
+      "fingerprint_sha1": "e33e39f4ed46dff1626a8667548fe04c9fc7718a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLDONI, HENRIQUE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.still.2024.106087\" target=\"_blank\"></a>OLDONI, HENRIQUE ; TAVARES, TIAGO RODRIGUES ; BRASCO, THIAGO LUIS ; CHERUBIN, MAURÍCIO ROBERTO ; <b>DE",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SOIL & TILLAGE RESEARCH"
+    },
+    {
+      "numero_item": 17,
+      "raw": "ARRUDA, BRUNA 2024 ARRUDA, BRUNA ; PRATAVIERA, FÁBIO ; BEJARANO HERRERA, WILFRAND FERNEY ; COLOMBO MESCOLOTTI, DENISE DE LOURDES ; MIRANDA SILVA, ANTONIO MARCOS ; PEREIRA DE CARVALHO, HUDSON WALLACE ; PAVINATO, PAULO SERGIO ; DINI ANDREOTE, FERNANDO . Phosphorus Dynamics in Stressed Soil Systems: Is There a Chemical and Biological Compensating Effect?. Stresses , v. 4, p. 251-268, 2024.",
+      "autores": "ARRUDA, BRUNA ARRUDA, BRUNA; PRATAVIERA, FÁBIO; BEJARANO HERRERA, WILFRAND FERNEY; COLOMBO MESCOLOTTI, DENISE DE LOURDES; MIRANDA SILVA, ANTONIO MARCOS; PEREIRA DE CARVALHO, HUDSON WALLACE; PAVINATO, PAULO SERGIO; DINI ANDREOTE, FERNANDO",
+      "titulo": "Phosphorus Dynamics in Stressed Soil Systems: Is There a Chemical and Biological Compensating Effect?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3390/stresses4020015",
+      "fingerprint_sha1": "84d9a13bb599dc0bdfcd3264c462b008d4e041bc",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ARRUDA, BRUNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/stresses4020015\" target=\"_blank\"></a>ARRUDA, BRUNA ; PRATAVIERA, FÁBIO ; BEJARANO HERRERA, WILFRAND FERNEY ; COLOMBO MESCOLOTTI, DENISE DE LOURDES",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Stresses"
+    },
+    {
+      "numero_item": 18,
+      "raw": "SANTOS, EDUARDO 2024 SANTOS, EDUARDO ; GOZETTO, JONATHA DEMETRIO ; DE ALMEIDA, EDUARDO ; BRASIL, MARCOS AUGUSTO STOLF ; DA SILVA, NICOLAS GUSTAVO DA CRUZ ; REZENDE, VINICIUS PIRES ; DA SILVA, HIGOR JOSÉ FREITAS ALVES ; BRANDÃO, JULIA ROSATTO ; MONTANHA, GABRIEL SGARBIERO ; LAVRES, JOSÉ ; CARVALHO, HUDSON WALLACE PEREIRA DE . An In-House X-ray Fluorescence Spectrometer Development for In Vivo Analysis of Plants. ACS Agricultural Science & Technology , v. x, p. x, 2024.",
+      "autores": "SANTOS, EDUARDO SANTOS, EDUARDO; GOZETTO, JONATHA DEMETRIO; DE ALMEIDA, EDUARDO; BRASIL, MARCOS AUGUSTO STOLF; DA SILVA, NICOLAS GUSTAVO DA CRUZ; REZENDE, VINICIUS PIRES; DA SILVA, HIGOR JOSÉ FREITAS ALVES; BRANDÃO, JULIA ROSATTO; MONTANHA, GABRIEL SGARBIERO; LAVRES, JOSÉ; CARVALHO, HUDSON WALLACE PEREIRA DE",
+      "titulo": "An In-House X-ray Fluorescence Spectrometer Development for In Vivo Analysis of Plants",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acsagscitech.4c00003",
+      "fingerprint_sha1": "3af53dc4aa2dda5b3d9e70c1faab8a13dff6d6aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, EDUARDO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.4c00003\" target=\"_blank\"></a>SANTOS, EDUARDO ; GOZETTO, JONATHA DEMETRIO ; DE ALMEIDA, EDUARDO ; BRASIL, MARCOS AUGUSTO STOLF ; DA ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "ACS Agricultural Science & Technology"
+    },
+    {
+      "numero_item": 19,
+      "raw": "ALVES, FELIPE B. 2024 ALVES, FELIPE B. ; ANDRADA, HEBER E. ; FICO, BRUNO A. ; REINALDI, JULIA S. ; TAVARES, DENISE C. ; SQUARISI, IARA S. ; MONTANHA, GABRIEL SGARBIERO ; NUEVO, LAURA G. ; DE CARVALHO, HUDSON W. P. ; Pérez, Carlos A. ; MOLINA, EDUARDO F. . Facilitating Seed Iron Uptake through Amine-Epoxide Microgels: A Novel Approach to Enhance Cucumber ( Cucumis sativus ) Germination. JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY , v. x, p. x-x, 2024.",
+      "autores": "ALVES, FELIPE B. ALVES, FELIPE B.; ANDRADA, HEBER E.; FICO, BRUNO A.; REINALDI, JULIA S.; TAVARES, DENISE C.; SQUARISI, IARA S.; MONTANHA, GABRIEL SGARBIERO; NUEVO, LAURA G.; DE CARVALHO, HUDSON W. P.; Pérez, Carlos A.; MOLINA, EDUARDO F.",
+      "titulo": "Facilitating Seed Iron Uptake through Amine-Epoxide Microgels: A Novel Approach to Enhance Cucumber ( Cucumis sativus ) Germination",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1021/acs.jafc.4c01522",
+      "fingerprint_sha1": "e310f4d676307fb74eb9d6932a4bd56562d89745",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, FELIPE B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acs.jafc.4c01522\" target=\"_blank\"></a>ALVES, FELIPE B. ; ANDRADA, HEBER E. ; FICO, BRUNO A. ; REINALDI, JULIA S. ; TAVARES, DENISE C. ; SQUARIS",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY"
+    },
+    {
+      "numero_item": 20,
+      "raw": "CASSIM, BRUNO MAIA ABDO RAHMEN 2024 CASSIM, BRUNO MAIA ABDO RAHMEN ; PINHEIRO LISBOA, IZAIAS ; PRESTES, CLELBER VIEIRA ; DE ALMEIDA, EDUARDO ; DE CARVALHO, HUDSON WALLACE PEREIRA ; LAVRES, JOSÉ ; LASSO, PAULO RENATO ORLANDI ; BATISTA, MARCELO AUGUSTO ; OTTO, RAFAEL . Development and characterization of enhanced urea through micronutrients and established technology addition. AGRONOMY JOURNAL , v. x, p. x-x, 2024.",
+      "autores": "CASSIM, BRUNO MAIA ABDO RAHMEN CASSIM, BRUNO MAIA ABDO RAHMEN; PINHEIRO LISBOA, IZAIAS; PRESTES, CLELBER VIEIRA; DE ALMEIDA, EDUARDO; DE CARVALHO, HUDSON WALLACE PEREIRA; LAVRES, JOSÉ; LASSO, PAULO RENATO ORLANDI; BATISTA, MARCELO AUGUSTO; OTTO, RAFAEL",
+      "titulo": "Development and characterization of enhanced urea through micronutrients and established technology addition",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1002/agj2.21635",
+      "fingerprint_sha1": "f855b5d13e0512d04080db59db805ba9141170f9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CASSIM, BRUNO MAIA ABDO RAHMEN</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/agj2.21635\" target=\"_blank\"></a>CASSIM, BRUNO MAIA ABDO RAHMEN ; PINHEIRO LISBOA, IZAIAS ; PRESTES, CLELBER VIEIRA ; DE ALMEIDA, ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "AGRONOMY JOURNAL"
+    },
+    {
+      "numero_item": 21,
+      "raw": "MONTANHA, GABRIEL SGARBIERO 2024 MONTANHA, GABRIEL SGARBIERO ; PEREZ, LUCAS COAN ; BRANDÃO, JULIA ROSSATTO ; DE CAMARGO, RACHEL FERRAZ ; TAVARES, TIAGO RODRIGUES ; DE ALMEIDA, EDUARDO ; PEREIRA DE CARVALHO, HUDSON WALLACE . Profile of mineral nutrients and proteins in soybean seeds (Glycine max (L.) Merrill): insights from 95 varieties cultivated in Brazil. JOURNAL OF FOOD COMPOSITION AND ANALYSIS , v. x, p. 106536-x, 2024.",
+      "autores": "MONTANHA, GABRIEL SGARBIERO MONTANHA, GABRIEL SGARBIERO; PEREZ, LUCAS COAN; BRANDÃO, JULIA ROSSATTO; DE CAMARGO, RACHEL FERRAZ; TAVARES, TIAGO RODRIGUES; DE ALMEIDA, EDUARDO; PEREIRA DE CARVALHO, HUDSON WALLACE",
+      "titulo": "Profile of mineral nutrients and proteins in soybean seeds (Glycine max (L",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.jfca.2024.106536",
+      "fingerprint_sha1": "414008e3a846f9581a7b12b374c956eee9bc7e4c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MONTANHA, GABRIEL SGARBIERO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jfca.2024.106536\" target=\"_blank\"></a>MONTANHA, GABRIEL SGARBIERO ; PEREZ, LUCAS COAN ; BRANDÃO, JULIA ROSSATTO ; DE CAMARGO, RACH",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "JOURNAL OF FOOD COMPOSITION AND ANALYSIS"
+    },
+    {
+      "numero_item": 22,
+      "raw": "MACEDO, FERNANDO GIOVANNETTI 2024 MACEDO, FERNANDO GIOVANNETTI ; DOS SANTOS VARGAS, EDUARDA ; MOREIRA, ANTÔNIA ÉDNA BLUMATTE ; MONTANHA, GABRIEL SGARBIERO ; DE CARVALHO, HUDSON WALLACE PEREIRA . Understanding the effects of lithium exposure on castor bean (Ricinus communis) plants, a potential bioindicator of lithium-contaminated areas. Environmental Science and Pollution Research , v. x, p. x-x, 2024.",
+      "autores": "MACEDO, FERNANDO GIOVANNETTI MACEDO, FERNANDO GIOVANNETTI; DOS SANTOS VARGAS, EDUARDA; MOREIRA, ANTÔNIA ÉDNA BLUMATTE; MONTANHA, GABRIEL SGARBIERO; DE CARVALHO, HUDSON WALLACE PEREIRA",
+      "titulo": "Understanding the effects of lithium exposure on castor bean (Ricinus communis) plants, a potential bioindicator of lithium-contaminated areas",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s11356-024-34680-1",
+      "fingerprint_sha1": "db6af3fb6d77ddaa621645d5114d188f4e2dea6f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MACEDO, FERNANDO GIOVANNETTI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11356-024-34680-1\" target=\"_blank\"></a>MACEDO, FERNANDO GIOVANNETTI ; DOS SANTOS VARGAS, EDUARDA ; MOREIRA, ANTÔNIA ÉDNA BLUMATTE ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "Environmental Science and Pollution Research"
+    },
+    {
+      "numero_item": 23,
+      "raw": "REBELO DA SILVA, THAINARA 2024 REBELO DA SILVA, THAINARA ; DE ALMEIDA, EDUARDO ; TAVARES, TIAGO RODRIGUES ; MELQUIADES, FÁBIO LUIZ ; BAESSO, MURILO MESQUITA ; FERRAZ DE CAMARGO, RACHEL ; FERESIN GOMES, MARCOS HENRIQUE ; PEREIRA DE CARVALHO, HUDSON WALLACE . In situ determination of soybean leaves nutritional status by portable X-ray fluorescence: An initial approach for data collection and predictive modelling. BIOSYSTEMS ENGINEERING , v. 247, p. 143-152, 2024.",
+      "autores": "REBELO DA SILVA, THAINARA REBELO DA SILVA, THAINARA; DE ALMEIDA, EDUARDO; TAVARES, TIAGO RODRIGUES; MELQUIADES, FÁBIO LUIZ; BAESSO, MURILO MESQUITA; FERRAZ DE CAMARGO, RACHEL; FERESIN GOMES, MARCOS HENRIQUE; PEREIRA DE CARVALHO, HUDSON WALLACE",
+      "titulo": "In situ determination of soybean leaves nutritional status by portable X-ray fluorescence: An initial approach for data collection and predictive modelling",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.biosystemseng.2024.09.011",
+      "fingerprint_sha1": "d72b5bf4e2b0e85520bc431d6c0dd5e8afdbde4f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">REBELO DA SILVA, THAINARA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.biosystemseng.2024.09.011\" target=\"_blank\"></a>REBELO DA SILVA, THAINARA ; DE ALMEIDA, EDUARDO ; TAVARES, TIAGO RODRIGUES ; MELQUIAD",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "BIOSYSTEMS ENGINEERING"
+    },
+    {
+      "numero_item": 24,
+      "raw": "LISBOA, IZAIAS PINHEIRO 2024 LISBOA, IZAIAS PINHEIRO ; CASSIM, BRUNO MAIA ABDO RAHMEN ; BRASIL, PEDRO HENRIQUE ESCARANARO ; PEREIRA, FREDERICO LUZ ; PRESTES, CLELBER VIEIRA ; DE CARVALHO, HUDSON WALLACE PEREIRA ; JUNIOR, JOSÉ LAVRES ; BENDASSOLLI, JOSÉ ALBERTINO ; OTTO, RAFAEL . Association of NBPT and Zinc Sources into Urea: A New Approach to Slow Down Nitrogen Releasing and Reduce Losses. JOURNAL OF SOIL SCIENCE AND PLANT NUTRITION , v. x, p. x-x, 2024.",
+      "autores": "LISBOA, IZAIAS PINHEIRO LISBOA, IZAIAS PINHEIRO; CASSIM, BRUNO MAIA ABDO RAHMEN; BRASIL, PEDRO HENRIQUE ESCARANARO; PEREIRA, FREDERICO LUZ; PRESTES, CLELBER VIEIRA; DE CARVALHO, HUDSON WALLACE PEREIRA; JUNIOR, JOSÉ LAVRES; BENDASSOLLI, JOSÉ ALBERTINO; OTTO, RAFAEL",
+      "titulo": "Association of NBPT and Zinc Sources into Urea: A New Approach to Slow Down Nitrogen Releasing and Reduce Losses",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s42729-024-02017-z",
+      "fingerprint_sha1": "b597b4a3b6b6bddc96fe9900b8aa339445074f8b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LISBOA, IZAIAS PINHEIRO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s42729-024-02017-z\" target=\"_blank\"></a>LISBOA, IZAIAS PINHEIRO ; CASSIM, BRUNO MAIA ABDO RAHMEN ; BRASIL, PEDRO HENRIQUE ESCARANARO ; P",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "JOURNAL OF SOIL SCIENCE AND PLANT NUTRITION"
+    },
+    {
+      "numero_item": 25,
+      "raw": "DA SILVA, BERNARDO AMORIM 2024 DA SILVA, BERNARDO AMORIM ; SOUZA, IVAN FRANCISCO DE ; MOTTA, RODRIGO LIMA DA ; PEREIRA, VANESSA DE BARROS TOSTES ; MATTIELLO, EDSON MARCIO ; CASTRO, GUSTAVO FRANCO DE ; BALLOTIN, FABIANE CARVALHO ; CARVALHO, HUDSON WALLACE PEREIRA DE ; VERGÜTZ, LEONARDUS ; BERTOL, FELIPE DALLA ZEN . Phosphorus cycling from residual pools underlying efficient P fertilization in rotation systems in tropical agriculture. SOIL & TILLAGE RESEARCH , v. 244, p. 106255-x, 2024.",
+      "autores": "DA SILVA, BERNARDO AMORIM DA SILVA, BERNARDO AMORIM; SOUZA, IVAN FRANCISCO DE; MOTTA, RODRIGO LIMA DA; PEREIRA, VANESSA DE BARROS TOSTES; MATTIELLO, EDSON MARCIO; CASTRO, GUSTAVO FRANCO DE; BALLOTIN, FABIANE CARVALHO; CARVALHO, HUDSON WALLACE PEREIRA DE; VERGÜTZ, LEONARDUS; BERTOL, FELIPE DALLA ZEN",
+      "titulo": "Phosphorus cycling from residual pools underlying efficient P fertilization in rotation systems in tropical agriculture",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.still.2024.106255",
+      "fingerprint_sha1": "9a4236ba7fca3f8f2eb0735c38569d0a8ccdc53a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, BERNARDO AMORIM</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.still.2024.106255\" target=\"_blank\"></a>DA SILVA, BERNARDO AMORIM ; SOUZA, IVAN FRANCISCO DE ; MOTTA, RODRIGO LIMA DA ; PEREIRA, VANE",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SOIL & TILLAGE RESEARCH"
+    },
+    {
+      "numero_item": 26,
+      "raw": "ROSIN, NÍCOLAS AUGUSTO 2024 ROSIN, NÍCOLAS AUGUSTO ; DEMATTÊ, JOSÉ A.M. ; DE CARVALHO, HUDSON WALLACE PEREIRA ; RODRIGUEZ-ALBARRACÍN, HEIDY SOLEDAD ; ROSAS, JORGE TADEU FIM ; NOVAIS, JEAN JESUS ; DALMOLIN, RICARDO S.D. ; ALVES, MARCELO RODRIGO ; FALCIONI, RENAN ; TZIOLAS, NIKOLAOS ; MALLAH, SINA ; DE MELLO, DANILO CÉSAR ; FRANCELINO, MÁRCIO ROCHA . Spatializing soil elemental concentration as measured by X-ray fluorescence analysis using remote sensing data. CATENA , v. 240, p. 107988-x, 2024.",
+      "autores": "ROSIN, NÍCOLAS AUGUSTO ROSIN, NÍCOLAS AUGUSTO; DEMATTÊ, JOSÉ A.M.; DE CARVALHO, HUDSON WALLACE PEREIRA; RODRIGUEZ-ALBARRACÍN, HEIDY SOLEDAD; ROSAS, JORGE TADEU FIM; NOVAIS, JEAN JESUS; DALMOLIN, RICARDO S.D.; ALVES, MARCELO RODRIGO; FALCIONI, RENAN; TZIOLAS, NIKOLAOS; MALLAH, SINA; DE MELLO, DANILO CÉSAR; FRANCELINO, MÁRCIO ROCHA",
+      "titulo": "Spatializing soil elemental concentration as measured by X-ray fluorescence analysis using remote sensing data",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.catena.2024.107988",
+      "fingerprint_sha1": "68b6971a8c9a26137f94b7aaf96d92268ed17d36",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ROSIN, NÍCOLAS AUGUSTO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.catena.2024.107988\" target=\"_blank\"></a>ROSIN, NÍCOLAS AUGUSTO ; DEMATTÊ, JOSÉ A.M. ; <b>DE CARVALHO, HUDSON WALLACE PEREIRA</b> ; RODR",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "CATENA"
+    },
+    {
+      "numero_item": 27,
+      "raw": "ELMEKNASSI, MALAK 2024 ELMEKNASSI, MALAK ; ELGHALI, ABDELLATIF ; DE CARVALHO, HUDSON WALLACE PEREIRA ; LAAMRANI, AHMED ; BENZAAZOUA, MOSTAFA . A review of organic and inorganic amendments to treat saline-sodic soils: Emphasis on waste valorization for a circular economy approach. SCIENCE OF THE TOTAL ENVIRONMENT , v. 921, p. 171087-x, 2024.",
+      "autores": "ELMEKNASSI, MALAK ELMEKNASSI, MALAK; ELGHALI, ABDELLATIF; DE CARVALHO, HUDSON WALLACE PEREIRA; LAAMRANI, AHMED; BENZAAZOUA, MOSTAFA",
+      "titulo": "A review of organic and inorganic amendments to treat saline-sodic soils: Emphasis on waste valorization for a circular economy approach",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2024.171087",
+      "fingerprint_sha1": "dbd93e475218fe97cc8f129fa041acfbd2ca5c99",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ELMEKNASSI, MALAK</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2024.171087\" target=\"_blank\"></a>ELMEKNASSI, MALAK ; ELGHALI, ABDELLATIF ; <b>DE CARVALHO, HUDSON WALLACE PEREIRA</b> ; LAAMRANI, ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 28,
+      "raw": "RASBOLD, GILIANE GESSICA 2024 RASBOLD, GILIANE GESSICA ; PESSENDA, LUIZ CARLOS RUIZ ; DE OLIVEIRA, PAULO EDUARDO ; ALVES, ELTON EDUARDO NOVAIS ; SILVA, DAYANA RODRIGUES ; CARVALHO, HUDSON W. ; BENDASSOLLI, JOSÉ ALBERTINO ; MONTES, CÉLIA REGINA ; MELFI, ADOLPHO JOSE ; MCGLUE, MICHAEL M. . Holocene limnological changes in saline and freshwater lakes, Lower Nhecolândia, Pantanal, Brazil. HYDROBIOLOGIA , v. 851, p. 1723-1739, 2024.",
+      "autores": "RASBOLD, GILIANE GESSICA RASBOLD, GILIANE GESSICA; PESSENDA, LUIZ CARLOS RUIZ; DE OLIVEIRA, PAULO EDUARDO; ALVES, ELTON EDUARDO NOVAIS; SILVA, DAYANA RODRIGUES; CARVALHO, HUDSON W.; BENDASSOLLI, JOSÉ ALBERTINO; MONTES, CÉLIA REGINA; MELFI, ADOLPHO JOSE; MCGLUE, MICHAEL M.",
+      "titulo": "Holocene limnological changes in saline and freshwater lakes, Lower Nhecolândia, Pantanal, Brazil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10750-023-05411-3",
+      "fingerprint_sha1": "168c0748f39f57c0377c8f1f92e51a934cdd213f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RASBOLD, GILIANE GESSICA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10750-023-05411-3\" target=\"_blank\"></a>RASBOLD, GILIANE GESSICA ; PESSENDA, LUIZ CARLOS RUIZ ; DE OLIVEIRA, PAULO EDUARDO ; ALVES, ELT",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "HYDROBIOLOGIA"
+    },
+    {
+      "numero_item": 237,
+      "raw": "CARVALHO, HUDSON . Nutrients for healthy and sustainable soils. 2025. (Desenvolvimento de material didático ou instrucional - Livro de Notas da Escola Avançada de Agricultura Tropical).",
+      "autores": "CARVALHO, HUDSON",
+      "titulo": "Nutrients for healthy and sustainable soils",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4a355a8248ae68c83a1b4521f0fc8edb45acda2d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>CARVALHO, HUDSON</b>. Nutrients for healthy and sustainable soils.\n\t\t\t\t\t\t2025. (Desenvolvimento de material didático ou instrucional - Livro de Notas da Escola Avançada de Agricultura Tropical). </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.625805"
+      },
+      "veiculo": "2025. (Desenvolvimento de material didático ou instrucional - Livro de Notas da Escola Avançada de Agricultura Tropical)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "CARVALHO, HUDSON . Participação em banca de Thais Beatriz Miqueletide Sena. Produção de concentrados zeolíticos a partir do lodo de ETA. 2025 - Universidade de São Paulo.",
+      "autores": "CARVALHO, HUDSON",
+      "titulo": "Participação em banca de Thais Beatriz Miqueletide Sena",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e725c9b147eced6d493973e6d587602b01cee74b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>CARVALHO, HUDSON</b>.  Participação em banca de Thais Beatriz Miqueletide Sena. Produção de concentrados zeolíticos a partir do lodo de ETA. 2025 - Universidade de São Paulo. </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:32.638548"
+      },
+      "veiculo": "Produção de concentrados zeolíticos a partir do lodo de ETA. 2025 - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 2,
+      "raw": "MANZANI, D.; Carvalho, Hudson W. P. . Participação em banca de Jose Hermeson. Compósitos de liberação lenta controlada de nutrientes para agricultura de precisão: Síntese, caracterização e aplicação de fertilizantes vítreos e ureia encapsulados em matriz de hidrogel. 2024 - Universidade de São Paulo.",
+      "autores": "MANZANI, D.; Carvalho, Hudson W. P.",
+      "titulo": "Participação em banca de Jose Hermeson",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "57605db7a1c19a62031a680e1cc94797e37449aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MANZANI, D.; <b>Carvalho, Hudson W. P.</b>.  Participação em banca de Jose Hermeson. Compósitos de liberação lenta controlada de nutrientes para agricultura de precisão: Síntese, caracterização e aplicação de fertilizantes vítreos e ureia encapsulados em matriz de hidrogel. 2024 - Universidade de São Paulo. </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:32.638548"
+      },
+      "veiculo": "Compósitos de liberação lenta controlada de nutrientes para agricultura de precisão: Síntese"
+    },
+    {
+      "numero_item": 11,
+      "raw": "BELJADID, A.; Carvalho, Hudson W. P. . Participação em banca de Amine HANINI. Explicit and Semi-Implicit Techniques for Modeling Surface Water Flow and Solute Transport Processes. 2024 - University Mohamed VI Polytechnic.",
+      "autores": "BELJADID, A.; Carvalho, Hudson W. P.",
+      "titulo": "Participação em banca de Amine HANINI",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1506c1b64f9317a8e5f49ec2a884280ef45c0456",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BELJADID, A.; <b>Carvalho, Hudson W. P.</b>.  Participação em banca de Amine HANINI. Explicit and Semi-Implicit Techniques for Modeling Surface Water Flow and Solute Transport Processes. 2024 - University Mohamed VI Polytechnic. </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:32.638548"
+      },
+      "veiculo": "Explicit and Semi-Implicit Techniques for Modeling Surface Water Flow and Solute Transport Processes. 2024 - University Mohamed VI Polytechnic"
+    },
+    {
+      "numero_item": 16,
+      "raw": "Carvalho, Hudson W. P. . São Paulo School of Advanced Science on 4th Generation Synchrotron Techniques. 2024. (Outro).",
+      "autores": "Carvalho, Hudson W. P.",
+      "titulo": "São Paulo School of Advanced Science on 4th Generation Synchrotron Techniques",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "20b56981b4e54be2bfab5cd14bbdfb3b0b476bb4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Carvalho, Hudson W. P.</b>. São Paulo School of Advanced Science on 4th Generation Synchrotron Techniques. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:32.647394"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Júlia Rossatto Brandão. Foliar Spraying of Mineral Cocktail on Strawberries Plant: Enhancing Shelf Life & Fruit Quality. Início: 2025. Dissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Foliar Spraying of Mineral Cocktail on Strawberries Plant: Enhancing Shelf Life & Fruit Quality",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7a5475dc7c01819b9e6b2f605682775ed77be2b1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2927613368421589\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Júlia Rossatto Brandão. Foliar Spraying of Mineral Cocktail on Strawberries Plant: Enhancing Shelf Life &amp; Fruit Quality.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura))  - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Cient",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "Início: 2025. Dissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Rayssa Vitória Pastana de Araújo. Physiological effects of Magnesium (Mg) and Cerium Oxide (CeO2) applications in coffee (Coffea arabica L.) plants under water deficit. Início: 2025. Dissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Physiological effects of Magnesium (Mg) and Cerium Oxide (CeO2) applications in coffee (Coffea arabica L",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "19b62c244422a9e780855cc28c2b3a76ee64ab7d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4719653569311743\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Rayssa Vitória Pastana de Araújo. Physiological effects of Magnesium (Mg) and Cerium Oxide (CeO2) applications in coffee (Coffea arabica L.) plants under water deficit.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura))  - Universidade de São Paulo",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": ") plants under water deficit. Início: 2025. Dissertação (Mestrado profissional em Ciências (Energia Nuclear na Agricultura)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Vinicius Pires Rezende. ensores proximais para análise de nutrientes do solo: Integração de XRF, NIR e câmeras no avanço da agricultura de precisão. Início: 2025. Tese (Doutorado em Programa de Pós-Graduação em Ciências) - Universidade de São Paulo. (Orientador).",
+      "autores": "Vinicius Pires Rezende. ensores proximais para análise de nutrientes do solo: Integração de XRF, NIR e câmeras no avanço da agricultura de precisão. Início: 2025. Tese (Doutorado em Programa de Pós-Graduação em Ciências) - Universidade de São Paulo. (Orientador)",
+      "titulo": "ensores proximais para análise de nutrientes do solo: Integração de XRF, NIR e câmeras no avanço da agricultura de precisão",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0c5f47179243cee00358e31b9cb498f570d8aa9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8348947596643064\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Vinicius Pires Rezende. ensores proximais para análise de nutrientes do solo: Integração de XRF, NIR e câmeras no avanço da agricultura de precisão.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Programa de Pós-Graduação em Ciências)  - Universidade de São Paulo. (Orientador). </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "Início: 2025. Tese (Doutorado em Programa de Pós-Graduação em Ciências) - Universidade de São Paulo. (Orientador)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Higor José Freitas Alves da Silva. Síntese de fertilizantes orgânicos e biofertilizantes: Uma estratégia para mitigação de déficit hídrico na soja a partir do uso de subprodutos. Início: 2025. Tese (Doutorado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "autores": null,
+      "titulo": "Síntese de fertilizantes orgânicos e biofertilizantes: Uma estratégia para mitigação de déficit hídrico na soja a partir do uso de subprodutos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9b7278f77120921ac9ba8b38ab017118ec4f1480",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9179760679161946\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Higor José Freitas Alves da Silva. Síntese de fertilizantes orgânicos e biofertilizantes: Uma estratégia para mitigação de déficit hídrico na soja a partir do uso de subprodutos.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Energia Nuclear na Agricultura (Esalq))  - Universidade de São Paulo, Coordenação de ",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "Início: 2025. Tese (Doutorado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Kaoutar Boufous. Investigating Phosphogypsum dynamics in soils and its relationship with carbon sequestration and soil organic matter stabilization. Início: 2024. Tese (Doutorado em CeDoc) - Universidade Politécnica Mohammed VI, UM6P. (Orientador).",
+      "autores": "Kaoutar Boufous. Investigating Phosphogypsum dynamics in soils and its relationship with carbon sequestration and soil organic matter stabilization. Início: 2024. Tese (Doutorado em CeDoc) - Universidade Politécnica Mohammed VI, UM6P. (Orientador)",
+      "titulo": "Investigating Phosphogypsum dynamics in soils and its relationship with carbon sequestration and soil organic matter stabilization",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "67f9032c1e38682180d78eb6b58af946c5320161",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kaoutar Boufous. Investigating Phosphogypsum dynamics in soils and its relationship with carbon sequestration and soil organic matter stabilization.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em CeDoc)  - Universidade Politécnica Mohammed VI, UM6P. (Orientador). </span></div>",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "Início: 2024. Tese (Doutorado em CeDoc) - Universidade Politécnica Mohammed VI"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Carlos da Rocha. Desenvolvimento de um método por espectrometria de fluorescência de raios X por energia dispersiva (EDXRF) combinado as técnicas de aprendizado de máquinas (Machine Learning) para caracterização de zinco, manganês e elementos potencialmente tóxicos em matérias primas e fertilizantes. 2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Hudson Wallace Pereira de Carvalho.",
+      "autores": null,
+      "titulo": "Desenvolvimento de um método por espectrometria de fluorescência de raios X por energia dispersiva (EDXRF) combinado as técnicas de aprendizado de máquinas (Machine Learning) para caracterização de zinco, manganês e elementos potencialmente tóxicos em matérias primas e fertilizantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bec236c2fac55ca329d789263c05aa2f3144835f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Carlos da Rocha. Desenvolvimento de um método por espectrometria de fluorescência de raios X por energia dispersiva (EDXRF) combinado as técnicas de aprendizado de máquinas (Machine Learning) para caracterização de zinco, manganês e elementos potencialmente tóxicos em matérias primas e fertilizantes.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Energia Nuclear na Agricultura (Esalq))  - Universidade de São Paulo, Conselho Nacional de",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Vinicius Pires Rezende. Efeitos da umidade e do ácido glutâmico sobre a translocação de manganês e zinco aplicados via foliar nas culturas da soja (Glycine max) e café (Coffea arabica). 2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Hudson Wallace Pereira de Carvalho.",
+      "autores": null,
+      "titulo": "Efeitos da umidade e do ácido glutâmico sobre a translocação de manganês e zinco aplicados via foliar nas culturas da soja (Glycine max) e café (Coffea arabica)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a9d92bf70edcd35badad29d7708499169005099f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8348947596643064\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Vinicius Pires Rezende. Efeitos da umidade e do ácido glutâmico sobre a translocação de manganês e zinco aplicados via foliar nas culturas da soja (Glycine max) e café (Coffea arabica).\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Energia Nuclear na Agricultura (Esalq))  - Universidade de São Paulo, Co",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo"
+    },
+    {
+      "numero_item": 12,
+      "raw": "Higor José da Silva. Interação química no tanque de pulverização entre os micronutrientes Zn & Mn e fungicidas utilizados na cultura da soja. 2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Hudson Wallace Pereira de Carvalho.",
+      "autores": null,
+      "titulo": "Interação química no tanque de pulverização entre os micronutrientes Zn & Mn e fungicidas utilizados na cultura da soja",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b3eae22875f642693a9ec1257e7783ec82a5d217",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9179760679161946\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Higor José da Silva. Interação química no tanque de pulverização entre os micronutrientes Zn &amp; Mn e fungicidas utilizados na cultura da soja.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Energia Nuclear na Agricultura (Esalq))  - Universidade de São Paulo, Conselho Nacional de Desenvolvimento Cient",
+      "source": {
+        "file": "3399995941990393__hudson-wallace-pereira-de-carvalho.full_profile.html",
+        "lattes_id": "3399995941990393",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.656042"
+      },
+      "veiculo": "2024. Dissertação (Mestrado em Energia Nuclear na Agricultura (Esalq)) - Universidade de São Paulo"
+    }
+  ]
+}

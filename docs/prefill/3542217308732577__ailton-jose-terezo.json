@@ -1,0 +1,1643 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "3542217308732577",
+    "full_name": "Ailton Jose Terezo",
+    "slug": "ailton-jose-terezo",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:32.834487",
+    "source_file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+    "total_productions": 88,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 44,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 1,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 0,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 0,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 5,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 2,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 36,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 1,
+      "raw": "VIEIRA, AMANDA T. 2025 VIEIRA, AMANDA T. ; EBERT, HEVELYN V. ; THERÉZIO, ERALCI M. ; TEREZO, AILTON J. ; BARROS, ARIANE I. ; DE SIQUEIRA, ADRIANO B. ; SOARES, MARIO R.S. . Crude glycerol as a sustainable source for carbon-based photoluminescent material. BIOMASS & BIOENERGY , v. 193, p. 107556, 2025.",
+      "autores": "VIEIRA, AMANDA T. VIEIRA, AMANDA T.; EBERT, HEVELYN V.; THERÉZIO, ERALCI M.; TEREZO, AILTON J.; BARROS, ARIANE I.; DE SIQUEIRA, ADRIANO B.; SOARES, MARIO R.S.",
+      "titulo": "Crude glycerol as a sustainable source for carbon-based photoluminescent material",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.biombioe.2024.107556",
+      "fingerprint_sha1": "79926d5f71c003df518dae4879f08e568ab8a008",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VIEIRA, AMANDA T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.biombioe.2024.107556\" target=\"_blank\"></a>VIEIRA, AMANDA T. ; EBERT, HEVELYN V. ; THERÉZIO, ERALCI M. ; <b>TEREZO, AILTON J.</b> ; BARROS, A",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "BIOMASS & BIOENERGY"
+    },
+    {
+      "numero_item": 2,
+      "raw": "AKEL, RHALID 2025 AKEL, RHALID ; LIRA, FERNANDA S. ; LUNA, VINICIUS C. ; MARQUES, MATHEUS Z. ; VASCONCELOS, LEONARDO G. ; CASTILHO, Marilza ; SIQUEIRA, ADRIANA P. C. ; TEREZO, AILTON J. ; DE SIQUEIRA, ADRIANO B. . SUSTAINABLE USE OF BOILER ASH TO PURIFY BIODIESEL AND WASTE FRYING OIL: A PROPOSAL OF CIRCULAR ECONOMY. QUIMICA NOVA , v. 48, p. e-20250130, 2025.",
+      "autores": "AKEL, RHALID AKEL, RHALID; LIRA, FERNANDA S.; LUNA, VINICIUS C.; MARQUES, MATHEUS Z.; VASCONCELOS, LEONARDO G.; CASTILHO, Marilza; SIQUEIRA, ADRIANA P. C.; TEREZO, AILTON J.; DE SIQUEIRA, ADRIANO B.",
+      "titulo": "SUSTAINABLE USE OF BOILER ASH TO PURIFY BIODIESEL AND WASTE FRYING OIL: A PROPOSAL OF CIRCULAR ECONOMY",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.21577/0100-4042.20250130",
+      "fingerprint_sha1": "21e69909e6d16cb9c9cc55031bbae715399db60d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">AKEL, RHALID</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/0100-4042.20250130\" target=\"_blank\"></a>AKEL, RHALID ; LIRA, FERNANDA S. ; LUNA, VINICIUS C. ; MARQUES, MATHEUS Z. ; VASCONCELOS, LEONARDO G. ; CA",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "QUIMICA NOVA"
+    },
+    {
+      "numero_item": 3,
+      "raw": "ALVES, RENATA CAROLINA 2025 ALVES, RENATA CAROLINA ; LUNA, VINICIUS CAGNOTO ; BACO, CRISTIANO JOSÉ ; TEREZO, AILTON JOSÉ ; CASTILHO, Marilza ; SIQUEIRA, ADRIANO BUZUTTI . Emerging applications of nano-metal-organic frameworks for sustainable agriculture: A critical review. Plant Nano Biology , v. 12, p. 100159, 2025.",
+      "autores": "ALVES, RENATA CAROLINA ALVES, RENATA CAROLINA; LUNA, VINICIUS CAGNOTO; BACO, CRISTIANO JOSÉ; TEREZO, AILTON JOSÉ; CASTILHO, Marilza; SIQUEIRA, ADRIANO BUZUTTI",
+      "titulo": "Emerging applications of nano-metal-organic frameworks for sustainable agriculture: A critical review",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.plana.2025.100159",
+      "fingerprint_sha1": "471af849d4c86a760f8fd18abf198b62c842f0b7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, RENATA CAROLINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100159\" target=\"_blank\"></a>ALVES, RENATA CAROLINA ; LUNA, VINICIUS CAGNOTO ; BACO, CRISTIANO JOSÉ ; <b>TEREZO, AILTON JOSÉ<",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "Plant Nano Biology"
+    },
+    {
+      "numero_item": 4,
+      "raw": "BARBOZA, ADRIENE DE MOURA 2025 BARBOZA, ADRIENE DE MOURA ; DA SILVA, CRISLAURIO GONÇALVES ; TEREZO, AILTON JOSÉ ; DE ANDRADE, ROBSON CARLOS ; RODRIGUES, RAPHAEL ; COLMAN, TIAGO ANDRÉ DENCK ; DE SIQUEIRA, ADRIANO BUZUTTI ; DE CARVALHO, CLÁUDIO TEODORO . Effect of iron and molybdenum on silica-based mesoporous catalysts for glycerol conversion to solketal. Molecular Catalysis , v. 584, p. 115302, 2025.",
+      "autores": "BARBOZA, ADRIENE DE MOURA BARBOZA, ADRIENE DE MOURA; DA SILVA, CRISLAURIO GONÇALVES; TEREZO, AILTON JOSÉ; DE ANDRADE, ROBSON CARLOS; RODRIGUES, RAPHAEL; COLMAN, TIAGO ANDRÉ DENCK; DE SIQUEIRA, ADRIANO BUZUTTI; DE CARVALHO, CLÁUDIO TEODORO",
+      "titulo": "Effect of iron and molybdenum on silica-based mesoporous catalysts for glycerol conversion to solketal",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.mcat.2025.115302",
+      "fingerprint_sha1": "6166ea6226cb0252208f625fb6e27b8e9eb58263",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARBOZA, ADRIENE DE MOURA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.mcat.2025.115302\" target=\"_blank\"></a>BARBOZA, ADRIENE DE MOURA ; DA SILVA, CRISLAURIO GONÇALVES ; <b>TEREZO, AILTON JOSÉ</b> ; DE A",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "Molecular Catalysis"
+    },
+    {
+      "numero_item": 5,
+      "raw": "DE MORAIS, ULISSES N. 2025 DE MORAIS, ULISSES N. ; THERÉZIO, ERALCI M. ; TEREZO, AILTON J. ; SIQUEIRA, ADRIANO B. . Nanocircularity in Agriculture with BioC-Dots: Vinasse-Derived Carbon-Dots and Their Usage as Potential Metal Ion Sensors. ACS Omega , v. 8, p. 1, 2025.",
+      "autores": "DE MORAIS, ULISSES N. DE MORAIS, ULISSES N.; THERÉZIO, ERALCI M.; TEREZO, AILTON J.; SIQUEIRA, ADRIANO B.",
+      "titulo": "Nanocircularity in Agriculture with BioC-Dots: Vinasse-Derived Carbon-Dots and Their Usage as Potential Metal Ion Sensors",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1021/acsomega.4c11597",
+      "fingerprint_sha1": "5740ec50317cf7adfdec61ee4b274fcdbe642305",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE MORAIS, ULISSES N.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c11597\" target=\"_blank\"></a>DE MORAIS, ULISSES N. ; THERÉZIO, ERALCI M. ; <b>TEREZO, AILTON J.</b> ; SIQUEIRA, ADRIANO B. . Nano",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "ACS Omega"
+    },
+    {
+      "numero_item": 6,
+      "raw": "DE BARROS, WELLINGTON ALVES 2024 DE BARROS, WELLINGTON ALVES ; LOURENÇO, ANABEL SANTOS ; AMARAL, MATEUS FERREIRA ; CASTILHO, Marilza ; TEREZO, AILTON JOSÉ ; DE FÁTIMA, ÂNGELO . Voltammetric study and determination of the new psychoactive substances 25H-NBOH and 25B-NBOH in synthetic urine and blotter paper samples using a composite electrode. ELECTROCHIMICA ACTA , v. 484, p. 144051, 2024.",
+      "autores": "DE BARROS, WELLINGTON ALVES DE BARROS, WELLINGTON ALVES; LOURENÇO, ANABEL SANTOS; AMARAL, MATEUS FERREIRA; CASTILHO, Marilza; TEREZO, AILTON JOSÉ; DE FÁTIMA, ÂNGELO",
+      "titulo": "Voltammetric study and determination of the new psychoactive substances 25H-NBOH and 25B-NBOH in synthetic urine and blotter paper samples using a composite electrode",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.electacta.2024.144051",
+      "fingerprint_sha1": "ea7a89e51c3255b1bc9f3760c2036e3b6a4eed66",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE BARROS, WELLINGTON ALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2024.144051\" target=\"_blank\"></a>DE BARROS, WELLINGTON ALVES ; LOURENÇO, ANABEL SANTOS ; AMARAL, MATEUS FERREIRA ; CASTI",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "ELECTROCHIMICA ACTA"
+    },
+    {
+      "numero_item": 7,
+      "raw": "BARROS FERREIRA DA SILVA, GLEICIANE 2024 BARROS FERREIRA DA SILVA, GLEICIANE ; FERREIRA AMARAL, MATEUS ; PERIN BEZERRA, FELIPE ; TEREZO, AILTON JOSÉ ; CASTILHO, Marilza . DEVELOPMENT OF A VOLTAMMETRIC METHOD FOR THE SIMULTANEOUS DETERMINATION OF PESTICIDES IN SURFACE WATER USING A COMPOSITE ELECTRODE. QUIMICA NOVA , v. 47, p. e-20240062-1, 2024.",
+      "autores": "BARROS FERREIRA DA SILVA, GLEICIANE BARROS FERREIRA DA SILVA, GLEICIANE; FERREIRA AMARAL, MATEUS; PERIN BEZERRA, FELIPE; TEREZO, AILTON JOSÉ; CASTILHO, Marilza",
+      "titulo": "DEVELOPMENT OF A VOLTAMMETRIC METHOD FOR THE SIMULTANEOUS DETERMINATION OF PESTICIDES IN SURFACE WATER USING A COMPOSITE ELECTRODE",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.21577/0100-4042.20240062",
+      "fingerprint_sha1": "ab25ad8581f566a771b5b8851a7dec5357d6c0b0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARROS FERREIRA DA SILVA, GLEICIANE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/0100-4042.20240062\" target=\"_blank\"></a>BARROS FERREIRA DA SILVA, GLEICIANE ; FERREIRA AMARAL, MATEUS ; PERIN BEZERRA, FELI",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "QUIMICA NOVA"
+    },
+    {
+      "numero_item": 110,
+      "raw": "TEREZO, A. J. . Novas tecnologias no Agro: Conhecendo a Nanotecnologia. 2025. (Apresentação de Trabalho/Congresso).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Novas tecnologias no Agro: Conhecendo a Nanotecnologia",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "257ebfca77b5f5a51c569f61a89fe5cc2ce100aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Novas tecnologias no Agro: Conhecendo a Nanotecnologia. 2025. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 111,
+      "raw": "TEREZO, A. J. . Nanocarbonos na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanocarbonos na Agricultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4c61753e53ec315132689d3e24ab1b8d4a434c9c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanocarbonos na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 112,
+      "raw": "TEREZO, A. J. . Nanotecnologia na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia na Agricultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dcd364293abcef70ceda05f284039b995bafef0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 113,
+      "raw": "TEREZO, A. J. . Química Aplicada ao Agronegócio. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Química Aplicada ao Agronegócio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7e632d689b339e0b4d8ba440632b30e482103413",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Química Aplicada ao Agronegócio. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 118,
+      "raw": "TEREZO, AILTON JOSÉ ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Lumina - Acelere a fotossíntese. 2025.",
+      "autores": "TEREZO, AILTON JOSÉ; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Lumina - Acelere a fotossíntese",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c081e5ee673c5e3a80650de08df846428e1ab589",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON JOSÉ</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Lumina - Acelere a fotossíntese. 2025. </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 120,
+      "raw": "TEREZO, A. J. . O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ee5bffc7c4a4e03ed83ca11c0aee961980ec79db",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agfeed.com.br/esg/o-futuro-circular-do-agro-como-cientistas-e-empresas-estao-transformando-residuos-em-fertilizantes/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></d",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 121,
+      "raw": "TEREZO, A. J. . Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "38c4190f5d01192d708ac586db50bb4edcdefb14",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://super.abril.com.br/ciencia/como-po-feito-de-residuos-acelera-o-crescimento-das-plantas-e-pode-frear-o-desmatamento/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 122,
+      "raw": "TEREZO, A. J. . UFMT aposta em parcerias para impulsionar nanotecnologia no campo. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "UFMT aposta em parcerias para impulsionar nanotecnologia no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b290ebd880fc1c8a82822a147f8d33ee9d507d30",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. UFMT aposta em parcerias para impulsionar nanotecnologia no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.midianews.com.br/cotidiano/ufmt-aposta-em-parcerias-para-impulsionar-nanotecnologia-no-campo/498230')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 123,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://umsoplaneta.globo.com/energia/noticia/2025/06/13/cientistas-criam-solucao-que-aproveita-lodo-gerado-pelo-tratamento-de-esgoto-no-brasil.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 124,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://tratamentodeagua.com.br/artigo/tratamento-esgoto-brasil/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 125,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://revistagalileu.globo.com/um-so-planeta/noticia/2025/06/cientistas-criam-solucao-que-aproveita-lodo-gerado-pelo-tratamento-de-esgoto-no-brasil.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 126,
+      "raw": "TEREZO, A. J. . Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a7d96f4148876a4195d58ac0b40197969f6e769b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/nanotecnologia-no-agro-startup-nascida-na-ufmt-pode-aumentar-ainda-mais-producao-de-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 127,
+      "raw": "TEREZO, A. J. . UFMT faz parcerias para impulsionar nanotecnologia no campo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "UFMT faz parcerias para impulsionar nanotecnologia no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "47c7fc69f68dee7ab228de3ac232ac0316cc561f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. UFMT faz parcerias para impulsionar nanotecnologia no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.folhamax.com/economia/ufmt-faz-parcerias-para-impulsionar-nanotecnologia-no-campo/501231')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 128,
+      "raw": "TEREZO, A. J. ; Costa, A. . Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Costa, A.",
+      "titulo": "Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "de8f53dc468cfb358924de21add676391ee6cb60",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Costa, A. . Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/pesquisa-da-ufmt-transforma-residuos-domestico-em-potente-fertilizante/819613')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 129,
+      "raw": "TEREZO, A. J. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; CARDOSO, ADRIANA . Startup criada por pesquisadores da UFMT é selecionada para evento do agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; DE SIQUEIRA, ADRIANO B.; CASTILHO, M.; CARDOSO, ADRIANA",
+      "titulo": "Startup criada por pesquisadores da UFMT é selecionada para evento do agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0db72fc54d91727bae6e9a8be99d80196e45d46d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; CARDOSO, ADRIANA . Startup criada por pesquisadores da UFMT é selecionada para evento do agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.rdnews.com.br/economia/conteudos/208857')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 130,
+      "raw": "TEREZO, A. J. ; Bellinello, L. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; Bellinello, L.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "01172c73fc17a62819cf7d597a884f537a46c46c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Bellinello, L. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 131,
+      "raw": "TEREZO, A. J. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "23f2afddcaff06a1e73aea387450659d80336947",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://avancenews.com.br/ultimas-noticias/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 132,
+      "raw": "TEREZO, A. J. . CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0158475c5cda36beaed6e7bd6cd090ea588a799",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://sbcbrasil.com.br/poder/politica/cst-discute-inovacao-tecnologica-e-acoes-para-fortalecimento-da-agricultura-familiar-em-mato-grosso/188151/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 133,
+      "raw": "TEREZO, A. J. . CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0158475c5cda36beaed6e7bd6cd090ea588a799",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://noticias.r7.com/mato-grosso/momento-mt/cst-discute-inovacao-tecnologica-e-acoes-para-fortalecimento-da-agricultura-familiar-em-mato-grosso-14072025/')\" src=\"http://estatico.cnpq.br/imagen",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 134,
+      "raw": "TEREZO, AILTON J. ; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup criada na UFMT é exposta em evento no Paraná. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.; CASTILHO, Marilza; DE SIQUEIRA, ADRIANO B.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup criada na UFMT é exposta em evento no Paraná",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ec42d36ca4d820543dbe6a0a41132f00107c0112",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup criada na UFMT é exposta em evento no Paraná. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/startup-criada-na-ufmt-e-exposta-em-evento-no-parana/803033')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.pn",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 135,
+      "raw": "TEREZO, A. J. ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b10f5a5608c188a6077e03f9017f312f0408faad",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.rdnews.com.br/economia/conteudos/209938')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 136,
+      "raw": "TEREZO, A. J. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "23f2afddcaff06a1e73aea387450659d80336947",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agro.mt/2025/08/29/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 137,
+      "raw": "TEREZO, A. J. ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup composta por pesquisadores da UFMT é selecionada para evento do agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup composta por pesquisadores da UFMT é selecionada para evento do agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6998e3f011918a578b18a93fdeed17e663693411",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup composta por pesquisadores da UFMT é selecionada para evento do agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://omatogrosso.com/educacao/startup-composta-por-pesquisadores-da-ufmt-e-selecionada-para-evento-do-agro/')\" src=\"http://estatico.cnpq.br/imagens/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 138,
+      "raw": "TEREZO, A. J. . O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a24ff1b31cc701714f4a53d0e874a4319cbe9f2b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.locajob.com.br/o-futuro-circular-do-agro-residuos-viram-fertilizantes-e-aceleram-a-produtividade-no-campo')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 139,
+      "raw": "TEREZO, A. J. ; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, Marilza; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "231da69975845090a40fcaa707af2e07f9bb0f2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://jornadanews.com.br/mato-grosso/startup-de-mato-grosso-e-destaque-em-evento-da-sociedade-rural-do-parana-e-leva-premio-maximo/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 140,
+      "raw": "TEREZO, A.J. . Etanol de milho transforma MT e setor não teme chegada de elétricos. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A.J.",
+      "titulo": "Etanol de milho transforma MT e setor não teme chegada de elétricos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9c7286a392da816038ad8295a78a80fa7724a0d1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A.J.</b>. Etanol de milho transforma MT e setor não teme chegada de elétricos. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.midianews.com.br/cotidiano/etanol-de-milho-transforma-mt-e-setor-nao-teme-chegada-de-eletricos/501128')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 141,
+      "raw": "TEREZO, A.J. ; Bellinello, L. . Professor da UFMT explica efeitos do metanol no corpo humano. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A.J.; Bellinello, L.",
+      "titulo": "Professor da UFMT explica efeitos do metanol no corpo humano",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2c86d0760901c21ad796c8e3d8f3722e6ac26188",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A.J.</b>; Bellinello, L. . Professor da UFMT explica efeitos do metanol no corpo humano. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/professor-da-ufmt-explica-efeitos-do-metanol-no-corpo-humano')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 142,
+      "raw": "TEREZO, A. J. ; GODOY, K. . Vinhaça do etanol vira produto de alto valor. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; GODOY, K.",
+      "titulo": "Vinhaça do etanol vira produto de alto valor",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bf212b925bb5bcb8d407869acb236c102ee648f7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; GODOY, K. . Vinhaça do etanol vira produto de alto valor. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://noticias.r7.com/record-news/record-news-rural/video/vinhaca-do-etanol-vira-produto-de-alto-valor-02102025/?utm_source=whatsapp&amp;utm_medium=share-bar&amp;utm_campaign=r7-topo')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 143,
+      "raw": "TEREZO, AILTON J. . Pesquisa da UFMT é apresentada em exposição na China. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.",
+      "titulo": "Pesquisa da UFMT é apresentada em exposição na China",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "735aeb7eee81bea63a9ad2100d9abedc4f35f67a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>. Pesquisa da UFMT é apresentada em exposição na China. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/pesquisa-da-ufmt-e-apresentada-em-exposicao-na-china/826169')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 144,
+      "raw": "TEREZO, AILTON J. . Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.",
+      "titulo": "Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "346a8f4fe3e24f32e9e0ac75ec7ec93e180faf7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>. Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/nanotecnologia-desenvolvida-na-ufmt-brilha-em-feira-agricola-da-china')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 145,
+      "raw": "TEREZO, AILTON JOSÉ . Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, AILTON JOSÉ",
+      "titulo": "Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "be8d8ac9bb1741d3da83379761eb000d0832d828",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON JOSÉ</b>. Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=5sdtIqloa3I')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 146,
+      "raw": "TEREZO, A. J. ; Bellinello, L. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; SIQUEIRA, ADRIANA P. C. . Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; Bellinello, L.; DE SIQUEIRA, ADRIANO B.; CASTILHO, M.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f341aa6fd0cdf3a0ea0e775816fbada82438d7ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Bellinello, L. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; SIQUEIRA, ADRIANA P. C. . Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://circuitomt.com.br/startup-criada-por-pesquisadores-da-ufmt-estara-em-evento-de-inovacao-do-parana/')\" src=\"http://estatico.",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 147,
+      "raw": "TEREZO, A. J. . Nanotecnologia no agro: ganhos vão além da ciência. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no agro: ganhos vão além da ciência",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1540c493b8d6ea53a4485b5eca7aae5180b07da8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no agro: ganhos vão além da ciência. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://matogrosso.canalrural.com.br/agricultura/nanotecnologia-no-agro-ganhos-que-vao-alem-da-ciencia/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 148,
+      "raw": "TEREZO, A. J. ; Patroni, L. ; Petroli, V. . Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense. 2024. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Patroni, L.; Petroli, V.",
+      "titulo": "Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7fe209e281a7c0228473efdf91a27b33032bf915",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Patroni, L. ; Petroli, V. . Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://matogrosso.canalrural.com.br/entretenimento/estudio-rural/rede-mt-nanoagro-busca-aproveitar-o-maximo-do-potencial-do-agronegocio-mato-grossense/')\" src=\"http://estatico.cnpq",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 149,
+      "raw": "TEREZO, A. J. ; Patroni, L. . Nanotecnologia a partir de resíduos. 2024. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Patroni, L.",
+      "titulo": "Nanotecnologia a partir de resíduos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ad5bdbb8a63d85b068cdb05e874ff28e1c26fd9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Patroni, L. . Nanotecnologia a partir de resíduos. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=iK3CQ7NEBno')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 150,
+      "raw": "TEREZO, A. J. . Nanotecnologia no agro: ganhos que vão além da ciência. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no agro: ganhos que vão além da ciência",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d9dae1887a8af3cd81d350b4e4b1ad751b50a9ac",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no agro: ganhos que vão além da ciência. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://vidaruralmt.com.br/Publicacao.aspx?id=506851')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 151,
+      "raw": "TEREZO, A. J. . DESTAQUE: UFMT integra Instituto nacional de nanotecnologia. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "DESTAQUE: UFMT integra Instituto nacional de nanotecnologia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4f9f2536a31aec52fe0f594155f069687bde959b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. DESTAQUE: UFMT integra Instituto nacional de nanotecnologia. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.coisasdematogrosso.com.br/noticias/noticia.asp?id=62482&amp;noticia=DESTAQUE_UFMT_integra_Instituto_nacional_de_nanotecnologia')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:32.803465"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "SIQUEIRA, A. B. ; ROSSI, B. L. ; TEREZO, A. J. . OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO. 2019, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10201902191, título: \"OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 18/10/2019; Concessão: 09/09/2025.",
+      "autores": "SIQUEIRA, A. B.; ROSSI, B. L.; TEREZO, A. J.",
+      "titulo": "OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f4129c542c6b74b4b2b7942adfa75a63e8f26a6e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10201902191&amp;idCNPq=3542217308732577&amp;sequencial=175\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"> </span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6569021588718910\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SIQUEIRA, A. B.</a> ; ROSSI, B. L. ; <b>TEREZO, A. J.</b> . OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:32.804522"
+      },
+      "veiculo": "2019"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Ana Luisa Martins Revoredo. Conservação pós-colheita de flores e frutos utilizando a nanotecnologia. Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Conservação pós-colheita de flores e frutos utilizando a nanotecnologia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e495775f6d39d6a88c5c4e6a12cd3ca1b1b636c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Luisa Martins Revoredo. Conservação pós-colheita de flores e frutos utilizando a nanotecnologia. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.818945"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Kevin Eduardo Pacheco. Síntese e caracterização de (nano)sílica na presença de biopolímeros e glicerol. Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador).",
+      "autores": null,
+      "titulo": "Síntese e caracterização de (nano)sílica na presença de biopolímeros e glicerol",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7b4e8739930dc8674e03bb15131d1e7cf8a8929b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kevin Eduardo Pacheco. Síntese e caracterização de (nano)sílica na presença de biopolímeros e glicerol. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.818945"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Renata Ívina Costa Silva. Síntese e caracterização de nanopartículas de silício e nanosuspensões mediadas por aminoácidos. Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).",
+      "autores": null,
+      "titulo": "Síntese e caracterização de nanopartículas de silício e nanosuspensões mediadas por aminoácidos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d5f0cd9a9d3b59fcd348e0973432cd0fce1a2de6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Renata Ívina Costa Silva. Síntese e caracterização de nanopartículas de silício e nanosuspensões mediadas por aminoácidos. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.818945"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Miriã Brandão Pereira. Estudo de adjuvante agrícola a base de éster modificado e glicerina. Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador).",
+      "autores": null,
+      "titulo": "Estudo de adjuvante agrícola a base de éster modificado e glicerina",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "94f5d4af365442147deb73911c8e642fe35b79e0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Miriã Brandão Pereira. Estudo de adjuvante agrícola a base de éster modificado e glicerina. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.818945"
+      },
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Lucas Vinicius Moreira Guerra. Estudo da incompatibilidade físico-química em misturas de agroquímicos a base de 2,4-D e glifosato. 2025. Dissertação (Mestrado em Mestrado em Química) - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Ailton Jose Terezo.",
+      "autores": null,
+      "titulo": "Estudo da incompatibilidade físico-química em misturas de agroquímicos a base de 2,4-D e glifosato",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4d8732d0b148707c8aeaf8b4c0c5636786649490",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Vinicius Moreira Guerra. Estudo da incompatibilidade físico-química em misturas de agroquímicos a base de 2,4-D e glifosato.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Mestrado em Química)  - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Ailton Jose Terezo. </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:32.818945"
+      },
+      "veiculo": "2025. Dissertação (Mestrado em Mestrado em Química) - Universidade Federal de Mato Grosso"
+    },
+    {
+      "numero_item": 1,
+      "raw": "SIQUEIRA, A. B. ; ROSSI, B. L. ; TEREZO, A. J. . OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO. 2019, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10201902191, título: \"OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 18/10/2019; Concessão: 09/09/2025.",
+      "autores": "SIQUEIRA, A. B.; ROSSI, B. L.; TEREZO, A. J.",
+      "titulo": "OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR DE LODO E DE ESGOTO E SEU USO",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f4129c542c6b74b4b2b7942adfa75a63e8f26a6e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10201902191&amp;idCNPq=3542217308732577&amp;sequencial=175\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"> </span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6569021588718910\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SIQUEIRA, A. B.</a> ; ROSSI, B. L. ; <b>TEREZO, A. J.</b> . OBTENÇÃO DE PONTO QUÂNTICO DE CARBONO A PARTIR",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:32.820439"
+      },
+      "veiculo": "2019"
+    },
+    {
+      "numero_item": 2,
+      "raw": "TEREZO, AILTON JOSÉ ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Lumina - Acelere a fotossíntese. 2025.",
+      "autores": "TEREZO, AILTON JOSÉ; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Lumina - Acelere a fotossíntese",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c081e5ee673c5e3a80650de08df846428e1ab589",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON JOSÉ</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Lumina - Acelere a fotossíntese. 2025. </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:32.820439"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 3,
+      "raw": "TEREZO, A. J. . Química Aplicada ao Agronegócio. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Química Aplicada ao Agronegócio",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7e632d689b339e0b4d8ba440632b30e482103413",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Química Aplicada ao Agronegócio. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 4,
+      "raw": "TEREZO, A. J. . Novas tecnologias no Agro: Conhecendo a Nanotecnologia. 2025. (Apresentação de Trabalho/Congresso).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Novas tecnologias no Agro: Conhecendo a Nanotecnologia",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "257ebfca77b5f5a51c569f61a89fe5cc2ce100aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Novas tecnologias no Agro: Conhecendo a Nanotecnologia. 2025. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "TEREZO, A. J. . Nanocarbonos na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanocarbonos na Agricultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4c61753e53ec315132689d3e24ab1b8d4a434c9c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanocarbonos na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 6,
+      "raw": "TEREZO, A. J. . Nanotecnologia na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia na Agricultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dcd364293abcef70ceda05f284039b995bafef0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia na Agricultura. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "TEREZO, A. J. . O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ee5bffc7c4a4e03ed83ca11c0aee961980ec79db",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. O futuro circular do agro: como cientistas e empresas estão transformando resíduos em fertilizantes. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agfeed.com.br/esg/o-futuro-circular-do-agro-como-cientistas-e-empresas-estao-transformando-residuos-em-fertilizantes/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></d",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "TEREZO, A. J. . Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "38c4190f5d01192d708ac586db50bb4edcdefb14",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Pó feito de resíduos acelera o crescimento das plantas e pode ajudar contra o desmatamento. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://super.abril.com.br/ciencia/como-po-feito-de-residuos-acelera-o-crescimento-das-plantas-e-pode-frear-o-desmatamento/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "TEREZO, A. J. . UFMT aposta em parcerias para impulsionar nanotecnologia no campo. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "UFMT aposta em parcerias para impulsionar nanotecnologia no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b290ebd880fc1c8a82822a147f8d33ee9d507d30",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. UFMT aposta em parcerias para impulsionar nanotecnologia no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.midianews.com.br/cotidiano/ufmt-aposta-em-parcerias-para-impulsionar-nanotecnologia-no-campo/498230')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 10,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://umsoplaneta.globo.com/energia/noticia/2025/06/13/cientistas-criam-solucao-que-aproveita-lodo-gerado-pelo-tratamento-de-esgoto-no-brasil.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://tratamentodeagua.com.br/artigo/tratamento-esgoto-brasil/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "TEREZO, A. J. . Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e23baf053258708e6b5e952e0837620e5a901f64",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Cientistas criam solução que aproveita lodo gerado pelo tratamento de esgoto no Brasil. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://revistagalileu.globo.com/um-so-planeta/noticia/2025/06/cientistas-criam-solucao-que-aproveita-lodo-gerado-pelo-tratamento-de-esgoto-no-brasil.ghtml')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 13,
+      "raw": "TEREZO, A. J. . Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a7d96f4148876a4195d58ac0b40197969f6e769b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no Agro? Startup nascida na UFMT pode aumentar ainda mais produção de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/nanotecnologia-no-agro-startup-nascida-na-ufmt-pode-aumentar-ainda-mais-producao-de-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 14,
+      "raw": "TEREZO, A. J. . Nanotecnologia no agro: ganhos vão além da ciência. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no agro: ganhos vão além da ciência",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1540c493b8d6ea53a4485b5eca7aae5180b07da8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no agro: ganhos vão além da ciência. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://matogrosso.canalrural.com.br/agricultura/nanotecnologia-no-agro-ganhos-que-vao-alem-da-ciencia/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 15,
+      "raw": "TEREZO, A. J. ; Patroni, L. ; Petroli, V. . Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense. 2024. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Patroni, L.; Petroli, V.",
+      "titulo": "Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7fe209e281a7c0228473efdf91a27b33032bf915",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Patroni, L. ; Petroli, V. . Rede MT-NanoAgro busca aproveitar o máximo do potencial do agronegócio mato-grossense. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://matogrosso.canalrural.com.br/entretenimento/estudio-rural/rede-mt-nanoagro-busca-aproveitar-o-maximo-do-potencial-do-agronegocio-mato-grossense/')\" src=\"http://estatico.cnpq",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 18,
+      "raw": "TEREZO, A. J. . UFMT faz parcerias para impulsionar nanotecnologia no campo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "UFMT faz parcerias para impulsionar nanotecnologia no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "47c7fc69f68dee7ab228de3ac232ac0316cc561f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. UFMT faz parcerias para impulsionar nanotecnologia no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.folhamax.com/economia/ufmt-faz-parcerias-para-impulsionar-nanotecnologia-no-campo/501231')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 19,
+      "raw": "TEREZO, A. J. ; Costa, A. . Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Costa, A.",
+      "titulo": "Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "de8f53dc468cfb358924de21add676391ee6cb60",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Costa, A. . Pesquisa da UFMT transforma resíduos doméstico em potente fertilizante. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/pesquisa-da-ufmt-transforma-residuos-domestico-em-potente-fertilizante/819613')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 20,
+      "raw": "TEREZO, A. J. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; CARDOSO, ADRIANA . Startup criada por pesquisadores da UFMT é selecionada para evento do agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; DE SIQUEIRA, ADRIANO B.; CASTILHO, M.; CARDOSO, ADRIANA",
+      "titulo": "Startup criada por pesquisadores da UFMT é selecionada para evento do agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0db72fc54d91727bae6e9a8be99d80196e45d46d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; CARDOSO, ADRIANA . Startup criada por pesquisadores da UFMT é selecionada para evento do agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.rdnews.com.br/economia/conteudos/208857')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 21,
+      "raw": "TEREZO, A. J. ; Bellinello, L. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; Bellinello, L.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "01172c73fc17a62819cf7d597a884f537a46c46c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Bellinello, L. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 22,
+      "raw": "TEREZO, A. J. ; Patroni, L. . Nanotecnologia a partir de resíduos. 2024. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; Patroni, L.",
+      "titulo": "Nanotecnologia a partir de resíduos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ad5bdbb8a63d85b068cdb05e874ff28e1c26fd9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Patroni, L. . Nanotecnologia a partir de resíduos. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=iK3CQ7NEBno')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 29,
+      "raw": "TEREZO, A. J. . Nanotecnologia no agro: ganhos que vão além da ciência. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Nanotecnologia no agro: ganhos que vão além da ciência",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d9dae1887a8af3cd81d350b4e4b1ad751b50a9ac",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Nanotecnologia no agro: ganhos que vão além da ciência. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://vidaruralmt.com.br/Publicacao.aspx?id=506851')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 31,
+      "raw": "TEREZO, A. J. . DESTAQUE: UFMT integra Instituto nacional de nanotecnologia. 2024. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "DESTAQUE: UFMT integra Instituto nacional de nanotecnologia",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4f9f2536a31aec52fe0f594155f069687bde959b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. DESTAQUE: UFMT integra Instituto nacional de nanotecnologia. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.coisasdematogrosso.com.br/noticias/noticia.asp?id=62482&amp;noticia=DESTAQUE_UFMT_integra_Instituto_nacional_de_nanotecnologia')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 35,
+      "raw": "TEREZO, A. J. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "23f2afddcaff06a1e73aea387450659d80336947",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://avancenews.com.br/ultimas-noticias/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 37,
+      "raw": "TEREZO, A. J. . CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0158475c5cda36beaed6e7bd6cd090ea588a799",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://sbcbrasil.com.br/poder/politica/cst-discute-inovacao-tecnologica-e-acoes-para-fortalecimento-da-agricultura-familiar-em-mato-grosso/188151/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 38,
+      "raw": "TEREZO, A. J. . CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c0158475c5cda36beaed6e7bd6cd090ea588a799",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. CST discute inovação tecnológica e ações para fortalecimento da agricultura familiar em Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://noticias.r7.com/mato-grosso/momento-mt/cst-discute-inovacao-tecnologica-e-acoes-para-fortalecimento-da-agricultura-familiar-em-mato-grosso-14072025/')\" src=\"http://estatico.cnpq.br/imagen",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 47,
+      "raw": "TEREZO, AILTON J. ; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup criada na UFMT é exposta em evento no Paraná. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.; CASTILHO, Marilza; DE SIQUEIRA, ADRIANO B.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup criada na UFMT é exposta em evento no Paraná",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ec42d36ca4d820543dbe6a0a41132f00107c0112",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup criada na UFMT é exposta em evento no Paraná. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/startup-criada-na-ufmt-e-exposta-em-evento-no-parana/803033')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.pn",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 48,
+      "raw": "TEREZO, A. J. ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b10f5a5608c188a6077e03f9017f312f0408faad",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de MT é vencedora em premiação no Paraná: Soluções para o Agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.rdnews.com.br/economia/conteudos/209938')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 49,
+      "raw": "TEREZO, A. J. . Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "Solução para o aquecimento global pode vir do agro de Mato Grosso",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "23f2afddcaff06a1e73aea387450659d80336947",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. Solução para o aquecimento global pode vir do agro de Mato Grosso. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://agro.mt/2025/08/29/solucao-para-o-aquecimento-global-pode-vir-do-agro-de-mato-grosso/')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 50,
+      "raw": "TEREZO, A. J. ; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup composta por pesquisadores da UFMT é selecionada para evento do agro. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, M.; DE SIQUEIRA, ADRIANO B.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup composta por pesquisadores da UFMT é selecionada para evento do agro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6998e3f011918a578b18a93fdeed17e663693411",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, M. ; DE SIQUEIRA, ADRIANO B. ; SIQUEIRA, ADRIANA P. C. . Startup composta por pesquisadores da UFMT é selecionada para evento do agro. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://omatogrosso.com/educacao/startup-composta-por-pesquisadores-da-ufmt-e-selecionada-para-evento-do-agro/')\" src=\"http://estatico.cnpq.br/imagens/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 51,
+      "raw": "TEREZO, A. J. . O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.",
+      "titulo": "O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a24ff1b31cc701714f4a53d0e874a4319cbe9f2b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>. O futuro circular do agro: resíduos viram fertilizantes e aceleram a produtividade no campo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.locajob.com.br/o-futuro-circular-do-agro-residuos-viram-fertilizantes-e-aceleram-a-produtividade-no-campo')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 52,
+      "raw": "TEREZO, A. J. ; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; CASTILHO, Marilza; DE SIQUEIRA, ADRIANO B.; CARDOSO, ADRIANA P.",
+      "titulo": "Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "231da69975845090a40fcaa707af2e07f9bb0f2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; CASTILHO, Marilza ; DE SIQUEIRA, ADRIANO B. ; CARDOSO, ADRIANA P. . Startup de Mato Grosso é destaque em evento da Sociedade Rural do Paraná e leva prêmio máximo. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://jornadanews.com.br/mato-grosso/startup-de-mato-grosso-e-destaque-em-evento-da-sociedade-rural-do-parana-e-leva-premio-maximo/",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 53,
+      "raw": "TEREZO, A.J. . Etanol de milho transforma MT e setor não teme chegada de elétricos. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A.J.",
+      "titulo": "Etanol de milho transforma MT e setor não teme chegada de elétricos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9c7286a392da816038ad8295a78a80fa7724a0d1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A.J.</b>. Etanol de milho transforma MT e setor não teme chegada de elétricos. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.midianews.com.br/cotidiano/etanol-de-milho-transforma-mt-e-setor-nao-teme-chegada-de-eletricos/501128')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 54,
+      "raw": "TEREZO, A.J. ; Bellinello, L. . Professor da UFMT explica efeitos do metanol no corpo humano. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A.J.; Bellinello, L.",
+      "titulo": "Professor da UFMT explica efeitos do metanol no corpo humano",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2c86d0760901c21ad796c8e3d8f3722e6ac26188",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A.J.</b>; Bellinello, L. . Professor da UFMT explica efeitos do metanol no corpo humano. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/professor-da-ufmt-explica-efeitos-do-metanol-no-corpo-humano')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 55,
+      "raw": "TEREZO, A. J. ; GODOY, K. . Vinhaça do etanol vira produto de alto valor. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, A. J.; GODOY, K.",
+      "titulo": "Vinhaça do etanol vira produto de alto valor",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bf212b925bb5bcb8d407869acb236c102ee648f7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; GODOY, K. . Vinhaça do etanol vira produto de alto valor. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://noticias.r7.com/record-news/record-news-rural/video/vinhaca-do-etanol-vira-produto-de-alto-valor-02102025/?utm_source=whatsapp&amp;utm_medium=share-bar&amp;utm_campaign=r7-topo')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 56,
+      "raw": "TEREZO, AILTON J. . Pesquisa da UFMT é apresentada em exposição na China. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.",
+      "titulo": "Pesquisa da UFMT é apresentada em exposição na China",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "735aeb7eee81bea63a9ad2100d9abedc4f35f67a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>. Pesquisa da UFMT é apresentada em exposição na China. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.gazetadigital.com.br/editorias/cidades/pesquisa-da-ufmt-e-apresentada-em-exposicao-na-china/826169')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 57,
+      "raw": "TEREZO, AILTON J. . Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, AILTON J.",
+      "titulo": "Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "346a8f4fe3e24f32e9e0ac75ec7ec93e180faf7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON J.</b>. Nanotecnologia desenvolvida na UFMT brilha em feira agrícola da China. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://olivre.com.br/nanotecnologia-desenvolvida-na-ufmt-brilha-em-feira-agricola-da-china')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    },
+    {
+      "numero_item": 58,
+      "raw": "TEREZO, AILTON JOSÉ . Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja. 2025. (Programa de rádio ou TV/Entrevista).",
+      "autores": "TEREZO, AILTON JOSÉ",
+      "titulo": "Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "be8d8ac9bb1741d3da83379761eb000d0832d828",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, AILTON JOSÉ</b>. Economia Circular: resíduos da suinocultura otimizam o cultivo de milho e soja. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=5sdtIqloa3I')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+    },
+    {
+      "numero_item": 59,
+      "raw": "TEREZO, A. J. ; Bellinello, L. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; SIQUEIRA, ADRIANA P. C. . Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná. 2025. (Programa de rádio ou TV/Comentário).",
+      "autores": "TEREZO, A. J.; Bellinello, L.; DE SIQUEIRA, ADRIANO B.; CASTILHO, M.; SIQUEIRA, ADRIANA P. C.",
+      "titulo": "Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f341aa6fd0cdf3a0ea0e775816fbada82438d7ec",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>TEREZO, A. J.</b>; Bellinello, L. ; DE SIQUEIRA, ADRIANO B. ; CASTILHO, M. ; SIQUEIRA, ADRIANA P. C. . Startup criada por pesquisadores da UFMT estará em evento de inovação do Paraná. 2025.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://circuitomt.com.br/startup-criada-por-pesquisadores-da-ufmt-estara-em-evento-de-inovacao-do-parana/')\" src=\"http://estatico.",
+      "source": {
+        "file": "3542217308732577__ailton-jose-terezo.full_profile.html",
+        "lattes_id": "3542217308732577",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:32.830370"
+      },
+      "veiculo": "2025. (Programa de rádio ou TV/Comentário)"
+    }
+  ]
+}

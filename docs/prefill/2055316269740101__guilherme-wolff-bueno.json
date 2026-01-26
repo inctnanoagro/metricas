@@ -1,0 +1,1799 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "2055316269740101",
+    "full_name": "Guilherme Wolff Bueno",
+    "slug": "guilherme-wolff-bueno",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:31.121014",
+    "source_file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+    "total_productions": 97,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 53,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 3,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 4,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 2,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 19,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 6,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 10,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 3,
+      "raw": "12 SILVA, L. L. 2025 SILVA, L. L. ; OBANDO, J. M. C. ; MACHAD, L. P. ; BUENO, G. W. ; SANTOS, T. C. . Nori species (Rhodophyta, Bangiales): a brief review of nutritional and economic potential in Brazil. Revista Ciencia Agronomica , v. 56, p. 01-13, 2025.",
+      "autores": "12 SILVA, L. L. SILVA, L. L.; OBANDO, J. M. C.; MACHAD, L. P.; BUENO, G. W.; SANTOS, T. C.",
+      "titulo": "Nori species (Rhodophyta, Bangiales): a brief review of nutritional and economic potential in Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5935/1806-6690.20250048",
+      "fingerprint_sha1": "9c300592f6de08c3e5d93cbc8882d0fe4fa610c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">12</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, L. L.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5935/1806-6690.20250048\" target=\"_blank\"></a>SILVA, L. L. ; OBANDO, J. M. C. ; MACHAD, L. P. ; <b>BUENO, G. W.</b> ; SANTOS, T. C. . Nori species (Rho",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "Revista Ciencia Agronomica"
+    },
+    {
+      "numero_item": 4,
+      "raw": "7 PROENÇA, DANILO C. 2025 PROENÇA, DANILO C. ; ARAUJO, J. G. ; Bueno, G.W. ; GUIMARÃ . Contribution of Amino Acids in Cereal Grain Products to Precision Feed Formulation for Tambaqui ( Colossoma macropomum ) Using a Digestibility Approach. JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION (ONLINE) , p. 1-9, 2025.",
+      "autores": "7 PROENÇA, DANILO C. PROENÇA, DANILO C.; ARAUJO, J. G.; Bueno, G.W.; GUIMARÃ",
+      "titulo": "Contribution of Amino Acids in Cereal Grain Products to Precision Feed Formulation for Tambaqui ( Colossoma macropomum ) Using a Digestibility Approach",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/jpn.70000",
+      "fingerprint_sha1": "3d5cd0e89ea4a335ba575b36e8ffb8c02c1c4663",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">7</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PROENÇA, DANILO C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/jpn.70000\" target=\"_blank\"></a>PROENÇA, DANILO C. ; ARAUJO, J. G. ; <b>Bueno, G.W.</b> ; GUIMARÃ . Contribution of Amino Acids in Cereal Gr",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION (ONLINE)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "5 FRANCISCO, T. G. 2025 FRANCISCO, T. G. ; OBANDO, J. M. C. ; CHIAVINI, L. C. ; SANTOS, A. P. A. ; SILVA, E. C. F. ; SANTOS, T. C. ; NAOE, R. K. ; TERAMOTO, E. T. ; Bueno, G.W. . Piscicultura inteligente: a integração das Tecnologia 4.0 e -Business Intelligence- para gestão ágil na aquicultura. REVISTA DE GESTÃO E SECRETARIADO , v. 16, p. e4524, 2025.",
+      "autores": "5 FRANCISCO, T. G. FRANCISCO, T. G.; OBANDO, J. M. C.; CHIAVINI, L. C.; SANTOS, A. P. A.; SILVA, E. C. F.; SANTOS, T. C.; NAOE, R. K.; TERAMOTO, E. T.; Bueno, G.W.",
+      "titulo": "Piscicultura inteligente: a integração das Tecnologia 4",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.7769/gesec.v16i1.4524",
+      "fingerprint_sha1": "2fb89e99421720c380bd9354e1ccd2b85bc090b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">5</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FRANCISCO, T. G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v16i1.4524\" target=\"_blank\"></a>FRANCISCO, T. G. ; OBANDO, J. M. C. ; CHIAVINI, L. C. ; SANTOS, A. P. A. ; SILVA, E. C. F. ; SANTOS, T. ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "REVISTA DE GESTÃO E SECRETARIADO"
+    },
+    {
+      "numero_item": 6,
+      "raw": "13 PROENCA, D. C. 2025 PROENCA, D. C. ; GUIMARÃ ; Bueno, G.W. . Nutritional value of selected protein sources for tambaqui (Colossoma macropomum). REVISTA BRASILEIRA DE ZOOTECNIA , v. 25, p. 30, 2025.",
+      "autores": "13 PROENCA, D. C. PROENCA, D. C.; GUIMARÃ; Bueno, G.W.",
+      "titulo": "Nutritional value of selected protein sources for tambaqui (Colossoma macropomum)",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "de20075f5b621fe6b57d6170a94dd67c3d72bb1a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">13</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PROENCA, D. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>PROENCA, D. C. ; GUIMARÃ ; <b>Bueno, G.W.</b> . Nutritional value of selected protein sources for tambaqui (Colossoma macropomum). REVISTA BRASILEIRA DE ZOOTECNIA<sup><img class=\"ajaxJCR\" data-issn=\"15163598\" i",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "REVISTA BRASILEIRA DE ZOOTECNIA"
+    },
+    {
+      "numero_item": 7,
+      "raw": "10 GUIMARÃES, I. G. 2025 GUIMARÃ ; PROENÇA, DANILO C. ; Bueno, G.W. . Dietary Phosphorus Requirement for Tambaqui, Colossoma macropomum , in the Grow-Out Phase. JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION (ONLINE) , p. 1-12, 2025.",
+      "autores": "10 GUIMARÃES, I. G. GUIMARÃ; PROENÇA, DANILO C.; Bueno, G.W.",
+      "titulo": "Dietary Phosphorus Requirement for Tambaqui, Colossoma macropomum , in the Grow-Out Phase",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1111/jpn.70005",
+      "fingerprint_sha1": "8e6fc040d0255b5a912b14371756dab866893656",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">10</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUIMARÃES, I. G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1111/jpn.70005\" target=\"_blank\"></a>GUIMARÃ ; PROENÇA, DANILO C. ; <b>Bueno, G.W.</b> . Dietary Phosphorus Requirement for Tambaqui, Colossoma m",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION (ONLINE)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "8 CARVALHO, I. A. 2025 CARVALHO, I. A. ; BUENO, GW ; TROMBETA, THIAGO DIAS . Digital Transformation in Brazilian Agribusiness: Impact of Agtechs and Iot on Production and Sustainability. RGSA (ANPAD) , v. 19, p. e011107, 2025.",
+      "autores": "8 CARVALHO, I. A. CARVALHO, I. A.; BUENO, GW; TROMBETA, THIAGO DIAS",
+      "titulo": "Digital Transformation in Brazilian Agribusiness: Impact of Agtechs and Iot on Production and Sustainability",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.24857/rgsa.v19n1-178",
+      "fingerprint_sha1": "dacd05d0a861d576c06c7660c1932d16429f3e1a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">8</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARVALHO, I. A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.24857/rgsa.v19n1-178\" target=\"_blank\"></a>CARVALHO, I. A. ; <b>BUENO, GW</b> ; TROMBETA, THIAGO DIAS . Digital Transformation in Brazilian Agribusin",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "RGSA (ANPAD)"
+    },
+    {
+      "numero_item": 9,
+      "raw": "14 SILVA, E. C. F. 2025 SILVA, E. C. F. ; ANDRADE, S. A. P. ; TRIONI, H. ; BERTINI, G. ; BUENO, GW ; GAONA, C. P. . STRATEGIES FOR CONTROL OF NITROGENATED COMPOUNDS CONCENTRATIONS IN THE Farfantepenaeus paulensis BFT CULTURE SYSTEM. NATIVA , v. 25, p. 1, 2025.",
+      "autores": "14 SILVA, E. C. F. SILVA, E. C. F.; ANDRADE, S. A. P.; TRIONI, H.; BERTINI, G.; BUENO, GW; GAONA, C. P.",
+      "titulo": "STRATEGIES FOR CONTROL OF NITROGENATED COMPOUNDS CONCENTRATIONS IN THE Farfantepenaeus paulensis BFT CULTURE SYSTEM",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.31413/nat.v13i1.18187.",
+      "fingerprint_sha1": "4c94800b8e0b7b5da001abd716f633c0f4c64a3b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">14</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, E. C. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.31413/nat.v13i1.18187.\" target=\"_blank\"></a>SILVA, E. C. F. ; ANDRADE, S. A. P. ; TRIONI, H. ; BERTINI, G. ; <b>BUENO, GW</b> ; GAONA, C. P. . STRA",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "NATIVA"
+    },
+    {
+      "numero_item": 10,
+      "raw": "15 BUENO, G. W. 2025 BUENO, G. W. ; NAOE, R. K. ; MACHADO, L. P. ; Trombeta, T.D. ; MATIAS, J. F. N. ; GAONA, C. A. P. ; TERAMOTO, E. T. . Transformação agrícola com o uso de tecnologias 5.0: a digitalização da aquicultura. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 23, p. e9331, 2025.",
+      "autores": "15 BUENO, G. W. BUENO, G. W.; NAOE, R. K.; MACHADO, L. P.; Trombeta, T.D.; MATIAS, J. F. N.; GAONA, C. A. P.; TERAMOTO, E. T.",
+      "titulo": "Transformação agrícola com o uso de tecnologias 5",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/oelv23n3-110",
+      "fingerprint_sha1": "72f7c27cf478cafa64991d806dbc1b1d2f213b14",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">15</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BUENO, G. W.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv23n3-110\" target=\"_blank\"></a><b>BUENO, G. W.</b>; NAOE, R. K. ; MACHADO, L. P. ; Trombeta, T.D. ; MATIAS, J. F. N. ; GAONA, C. A. P. ; TERA",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
+    },
+    {
+      "numero_item": 11,
+      "raw": "3 GODOY, ELISA MAIA DE 2025 GODOY, ELISA MAIA DE ; CAMARGO, TAVANI ROCHA ; TONIATO, MORANNE ; PROENÇA, DANILO CINTRA ; OBANDO, JOHANA MARCELA CONCHA ; ROUBACH, RODRIGO ; GALLARDO, PABLO ; BUENO, Guilherme Wolff . Framework for Estimating Environmental Carrying Capacity in Diverse Climatic Conditions and Fish Farming Production in Neotropical Reservoirs. Sustainability , v. 17, p. 5282-32, 2025.",
+      "autores": "3 GODOY, ELISA MAIA DE GODOY, ELISA MAIA DE; CAMARGO, TAVANI ROCHA; TONIATO, MORANNE; PROENÇA, DANILO CINTRA; OBANDO, JOHANA MARCELA CONCHA; ROUBACH, RODRIGO; GALLARDO, PABLO; BUENO, Guilherme Wolff",
+      "titulo": "Framework for Estimating Environmental Carrying Capacity in Diverse Climatic Conditions and Fish Farming Production in Neotropical Reservoirs",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/su17125282",
+      "fingerprint_sha1": "4f25fd70efeb718456a916176f78fcc7ce277f7b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">3</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GODOY, ELISA MAIA DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/su17125282\" target=\"_blank\"></a>GODOY, ELISA MAIA DE ; CAMARGO, TAVANI ROCHA ; TONIATO, MORANNE ; PROENÇA, DANILO CINTRA ; OBANDO, JOHANA ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "Sustainability"
+    },
+    {
+      "numero_item": 12,
+      "raw": "4 OBANDO, JOHANA MARCELA CONCHA 2025 OBANDO, JOHANA MARCELA CONCHA ; GARCÍA-LÓPEZ, JUAN P. ; CARUFFO, MARIO ; DOS SANTOS, THALISIA CUNHA ; BARBARINO, ELISABETE ; BUENO, Guilherme Wolff ; TEIXEIRA, VALÉRIA LANEUVILLE ; CAVALCANTI, DIANA NEGRÃO ; REYES-MARTÍNEZ, CRISTIAN ; ASTORGA, KATTERINE ; QUINTERO, KEINIS ; FEIJÓO, CARMEN G. . Anti-inflammatory potential of diterpene-concentrated fractions from seaweed Dictyota menstrualis in zebrafish model. Algal Research-Biomass Biofuels and Bioproducts , v. 91, p. 104212, 2025.",
+      "autores": "4 OBANDO, JOHANA MARCELA CONCHA OBANDO, JOHANA MARCELA CONCHA; GARCÍA-LÓPEZ, JUAN P.; CARUFFO, MARIO; DOS SANTOS, THALISIA CUNHA; BARBARINO, ELISABETE; BUENO, Guilherme Wolff; TEIXEIRA, VALÉRIA LANEUVILLE; CAVALCANTI, DIANA NEGRÃO; REYES-MARTÍNEZ, CRISTIAN; ASTORGA, KATTERINE; QUINTERO, KEINIS; FEIJÓO, CARMEN G.",
+      "titulo": "Anti-inflammatory potential of diterpene-concentrated fractions from seaweed Dictyota menstrualis in zebrafish model",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.algal.2025.104212",
+      "fingerprint_sha1": "6eae37049d66b628b5c47b07523f98c008eb00ab",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">4</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OBANDO, JOHANA MARCELA CONCHA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.algal.2025.104212\" target=\"_blank\"></a>OBANDO, JOHANA MARCELA CONCHA ; GARCÍA-LÓPEZ, JUAN P. ; CARUFFO, MARIO ; DOS SANTOS, THA",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "Algal Research-Biomass Biofuels and Bioproducts"
+    },
+    {
+      "numero_item": 13,
+      "raw": "11 OBANDO, J. M. C. 2025 OBANDO, J. M. C. ; SOUZ, A. A. P. ; MACHAD, L. P. ; BUENO, G. W. ; SANTOS, T. C. . SEALLG: Innovation, Solutions, and Products derived from Beach-Cast Sargassum spp. - From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology , v. 7, p. 15-21, 2025.",
+      "autores": "11 OBANDO, J. M. C. OBANDO, J. M. C.; SOUZ, A. A. P.; MACHAD, L. P.; BUENO, G. W.; SANTOS, T. C.",
+      "titulo": "SEALLG: Innovation, Solutions, and Products derived from Beach-Cast Sargassum spp",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "367394e0c75adae43530f4fbb6454acb221508aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">11</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OBANDO, J. M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>OBANDO, J. M. C. ; SOUZ, A. A. P. ; MACHAD, L. P. ; <b>BUENO, G. W.</b> ; SANTOS, T. C. . SEALLG: Innovation, Solutions, and Products derived from Beach-Cast Sargassum spp. - From Scientific Dissemination to t",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology"
+    },
+    {
+      "numero_item": 14,
+      "raw": "6 DIAS, G. T. 2025 DIAS, G. T. ; OBANDO, J. M. C. ; SANTOS, T. C. ; GAONA, C. A. P. ; SILVA, R. M. G. ; BUENO, G. W. ; VILLELA, L. Z. ; MACHAD, L. P. . Chemical and biotechnological characterization of supercritical CO2 extracts and Residual Humulus lupulus biomass from the Brazilian Atlantic Forest. Biomass Conversion And Biorefinery , v. 16, p. 1-25, 2025.",
+      "autores": "6 DIAS, G. T. DIAS, G. T.; OBANDO, J. M. C.; SANTOS, T. C.; GAONA, C. A. P.; SILVA, R. M. G.; BUENO, G. W.; VILLELA, L. Z.; MACHAD, L. P.",
+      "titulo": "Chemical and biotechnological characterization of supercritical CO2 extracts and Residual Humulus lupulus biomass from the Brazilian Atlantic Forest",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1007/s13399-025-06903-z",
+      "fingerprint_sha1": "da58c51525266dab9c966f6fe36cfd152e131447",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">6</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DIAS, G. T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s13399-025-06903-z\" target=\"_blank\"></a>DIAS, G. T. ; OBANDO, J. M. C. ; SANTOS, T. C. ; GAONA, C. A. P. ; SILVA, R. M. G. ; <b>BUENO, G. W.</b> ; ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "Biomass Conversion And Biorefinery"
+    },
+    {
+      "numero_item": 15,
+      "raw": "9 SEBASTIAO, M. V. R. 2025 SEBASTIAO, M. V. R. ; OBANDO, J. M. C. ; NASCIMENTO, D. S. ; CAROLINO, A. H. ; SILVA, G. S. ; PELLIS, B. ; ISRAEL, N. G. ; ALMEIDA, E. A. ; GAONA, C. A. P. ; BUENO, G. W. ; MACHAD, L. P. ; SANCHES, A. L. M. . ECOTOXICOLOGICAL ASSESSMENT OF PESTICIDE MIXTURES: EFFECTS OF IMIDACLOPRID AND PROPICONAZOLE ON Danio rerio AND Astyanax lacustris. Aquatic Toxicology , v. 16, p. 107544, 2025.",
+      "autores": "9 SEBASTIAO, M. V. R. SEBASTIAO, M. V. R.; OBANDO, J. M. C.; NASCIMENTO, D. S.; CAROLINO, A. H.; SILVA, G. S.; PELLIS, B.; ISRAEL, N. G.; ALMEIDA, E. A.; GAONA, C. A. P.; BUENO, G. W.; MACHAD, L. P.; SANCHES, A. L. M.",
+      "titulo": "ECOTOXICOLOGICAL ASSESSMENT OF PESTICIDE MIXTURES: EFFECTS OF IMIDACLOPRID AND PROPICONAZOLE ON Danio rerio AND Astyanax lacustris",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.aquatox.2025.107544",
+      "fingerprint_sha1": "4d3bf41e3724fdceb2c6d87026b3aadb2deea95e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">9</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SEBASTIAO, M. V. R.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aquatox.2025.107544\" target=\"_blank\"></a>SEBASTIAO, M. V. R. ; OBANDO, J. M. C. ; NASCIMENTO, D. S. ; CAROLINO, A. H. ; SILVA, G. S. ; PE",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "Aquatic Toxicology"
+    },
+    {
+      "numero_item": 16,
+      "raw": "16 GILSON, F. 2024 ; RODRIGUES, L.A. ; NEW, M.B. ; Bueno, G.W. ; VALENTI, W.C. . A description of the culture of tambatinga (Colossoma macropomum x Piaractus brachypomus) in a South American tropical region and the interaction of farm size with value chains. AQUACULTURE REPORTS , v. 34, p. 101888, 2024.",
+      "autores": "16 GILSON, F.; RODRIGUES, L.A.; NEW, M.B.; Bueno, G.W.; VALENTI, W.C.",
+      "titulo": "A description of the culture of tambatinga (Colossoma macropomum x Piaractus brachypomus) in a South American tropical region and the interaction of farm size with value chains",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aqrep.2023.101888",
+      "fingerprint_sha1": "444b45557d0ba32c8b1246f687237c4013a7587d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">16</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GILSON, F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aqrep.2023.101888\" target=\"_blank\"></a>GILSON, F. ; RODRIGUES, L.A. ; NEW, M.B. ; <b>Bueno, G.W.</b> ; VALENTI, W.C. . A description of the cultu",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "AQUACULTURE REPORTS"
+    },
+    {
+      "numero_item": 17,
+      "raw": "23 OJEDA, PABLO GALLARDO 2024 OJEDA, PABLO GALLARDO ; ARANEDA, CRISTIAN ; GODOY, E. M. ; BUENO, G. W. ; ROSENFELD, S. ; ALDEA, C. ; TERAMOTO, E. T. . Growth and Survival of Scallops Austrochlamys natans (Philippi, 1845) and Zygochlamys patagonica (P. P. King, 1832) in Suspended Systems and Land-Based Tanks in Chilean Patagonia. AQUACULTURE RESEARCH (ONLINE) , v. 2024, p. 1-14, 2024.",
+      "autores": "23 OJEDA, PABLO GALLARDO OJEDA, PABLO GALLARDO; ARANEDA, CRISTIAN; GODOY, E. M.; BUENO, G. W.; ROSENFELD, S.; ALDEA, C.; TERAMOTO, E. T.",
+      "titulo": "Growth and Survival of Scallops Austrochlamys natans (Philippi, 1845) and Zygochlamys patagonica (P",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1155/2024/6685325",
+      "fingerprint_sha1": "f3688b272ae8f584d4f7a6b0b6387d7fb3ba4e30",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">23</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OJEDA, PABLO GALLARDO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1155/2024/6685325\" target=\"_blank\"></a>OJEDA, PABLO GALLARDO ; ARANEDA, CRISTIAN ; GODOY, E. M. ; <b>BUENO, G. W.</b> ; ROSENFELD, S. ; ALDEA",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "P. King"
+    },
+    {
+      "numero_item": 18,
+      "raw": "24 MENEZES, L. L. 2024 MENEZES, L. L. ; MACHADO, V. M. ; SOUTO, C. N. ; PROENCA, D. C. ; BUENO, G. W. ; GUIMARÃ . Phosphorus Requirement for Tambaqui, Colossoma Macropomum. ANIMAL FEED SCIENCE AND TECHNOLOGY , v. 309, p. 10-25, 2024.",
+      "autores": "24 MENEZES, L. L. MENEZES, L. L.; MACHADO, V. M.; SOUTO, C. N.; PROENCA, D. C.; BUENO, G. W.; GUIMARÃ",
+      "titulo": "Phosphorus Requirement for Tambaqui, Colossoma Macropomum",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a2ae2f987913e2726f88f25a99bb9566744d2528",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">24</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MENEZES, L. L.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span>MENEZES, L. L. ; MACHADO, V. M. ; SOUTO, C. N. ; PROENCA, D. C. ; <b>BUENO, G. W.</b> ; GUIMARÃ . Phosphorus Requirement for Tambaqui, Colossoma Macropomum. ANIMAL FEED SCIENCE AND TECHNOLOGY<sup><img class=\"aj",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "ANIMAL FEED SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "numero_item": 19,
+      "raw": "21 HEITZMAN, B. S. 2024 HEITZMAN, B. S. ; BUENO, G. W. ; CAMARGO, T. R. ; PROENCA, D. C. ; YAEKASCHIC, C. T. O. ; SILVA, R. M. G. ; MACHAD, L. P. . Duckweed application in nature-based system for water phytoremediation and high-value coproducts at family agrisystem from a circular economy perspective. SCIENCE OF THE TOTAL ENVIRONMENT , p. 170714, 2024.",
+      "autores": "21 HEITZMAN, B. S. HEITZMAN, B. S.; BUENO, G. W.; CAMARGO, T. R.; PROENCA, D. C.; YAEKASCHIC, C. T. O.; SILVA, R. M. G.; MACHAD, L. P.",
+      "titulo": "Duckweed application in nature-based system for water phytoremediation and high-value coproducts at family agrisystem from a circular economy perspective",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2024.170714",
+      "fingerprint_sha1": "b27459d5f57861ba7ab912aca81b6727f9b9e373",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">21</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">HEITZMAN, B. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2024.170714\" target=\"_blank\"></a>HEITZMAN, B. S. ; <b>BUENO, G. W.</b> ; CAMARGO, T. R. ; PROENCA, D. C. ; YAEKASCHIC, C. T. O. ; ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 20,
+      "raw": "26 GUIMARAES, K. C. D. 2024 GUIMARAES, K. C. D. ; BUENO, G. W. ; SILVA JUN, J. J. ; JUNQUEIRA, A. M. R. ; TROMBETA, T. D. . Rural credit for aquaculture: the development of the activity with resources from the plano safra. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 22, p. 1-19, 2024.",
+      "autores": "26 GUIMARAES, K. C. D. GUIMARAES, K. C. D.; BUENO, G. W.; SILVA JUN, J. J.; JUNQUEIRA, A. M. R.; TROMBETA, T. D.",
+      "titulo": "Rural credit for aquaculture: the development of the activity with resources from the plano safra",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/oelv22n2-043",
+      "fingerprint_sha1": "943b311a0dbd94bca652a0559a0eb218a7e9a841",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">26</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUIMARAES, K. C. D.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv22n2-043\" target=\"_blank\"></a>GUIMARAES, K. C. D. ; <b>BUENO, G. W.</b> ; SILVA JUN, J. J. ; JUNQUEIRA, A. M. R. ; TROMBETA, T. D. . ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
+    },
+    {
+      "numero_item": 21,
+      "raw": "18 Trombeta, T.D. 2024 Trombeta, T.D. ; BUENO, GW ; MACHAD, L. P. . ANÁLISE PRODUTIVA E MERCADOLÓGICA DE BETACAROTENO OBTIDO DA MICROALGA DUNALIELLA SP.: CENÁRIOS ATUAIS E PERSPECTIVAS FUTURAS. RGSA (ANPAD) , v. 18, p. e04891, 2024.",
+      "autores": "18 Trombeta, T.D. Trombeta, T.D.; BUENO, GW; MACHAD, L. P.",
+      "titulo": "ANÁLISE PRODUTIVA E MERCADOLÓGICA DE BETACAROTENO OBTIDO DA MICROALGA DUNALIELLA SP",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.24857/rgsa.v18n2-065",
+      "fingerprint_sha1": "8bcc67172104af71e9a015e427fb4c86b7e90c0b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">18</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Trombeta, T.D.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.24857/rgsa.v18n2-065\" target=\"_blank\"></a>Trombeta, T.D. ; <b>BUENO, GW</b> ; MACHAD, L. P. . ANÁLISE PRODUTIVA E MERCADOLÓGICA DE BETACAROTENO OBTI",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "RGSA (ANPAD)"
+    },
+    {
+      "numero_item": 22,
+      "raw": "22 Trombeta, T.D. 2024 Trombeta, T.D. ; BUENO, GW . Fomento à aquicultura: instrumentos privados de financiamento. REVISTA DE GESTÃO E SECRETARIADO , v. 15, p. e3550, 2024.",
+      "autores": "22 Trombeta, T.D. Trombeta, T.D.; BUENO, GW",
+      "titulo": "Fomento à aquicultura: instrumentos privados de financiamento",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.7769/gesec.v15i2.3550",
+      "fingerprint_sha1": "cbca122282ed1242d98aeedb6006fb7609fb735b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">22</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Trombeta, T.D.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v15i2.3550\" target=\"_blank\"></a>Trombeta, T.D. ; <b>BUENO, GW</b> . Fomento à aquicultura: instrumentos privados de financiamento. REVIST",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "REVISTA DE GESTÃO E SECRETARIADO"
+    },
+    {
+      "numero_item": 23,
+      "raw": "25 GUIMARÃES, I. G. 2024 GUIMARÃ ; PROENÇA, DANILO CINTRA ; BUENO, G. W. . Pirarucu requires taurine to maximize growth and antioxidant status when fed diets high plant-based ingredients. AQUACULTURE , p. 741022, 2024.",
+      "autores": "25 GUIMARÃES, I. G. GUIMARÃ; PROENÇA, DANILO CINTRA; BUENO, G. W.",
+      "titulo": "Pirarucu requires taurine to maximize growth and antioxidant status when fed diets high plant-based ingredients",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aquaculture.2024.741022",
+      "fingerprint_sha1": "ef508bc7a35bc76b458e8323de47a8bb4099c559",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">25</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GUIMARÃES, I. G.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aquaculture.2024.741022\" target=\"_blank\"></a>GUIMARÃ ; PROENÇA, DANILO CINTRA ; <b>BUENO, G. W.</b> . Pirarucu requires taurine to maximi",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "AQUACULTURE"
+    },
+    {
+      "numero_item": 24,
+      "raw": "19 TERAMOTO, E. T. 2024 TERAMOTO, E. T. ; WASIELESKY, W. ; KRUMMENAUER, D. ; BUENO, GW ; PROENÇA, DANILO C. ; GAONA, C. A. P. . Appling machine learning for estimating total suspended solids in BFT aquaculture system. AQUACULTURAL ENGINEERING , v. 106, p. 102439, 2024.",
+      "autores": "19 TERAMOTO, E. T. TERAMOTO, E. T.; WASIELESKY, W.; KRUMMENAUER, D.; BUENO, GW; PROENÇA, DANILO C.; GAONA, C. A. P.",
+      "titulo": "Appling machine learning for estimating total suspended solids in BFT aquaculture system",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aquaeng.2024.102439",
+      "fingerprint_sha1": "1e46048cdf110b3b19e4d8e2ec19f9f29057f282",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">19</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TERAMOTO, E. T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aquaeng.2024.102439\" target=\"_blank\"></a>TERAMOTO, E. T. ; WASIELESKY, W. ; KRUMMENAUER, D. ; <b>BUENO, GW</b> ; PROENÇA, DANILO C. ; GAONA,",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "AQUACULTURAL ENGINEERING"
+    },
+    {
+      "numero_item": 25,
+      "raw": "17 MARTINS, G. P. 2024 MARTINS, G. P. ; MAZINI, B. S. M. ; BUENO, GW ; CAMARGO, T. R. ; GUIMARÃ . Adequate levels of dietary digestible lysine improve growth, feed utilization and carcass composition but do not affect muscle morphology of tambaqui (Colossoma macropomum) juveniles. AQUACULTURE REPORTS , v. 38, p. 102334, 2024.",
+      "autores": "17 MARTINS, G. P. MARTINS, G. P.; MAZINI, B. S. M.; BUENO, GW; CAMARGO, T. R.; GUIMARÃ",
+      "titulo": "Adequate levels of dietary digestible lysine improve growth, feed utilization and carcass composition but do not affect muscle morphology of tambaqui (Colossoma macropomum) juveniles",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.aqrep.2024.102334",
+      "fingerprint_sha1": "09bbe5e3c46c158355e9ac6572c535c7f240639a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">17</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MARTINS, G. P.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.aqrep.2024.102334\" target=\"_blank\"></a>MARTINS, G. P. ; MAZINI, B. S. M. ; <b>BUENO, GW</b> ; CAMARGO, T. R. ; GUIMARÃ . Adequate levels of ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "AQUACULTURE REPORTS"
+    },
+    {
+      "numero_item": 26,
+      "raw": "20 SANTOS, T. C. 2024 SANTOS, T. C. ; MACHAD, L. P. ; PIMENTEL, A. L. V. ; MARTINS, R. C. C. ; CAVALCANTI, D. N. ; BUENO, Guilherme Wolff ; SANCHES, A. L. M. ; OBANDO, J. M. C. . Dermocosmetic properties of bioproducts from Sargassum macroalgae: chemical aspects, challenges, and opportunities. FRONTIERS IN MARINE SCIENCE , v. 11, p. 1-23, 2024.",
+      "autores": "20 SANTOS, T. C. SANTOS, T. C.; MACHAD, L. P.; PIMENTEL, A. L. V.; MARTINS, R. C. C.; CAVALCANTI, D. N.; BUENO, Guilherme Wolff; SANCHES, A. L. M.; OBANDO, J. M. C.",
+      "titulo": "Dermocosmetic properties of bioproducts from Sargassum macroalgae: chemical aspects, challenges, and opportunities",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.3389/fmars.2024.1500778",
+      "fingerprint_sha1": "c313049e7c0adcae46a96bbf4ec3489683015f63",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\">20</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, T. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3389/fmars.2024.1500778\" target=\"_blank\"></a>SANTOS, T. C. ; MACHAD, L. P. ; PIMENTEL, A. L. V. ; MARTINS, R. C. C. ; CAVALCANTI, D. N. ; <b>BUENO, G",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "FRONTIERS IN MARINE SCIENCE"
+    },
+    {
+      "numero_item": 81,
+      "raw": "BUENO, GW ; GAONA, C. P. ; BENTO, K. ; GODÓI, FLAVIA C. M. ; SILVA, R. A. A. E. ; ALBERS, F. ; CHERETTI, B. . Management & Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? Aquário de Ideias. 1. ed. Registro: Fundunesp: Incubadora Aquário de Ideias, 2025. v. 1. 30p .",
+      "autores": "BUENO, GW; GAONA, C. P.; BENTO, K.; GODÓI, FLAVIA C. M.; SILVA, R. A. A. E.; ALBERS, F.; CHERETTI, B.",
+      "titulo": "Management & Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? Aquário de Ideias",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5281/zenodo.15236922.",
+      "fingerprint_sha1": "eda3ff82ffd4bd2491f2123fdeee6ed506e0d36e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.15236922.\" target=\"_blank\"></a><b>BUENO, GW</b>; GAONA, C. P. ; BENTO, K. ; GODÓI, FLAVIA C. M. ; SILVA, R. A. A. E. ; ALBERS, F. ; CHERETTI, B. . Management &amp; Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? Aquário de Ideias. 1. ed. Registro: Fundunesp: Incubadora Aquário de Ideias, 2025. v. 1. 30p . </s",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "1. ed. Registro: Fundunesp: Incubadora Aquário de Ideias"
+    },
+    {
+      "numero_item": 82,
+      "raw": "OBANDO, J. M. C. ; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão ; WOLFF BUENO, G. . The invisible world of brown seaweeds. 1. ed. Ponta Grossa: Atena, 2025.",
+      "autores": "OBANDO, J. M. C.; Thalisia Cunha dos; Clara Lopes dos; Maria Vitória Raupp; Levi Pompermayer; Valéria Laneuville; Diana Negrão; WOLFF BUENO, G.",
+      "titulo": "The invisible world of brown seaweeds",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.22533/at.ed.607252508",
+      "fingerprint_sha1": "1e2fbcbf0b6134d1769a107359a51296e8b729be",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22533/at.ed.607252508\" target=\"_blank\"></a>OBANDO, J. M. C. ; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão ; <b>WOLFF BUENO, G.</b> . The invisible world of brown seaweeds. 1. ed. Ponta Grossa: Atena, 2025. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "1. ed. Ponta Grossa: Atena"
+    },
+    {
+      "numero_item": 83,
+      "raw": "Levi Pompermayer ; GAONA, C. A. P. ; OBANDO, J. M. C. ; TERAMOTO, E. T. ; SANCHES, A. L. M. ; BUENO, G. W. . Aquarte macroalgas - Coleção Aquarte: Educação azul para nossos pequenos e o futuro da bioeconomia sustentável. 1. ed. SEALLG-INOVATION, SOLUTIONS AND PRODUCTS, 2025.",
+      "autores": "Levi Pompermayer; GAONA, C. A. P.; OBANDO, J. M. C.; TERAMOTO, E. T.; SANCHES, A. L. M.; BUENO, G. W.",
+      "titulo": "Aquarte macroalgas - Coleção Aquarte: Educação azul para nossos pequenos e o futuro da bioeconomia sustentável",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "86d813d9e0f1005c46d055e393d0d85c1ff61c54",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Levi Pompermayer ; GAONA, C. A. P. ; OBANDO, J. M. C. ; TERAMOTO, E. T. ; SANCHES, A. L. M. ; <b>BUENO, G. W.</b> . Aquarte macroalgas - Coleção Aquarte: Educação azul para nossos pequenos e o futuro da bioeconomia sustentável. 1. ed. SEALLG-INOVATION, SOLUTIONS AND PRODUCTS, 2025. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "1. ed. SEALLG-INOVATION"
+    },
+    {
+      "numero_item": 84,
+      "raw": "Bueno, G.W. . BLUE CAPITAL: Bases e Ferramentas Estratégicas para Inovar e Empreender na Bioeconomia / Edição COP30 Amazônia e Aquaciências. 1. ed. Seallg - Innovation, Solution and Products, 2025. v. 1. 21p .",
+      "autores": "Bueno, G.W.",
+      "titulo": "BLUE CAPITAL: Bases e Ferramentas Estratégicas para Inovar e Empreender na Bioeconomia / Edição COP30 Amazônia e Aquaciências",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5281/zenodo.17534538",
+      "fingerprint_sha1": "ab397d28abfa3cf2f725127e8e54c1a9625d2562",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.17534538\" target=\"_blank\"></a><b>Bueno, G.W.</b>. BLUE CAPITAL: Bases e Ferramentas Estratégicas para Inovar e Empreender na Bioeconomia / Edição COP30 Amazônia e Aquaciências. 1. ed. Seallg - Innovation, Solution and Products, 2025. v. 1. 21p . </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "1. ed. Seallg - Innovation"
+    },
+    {
+      "numero_item": 85,
+      "raw": "ROCHA CAMARGO, TAVANI ; FIALHO, NAOR SILVEIRA ; CHERETTI, B. ; GALVAO, J. A. ; BUENO, G. W. . Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet. 1. ed. Jaboticabal: Zenodo, 2024. v. 1. 43p .",
+      "autores": "ROCHA CAMARGO, TAVANI; FIALHO, NAOR SILVEIRA; CHERETTI, B.; GALVAO, J. A.; BUENO, G. W.",
+      "titulo": "Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5281/zenodo.13999327.",
+      "fingerprint_sha1": "54bda8c2b585ad44377c578965117481196ef601",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.13999327.\" target=\"_blank\"></a>ROCHA CAMARGO, TAVANI ; FIALHO, NAOR SILVEIRA ; CHERETTI, B. ; GALVAO, J. A. ; <b>BUENO, G. W.</b> . Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet. 1. ed. Jaboticabal: Zenodo, 2024. v. 1. 43p . </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "1. ed. Jaboticabal: Zenodo"
+    },
+    {
+      "numero_item": 155,
+      "raw": "SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; OBANDO, J. M. C. ; SANTOS, T. C. ; CHIAVINI, L. C. ; BUENO, GW . Application of Digital Technologies and Business Intelligence for Aquaculture Digitalization: A Systematic Review. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress & Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024.",
+      "autores": "SILVA, E. C. F.; SANTOS, A. P. A.; FRANCISCO, T. G.; OBANDO, J. M. C.; SANTOS, T. C.; CHIAVINI, L. C.; BUENO, GW",
+      "titulo": "Application of Digital Technologies and Business Intelligence for Aquaculture Digitalization: A Systematic Review",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cf16ce1b80e99ce8ae9873ca9a9c8c8e27a0bcfb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; OBANDO, J. M. C. ; SANTOS, T. C. ; CHIAVINI, L. C. ; <b>BUENO, GW</b> . Application of Digital Technologies and Business Intelligence for Aquaculture Digitalization:       A Systematic Review. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress &amp; Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "International Fish Congress"
+    },
+    {
+      "numero_item": 156,
+      "raw": "SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; CHERETTI, B. ; CHIAVINI, L. C. ; BUENO, GW . Crop Management of Aquaculture Enterprises Applying Business Intelligence. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress & Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024.",
+      "autores": "SILVA, E. C. F.; SANTOS, A. P. A.; FRANCISCO, T. G.; CHERETTI, B.; CHIAVINI, L. C.; BUENO, GW",
+      "titulo": "Crop Management of Aquaculture Enterprises Applying Business Intelligence",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "febbcdff974555030e71cf3e41d866156cb5b635",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; CHERETTI, B. ; CHIAVINI, L. C. ; <b>BUENO, GW</b> . Crop Management of Aquaculture Enterprises Applying Business Intelligence. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress &amp; Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "International Fish Congress"
+    },
+    {
+      "numero_item": 157,
+      "raw": "FIALHO, NAOR S. ; GALVAO, J. A. ; FABRICIO, L. F. F. ; MACIEL, E.S. ; SCHINEIDER, V ; ENKE, D. B. S. ; BUENO, G. W. . Certificação de Denominação de Origem Geográfica. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress & Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024.",
+      "autores": "FIALHO, NAOR S.; GALVAO, J. A.; FABRICIO, L. F. F.; MACIEL, E.S.; SCHINEIDER, V; ENKE, D. B. S.; BUENO, G. W.",
+      "titulo": "Certificação de Denominação de Origem Geográfica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "92e3af7c69947ab370b2dbe25418b4f64832d56c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FIALHO, NAOR S. ; GALVAO, J. A. ; FABRICIO, L. F. F. ; MACIEL, E.S. ; SCHINEIDER, V ; ENKE, D. B. S. ; <b>BUENO, G. W.</b> . Certificação de Denominação de Origem Geográfica. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress &amp; Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "International Fish Congress"
+    },
+    {
+      "numero_item": 158,
+      "raw": "PROENÇA, DANILO C. ; SILVA, M. T. ; GODOY, E. M. ; FRACETO, L. F. ; BUENO, G. W. . Utilização de Fitase Microencapsulada para Redução da Liberação de Fósforo na Aquicultura da Tilápia do Nilo. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress & Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024.",
+      "autores": "PROENÇA, DANILO C.; SILVA, M. T.; GODOY, E. M.; FRACETO, L. F.; BUENO, G. W.",
+      "titulo": "Utilização de Fitase Microencapsulada para Redução da Liberação de Fósforo na Aquicultura da Tilápia do Nilo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ea7546283f61effbcda74f7ae4519dedf8c7e4f7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PROENÇA, DANILO C. ; SILVA, M. T. ; GODOY, E. M. ; FRACETO, L. F. ; <b>BUENO, G. W.</b> . Utilização de Fitase Microencapsulada para Redução da Liberação de Fósforo na Aquicultura da Tilápia do Nilo. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress &amp; Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "International Fish Congress"
+    },
+    {
+      "numero_item": 172,
+      "raw": "SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; SILVA, M. T. ; NAOE, R. K. ; CHIAVINI, L. C. ; BUENO, GW . Application of Business Intelligence in the Bioeconomic Management of Small Aquaculture Farms in the Atlantic Forest Region. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress & Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024.",
+      "autores": "SILVA, E. C. F.; SANTOS, A. P. A.; FRANCISCO, T. G.; SILVA, M. T.; NAOE, R. K.; CHIAVINI, L. C.; BUENO, GW",
+      "titulo": "Application of Business Intelligence in the Bioeconomic Management of Small Aquaculture Farms in the Atlantic Forest Region",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4c07cd149b6462c90ef99d7d2310e138884c0229",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, E. C. F. ; SANTOS, A. P. A. ; FRANCISCO, T. G. ; SILVA, M. T. ; NAOE, R. K. ; CHIAVINI, L. C. ; <b>BUENO, GW</b> . Application of Business Intelligence in the Bioeconomic Management of Small Aquaculture Farms in the Atlantic Forest Region. In: International Fish Congress, 2024, Foz do Iguaçu. International Fish Congress &amp; Fish Expo Brasil 2024. Toledo: UNIOESTE, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "International Fish Congress"
+    },
+    {
+      "numero_item": 173,
+      "raw": "SANTOS, A. P. A. ; FRANCISCO, T. G. ; CHIAVINI, L. C. ; CHERETTI, B. ; SILVA, E. C. F. ; BUENO, G. W. . BUSINESS INTELLIGENCE PARA ANÁLISE BIOECONÔMICA E GESTÃO ÁGIL DA PEQUENA PROPRIEDADE AQUÍCOLA NA REGIÃO DE MATA ATLÂNTICA. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Registro. ?Ciência em tempos de crise climática e social?. São Paulo: PROPE/UNESP, 2024.",
+      "autores": "SANTOS, A. P. A.; FRANCISCO, T. G.; CHIAVINI, L. C.; CHERETTI, B.; SILVA, E. C. F.; BUENO, G. W.",
+      "titulo": "BUSINESS INTELLIGENCE PARA ANÁLISE BIOECONÔMICA E GESTÃO ÁGIL DA PEQUENA PROPRIEDADE AQUÍCOLA NA REGIÃO DE MATA ATLÂNTICA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f61c8d51118815244d9543d2b2e7c302c3d83aa3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS, A. P. A. ; FRANCISCO, T. G. ; CHIAVINI, L. C. ; CHERETTI, B. ; SILVA, E. C. F. ; <b>BUENO, G. W.</b> . BUSINESS INTELLIGENCE PARA ANÁLISE BIOECONÔMICA E GESTÃO ÁGIL DA PEQUENA PROPRIEDADE AQUÍCOLA NA REGIÃO DE MATA ATLÂNTICA. In: XXXVI Congresso de Iniciação Científica da Unesp, 2024, Registro. ?Ciência em tempos de crise climática e social?. São Paulo: PROPE/UNESP, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "XXXVI Congresso de Iniciação Científica da Unesp"
+    },
+    {
+      "numero_item": 174,
+      "raw": "BUENO, G. W. ; PROENÇA, DANILO C. ; GODOY, E. M. ; SANCHES, A. L. M. ; MACHAD, L. P. ; TERAMOTO, E. T. . BLASp4: IOT PLATFORM FOR PREDICTING BIOECONOMIC CARRY CAPACITY AND ECOSYSTEM AQUACULTURE SERVICES UNDER DIFFERENT CLIMATE CONDITIONS. In: Global Bioeconomy Allince Congress, 2024, Ubatuba, SP. Key Technologies in the Bioeconomy - A Global Bioeconomy Alliance Conference. São Paulo: AREX/UNESP, 2024.",
+      "autores": "BUENO, G. W.; PROENÇA, DANILO C.; GODOY, E. M.; SANCHES, A. L. M.; MACHAD, L. P.; TERAMOTO, E. T.",
+      "titulo": "BLASp4: IOT PLATFORM FOR PREDICTING BIOECONOMIC CARRY CAPACITY AND ECOSYSTEM AQUACULTURE SERVICES UNDER DIFFERENT CLIMATE CONDITIONS",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2e8bc7766a3ff6009b6bc83cd996b224b13b3b0c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, G. W.</b>; PROENÇA, DANILO C. ; GODOY, E. M. ; SANCHES, A. L. M. ; MACHAD, L. P. ; TERAMOTO, E. T. . BLASp4: IOT PLATFORM FOR PREDICTING BIOECONOMIC CARRY CAPACITY AND ECOSYSTEM AQUACULTURE SERVICES UNDER DIFFERENT CLIMATE CONDITIONS. In: Global Bioeconomy Allince Congress, 2024, Ubatuba, SP. Key Technologies in the Bioeconomy - A Global Bioeconomy Alliance Conference. São Paulo: AREX/UNESP, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "Global Bioeconomy Allince Congress"
+    },
+    {
+      "numero_item": 175,
+      "raw": "PROENÇA, DANILO C. ; DE GODOY, ELISA MAIA ; SILVA, M. T. ; OLIVEIRA, J. L. ; PEREIRA, S. E. ; FRACETO, L. F. ; BUENO, G. W. . Biotechnology and Bio-innovation in the Development of Eco-friendly Feed for Aquaculture. In: Global Bioeconomy Allince Congress, 2024, Ubatuba, SP. Key Technologies in the Bioeconomy - A Global Bioeconomy Alliance Conference. São Paulo: AREX/UNESP, 2024.",
+      "autores": "PROENÇA, DANILO C.; DE GODOY, ELISA MAIA; SILVA, M. T.; OLIVEIRA, J. L.; PEREIRA, S. E.; FRACETO, L. F.; BUENO, G. W.",
+      "titulo": "Biotechnology and Bio-innovation in the Development of Eco-friendly Feed for Aquaculture",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a0abb874dca8fe193611520bd45f4eda6afc499f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PROENÇA, DANILO C. ; DE GODOY, ELISA MAIA ; SILVA, M. T. ; OLIVEIRA, J. L. ; PEREIRA, S. E. ; FRACETO, L. F. ; <b>BUENO, G. W.</b> . Biotechnology and Bio-innovation in the Development of Eco-friendly Feed for Aquaculture. In: Global Bioeconomy Allince Congress, 2024, Ubatuba, SP. Key Technologies in the Bioeconomy - A Global Bioeconomy Alliance Conference. São Paulo: AREX/UNESP, 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "Global Bioeconomy Allince Congress"
+    },
+    {
+      "numero_item": 176,
+      "raw": "REIS NETO, R. V. ; FERNANDES, E. M. ; LEONARDO, A. F. ; BUENO, G. W. ; LATTANZI, G. R. . Economic and performance evaluation confirms the superiority of bybrid over its pure parental pacu in ponds. In: Congreso Acuicultura en Latinoamérica - LAQUA, 2024. Innocaion y sostenbillidad para una acuicultura global. Medelin, Colômbia: WAS/LAQUA.",
+      "autores": "REIS NETO, R. V.; FERNANDES, E. M.; LEONARDO, A. F.; BUENO, G. W.; LATTANZI, G. R.",
+      "titulo": "Economic and performance evaluation confirms the superiority of bybrid over its pure parental pacu in ponds",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50886081e2df1b1edb4324088ee9f3416c81bdcd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">REIS NETO, R. V. ; FERNANDES, E. M. ; LEONARDO, A. F. ; <b>BUENO, G. W.</b> ; LATTANZI, G. R. . Economic and performance evaluation confirms the superiority of bybrid over its pure parental pacu in ponds. In: Congreso Acuicultura en Latinoamérica - LAQUA, 2024. Innocaion y sostenbillidad para una acuicultura global. Medelin, Colômbia: WAS/LAQUA. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "livro": "Congreso Acuicultura en Latinoamérica - LAQUA"
+    },
+    {
+      "numero_item": 259,
+      "raw": "BUENO, GW . UNESP Innovation and Business Incubator Aquarium of Ideas:Innovation Ecosystem for the Development of Bioeconomy at UNESP. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "BUENO, GW",
+      "titulo": "UNESP Innovation and Business Incubator Aquarium of Ideas:Innovation Ecosystem for the Development of Bioeconomy at UNESP",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "640b118bad27be60b735e2c6257ee38d25900b9c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. UNESP Innovation and Business Incubator Aquarium of Ideas:Innovation Ecosystem for the Development  of Bioeconomy at UNESP. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 260,
+      "raw": "BUENO, GW . Como transformar pesquisa científica em produtos e empresas para o aquanegócios?. 2024. (Apresentação de Trabalho/Congresso).",
+      "autores": "BUENO, GW",
+      "titulo": "Como transformar pesquisa científica em produtos e empresas para o aquanegócios?",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e5dd5913c12dca8d294319b1876ba1402d9e9f04",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Como transformar pesquisa científica em produtos e empresas para o aquanegócios?. 2024. (Apresentação de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 261,
+      "raw": "BUENO, G. W. . Startups, Spinoffs e Tecnologias: Ecossistema de Inovação do Vale do Ribeira e Litoral Sul de São Paulo. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "BUENO, G. W.",
+      "titulo": "Startups, Spinoffs e Tecnologias: Ecossistema de Inovação do Vale do Ribeira e Litoral Sul de São Paulo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b09a24b70e3c994b17bbf4cc8ca8a5972d243a6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, G. W.</b>. Startups, Spinoffs e Tecnologias: Ecossistema de Inovação do Vale do Ribeira e Litoral Sul de São Paulo. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 262,
+      "raw": "BUENO, GW . Incubadora de Empresas de Base Científica e Tecnológica da Unesp no Vale do Ribeira e Litoral Sul de São Paulo: Aquário de Ideias. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+      "autores": "BUENO, GW",
+      "titulo": "Incubadora de Empresas de Base Científica e Tecnológica da Unesp no Vale do Ribeira e Litoral Sul de São Paulo: Aquário de Ideias",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b1d1681e64df118252797f30bc8274c72605d0bf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Incubadora de Empresas de Base Científica e Tecnológica da Unesp no Vale do Ribeira e Litoral Sul de São Paulo: Aquário de Ideias. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+    },
+    {
+      "numero_item": 305,
+      "raw": "Bueno, G.W. . Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo. 2024.",
+      "autores": "Bueno, G.W.",
+      "titulo": "Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dcdf76bffee72be46f72693d9cbecaf49c33164e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Bueno, G.W.</b>. Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 306,
+      "raw": "Bueno, G.W. . Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo. 2024.",
+      "autores": "Bueno, G.W.",
+      "titulo": "Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dcdf76bffee72be46f72693d9cbecaf49c33164e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Bueno, G.W.</b>. Processo FAPESP: PÃ³s-Doutorado / Fluxo ContÃ­nuo. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 307,
+      "raw": "Bueno, G.W. . Processo FAPESP: PIPE - Fase 1 / Fluxo ContÃ­nuo. 2024.",
+      "autores": "Bueno, G.W.",
+      "titulo": "Processo FAPESP: PIPE - Fase 1 / Fluxo ContÃ­nuo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9ca9b39bed877238294986efe8c5b04cc767659c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Bueno, G.W.</b>. Processo FAPESP: PIPE - Fase 1 / Fluxo ContÃ­nuo. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 308,
+      "raw": "BUENO, GW . Processo FAPESP: SEBRAE - PIPE - Fase 2 Direta / Chamada de Propostas (2024). 2024.",
+      "autores": "BUENO, GW",
+      "titulo": "Processo FAPESP: SEBRAE - PIPE - Fase 2 Direta / Chamada de Propostas (2024)",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "919c8b131826e2719ab1f4d405b4b932b1bcdc49",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Processo FAPESP: SEBRAE - PIPE - Fase 2 Direta / Chamada de Propostas (2024). 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 309,
+      "raw": "Bueno, G.W. . Projeto de Pesquisa em Desenvolvimento e InovaÃ§Ã£o. 2024.",
+      "autores": "Bueno, G.W.",
+      "titulo": "Projeto de Pesquisa em Desenvolvimento e InovaÃ§Ã£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ac9bcdad7f9b8d3a25e967d0bc152e55aa3a6179",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Bueno, G.W.</b>. Projeto de Pesquisa em Desenvolvimento e InovaÃ§Ã£o. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 357,
+      "raw": "NAOE, R. K. ; BUENO, GW ; SILVA, R. A. A. E. ; TERAMOTO, E. T. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech. 2024.",
+      "autores": "NAOE, R. K.; BUENO, GW; SILVA, R. A. A. E.; TERAMOTO, E. T.",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3ddea2c1bfb06281ca9da07499e31248e0ab0c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NAOE, R. K. ; <b>BUENO, GW</b> ; SILVA, R. A. A. E. ; TERAMOTO, E. T. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 358,
+      "raw": "FRANCO, J. A. O. ; BUENO, GW . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech. 2024.",
+      "autores": "FRANCO, J. A. O.; BUENO, GW",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ff46e2298faf9d2af3acb6e8ea401710d1d216c5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FRANCO, J. A. O. ; <b>BUENO, GW</b> . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 359,
+      "raw": "LOPES, T. F. ; COSTA, A. R. L. ; MACHAD, L. P. ; BUENO, GW ; GAONA, C. A. P. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech. 2024.",
+      "autores": "LOPES, T. F.; COSTA, A. R. L.; MACHAD, L. P.; BUENO, GW; GAONA, C. A. P.",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "633c0ae28bf5934dd62af4628a9f941785c8c7a5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LOPES, T. F. ; COSTA, A. R. L. ; MACHAD, L. P. ; <b>BUENO, GW</b> ; GAONA, C. A. P. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 379,
+      "raw": "BUENO, GW ; GAONA, C. A. P. ; GODOY, E. M. ; GODOI, F. C. M. ; COSTA, A. R. L. ; LOPES, T. F. . Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira. 2024; Tema: Desenvolvimento SustentÃ¡vel, Bioeconomia, Mata AtlÃ¢ntica, Vale do Ribeira. (Site).",
+      "autores": "BUENO, GW; GAONA, C. A. P.; GODOY, E. M.; GODOI, F. C. M.; COSTA, A. R. L.; LOPES, T. F.",
+      "titulo": "Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "109d0c3597ef050b8be3779ac9999c13e253d63a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>; GAONA, C. A. P. ; GODOY, E. M. ; GODOI, F. C. M. ; COSTA, A. R. L. ; LOPES, T. F. . Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira. 2024; Tema:\n\t\t\t\t\t\tDesenvolvimento SustentÃ¡vel, Bioeconomia, Mata AtlÃ¢ntica, Vale do Ribeira. (Site). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024; Tema: Desenvolvimento SustentÃ¡vel"
+    },
+    {
+      "numero_item": 380,
+      "raw": "BUENO, GW . Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais. 2024; Tema: Plataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site).",
+      "autores": "BUENO, GW",
+      "titulo": "Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ee88f32daf4c6aacebbbf8e9dab62e96870c340",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais. 2024; Tema:\n\t\t\t\t\t\tPlataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024; Tema: Plataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site)"
+    },
+    {
+      "numero_item": 390,
+      "raw": "CAMARGO, T. R. ; GALVAO, J. A. ; CHERETTI, B. ; Bueno, G.W. . Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem: FilÃ© de tilÃ¡pia Chavantes. 2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha).",
+      "autores": "CAMARGO, T. R.; GALVAO, J. A.; CHERETTI, B.; Bueno, G.W.",
+      "titulo": "Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem: FilÃ© de tilÃ¡pia Chavantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "10c1ff38389848bef7e7266726e05d92d1d3dc97",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, T. R. ; GALVAO, J. A. ; CHERETTI, B. ; <b>Bueno, G.W.</b> . Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem:  FilÃ© de tilÃ¡pia Chavantes.\n\t\t\t\t\t\t2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:31.019208"
+      },
+      "veiculo": "2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha)"
+    },
+    {
+      "numero_item": 8,
+      "raw": "BUENO, GUILHERME W. ; ALMEIDA, R. P. ; TROMBETA, T. D. . Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura. 2019, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR102019023331, tÃ­tulo: \"Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 06/11/2019; ConcessÃ£o: 04/11/2025.",
+      "autores": "BUENO, GUILHERME W.; ALMEIDA, R. P.; TROMBETA, T. D.",
+      "titulo": "Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a832906f80aa2c07606ec2954b5a9a451f9ebe0c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR102019023331&amp;idCNPq=2055316269740101&amp;sequencial=525\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, GUILHERME W.</b>; ALMEIDA, R. P. ; TROMBETA, T. D. . Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura.\n\t\t\t\t\t\t\t2019,\n\t\t\t\t\t\t\tBrasil. <br/>\n\t\t\t\t\t\tPatente:\n\t\t\t\t\t\tPrivilÃ©gio de Inov",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:31.024945"
+      },
+      "veiculo": "2019"
+    },
+    {
+      "numero_item": 12,
+      "raw": "BUENO, G. W. ; GABAN, N. ; TERAMOTO, E. T. ; NAOE, R. K. ; PROENÃA, DANILO C. ; GAONA, C. A. P. . SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS. 2025, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR 10 2025 01646, tÃ­tulo: \"SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS\" , InstituiÃ§Ã£o de registro: AgÃªncia Unesp de InovaÃ§Ã£o - AUIN. DepÃ³sito: 05/08/2025",
+      "autores": "BUENO, G. W.; GABAN, N.; TERAMOTO, E. T.; NAOE, R. K.; PROENÃA, DANILO C.; GAONA, C. A. P.",
+      "titulo": "SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2ebd147a9a72b31b557736724a2916499e3ddfa4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR 10 2025 01646&amp;idCNPq=2055316269740101&amp;sequencial=763\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, G. W.</b>; GABAN, N. ; TERAMOTO, E. T. ; NAOE, R. K. ; PROENÃA, DANILO C. ; GAONA, C. A. P. . SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃC",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:31.024945"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 19,
+      "raw": "BUENO, G. W. ; CAMARGO, T. R. ; FIALHO, NAOR S. . Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes. 2024, Brasil. Patente: Marca Registrada de Certificacao. NÃºmero do registro: 93607366, tÃ­tulo: \"Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial.",
+      "autores": "BUENO, G. W.; CAMARGO, T. R.; FIALHO, NAOR S.",
+      "titulo": "Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "63a2c695f75e7a4a3a33b5405743fd45153b657f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=93607366&amp;idCNPq=2055316269740101&amp;sequencial=762\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, G. W.</b>; CAMARGO, T. R. ; FIALHO, NAOR S. . Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes.\n\t\t\t\t\t\t\t2024,\n\t\t\t\t\t\t\tBrasil. <br/>\n\t\t\t\t\t\tPatente:\n\t\t\t\t\t\tMarca Registrada de Certificacao.\n\t\t\t\t\tNÃºmero do registro: ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Patentes e registros",
+        "extracted_at": "2026-01-26T09:30:31.024945"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 1,
+      "raw": "GODÃI, FLAVIA C. M.; BUENO, Guilherme Wolff ; PROENÃA, DANILO C.; TERAMOTO, E. T.. ParticipaÃ§Ã£o em banca de FlÃ¡via Cristina MÃ¡ximo Godoi. Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas. 2024. DissertaÃ§Ã£o (Mestrado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "GODÃI, FLAVIA C. M.; BUENO, Guilherme Wolff; PROENÃA, DANILO C.; TERAMOTO, E. T.. ParticipaÃ§Ã£o em banca de FlÃ¡via Cristina MÃ¡ximo Godoi. Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas. 2024. DissertaÃ§Ã£o (Mestrado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de FlÃ¡via Cristina MÃ¡ximo Godoi",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "42c268f10eacd2a341729da57c07871229ed72b4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GODÃI, FLAVIA C. M.; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BUENO, Guilherme Wolff</a></b>; PROENÃA, DANILO C.; TERAMOTO, E. T..  ParticipaÃ§Ã£o em banca de FlÃ¡via Cristina MÃ¡ximo Godoi. Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas. 2024. Dis",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.044220"
+      },
+      "veiculo": "Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas. 2024. DissertaÃ§Ã£o (Mestrado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 9,
+      "raw": "BUENO, Guilherme Wolff ; SANTOS, D. F. L.; Trombeta, T.D.; PROENÃA, DANILO C.; TERAMOTO, E. T.; ROUBACH, R. . ParticipaÃ§Ã£o em banca de Marcelo Guilhermino Petersen. PROTOCOLO TECNOLÃGICO DE PROCESSOS CONTÃBEIS SEQUÃNCIAIS PARA PROSPECÃÃO DE DADOS E ANÃLISE FINANCEIRA APLICADA NA GESTÃO DE EMPREENDIMENTOS AQUÃCOLAS. 2024. Tese (Doutorado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "BUENO, Guilherme Wolff; SANTOS, D. F. L.; Trombeta, T.D.; PROENÃA, DANILO C.; TERAMOTO, E. T.; ROUBACH, R.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Marcelo Guilhermino Petersen",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b27ad35dce1c439be575733d9546a9a773d954c3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BUENO, Guilherme Wolff</a></b>; SANTOS, D. F. L.; Trombeta, T.D.; PROENÃA, DANILO C.; TERAMOTO, E. T.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5661010423292906\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">ROUBACH, R.</a>.  ParticipaÃ§Ã£o em banca de Marcelo Guilhermino Petersen. PROT",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.044220"
+      },
+      "veiculo": "PROTOCOLO TECNOLÃGICO DE PROCESSOS CONTÃBEIS SEQUÃNCIAIS PARA PROSPECÃÃO DE DADOS E ANÃLISE FINANCEIRA APLICADA NA GESTÃO DE EMPREENDIMENTOS AQUÃCOLAS. 2024. Tese (Doutorado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 18,
+      "raw": "MACHAD, L. P.; BUENO, Guilherme Wolff ; GAONA, C. A. P.. ParticipaÃ§Ã£o em banca de Lana Lopes da Silva.CARACTERIZAÃÃO DE MERCADO COMERCIAL E DE ASPECTOS NUTRICIONAIS DA ALGA NORI (RHODOPHYTA, BANGIALES) NA CIDADE DE REGISTRO. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "MACHAD, L. P.; BUENO, Guilherme Wolff; GAONA, C. A. P.. ParticipaÃ§Ã£o em banca de Lana Lopes da Silva.CARACTERIZAÃÃO DE MERCADO COMERCIAL E DE ASPECTOS NUTRICIONAIS DA ALGA NORI (RHODOPHYTA, BANGIALES) NA CIDADE DE REGISTRO.. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de Lana Lopes da Silva",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "95aa8df31f12d478387d4da1bedde040358f84f4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MACHAD, L. P.; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BUENO, Guilherme Wolff</a></b>; GAONA, C. A. P..  ParticipaÃ§Ã£o em banca de Lana Lopes da Silva.CARACTERIZAÃÃO DE MERCADO COMERCIAL E DE ASPECTOS NUTRICIONAIS DA ALGA NORI (RHODOPHYTA, BANGIALES) NA CIDADE DE REGISTRO.\n\t\t\t\t\t\t2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.044220"
+      },
+      "veiculo": "CARACTERIZAÃÃO DE MERCADO COMERCIAL E DE ASPECTOS NUTRICIONAIS DA ALGA NORI (RHODOPHYTA"
+    },
+    {
+      "numero_item": 19,
+      "raw": "TERAMOTO, E. T.; BUENO, Guilherme Wolff ; PROENÃA, DANILO C.. ParticipaÃ§Ã£o em banca de GISELE DE SOUZA SILVA.PLANO DE NEGÃCIOS: OCELLARIS AQUARIOFILIA. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "TERAMOTO, E. T.; BUENO, Guilherme Wolff; PROENÃA, DANILO C.. ParticipaÃ§Ã£o em banca de GISELE DE SOUZA SILVA.PLANO DE NEGÃCIOS: OCELLARIS AQUARIOFILIA.. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de GISELE DE SOUZA SILVA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ce7eb5101238b3eb64058965b229369efb586c7d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TERAMOTO, E. T.; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2055316269740101\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">BUENO, Guilherme Wolff</a></b>; PROENÃA, DANILO C..  ParticipaÃ§Ã£o em banca de GISELE DE SOUZA SILVA.PLANO DE NEGÃCIOS: OCELLARIS AQUARIOFILIA.\n\t\t\t\t\t\t2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </s",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:31.044220"
+      },
+      "veiculo": "PLANO DE NEGÃCIOS: OCELLARIS AQUARIOFILIA. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 11,
+      "raw": "CRUZ, M. ; SANTOS, M. R. ; SANTIAGO, P. S. ; BUENO, Guilherme Wolff ; CHRISTOFOLETTI, R. . 4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul. 2024. (Outro).",
+      "autores": "CRUZ, M.; SANTOS, M. R.; SANTIAGO, P. S.; BUENO, Guilherme Wolff; CHRISTOFOLETTI, R",
+      "titulo": "4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d4ec79444a45566ed9a809a7441149e375f10af6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CRUZ, M. ; SANTOS, M. R. ; SANTIAGO, P. S. ; <b>BUENO, Guilherme Wolff</b> ; CHRISTOFOLETTI, R. . 4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.059565"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 12,
+      "raw": "BUENO, Guilherme Wolff ; GAONA, C. A. P. ; GODOI, F. C. M. ; SILVA, E. C. F. ; CHERETTI, B. . AquÃ¡rio Conecta: aÃ§Ãµes de empreendedorismo cientÃ­fico e formaÃ§Ã£o de startups. 2024. (Outro).",
+      "autores": "BUENO, Guilherme Wolff; GAONA, C. A. P.; GODOI, F. C. M.; SILVA, E. C. F.; CHERETTI, B.",
+      "titulo": "AquÃ¡rio Conecta: aÃ§Ãµes de empreendedorismo cientÃ­fico e formaÃ§Ã£o de startups",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1aff9415b83fa71b7bff726acb66a579232543ad",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, Guilherme Wolff</b>; GAONA, C. A. P. ; GODOI, F. C. M. ; SILVA, E. C. F. ; CHERETTI, B. . AquÃ¡rio Conecta: aÃ§Ãµes de empreendedorismo cientÃ­fico e formaÃ§Ã£o de startups. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:31.059565"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Marcelo AÃ±ez RodrÃ­guez. Scientific Study on Applied Bioeconomy in Sustainable Aquaculture. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Scientific Study on Applied Bioeconomy in Sustainable Aquaculture",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2d44a7c2de00d2739a44613f5f5b44d175dde5ea",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcelo AÃ±ez RodrÃ­guez. Scientific Study on Applied Bioeconomy in Sustainable Aquaculture.\n\t\t\t\t\tInÃ­cio: 2025.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em AqÃ¼icultura)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em AqÃ¼icultura) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Roberto Kazuyoshi Naoe. Sensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Energia na Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador).",
+      "autores": null,
+      "titulo": "Sensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fc0684e0aafe27a407ae13d0ed5038b1214ff2f9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Roberto Kazuyoshi Naoe. Sensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Energia na Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Energia na Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador)"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Brennda Ramos Cheretti. Benchmarking of technologies and innovations used in climate and limnological monitoring of commercial aquaculture enterprises. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Aquicultura) - Centro de Aquicultura da Unesp, FundaÃ§Ã£o FAPED. (Orientador).",
+      "autores": null,
+      "titulo": "Benchmarking of technologies and innovations used in climate and limnological monitoring of commercial aquaculture enterprises",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4819bfa5de266b5835f21a936e04d978f0b6d096",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Brennda Ramos Cheretti. Benchmarking of technologies and innovations used in climate and limnological monitoring of commercial aquaculture enterprises.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Aquicultura)  - Centro de Aquicultura da Unesp, FundaÃ§Ã£o FAPED. (Orientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Aquicultura) - Centro de Aquicultura da Unesp"
+    },
+    {
+      "numero_item": 4,
+      "raw": "Moranne Toniato da Silva. PrediÃ§Ã£o da externalidade ambiental e monetizaÃ§Ã£o de serviÃ§os ambientais para produÃ§Ã£o de pescados em reservatÃ³rios neotropicais. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Aquicultura) - Centro de Aquicultura da Unesp. (Orientador).",
+      "autores": null,
+      "titulo": "PrediÃ§Ã£o da externalidade ambiental e monetizaÃ§Ã£o de serviÃ§os ambientais para produÃ§Ã£o de pescados em reservatÃ³rios neotropicais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cec3d544a916b513ac9f29d01690347a5bafbeca",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1856628902523601\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Moranne Toniato da Silva. PrediÃ§Ã£o da externalidade ambiental e monetizaÃ§Ã£o de serviÃ§os ambientais para produÃ§Ã£o de pescados em reservatÃ³rios neotropicais.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Aquicultura)  - Centro de Aquicultura da Unesp. (Orientador). </span></di",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Aquicultura) - Centro de Aquicultura da Unesp. (Orientador)"
+    },
+    {
+      "numero_item": 5,
+      "raw": "Raphael de Abreu Alves e Silva. IA e sensor limnolÃ³gicos aplicado na aquicultura de precisÃ£o. InÃ­cio: 2024. Tese (Doutorado em Agronomia (Energia na Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador).",
+      "autores": null,
+      "titulo": "IA e sensor limnolÃ³gicos aplicado na aquicultura de precisÃ£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "caa04bbce952f5128acd0700dca264648a86b421",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raphael de Abreu Alves e Silva. IA e sensor limnolÃ³gicos aplicado na aquicultura de precisÃ£o.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Agronomia (Energia na Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Agronomia (Energia na Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Coorientador)"
+    },
+    {
+      "numero_item": 6,
+      "raw": "Luiz Claudio Chiavini. Industry 4.0-based smart systems in aquaculture from cage farm. InÃ­cio: 2024. Tese (Doutorado em Doutorado em CiÃªncias) - Universidade de SÃ£o Paulo. (Coorientador).",
+      "autores": null,
+      "titulo": "InÃ­cio: 2024",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "59b1ad23d9ee711f683a0e9c2ad5bfcd585d6969",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Luiz Claudio Chiavini. Industry 4.0-based smart systems in aquaculture from cage farm.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Doutorado em CiÃªncias)  - Universidade de SÃ£o Paulo. (Coorientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "Tese (Doutorado em Doutorado em CiÃªncias) - Universidade de SÃ£o Paulo. (Coorientador)"
+    },
+    {
+      "numero_item": 7,
+      "raw": "Esthefany Caroline de FranÃ§a Silva. High-technology based startup in agribusiness sector: mapping linkages, products and services for brazilian aquabussines. InÃ­cio: 2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp, Capes. (Orientador).",
+      "autores": null,
+      "titulo": "High-technology based startup in agribusiness sector: mapping linkages, products and services for brazilian aquabussines",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "00a7e1d096949ad560fe3a0dd4381931e7bc9e37",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2407751108346349\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Esthefany Caroline de FranÃ§a Silva. High-technology based startup in agribusiness sector: mapping linkages, products and services for  brazilian aquabussines.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura)  - Centro de Aquicultura da Unesp, ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp"
+    },
+    {
+      "numero_item": 10,
+      "raw": "Henrique Baccarin Dissordi. Efeitos das condiÃ§Ãµes climÃ¡ticas no crescimento corporal e desempenho econÃ´mico da produÃ§Ã£o de Oreochromis niloticus em Ã¡guas da uniÃ£o. InÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
+      "autores": null,
+      "titulo": "Efeitos das condiÃ§Ãµes climÃ¡ticas no crescimento corporal e desempenho econÃ´mico da produÃ§Ã£o de Oreochromis niloticus em Ã¡guas da uniÃ£o",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2c3d47a1a5b9360b396a636513e8e70791722ea9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Henrique Baccarin Dissordi. Efeitos das condiÃ§Ãµes climÃ¡ticas no crescimento corporal e desempenho econÃ´mico da produÃ§Ã£o de Oreochromis niloticus em Ã¡guas da uniÃ£o.\n\t\t\t\t\tInÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+    },
+    {
+      "numero_item": 11,
+      "raw": "Sthefani VitÃ³ria Gomes da Silva. Smart Sensor with IoT Integration for Climate and Environmental Monitoring in Aquaculture Production. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de ProduÃ§Ã£o) - Instituto Federal de SÃ£o Paulo, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
+      "autores": null,
+      "titulo": "Smart Sensor with IoT Integration for Climate and Environmental Monitoring in Aquaculture Production",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "33b0e49409e1dab10b8db56b9c45000947b86b4f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Sthefani VitÃ³ria Gomes da Silva. Smart Sensor with IoT Integration for Climate and Environmental Monitoring in Aquaculture Production. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de ProduÃ§Ã£o)  - Instituto Federal de SÃ£o Paulo, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de ProduÃ§Ã£o) - Instituto Federal de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 13,
+      "raw": "FlÃ¡via Cristina MÃ¡ximo Godoi. Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas. 2024. DissertaÃ§Ã£o (Mestrado em Aquicultura) - Centro de Aquicultura da Unesp, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8d74bad6a3f8d4251c18b9dde3628644326e74ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/9296039931477849\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>FlÃ¡via Cristina MÃ¡ximo Godoi. Modelagem do crescimento corporal da tilÃ¡pia do Nilo (Oreochromis niloticus) para previsÃ£o de safras e gestÃ£o Ã¡gil nas operaÃ§Ãµes aquÃ­colas.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Aquicultura)  - Centro de Aquicultura da Unesp, CoordenaÃ§Ã£o de AperfeiÃ§oam",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "2024. DissertaÃ§Ã£o (Mestrado em Aquicultura) - Centro de Aquicultura da Unesp"
+    },
+    {
+      "numero_item": 19,
+      "raw": "Naor Silveira Fialho. DenominaÃ§Ã£o de Origem GeogrÃ¡fica e biotecnologia aplicada para processos de certificaÃ§Ã£o da qualidade do pescado de Oreochromis niloticus criado em tanque-rede no reservatÃ³rio de Chavantes. 2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp, Capes. Orientador: Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "DenominaÃ§Ã£o de Origem GeogrÃ¡fica e biotecnologia aplicada para processos de certificaÃ§Ã£o da qualidade do pescado de Oreochromis niloticus criado em tanque-rede no reservatÃ³rio de Chavantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "945bcc063f1c399137df461fe0625b8e82d409d3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6439376328536799\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Naor Silveira Fialho.\n\t\t\t\t\t\tDenominaÃ§Ã£o de Origem GeogrÃ¡fica e biotecnologia aplicada para processos de certificaÃ§Ã£o da qualidade do pescado de Oreochromis niloticus criado em tanque-rede no reservatÃ³rio de Chavantes.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de c",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp"
+    },
+    {
+      "numero_item": 20,
+      "raw": "Marcelo Guilhermino Petersen. PROTOCOLO TECNOLÃGICO DE PROCESSOS CONTÃBEIS SEQUÃNCIAIS PARA PROSPECÃÃO DE DADOS E ANÃLISE FINANCEIRA APLICADA NA GESTÃO DE EMPREENDIMENTOS AQUÃCOLAS. 2024. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp, . Orientador: Guilherme Wolff Bueno.",
+      "autores": "Marcelo Guilhermino Petersen. PROTOCOLO TECNOLÃGICO DE PROCESSOS CONTÃBEIS SEQUÃNCIAIS PARA PROSPECÃÃO DE DADOS E ANÃLISE FINANCEIRA APLICADA NA GESTÃO DE EMPREENDIMENTOS AQUÃCOLAS.. Tese (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) - Centro de Aquicultura da Unesp,",
+      "titulo": "Orientador: Guilherme Wolff Bueno",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "09ba3b3e0f8efd0afd150464661b18811c96a56e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2161714888452229\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marcelo Guilhermino Petersen.\n\t\t\t\t\t\tPROTOCOLO TECNOLÃGICO DE PROCESSOS CONTÃBEIS SEQUÃNCIAIS PARA PROSPECÃÃO DE DADOS E ANÃLISE FINANCEIRA APLICADA NA GESTÃO DE  EMPREENDIMENTOS AQUÃCOLAS.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em PÃ³s-graduaÃ§Ã£o em CiÃªncias: Ã¡rea de concentraÃ§Ã£o Aquicultura) ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 24,
+      "raw": "Bruna Loureiro. 2025. Universidade Estadual Paulista JÃºlio de Mesquita Filho, mpresa Brasileira de Pesquisa e InovaÃ§Ã£o Industrial. Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Guilherme Wolff Bueno",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b380813f907dc41e4c95f512b9b802d9158c916a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna Loureiro.\n\t\t\t\t\t\t2025. Universidade Estadual Paulista JÃºlio de Mesquita Filho, mpresa Brasileira de Pesquisa e InovaÃ§Ã£o Industrial. Guilherme Wolff Bueno. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 25,
+      "raw": "Johana Marcela Concha Obando. 2025. Faculdade de CiÃªncias AgrÃ¡rias do Vale do Ribeira, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Guilherme Wolff Bueno",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d43c16eda6bc14bccfbb1f2b29948c9b0c15c201",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Johana Marcela Concha Obando.\n\t\t\t\t\t\t2025. Faculdade de CiÃªncias AgrÃ¡rias do Vale do Ribeira, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Guilherme Wolff Bueno. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 26,
+      "raw": "Tavani Rocha Camargo. 2024. Universidade Estadual Paulista Julio De Mesquita F, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Guilherme Wolff Bueno",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e8e01295bc0dbe3a45ff8bd7db6206983ff00a8e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tavani Rocha Camargo.\n\t\t\t\t\t\t2024. Universidade Estadual Paulista Julio De Mesquita F, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. Guilherme Wolff Bueno. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 27,
+      "raw": "Danilo Cintra ProenÃ§a. 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Guilherme Wolff Bueno.",
+      "autores": "Danilo Cintra ProenÃ§a. . Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Guilherme Wolff Bueno",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d13b8faa3943c72f295dad5f397587baf8d70b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danilo Cintra ProenÃ§a.\n\t\t\t\t\t\t2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Guilherme Wolff Bueno. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 28,
+      "raw": "LuÃ­s Carlos IuÃ±es de Oliveira Filho. 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Guilherme Wolff Bueno",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "06c98714543ccad78eb0a33dd7a3ecc6144ffb33",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LuÃ­s Carlos IuÃ±es de Oliveira Filho.\n\t\t\t\t\t\t2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Guilherme Wolff Bueno. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      }
+    },
+    {
+      "numero_item": 31,
+      "raw": "Thales GonÃ§alves Francisco. BUSINESS INTELLIGENCE PARA GESTÃO ÃGIL DE SAFRAS DE PRODUÃÃO COMERCIAL DO PESCADO SOB DIFERENTES CONDIÃÃES DE CLIMA. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "BUSINESS INTELLIGENCE PARA GESTÃO ÃGIL DE SAFRAS DE PRODUÃÃO COMERCIAL DO PESCADO SOB DIFERENTES CONDIÃÃES DE CLIMA",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ba275ec11d6c1ad3fb7922ad2e96e27af76e55d4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Thales GonÃ§alves Francisco.\n\t\t\t\t\t\tBUSINESS INTELLIGENCE PARA GESTÃO ÃGIL DE SAFRAS DE PRODUÃÃO COMERCIAL DO PESCADO SOB DIFERENTES CONDIÃÃES DE CLIMA.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia de Pesca)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Guilherme Wolff Bueno.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Guilherme Wolff Bueno"
+    },
+    {
+      "numero_item": 67,
+      "raw": "Gustavo Barboza de Melo Silva. Sensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos. 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Guilherme Wolff Bueno.",
+      "autores": null,
+      "titulo": "Sensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "13418e4d4e65345aee1ff810e6f221f68310723c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gustavo Barboza de Melo Silva.\n\t\t\t\t\t\tSensor climÃ¡tico para monitoramento ambiental da Ã¡gua e prediÃ§Ã£o do crescimento corporal de organismos aquÃ¡ticos.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia de Pesca)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Guilherme Wolff Bueno.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:31.077526"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia de Pesca) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 8,
+      "raw": "BUENO, GUILHERME W. ; ALMEIDA, R. P. ; TROMBETA, T. D. . Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura. 2019, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR102019023331, tÃ­tulo: \"Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 06/11/2019; ConcessÃ£o: 04/11/2025.",
+      "autores": "BUENO, GUILHERME W.; ALMEIDA, R. P.; TROMBETA, T. D.",
+      "titulo": "Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a832906f80aa2c07606ec2954b5a9a451f9ebe0c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR102019023331&amp;idCNPq=2055316269740101&amp;sequencial=525\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, GUILHERME W.</b>; ALMEIDA, R. P. ; TROMBETA, T. D. . Composições de nutrição animal, produto obtido e seu uso como ração em aquicultura.\n\t\t\t\t\t\t\t2019,\n\t\t\t\t\t\t\tBrasil. <br/>\n\t\t\t\t\t\tPatente:\n\t\t\t\t\t\tPrivilÃ©gio de Inov",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2019"
+    },
+    {
+      "numero_item": 12,
+      "raw": "BUENO, G. W. ; GABAN, N. ; TERAMOTO, E. T. ; NAOE, R. K. ; PROENÃA, DANILO C. ; GAONA, C. A. P. . SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS. 2025, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR 10 2025 01646, tÃ­tulo: \"SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS\" , InstituiÃ§Ã£o de registro: AgÃªncia Unesp de InovaÃ§Ã£o - AUIN. DepÃ³sito: 05/08/2025",
+      "autores": "BUENO, G. W.; GABAN, N.; TERAMOTO, E. T.; NAOE, R. K.; PROENÃA, DANILO C.; GAONA, C. A. P.",
+      "titulo": "SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃCOLAS SOB DIFERENTES CONDIÃÃES CLIMÃTICAS",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2ebd147a9a72b31b557736724a2916499e3ddfa4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR 10 2025 01646&amp;idCNPq=2055316269740101&amp;sequencial=763\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, G. W.</b>; GABAN, N. ; TERAMOTO, E. T. ; NAOE, R. K. ; PROENÃA, DANILO C. ; GAONA, C. A. P. . SISTEMA E MÃTODO SEQUENCIAL DE MODELAGEM DE DADOS PARA PREVISÃO BIOECONÃMICA E GESTÃO OPERACIONAL DE FAZENDAS AQUÃC",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2025"
+    },
+    {
+      "numero_item": 19,
+      "raw": "BUENO, G. W. ; CAMARGO, T. R. ; FIALHO, NAOR S. . Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes. 2024, Brasil. Patente: Marca Registrada de Certificacao. NÃºmero do registro: 93607366, tÃ­tulo: \"Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial.",
+      "autores": "BUENO, G. W.; CAMARGO, T. R.; FIALHO, NAOR S.",
+      "titulo": "Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "63a2c695f75e7a4a3a33b5405743fd45153b657f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=93607366&amp;idCNPq=2055316269740101&amp;sequencial=762\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span><b>BUENO, G. W.</b>; CAMARGO, T. R. ; FIALHO, NAOR S. . Selo de DenominaÃ§Ã£o de Origem: FilÃ© de TilÃ¡pia Chavantes.\n\t\t\t\t\t\t\t2024,\n\t\t\t\t\t\t\tBrasil. <br/>\n\t\t\t\t\t\tPatente:\n\t\t\t\t\t\tMarca Registrada de Certificacao.\n\t\t\t\t\tNÃºmero do registro: ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 36,
+      "raw": "NAOE, R. K. ; BUENO, GW ; SILVA, R. A. A. E. ; TERAMOTO, E. T. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech. 2024.",
+      "autores": "NAOE, R. K.; BUENO, GW; SILVA, R. A. A. E.; TERAMOTO, E. T.",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3ddea2c1bfb06281ca9da07499e31248e0ab0c6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NAOE, R. K. ; <b>BUENO, GW</b> ; SILVA, R. A. A. E. ; TERAMOTO, E. T. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Aqualink DeepTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 37,
+      "raw": "FRANCO, J. A. O. ; BUENO, GW . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech. 2024.",
+      "autores": "FRANCO, J. A. O.; BUENO, GW",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ff46e2298faf9d2af3acb6e8ea401710d1d216c5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">FRANCO, J. A. O. ; <b>BUENO, GW</b> . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Biocarbono CleanTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 39,
+      "raw": "LOPES, T. F. ; COSTA, A. R. L. ; MACHAD, L. P. ; BUENO, GW ; GAONA, C. A. P. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech. 2024.",
+      "autores": "LOPES, T. F.; COSTA, A. R. L.; MACHAD, L. P.; BUENO, GW; GAONA, C. A. P.",
+      "titulo": "Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "633c0ae28bf5934dd62af4628a9f941785c8c7a5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LOPES, T. F. ; COSTA, A. R. L. ; MACHAD, L. P. ; <b>BUENO, GW</b> ; GAONA, C. A. P. . Fomento de Spin-off | Empresas de Base TecnolÃ³gica: Growd AgTech. 2024. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Inovação",
+        "extracted_at": "2026-01-26T09:30:31.097044"
+      },
+      "veiculo": "2024"
+    },
+    {
+      "numero_item": 16,
+      "raw": "BUENO, GW ; GAONA, C. P. ; BENTO, K. ; GODÃI, FLAVIA C. M. ; SILVA, R. A. A. E. ; ALBERS, F. ; CHERETTI, B. . Management & Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? AquÃ¡rio de Ideias. 1. ed. Registro: Fundunesp: Incubadora AquÃ¡rio de Ideias, 2025. v. 1. 30p .",
+      "autores": "BUENO, GW; GAONA, C. P.; BENTO, K.; GODÃI, FLAVIA C. M.; SILVA, R. A. A. E.; ALBERS, F.; CHERETTI, B.",
+      "titulo": "Management & Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? AquÃ¡rio de Ideias",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.5281/zenodo.15236922.",
+      "fingerprint_sha1": "892c3c48426ee6a4a63821f312542ac9b0bdf934",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.15236922.\" target=\"_blank\"></a><b>BUENO, GW</b>; GAONA, C. P. ; BENTO, K. ; GODÃI, FLAVIA C. M. ; SILVA, R. A. A. E. ; ALBERS, F. ; CHERETTI, B. . Management &amp; Impact of the Science and Technology-Based Business Incubator of Vale do Ribeira and Litoral Sul ? AquÃ¡rio de Ideias. 1. ed. Registro: Fundunesp: Incubadora AquÃ¡rio de Ideias, 2025. v. 1. 30p . ",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "1. ed. Registro: Fundunesp: Incubadora AquÃ¡rio de Ideias"
+    },
+    {
+      "numero_item": 17,
+      "raw": "OBANDO, J. M. C. ; Thalisia Cunha dos ; Clara Lopes dos ; Maria VitÃ³ria Raupp ; Levi Pompermayer ; ValÃ©ria Laneuville ; Diana NegrÃ£o ; WOLFF BUENO, G. . The invisible world of brown seaweeds. 1. ed. Ponta Grossa: Atena, 2025.",
+      "autores": "OBANDO, J. M. C.; Thalisia Cunha dos; Clara Lopes dos; Maria VitÃ³ria Raupp; Levi Pompermayer; ValÃ©ria Laneuville; Diana NegrÃ£o; WOLFF BUENO, G.",
+      "titulo": "The invisible world of brown seaweeds",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.22533/at.ed.607252508",
+      "fingerprint_sha1": "8dfe471b76d93d9242d86dad8bff009fb1547f6e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22533/at.ed.607252508\" target=\"_blank\"></a>OBANDO, J. M. C. ; Thalisia Cunha dos ; Clara Lopes dos ; Maria VitÃ³ria Raupp ; Levi Pompermayer ; ValÃ©ria Laneuville ; Diana NegrÃ£o ; <b>WOLFF BUENO, G.</b> . The invisible world of brown seaweeds. 1. ed. Ponta Grossa: Atena, 2025. </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "1. ed. Ponta Grossa: Atena"
+    },
+    {
+      "numero_item": 18,
+      "raw": "ROCHA CAMARGO, TAVANI ; FIALHO, NAOR SILVEIRA ; CHERETTI, B. ; GALVAO, J. A. ; BUENO, G. W. . Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet. 1. ed. Jaboticabal: Zenodo, 2024. v. 1. 43p .",
+      "autores": "ROCHA CAMARGO, TAVANI; FIALHO, NAOR SILVEIRA; CHERETTI, B.; GALVAO, J. A.; BUENO, G. W.",
+      "titulo": "Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5281/zenodo.13999327.",
+      "fingerprint_sha1": "54bda8c2b585ad44377c578965117481196ef601",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.13999327.\" target=\"_blank\"></a>ROCHA CAMARGO, TAVANI ; FIALHO, NAOR SILVEIRA ; CHERETTI, B. ; GALVAO, J. A. ; <b>BUENO, G. W.</b> . Bioprocesses for Origin Denomination Certification: Chavantes Tilapia Fillet. 1. ed. Jaboticabal: Zenodo, 2024. v. 1. 43p . </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "1. ed. Jaboticabal: Zenodo"
+    },
+    {
+      "numero_item": 35,
+      "raw": "BUENO, GW . Como transformar pesquisa cientÃ­fica em produtos e empresas para o aquanegÃ³cios?. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso).",
+      "autores": "BUENO, GW",
+      "titulo": "Como transformar pesquisa cientÃ­fica em produtos e empresas para o aquanegÃ³cios?",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b86faa2cc8a3a997972f55eb6238594b697e6f83",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Como transformar pesquisa cientÃ­fica em produtos e empresas para o aquanegÃ³cios?. 2024. (ApresentaÃ§Ã£o de Trabalho/Congresso). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/Congresso)"
+    },
+    {
+      "numero_item": 36,
+      "raw": "BUENO, G. W. . Startups, Spinoffs e Tecnologias: Ecossistema de InovaÃ§Ã£o do Vale do Ribeira e Litoral Sul de SÃ£o Paulo. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "BUENO, G. W.",
+      "titulo": "Startups, Spinoffs e Tecnologias: Ecossistema de InovaÃ§Ã£o do Vale do Ribeira e Litoral Sul de SÃ£o Paulo",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bf9a139119a614bb059191dc52e5bed3ea247bed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, G. W.</b>. Startups, Spinoffs e Tecnologias: Ecossistema de InovaÃ§Ã£o do Vale do Ribeira e Litoral Sul de SÃ£o Paulo. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 37,
+      "raw": "BUENO, GW . Incubadora de Empresas de Base CientÃ­fica e TecnolÃ³gica da Unesp no Vale do Ribeira e Litoral Sul de SÃ£o Paulo: AquÃ¡rio de Ideias. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "BUENO, GW",
+      "titulo": "Incubadora de Empresas de Base CientÃ­fica e TecnolÃ³gica da Unesp no Vale do Ribeira e Litoral Sul de SÃ£o Paulo: AquÃ¡rio de Ideias",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f650f41560dc63cf489b6a94da74a7d3bf90d727",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Incubadora de Empresas de Base CientÃ­fica e TecnolÃ³gica da Unesp no Vale do Ribeira e Litoral Sul de SÃ£o Paulo: AquÃ¡rio de Ideias. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 41,
+      "raw": "CAMARGO, T. R. ; GALVAO, J. A. ; CHERETTI, B. ; Bueno, G.W. . Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem: FilÃ© de tilÃ¡pia Chavantes. 2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha).",
+      "autores": "CAMARGO, T. R.; GALVAO, J. A.; CHERETTI, B.; Bueno, G.W.",
+      "titulo": "Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem: FilÃ© de tilÃ¡pia Chavantes",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "10c1ff38389848bef7e7266726e05d92d1d3dc97",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAMARGO, T. R. ; GALVAO, J. A. ; CHERETTI, B. ; <b>Bueno, G.W.</b> . Bioprocessos para CertificaÃ§Ã£o de DenominaÃ§Ã£o de Origem:  FilÃ© de tilÃ¡pia Chavantes.\n\t\t\t\t\t\t2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024. (Desenvolvimento de material didÃ¡tico ou instrucional - Cartilha)"
+    },
+    {
+      "numero_item": 65,
+      "raw": "CRUZ, M. ; SANTOS, M. R. ; SANTIAGO, P. S. ; BUENO, Guilherme Wolff ; CHRISTOFOLETTI, R. . 4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul. 2024. (Outro).",
+      "autores": "CRUZ, M.; SANTOS, M. R.; SANTIAGO, P. S.; BUENO, Guilherme Wolff; CHRISTOFOLETTI, R",
+      "titulo": "4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d4ec79444a45566ed9a809a7441149e375f10af6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CRUZ, M. ; SANTOS, M. R. ; SANTIAGO, P. S. ; <b>BUENO, Guilherme Wolff</b> ; CHRISTOFOLETTI, R. . 4Âº FÃ³rum do Corredor Azul: da escola azul ao empreendedorismo azul. 2024. (Outro). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024. (Outro)"
+    },
+    {
+      "numero_item": 66,
+      "raw": "BUENO, GW ; GAONA, C. A. P. ; GODOY, E. M. ; GODOI, F. C. M. ; COSTA, A. R. L. ; LOPES, T. F. . Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira. 2024; Tema: Desenvolvimento SustentÃ¡vel, Bioeconomia, Mata AtlÃ¢ntica, Vale do Ribeira. (Site).",
+      "autores": "BUENO, GW; GAONA, C. A. P.; GODOY, E. M.; GODOI, F. C. M.; COSTA, A. R. L.; LOPES, T. F.",
+      "titulo": "Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "109d0c3597ef050b8be3779ac9999c13e253d63a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>; GAONA, C. A. P. ; GODOY, E. M. ; GODOI, F. C. M. ; COSTA, A. R. L. ; LOPES, T. F. . Programa Vale Verde: consciÃªncia ambiental no Vale do Ribeira. 2024; Tema:\n\t\t\t\t\t\tDesenvolvimento SustentÃ¡vel, Bioeconomia, Mata AtlÃ¢ntica, Vale do Ribeira. (Site). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024; Tema: Desenvolvimento SustentÃ¡vel"
+    },
+    {
+      "numero_item": 75,
+      "raw": "BUENO, GW . Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais. 2024; Tema: Plataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site).",
+      "autores": "BUENO, GW",
+      "titulo": "Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ee88f32daf4c6aacebbbf8e9dab62e96870c340",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>BUENO, GW</b>. Workshop do Programa MudanÃ§as ClimÃ¡ticas Globais. 2024; Tema:\n\t\t\t\t\t\tPlataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site). </span></div>",
+      "source": {
+        "file": "2055316269740101__guilherme-wolff-bueno.full_profile.html",
+        "lattes_id": "2055316269740101",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:31.112159"
+      },
+      "veiculo": "2024; Tema: Plataforma IoT de MediÃ§Ãµes da Capacidade de Suporte e AnÃ¡lise BioeconÃ´mica. (Site)"
+    }
+  ]
+}

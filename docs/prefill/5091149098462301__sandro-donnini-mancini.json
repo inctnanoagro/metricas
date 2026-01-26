@@ -1,0 +1,832 @@
+{
+  "schema_version": "2.0.0",
+  "researcher": {
+    "lattes_id": "5091149098462301",
+    "full_name": "Sandro Donnini Mancini",
+    "slug": "sandro-donnini-mancini",
+    "last_update": null
+  },
+  "metadata": {
+    "extracted_at": "2026-01-26T09:30:37.748156",
+    "source_file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+    "total_productions": 43,
+    "sections": [
+      {
+        "section_title": "Produções",
+        "item_count": 18,
+        "tipo_producao": "temp__producoes"
+      },
+      {
+        "section_title": "Patentes e registros",
+        "item_count": 0,
+        "tipo_producao": "temp__patentes-e-registros"
+      },
+      {
+        "section_title": "Bancas",
+        "item_count": 15,
+        "tipo_producao": "temp__bancas"
+      },
+      {
+        "section_title": "Eventos",
+        "item_count": 2,
+        "tipo_producao": "temp__eventos"
+      },
+      {
+        "section_title": "Orientações",
+        "item_count": 7,
+        "tipo_producao": "temp__orientacoes"
+      },
+      {
+        "section_title": "Inovação",
+        "item_count": 0,
+        "tipo_producao": "temp__inovacao"
+      },
+      {
+        "section_title": "Educação e Popularização de C & T",
+        "item_count": 1,
+        "tipo_producao": "temp__educacao-e-popularizacao-de-c-t"
+      }
+    ],
+    "filters": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "productions": [
+    {
+      "numero_item": 2,
+      "raw": "RAMOS, RYAN CAMIM 2025 RAMOS, RYAN CAMIM ; MEDEIROS, GERSON ARAUJO DE ; Mancini, Sandro Donnini . Potential for circular economy of the briquetting process of steel chips generated in a metallurgical industry in the metropolitan region of Sorocaba, São Paulo State, Brazil. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 18, p. e3597, 2025.",
+      "autores": "RAMOS, RYAN CAMIM RAMOS, RYAN CAMIM; MEDEIROS, GERSON ARAUJO DE; Mancini, Sandro Donnini",
+      "titulo": "Potential for circular economy of the briquetting process of steel chips generated in a metallurgical industry in the metropolitan region of Sorocaba, São Paulo State, Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/rdelosv18.n63-086",
+      "fingerprint_sha1": "02b5198c1ef23d0e3405a3f4affbc297a2639d03",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RAMOS, RYAN CAMIM</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv18.n63-086\" target=\"_blank\"></a>RAMOS, RYAN CAMIM ; MEDEIROS, GERSON ARAUJO DE ; <b>Mancini, Sandro Donnini</b> . Potential for circul",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 3,
+      "raw": "DONNINI MANCINI, SANDRO 2025 DONNINI MANCINI, SANDRO ; RODOLFO JUNIOR, ANTONIO ; BARCELLOS MATTOS, BEATRIZ ; HOSHI PINTO, LUANA MISAE ; CARDOSO DE MORAIS, LEANDRO ; PARRA RIBEIRO, RAFAEL . From the end to the beginning: Obtaining and evaluation of flexible PVC produced via chemical recycling of post-consumer PET. Progress in Rubber Plastics and Recycling Technology , v. 1, p. 1, 2025.",
+      "autores": "DONNINI MANCINI, SANDRO DONNINI MANCINI, SANDRO; RODOLFO JUNIOR, ANTONIO; BARCELLOS MATTOS, BEATRIZ; HOSHI PINTO, LUANA MISAE; CARDOSO DE MORAIS, LEANDRO; PARRA RIBEIRO, RAFAEL",
+      "titulo": "From the end to the beginning: Obtaining and evaluation of flexible PVC produced via chemical recycling of post-consumer PET",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1177/14777606251314280",
+      "fingerprint_sha1": "3d5859621328f69318f74459b01dcd9dae5a6882",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DONNINI MANCINI, SANDRO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1177/14777606251314280\" target=\"_blank\"></a><b>DONNINI MANCINI, SANDRO</b>; RODOLFO JUNIOR, ANTONIO ; BARCELLOS MATTOS, BEATRIZ ; HOSHI PINTO",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "Progress in Rubber Plastics and Recycling Technology"
+    },
+    {
+      "numero_item": 4,
+      "raw": "BARBOSA, JULIANA THOMAZ LEFLOCH 2025 BARBOSA, JULIANA THOMAZ LEFLOCH ; Mancini, Sandro Donnini ; MARANDUBA, HENRIQUE LEONARDO ; SOUZA, RICARDO GABBAY DE ; MEDEIROS, GERSON ARAUJO DE ; BELLI, MARIA CRISTINA AMBROSETTI DE SOUZA . Avaliando os impactos ambientais de um parque fabril de eletroeletrônicos a partir de cenários sobre resíduos sólidos. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 18, p. e3793, 2025.",
+      "autores": "BARBOSA, JULIANA THOMAZ LEFLOCH BARBOSA, JULIANA THOMAZ LEFLOCH; Mancini, Sandro Donnini; MARANDUBA, HENRIQUE LEONARDO; SOUZA, RICARDO GABBAY DE; MEDEIROS, GERSON ARAUJO DE; BELLI, MARIA CRISTINA AMBROSETTI DE SOUZA",
+      "titulo": "Avaliando os impactos ambientais de um parque fabril de eletroeletrônicos a partir de cenários sobre resíduos sólidos",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.55905/rdelosv18.n63-184",
+      "fingerprint_sha1": "09bc28ecccb797c337077493892ddd8cdfcc71f8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARBOSA, JULIANA THOMAZ LEFLOCH</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv18.n63-184\" target=\"_blank\"></a>BARBOSA, JULIANA THOMAZ LEFLOCH ; <b>Mancini, Sandro Donnini</b> ; MARANDUBA, HENRIQUE L",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 5,
+      "raw": "ARAUJO, L. M. 2025 ARAUJO, L. M. ; GIANELLI, BRUNO F. ; MANCINI, SANDRO D. ; MEDEIROS, GERSON A. DE . Life cycle assessment of the artisanal bamboo pole (Guada angustifolia) production in the Brazilian Amazon. Brazilian Journal of Science , v. 4, p. 13-28, 2025.",
+      "autores": "ARAUJO, L. M. ARAUJO, L. M.; GIANELLI, BRUNO F.; MANCINI, SANDRO D.; MEDEIROS, GERSON A. DE",
+      "titulo": "Life cycle assessment of the artisanal bamboo pole (Guada angustifolia) production in the Brazilian Amazon",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.14295/bjs.v4i4.719",
+      "fingerprint_sha1": "58f05c986cea7db8c0c59ee85cfe1d6a1db9b2c0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ARAUJO, L. M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.14295/bjs.v4i4.719\" target=\"_blank\"></a>ARAUJO, L. M. ; GIANELLI, BRUNO F. ; <b>MANCINI, SANDRO D.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "Brazilian Journal of Science"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MELO, HANSEL DAVID BURGOS 2025 MELO, HANSEL DAVID BURGOS ; DE SOUZA-ARAUJO, JULIANA ; CARDOSO, RAFAEL ; FRASCARELI, DANIELE ; GONTIJO, ERIK SARTORI JEUNON ; Mancini, Sandro Donnini ; HARRAD, STUART ; ROSA, André Henrique . PBDE Concentrations in Wastes from Construction and Demolition, Soft Furnishings, and End-of-Life Vehicles in Brazil. ENVIRONMENTAL RESEARCH , v. 1, p. 122963-1, 2025.",
+      "autores": "MELO, HANSEL DAVID BURGOS MELO, HANSEL DAVID BURGOS; DE SOUZA-ARAUJO, JULIANA; CARDOSO, RAFAEL; FRASCARELI, DANIELE; GONTIJO, ERIK SARTORI JEUNON; Mancini, Sandro Donnini; HARRAD, STUART; ROSA, André Henrique",
+      "titulo": "PBDE Concentrations in Wastes from Construction and Demolition, Soft Furnishings, and End-of-Life Vehicles in Brazil",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.1016/j.envres.2025.122963",
+      "fingerprint_sha1": "6dfcb9672232ac751ced888bdc0071af79267a2e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MELO, HANSEL DAVID BURGOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envres.2025.122963\" target=\"_blank\"></a>MELO, HANSEL DAVID BURGOS ; DE SOUZA-ARAUJO, JULIANA ; CARDOSO, RAFAEL ; FRASCARELI, DANIELE",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "ENVIRONMENTAL RESEARCH"
+    },
+    {
+      "numero_item": 7,
+      "raw": "TELES, BEATRIZ ARIOLI DE SÁ 2025 TELES, BEATRIZ ARIOLI DE SÁ ; BELLI, MARIA CRISTINA ; BARBOSA JÚNIOR, IRINEU BUENO ; Mancini, Sandro Donnini ; KULAY, LUIZ . Environmental, Technical, and Circular Assessment of the Integration of Additive Manufacturing and Open-Loop Recycling of PET. Sustainability , v. 17, p. 10068, 2025.",
+      "autores": "TELES, BEATRIZ ARIOLI DE SÁ TELES, BEATRIZ ARIOLI DE SÁ; BELLI, MARIA CRISTINA; BARBOSA JÚNIOR, IRINEU BUENO; Mancini, Sandro Donnini; KULAY, LUIZ",
+      "titulo": "Environmental, Technical, and Circular Assessment of the Integration of Additive Manufacturing and Open-Loop Recycling of PET",
+      "ano": 2025,
+      "mes": null,
+      "doi": "10.3390/su172210068",
+      "fingerprint_sha1": "5796ac17fd77eab614e82f1e08ace142e18a292d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TELES, BEATRIZ ARIOLI DE SÁ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/su172210068\" target=\"_blank\"></a>TELES, BEATRIZ ARIOLI DE SÁ ; BELLI, MARIA CRISTINA ; BARBOSA JÚNIOR, IRINEU BUENO ; <b>Mancini, Sa",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "Sustainability"
+    },
+    {
+      "numero_item": 8,
+      "raw": "MERLOTO, M. C. 2024 MERLOTO, M. C. ; Mancini, Sandro Donnini ; Candiani, Giovano ; Medeiros, G.A. ; Paes, M.X. ; VIANA, E. ; Souza, R.G. . Solid Waste Management in Small Municipalities: When and How to Discuss a New Fee?. REVISTA ELETRÔNICA EM GESTÃO, EDUCAÇÃO E TECNOLOGIA AMBIENTAL , v. 27, p. 1, 2024.",
+      "autores": "MERLOTO, M. C. MERLOTO, M. C.; Mancini, Sandro Donnini; Candiani, Giovano; Medeiros, G.A.; Paes, M.X.; VIANA, E.; Souza, R.G.",
+      "titulo": "Solid Waste Management in Small Municipalities: When and How to Discuss a New Fee?",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.5902/2236117084474",
+      "fingerprint_sha1": "1df035191f8a375d95c64477ddca4276ddb543b2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MERLOTO, M. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5902/2236117084474\" target=\"_blank\"></a>MERLOTO, M. C. ; <b>Mancini, Sandro Donnini</b> ; Candiani, Giovano ; <a class=\"tooltip\" href=\"http://lattes.c",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "REVISTA ELETRÔNICA EM GESTÃO"
+    },
+    {
+      "numero_item": 9,
+      "raw": "BURGOS MELO, HANSEL DAVID 2024 BURGOS MELO, HANSEL DAVID ; DE SOUZA-ARAUJO, JULIANA ; BENAVIDES GARZÓN, LAURA GERALDINE ; MACEDO, JOÃO CARLOS ; CARDOSO, RAFAEL ; Mancini, Sandro Donnini ; HARRAD, STUART ; ROSA, André Henrique . Concentrations and legislative aspects of PBDEs in plastic of waste electrical and electronic equipment in Brazil. SCIENCE OF THE TOTAL ENVIRONMENT , v. 906, p. 167349, 2024.",
+      "autores": "BURGOS MELO, HANSEL DAVID BURGOS MELO, HANSEL DAVID; DE SOUZA-ARAUJO, JULIANA; BENAVIDES GARZÓN, LAURA GERALDINE; MACEDO, JOÃO CARLOS; CARDOSO, RAFAEL; Mancini, Sandro Donnini; HARRAD, STUART; ROSA, André Henrique",
+      "titulo": "Concentrations and legislative aspects of PBDEs in plastic of waste electrical and electronic equipment in Brazil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.scitotenv.2023.167349",
+      "fingerprint_sha1": "c98e95a86041f4126065223d7e0daae6f59455b6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BURGOS MELO, HANSEL DAVID</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.scitotenv.2023.167349\" target=\"_blank\"></a>BURGOS MELO, HANSEL DAVID ; DE SOUZA-ARAUJO, JULIANA ; BENAVIDES GARZÓN, LAURA GERALDINE ",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+    },
+    {
+      "numero_item": 10,
+      "raw": "PAES, MICHEL XOCAIRA 2024 PAES, MICHEL XOCAIRA ; PUPPIM DE OLIVEIRA, JOSE A. ; Mancini, Sandro Donnini ; RIERADEVALL, JOAN . Waste management intervention to boost circular economy and mitigate climate change in cities of developing countries: The case of Brazil. HABITAT INTERNATIONAL , v. 143, p. 102990, 2024.",
+      "autores": "PAES, MICHEL XOCAIRA PAES, MICHEL XOCAIRA; PUPPIM DE OLIVEIRA, JOSE A.; Mancini, Sandro Donnini; RIERADEVALL, JOAN",
+      "titulo": "Waste management intervention to boost circular economy and mitigate climate change in cities of developing countries: The case of Brazil",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/j.habitatint.2023.102990",
+      "fingerprint_sha1": "09215ae151f9d031f4794c6d265310508864f941",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PAES, MICHEL XOCAIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.habitatint.2023.102990\" target=\"_blank\"></a>PAES, MICHEL XOCAIRA ; PUPPIM DE OLIVEIRA, JOSE A. ; <b>Mancini, Sandro Donnini</b> ; RIERADE",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "HABITAT INTERNATIONAL"
+    },
+    {
+      "numero_item": 11,
+      "raw": "RIBAS, JOSÉ ANTONIO 2024 RIBAS, JOSÉ ANTONIO ; Mancini, Sandro Donnini ; MEDEIROS, GERSON ARAUJO DE ; ANTUNES, Maria Lúcia Pereira ; PAES, MICHEL XOCAIRA . Quando a solução traz um problema: a logísitc reversa de livros didáticos desatualizados ou irrecuperáveis. CONTRIBUCIONES A LAS CIENCIAS SOCIALES , v. 17, p. e10060, 2024.",
+      "autores": "RIBAS, JOSÉ ANTONIO RIBAS, JOSÉ ANTONIO; Mancini, Sandro Donnini; MEDEIROS, GERSON ARAUJO DE; ANTUNES, Maria Lúcia Pereira; PAES, MICHEL XOCAIRA",
+      "titulo": "Quando a solução traz um problema: a logísitc reversa de livros didáticos desatualizados ou irrecuperáveis",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/revconv.17n.8-555",
+      "fingerprint_sha1": "cad28c8a63c9568ecebbec34472b35f4d332ab11",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RIBAS, JOSÉ ANTONIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/revconv.17n.8-555\" target=\"_blank\"></a>RIBAS, JOSÉ ANTONIO ; <b>Mancini, Sandro Donnini</b> ; MEDEIROS, GERSON ARAUJO DE ; <a class=\"toolti",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES"
+    },
+    {
+      "numero_item": 12,
+      "raw": "MARTINS, MARIANE GUERRA 2024 MARTINS, MARIANE GUERRA ; NUNES, ANDREA OLIVEIRA ; Mancini, Sandro Donnini ; BELLI, CRISTINA ; ROCHA, TIAGO BARRETO ; MORIS, VIRGINIA APARECIDA SILVA . Comparative analysis of life cycle assessment and material circularity indicator: study applied to smart electricity meter polycarbonate parts. Journal of Material Cycles and Waste Management , v. 1, p. 1-10, 2024.",
+      "autores": "MARTINS, MARIANE GUERRA MARTINS, MARIANE GUERRA; NUNES, ANDREA OLIVEIRA; Mancini, Sandro Donnini; BELLI, CRISTINA; ROCHA, TIAGO BARRETO; MORIS, VIRGINIA APARECIDA SILVA",
+      "titulo": "Comparative analysis of life cycle assessment and material circularity indicator: study applied to smart electricity meter polycarbonate parts",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1007/s10163-024-02077-4",
+      "fingerprint_sha1": "8a7887b88f5702c9ecaefab856e770f474276b2a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MARTINS, MARIANE GUERRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s10163-024-02077-4\" target=\"_blank\"></a>MARTINS, MARIANE GUERRA ; NUNES, ANDREA OLIVEIRA ; <b>Mancini, Sandro Donnini</b> ; BELLI, CRIST",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "Journal of Material Cycles and Waste Management"
+    },
+    {
+      "numero_item": 13,
+      "raw": "KAMIMURA, CAMILA OLIVEIRA 2024 KAMIMURA, CAMILA OLIVEIRA ; Mancini, Sandro Donnini ; GIANELLI, BRUNO FERNANDO ; SOUZA, RICARDO GABBAY DE ; MEDEIROS, GERSON ARAUJO DE ; WATANABE, CLÁUDIA HITOMI . Comparação ambiental de duas embalagens usando ACV: estudo de caso. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 17, p. e2995-27, 2024.",
+      "autores": "KAMIMURA, CAMILA OLIVEIRA KAMIMURA, CAMILA OLIVEIRA; Mancini, Sandro Donnini; GIANELLI, BRUNO FERNANDO; SOUZA, RICARDO GABBAY DE; MEDEIROS, GERSON ARAUJO DE; WATANABE, CLÁUDIA HITOMI",
+      "titulo": "Comparação ambiental de duas embalagens usando ACV: estudo de caso",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/rdelosv17.n62-011",
+      "fingerprint_sha1": "82d189be8ccffab9ae2eae9ed2220eafbf52e390",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">KAMIMURA, CAMILA OLIVEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv17.n62-011\" target=\"_blank\"></a>KAMIMURA, CAMILA OLIVEIRA ; <b>Mancini, Sandro Donnini</b> ; GIANELLI, BRUNO FERNANDO ; SOUZA,",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 14,
+      "raw": "SUARIS, LÍDIA DORNA 2024 SUARIS, LÍDIA DORNA ; Mancini, Sandro Donnini ; MANFREDINI, FÁBIO NAVARRO ; MEDEIROS, GERSON ARAUJO DE ; MUNHOZ, EDUARDO ANTONIO PIRES ; MOTA, MAURICIO TAVARES DA . Aspectos legais e operacionais da gestão de resíduos sólidos: estudo de caso em Araçoiaba da Serra-SP. DELOS: DESARROLLO LOCAL SOSTENIBLE , v. 17, p. e3042, 2024.",
+      "autores": "SUARIS, LÍDIA DORNA SUARIS, LÍDIA DORNA; Mancini, Sandro Donnini; MANFREDINI, FÁBIO NAVARRO; MEDEIROS, GERSON ARAUJO DE; MUNHOZ, EDUARDO ANTONIO PIRES; MOTA, MAURICIO TAVARES DA",
+      "titulo": "Aspectos legais e operacionais da gestão de resíduos sólidos: estudo de caso em Araçoiaba da Serra-SP",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.55905/rdelosv17.n62-037",
+      "fingerprint_sha1": "c4b44d0d73ba648ad2e30dc8d71e852e06fdb7eb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SUARIS, LÍDIA DORNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv17.n62-037\" target=\"_blank\"></a>SUARIS, LÍDIA DORNA ; <b>Mancini, Sandro Donnini</b> ; MANFREDINI, FÁBIO NAVARRO ; MEDEIROS, GERSON ",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
+    },
+    {
+      "numero_item": 305,
+      "raw": "BARBOSA, J. T. L. ; Mancini, Sandro Donnini ; MARANDUBA, H. L. . Economia Circular em Prática: Estudo de Caso em um Parque Fabril de Eletroeletrônicos. In: IX Workshop Integração de Saberes Ambientais: Cidades Inteligentes e Sustentáveis, 2024, Sorocaba-SP. Anais do IX Workshop Integração de Saberes Ambientais: Cidades Inteligentes e Sustentáveis. Soorcaba: Unep-Sorocaba, 2024.",
+      "autores": "BARBOSA, J. T. L.; Mancini, Sandro Donnini; MARANDUBA, H. L.",
+      "titulo": "Economia Circular em Prática: Estudo de Caso em um Parque Fabril de Eletroeletrônicos",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6bb4127653fc33a25d74a74ecacbd2e6c2e9bac5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BARBOSA, J. T. L. ; <b>Mancini, Sandro Donnini</b> ; MARANDUBA, H. L. . Economia Circular em Prática: Estudo de Caso em um Parque Fabril de Eletroeletrônicos. In: IX Workshop Integração de Saberes Ambientais: Cidades Inteligentes e Sustentáveis, 2024, Sorocaba-SP. Anais do IX Workshop Integração de Saberes Ambientais: Cidades Inteligentes e Sustentáveis. Soorcaba: Unep-Sorocaba, 2024. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "livro": "IX Workshop Integração de Saberes Ambientais: Cidades Inteligentes e Sustentáveis"
+    },
+    {
+      "numero_item": 451,
+      "raw": "QUEIROGA, A. V. ; Mancini, Sandro Donnini . Avaliação do Plano de Gerenciamento de Resíduos Sólidos Urbanos de Sorocba. In: XXVI Congresso de Iniciação Científica da Unesp, 2024, Sorocaba. Anais do XXVI CIC Unesp. São Paulo-SP: Pró-Reitoria de Pesquisa da Unesp, 2024.",
+      "autores": "QUEIROGA, A. V.; Mancini, Sandro Donnini",
+      "titulo": "Avaliação do Plano de Gerenciamento de Resíduos Sólidos Urbanos de Sorocba",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fd34b5b6d5a7012e7a7eb75c2191968ea17bce5f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">QUEIROGA, A. V. ; <b>Mancini, Sandro Donnini</b> . Avaliação do Plano de Gerenciamento de Resíduos Sólidos Urbanos de Sorocba. In: XXVI Congresso de Iniciação Científica da Unesp, 2024, Sorocaba. Anais do XXVI CIC Unesp. São Paulo-SP: Pró-Reitoria de Pesquisa da Unesp, 2024. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "livro": "XXVI Congresso de Iniciação Científica da Unesp"
+    },
+    {
+      "numero_item": 452,
+      "raw": "BURGOS MELO, HANSEL DAVID ; ARAUJO, J. S. ; BENAVIDES GARZÓN, LAURA GERALDINE ; CARDOSO, RAFAEL ; Mancini, Sandro Donnini ; HARRAD, STUART ; MACEDO, JOÃO CARLOS ; ROSA, André Henrique . Éteres de difenil polibromados en residuos de polímeros de equipos eléctricos y electrónicos em Brasil: concentraciones e implicancias para la economía circular. In: IX CONGRESO ARGENTINO DE LA SOCIEDAD DE TOXICOLOGÍA Y QUÍMICA AMBIENTAL, 2024, Santa Fe - ARG. Anais do IX CONGRESO ARGENTINO DE LA SOCIEDAD DE TOXICOLOGÍA Y QUÍMICA AMBIENTAL. Buenos Aires - ARG: SETAC Argentina, 2024. p. 282-280.",
+      "autores": "BURGOS MELO, HANSEL DAVID; ARAUJO, J. S.; BENAVIDES GARZÓN, LAURA GERALDINE; CARDOSO, RAFAEL; Mancini, Sandro Donnini; HARRAD, STUART; MACEDO, JOÃO CARLOS; ROSA, André Henrique",
+      "titulo": "Éteres de difenil polibromados en residuos de polímeros de equipos eléctricos y electrónicos em Brasil: concentraciones e implicancias para la economía circular",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a4dadb7723cb2d3b8936692ea36a77de2c902d6e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BURGOS MELO, HANSEL DAVID ; ARAUJO, J. S. ; BENAVIDES GARZÓN, LAURA GERALDINE ; CARDOSO, RAFAEL ; <b>Mancini, Sandro Donnini</b> ; HARRAD, STUART ; MACEDO, JOÃO CARLOS ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, André Henrique</a> . Éteres de difenil polibromados en residuos de polímeros de equipos eléctricos y electrónicos em Brasil: concentraci",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "livro": "IX CONGRESO ARGENTINO DE LA SOCIEDAD DE TOXICOLOGÍA Y QUÍMICA AMBIENTAL"
+    },
+    {
+      "numero_item": 506,
+      "raw": "Mancini, Sandro Donnini . GestÃ£o de ResÃ­duos SÃ³lidos no Brasil. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "Mancini, Sandro Donnini",
+      "titulo": "GestÃ£o de ResÃ­duos SÃ³lidos no Brasil",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b255b733ebcf8a7c6fccd9ec85bf55ef11c0802a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mancini, Sandro Donnini</b>. GestÃ£o de ResÃ­duos SÃ³lidos no Brasil. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 507,
+      "raw": "DONNINI MANCINI, SANDRO . Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "DONNINI MANCINI, SANDRO",
+      "titulo": "Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9ae1a52e3e057fd580a0e457bb8f65e0e5ff6ebf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DONNINI MANCINI, SANDRO</b>. Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Produções",
+        "extracted_at": "2026-01-26T09:30:37.478748"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Souza, R.G.; SILVA, T. T. M.; MANCINI, SANDRO DONNNINI . ParticipaÃ§Ã£o em banca de : Keity Symonne dos Santos Silva e Abreu. AvaliaÃ§Ã£o da ImplementaÃ§Ã£o de Incentivos Fiscais e/ou EconÃ´micos na LogÃ­stica Reversa de ResÃ­duos EletroeletrÃ´nicos no Contexto Brasileiro e Internacional. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Souza, R.G.; SILVA, T. T. M.; MANCINI, SANDRO DONNNINI",
+      "titulo": "ParticipaÃ§Ã£o em banca de : Keity Symonne dos Santos Silva e Abreu",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "73def56dee558b5e2909d785944bfe419d6dc6fe",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Souza, R.G.; SILVA, T. T. M.; <b>MANCINI, SANDRO DONNNINI</b>.  ParticipaÃ§Ã£o em banca de : Keity Symonne dos Santos Silva e Abreu. AvaliaÃ§Ã£o da ImplementaÃ§Ã£o de Incentivos Fiscais e/ou EconÃ´micos na LogÃ­stica Reversa de ResÃ­duos EletroeletrÃ´nicos no Contexto Brasileiro e Internacional. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AvaliaÃ§Ã£o da ImplementaÃ§Ã£o de Incentivos Fiscais e/ou EconÃ´micos na LogÃ­stica Reversa de ResÃ­duos EletroeletrÃ´nicos no Contexto Brasileiro e Internacional. 2025. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 2,
+      "raw": "SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa. A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba.",
+      "autores": "SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "52335a571c1e0394bd3740229fc772fb114b4db6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa. A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba"
+    },
+    {
+      "numero_item": 3,
+      "raw": "Souza, R.G.; BEZERRA, B. S.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Vinicius Artero Sanches. AvaliaÃ§Ã£o do Ciclo de Vida em Processo de RecuperaÃ§Ã£o do Elemento Ãndio de ResÃ­duos TecnolÃ³gicos. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Souza, R.G.; BEZERRA, B. S.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Vinicius Artero Sanches",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fc0bfdd2f4cfc084d982714f98d112cf6346bdef",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Souza, R.G.; BEZERRA, B. S.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Vinicius Artero Sanches. AvaliaÃ§Ã£o do Ciclo de Vida em Processo de RecuperaÃ§Ã£o do Elemento Ãndio de ResÃ­duos TecnolÃ³gicos. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AvaliaÃ§Ã£o do Ciclo de Vida em Processo de RecuperaÃ§Ã£o do Elemento Ãndio de ResÃ­duos TecnolÃ³gicos. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 4,
+      "raw": "SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa. A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba.",
+      "autores": "SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b4a2207b5d96b2dfe3387432b0685da03a7256c7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS, A. S. F.; NASCIMENTO, M. C. B. C.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Helton Gouveia da Costa. A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "A influÃªncia da reciclabilidade do Poli (tereftalato de etileno) quando misturado com PET virgem nas suas propriedades. 2024. DissertaÃ§Ã£o (Mestrado em CiÃªncia e Engenharia de Materiais) - Universidade Federal da ParaÃ­ba"
+    },
+    {
+      "numero_item": 70,
+      "raw": "CORREA, N. A.; DIAS, S. L. F. G.; RUTKOWSKI, J. E.; CASTRO, M. A. S.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Ana Maria Rodrigues Costa de Castro. AnÃ¡lise da IntegraÃ§Ã£o de Catadores Ã GestÃ£o de ResÃ­duos para uma TransiÃ§Ã£o Justa para a Economia Circular. 2025. Tese (Doutorado em Engenharia HidrÃ¡ulica e Saneamento) - Universidade de SÃ£o Paulo.",
+      "autores": "CORREA, N. A.; DIAS, S. L. F. G.; RUTKOWSKI, J. E.; CASTRO, M. A. S.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Ana Maria Rodrigues Costa de Castro",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f342cf01b7a84815b6c8e85203e7cd63b8122688",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CORREA, N. A.; DIAS, S. L. F. G.; RUTKOWSKI, J. E.; CASTRO, M. A. S.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Ana Maria Rodrigues Costa de Castro. AnÃ¡lise da IntegraÃ§Ã£o de Catadores Ã  GestÃ£o de ResÃ­duos para uma TransiÃ§Ã£o Justa para a Economia Circular. 2025. Tese (Doutorado em Engenharia HidrÃ¡ulica e Saneamento)  - Universidade de SÃ£o Paulo. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AnÃ¡lise da IntegraÃ§Ã£o de Catadores Ã GestÃ£o de ResÃ­duos para uma TransiÃ§Ã£o Justa para a Economia Circular. 2025. Tese (Doutorado em Engenharia HidrÃ¡ulica e Saneamento) - Universidade de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 71,
+      "raw": "Mancini, Sandro Donnini ; Souza, R.G.; Paiva, Jane Maria Faulstich de; OLIVEIRA, J. A.; Medeiros, G.A. . ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. GestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nicos. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Mancini, Sandro Donnini; Souza, R.G.; Paiva, Jane Maria Faulstich de; OLIVEIRA, J. A.; Medeiros, G.A.",
+      "titulo": "ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "30a6a0dd53a683e3b6ea8bf81b5c7b17d451fa58",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mancini, Sandro Donnini</b>; Souza, R.G.; Paiva, Jane Maria Faulstich de; OLIVEIRA, J. A.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Medeiros, G.A.</a>.  ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. GestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nico",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "GestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nicos. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 72,
+      "raw": "Le Roux, G.C.; MIERZWA, J. C.; KULAY, L. A. ; MORETTO, E. M.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Raymundo MÃ¡ximo Del Carmen Carranza Noriega. AvaliaÃ§Ã£o Ambiental PrÃ©via de Projetos de Desenvolvimento TecnolÃ³gicos. 2024. Tese (Doutorado em Engenharia QuÃ­mica) - Universidade de SÃ£o Paulo.",
+      "autores": "Le Roux, G.C.; MIERZWA, J. C.; KULAY, L. A.; MORETTO, E. M.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Raymundo MÃ¡ximo Del Carmen Carranza Noriega",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7106957bafa77b36fbb76ebda036017584ba9daf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Le Roux, G.C.; MIERZWA, J. C.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2620449722890209\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">KULAY, L. A.</a>; MORETTO, E. M.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Raymundo MÃ¡ximo Del Carmen Carranza Noriega. AvaliaÃ§Ã£o Ambiental PrÃ©via de Projetos de Desenvolvimento TecnolÃ³gicos. 2024. Tese (Doutorado em Engenharia QuÃ­mica)  - Universidade de",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AvaliaÃ§Ã£o Ambiental PrÃ©via de Projetos de Desenvolvimento TecnolÃ³gicos. 2024. Tese (Doutorado em Engenharia QuÃ­mica) - Universidade de SÃ£o Paulo"
+    },
+    {
+      "numero_item": 73,
+      "raw": "BORTOLETO, ANA PAULA; Penteado, C.S.G.; FERREIRA, L. C.; PINTO, F. C. F.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Evelin Ribeiro Rodrigues. Exploring Waste Prevention Behavior Through an Agent-Based Modelling and Simulation. 2024. Tese (Doutorado em Ambiente e Sociedade) - Universidade Estadual de Campinas.",
+      "autores": "BORTOLETO, ANA PAULA; Penteado, C.S.G.; FERREIRA, L. C.; PINTO, F. C. F.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Evelin Ribeiro Rodrigues",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0b3e77baa2f4d7876d86332ca7e75c14aa42943f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BORTOLETO, ANA PAULA; Penteado, C.S.G.; FERREIRA, L. C.; PINTO, F. C. F.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Evelin Ribeiro Rodrigues. Exploring Waste Prevention Behavior Through an Agent-Based Modelling and Simulation. 2024. Tese (Doutorado em Ambiente e Sociedade)  - Universidade Estadual de Campinas. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "Exploring Waste Prevention Behavior Through an Agent-Based Modelling and Simulation. 2024. Tese (Doutorado em Ambiente e Sociedade) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 74,
+      "raw": "ANTUNES, Maria LÃºcia Pereira ; Bortoleto, L.A.; Azevedo, A.R.G.; MORIS, VIRGINIA APARECIDA SILVA; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Florence Rezende Leite. Cobertura Modular Verde: uma SoluÃ§Ã£o Baseada na Natureza para Fornecer Alimentos e Promover Ganhos Ambientais. 2024. Tese (Doutorado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "ANTUNES, Maria LÃºcia Pereira; Bortoleto, L.A.; Azevedo, A.R.G.; MORIS, VIRGINIA APARECIDA SILVA; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Florence Rezende Leite",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "be409cc854eb25ad2a349a989e165366f6f3fe14",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9040916399114048\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">ANTUNES, Maria LÃºcia Pereira</a>; Bortoleto, L.A.; Azevedo, A.R.G.; MORIS, VIRGINIA APARECIDA SILVA; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Florence Rezende Leite. Cobertura Modular Verde: uma SoluÃ§Ã£o Baseada na Natureza para Fornecer Alimentos e Promover Ganhos Ambientais. 2024. Tese (",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "Cobertura Modular Verde: uma SoluÃ§Ã£o Baseada na Natureza para Fornecer Alimentos e Promover Ganhos Ambientais. 2024. Tese (Doutorado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 91,
+      "raw": "Gianelli, B.F.; Mancini, Sandro Donnini ; Paes, M.X. . ParticipaÃ§Ã£o em banca de LetÃ­cia Medeiros de AraÃºjo. TransiÃ§Ã£o de ecoeficiÃªncia para fundamentaÃ§Ã£o de diretrizes de construÃ§Ã£o civil na AmazÃ´nia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Gianelli, B.F.; Mancini, Sandro Donnini; Paes, M.X.",
+      "titulo": "ParticipaÃ§Ã£o em banca de LetÃ­cia Medeiros de AraÃºjo",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "529769e2f9137a10c63e8a94fc836fb9cf8c384d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gianelli, B.F.; <b>Mancini, Sandro Donnini</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7415781441168418\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Paes, M.X.</a>.  ParticipaÃ§Ã£o em banca de LetÃ­cia Medeiros de AraÃºjo. TransiÃ§Ã£o de ecoeficiÃªncia para fundamentaÃ§Ã£o de diretrizes de construÃ§Ã£o civil na AmazÃ´nia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais)  - Universidade Estad",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "TransiÃ§Ã£o de ecoeficiÃªncia para fundamentaÃ§Ã£o de diretrizes de construÃ§Ã£o civil na AmazÃ´nia. 2025. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 92,
+      "raw": "Mancini, Sandro Donnini ; Medeiros, G.A. ; Souza, R.G.. ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. AvaliaÃ§Ã£o da CertificaÃ§Ã£o ResÃ­duo Zero na ReduÃ§Ã£o dos Impactos Ambientais Negativos em um Parque Fabril de EletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Mancini, Sandro Donnini; Medeiros, G.A.; Souza, R.G.. ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. AvaliaÃ§Ã£o da CertificaÃ§Ã£o ResÃ­duo Zero na ReduÃ§Ã£o dos Impactos Ambientais Negativos em um Parque Fabril de EletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "73f156c28cfe32245f5317ba48c66db8940d959f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mancini, Sandro Donnini</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Medeiros, G.A.</a>; Souza, R.G..  ParticipaÃ§Ã£o em banca de Juliana Thomaz Lefloch Barbosa. AvaliaÃ§Ã£o da CertificaÃ§Ã£o ResÃ­duo Zero na ReduÃ§Ã£o dos Impactos Ambientais Negativos em um Parque Fabril de EletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªnci",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AvaliaÃ§Ã£o da CertificaÃ§Ã£o ResÃ­duo Zero na ReduÃ§Ã£o dos Impactos Ambientais Negativos em um Parque Fabril de EletroeletrÃ´nicos. 2024. Exame de qualificaÃ§Ã£o (Doutorando em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 93,
+      "raw": "SOUZA, RICARDO GABBAY DE; Penteado, C.S.G.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Ana Mariele Domingues. Consequential Life Cycle Sustainability Assessment of Lithiium-Ion Batteries. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "SOUZA, RICARDO GABBAY DE; Penteado, C.S.G.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Ana Mariele Domingues",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d78fbd289317b3fe4df83d26b0d08d58f8828e7e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SOUZA, RICARDO  GABBAY DE; Penteado, C.S.G.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Ana Mariele Domingues. Consequential Life Cycle Sustainability Assessment of Lithiium-Ion Batteries. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Engenharia de ProduÃ§Ã£o)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "Consequential Life Cycle Sustainability Assessment of Lithiium-Ion Batteries. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Engenharia de ProduÃ§Ã£o) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 104,
+      "raw": "Mancini, Sandro Donnini ; Medeiros, G.A. ; Souza, R.G.. ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de Duas Embalagens Usando ACV: Estudo de Caso. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
+      "autores": "Mancini, Sandro Donnini; Medeiros, G.A.; Souza, R.G.. ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de Duas Embalagens Usando ACV: Estudo de Caso. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c4e5877083b75e7192b25999b23a8d3dfc24589b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mancini, Sandro Donnini</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Medeiros, G.A.</a>; Souza, R.G..  ParticipaÃ§Ã£o em banca de Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de Duas Embalagens Usando ACV: Estudo de Caso. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Engenharia Civil e Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesq",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "ComparaÃ§Ã£o Ambiental de Duas Embalagens Usando ACV: Estudo de Caso. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 105,
+      "raw": "GOMES, A. C. O.; HOFFMANN, B. S.; Souza, R.G.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Dejair Pontes de Souza. AvaliaÃ§Ã£o do Ciclo de Vida Consequencial da DestinaÃ§Ã£o dos PolÃ­meros dos Dutos RÃ­gidos e FlexÃ­veis do Descomissionamento Off-Shore no Brasil. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncia e Tecnologia de PolÃ­meros) - Universidade Federal do Rio de Janeiro.",
+      "autores": "GOMES, A. C. O.; HOFFMANN, B. S.; Souza, R.G.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Dejair Pontes de Souza",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7b5147e9156a92608f90147d142c80842ac91c5f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GOMES, A. C. O.; HOFFMANN, B. S.; Souza, R.G.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Dejair Pontes de Souza. AvaliaÃ§Ã£o do Ciclo de Vida Consequencial da DestinaÃ§Ã£o dos PolÃ­meros dos Dutos RÃ­gidos e FlexÃ­veis do Descomissionamento Off-Shore no Brasil. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncia e Tecnologia de PolÃ­meros)  - Universidade Federal do Rio de Janeiro. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "AvaliaÃ§Ã£o do Ciclo de Vida Consequencial da DestinaÃ§Ã£o dos PolÃ­meros dos Dutos RÃ­gidos e FlexÃ­veis do Descomissionamento Off-Shore no Brasil. 2024. Exame de qualificaÃ§Ã£o (Mestrando em CiÃªncia e Tecnologia de PolÃ­meros) - Universidade Federal do Rio de Janeiro"
+    },
+    {
+      "numero_item": 190,
+      "raw": "Bortoleto, A.P.; Penteado, C.S.G.; Mancini, Sandro Donnini . ParticipaÃ§Ã£o em banca de Giovanna Florentino Carlucci.AnÃ¡lise da InfluÃªncia dos Processos HeurÃ­sticos no Consumo de Alimentos com ProteÃ­nas NÃ£o-Animal. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia Civil) - Universidade Estadual de Campinas.",
+      "autores": "Bortoleto, A.P.; Penteado, C.S.G.; Mancini, Sandro Donnini",
+      "titulo": "ParticipaÃ§Ã£o em banca de Giovanna Florentino Carlucci",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "73fa1553c864051b48ccaf870dd7376e5f23261c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bortoleto, A.P.; Penteado, C.S.G.; <b>Mancini, Sandro Donnini</b>.  ParticipaÃ§Ã£o em banca de Giovanna Florentino Carlucci.AnÃ¡lise da InfluÃªncia dos Processos HeurÃ­sticos no Consumo de Alimentos com ProteÃ­nas NÃ£o-Animal.\n\t\t\t\t\t\t2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia Civil)  - Universidade Estadual de Campinas. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Bancas",
+        "extracted_at": "2026-01-26T09:30:37.585730"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia Civil) - Universidade Estadual de Campinas"
+    },
+    {
+      "numero_item": 1,
+      "raw": "1 Circuito Urbano ONU-Habitat 2025. Construindo Cidades Resilientes em Tempos de Crise ClimÃ¡tica / DiÃ¡logos Urbanos: ExperiÃªncias e Desafios no CenÃ¡rio Habitacional. 2025. (SeminÃ¡rio).",
+      "autores": null,
+      "titulo": "Construindo Cidades Resilientes em Tempos de Crise ClimÃ¡tica / DiÃ¡logos Urbanos: ExperiÃªncias e Desafios no CenÃ¡rio Habitacional",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d0bebec57b13a122b36ec8af79a8e2defcb2c7e6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">1\tCircuito Urbano ONU-Habitat 2025. Construindo Cidades Resilientes em Tempos de Crise ClimÃ¡tica / DiÃ¡logos Urbanos: ExperiÃªncias e Desafios no CenÃ¡rio Habitacional. 2025. (SeminÃ¡rio). </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:37.598520"
+      },
+      "veiculo": "2025. (SeminÃ¡rio)"
+    },
+    {
+      "numero_item": 38,
+      "raw": "Mancini, Sandro Donnini . XXI Semana do Meio Ambiente da Unesp Sorocaba. 2025. (Outro).",
+      "autores": "Mancini, Sandro Donnini",
+      "titulo": "XXI Semana do Meio Ambiente da Unesp Sorocaba",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5c61632b7c88b5662286e93bfd21cb4c5d93eb8d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Mancini, Sandro Donnini</b>. XXI Semana do Meio Ambiente da Unesp Sorocaba. 2025. (Outro). </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Eventos",
+        "extracted_at": "2026-01-26T09:30:37.598520"
+      },
+      "veiculo": "2025. (Outro)"
+    },
+    {
+      "numero_item": 1,
+      "raw": "Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de duas Embalagens usando ACV: Estudo de caso. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: Sandro Donnini Mancini.",
+      "autores": "Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de duas Embalagens usando ACV: Estudo de caso. . DissertaÃ§Ã£o (Mestrado em Engenharia Civil e Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho,",
+      "titulo": "Orientador: Sandro Donnini Mancini",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "cf548787b3ae3403853ad893621a7799e25ce98f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Camila Oliveira Kamimura. ComparaÃ§Ã£o Ambiental de duas Embalagens usando ACV: Estudo de caso.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertaÃ§Ã£o  (Mestrado em Engenharia Civil e Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, . Orientador: Sandro Donnini Mancini. </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      }
+    },
+    {
+      "numero_item": 25,
+      "raw": "Juliana Thomaz Lefloch Barbosa. GestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nicos. 2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "GestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nicos",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0fc68c22385902b6bae78bfafd7d2ddcf74158da",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5293117930574600\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Juliana Thomaz Lefloch Barbosa.\n\t\t\t\t\t\tGestÃ£o do Ciclo de Vida de ResÃ­duos SÃ³lidos Industriais Visando a Circularidade: Estudo de Caso num Parque Fabril de EletroeletrÃ´nicos.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em CiÃªncias Ambientais)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Coord",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "2025. Tese (Doutorado em CiÃªncias Ambientais) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+    },
+    {
+      "numero_item": 62,
+      "raw": "Shirlei AraÃºjo de Almeida. PelÃ­cula Prateada: ResÃ­duo da IndÃºstria Cafeeira como Alternativa para a GeraÃ§Ã£o de BiogÃ¡s. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "PelÃ­cula Prateada: ResÃ­duo da IndÃºstria Cafeeira como Alternativa para a GeraÃ§Ã£o de BiogÃ¡s",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "28f12305c28bf1ba59aa447bcd7ca20f60adabd1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Shirlei AraÃºjo de Almeida.\n\t\t\t\t\t\tPelÃ­cula Prateada: ResÃ­duo da IndÃºstria Cafeeira como Alternativa para a GeraÃ§Ã£o de BiogÃ¡s.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini"
+    },
+    {
+      "numero_item": 214,
+      "raw": "Maria Eduarda Morais Masotti. EstÃ¡gio na Messer Gases Ltda.. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "EstÃ¡gio na Messer Gases Ltda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e3c79c1537603b1f75b3a29832160ad53b832f9f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Morais Masotti.\n\t\t\t\t\t\tEstÃ¡gio na Messer Gases Ltda..\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini"
+    },
+    {
+      "numero_item": 215,
+      "raw": "Murilo Martini Andrade. EstÃ¡gio na Verifit Ltda.. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "EstÃ¡gio na Verifit Ltda",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1a2169487279761d2868b01cc856d5f30bacefa8",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Murilo Martini Andrade.\n\t\t\t\t\t\tEstÃ¡gio na Verifit Ltda..\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini"
+    },
+    {
+      "numero_item": 216,
+      "raw": "Nicole Almeida Cavallaro. EstÃ¡gio na Gerdau AÃ§os Longos S.A.. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "EstÃ¡gio na Gerdau AÃ§os Longos S",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2cd4b0b22fb5960ac30f4c86ffa40eb40d609d2f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Nicole Almeida Cavallaro.\n\t\t\t\t\t\tEstÃ¡gio na Gerdau AÃ§os Longos S.A..\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "A.. 2025. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini"
+    },
+    {
+      "numero_item": 217,
+      "raw": "Cristina Akemi Yamamoto. EstÃ¡gio na Rose Plastic Brasil Embalagens PlÃ¡sticas Ltda.. 2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.",
+      "autores": null,
+      "titulo": "EstÃ¡gio na Rose Plastic Brasil Embalagens PlÃ¡sticas Ltda",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "19cae302e813d6274efaa19644d4998c631be2d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cristina Akemi Yamamoto.\n\t\t\t\t\t\tEstÃ¡gio na Rose Plastic Brasil Embalagens PlÃ¡sticas Ltda..\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini.\n\t\t\t\t\t</span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Orientações",
+        "extracted_at": "2026-01-26T09:30:37.661807"
+      },
+      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza. (Engenharia Ambiental) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. Orientador: Sandro Donnini Mancini"
+    },
+    {
+      "numero_item": 245,
+      "raw": "DONNINI MANCINI, SANDRO . Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "autores": "DONNINI MANCINI, SANDRO",
+      "titulo": "Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica",
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9ae1a52e3e057fd580a0e457bb8f65e0e5ff6ebf",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>DONNINI MANCINI, SANDRO</b>. Letramento CientÃ­fico ? O Papel da DivulgaÃ§Ã£o CientÃ­fica. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra). </span></div>",
+      "source": {
+        "file": "5091149098462301__sandro-donnini-mancini.full_profile.html",
+        "lattes_id": "5091149098462301",
+        "production_type": "Educação e Popularização de C & T",
+        "extracted_at": "2026-01-26T09:30:37.723254"
+      },
+      "veiculo": "2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra)"
+    }
+  ]
+}

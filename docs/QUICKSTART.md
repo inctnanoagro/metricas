@@ -221,6 +221,35 @@ outputs/validation_pack/
 
 Nota: a ordem dos itens no HTML/XLSX segue rigorosamente a ordem de aparição do Lattes (sem reordenação por `numero_item`).
 
+## 📦 Publicar validação no GitHub Pages
+
+Fluxo único e auditável (batch → validation_pack → sync):
+
+```bash
+make publicar
+```
+
+Atalhos úteis:
+
+```bash
+make publicar-dry     # somente batch (dry_run)
+make publicar-nosync  # batch + validation_pack, sem sync para docs/prefill
+make publicar-novalid # batch + sync (sem validation_pack)
+```
+
+Testar localmente com servidor simples:
+
+```bash
+make serve-docs
+```
+
+Depois acesse:
+
+- `http://localhost:8000/docs/validacao/?prefill=<lattes_id>`
+- `http://localhost:8000/docs/validacao/lista.html`
+
+Observação: após o sync, execute `git add/commit/push` para atualizar o GitHub Pages.
+
 ## 🛠️ Ferramentas
 
 ### GUI de Teste (tkinter)
