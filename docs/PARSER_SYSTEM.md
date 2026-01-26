@@ -113,7 +113,7 @@ Campos opcionais (dependem do tipo):
 
 ```bash
 # Ativar ambiente virtual
-source venv/bin/activate
+source .venv/bin/activate
 
 # Rodar todos os testes
 pytest tests/test_parse_fixtures.py -v

@@ -350,58 +350,62 @@ def _write_xlsx(
 
     grouped = _group_by_production_type(productions)
     workbook = Workbook()
-    default_sheet = workbook.active
-    used_names: set = set()
     headers = COLUMN_ORDER[:]
 
-    if not grouped:
-        default_sheet.title = "Produções"
-        default_sheet.append(headers)
-        workbook.save(output_path)
-        return
+    default_sheet = workbook.active
+    default_sheet.title = "Produções"
+    default_sheet.append(headers)
 
-    workbook.remove(default_sheet)
+    def _build_row(item: Dict[str, Any], section_name: str) -> List[Any]:
+        display_titulo, display_autores = _compute_display_fields(item)
+        source = item.get('source') or {}
+        row = []
+        for column in COLUMN_ORDER:
+            if column == 'numero_item':
+                row.append(item.get('numero_item'))
+            elif column == 'ano':
+                row.append(item.get('ano'))
+            elif column == 'titulo':
+                row.append(display_titulo)
+            elif column == 'autores':
+                row.append(display_autores)
+            elif column == 'veiculo_ou_livro':
+                row.append(_compute_veiculo_ou_livro(item))
+            elif column == 'doi':
+                row.append(item.get('doi'))
+            elif column == 'paginas':
+                row.append(item.get('paginas'))
+            elif column == 'volume':
+                row.append(item.get('volume'))
+            elif column == 'source_file':
+                row.append(source.get('file'))
+            elif column == 'section':
+                row.append(section_name)
+            elif column == 'pertence_INCT':
+                row.append('')
+            elif column == 'observacoes':
+                row.append('')
+            else:
+                row.append('')
+        return row
 
-    section_names = section_order or list(grouped.keys())
-    for section_name in section_names:
-        if section_name not in grouped:
-            continue
-        sheet_name = _sanitize_sheet_name(section_name, used_names)
-        sheet = workbook.create_sheet(title=sheet_name)
-        sheet.append(headers)
+    for item in productions:
+        source = item.get('source') or {}
+        section_name = _normalize_section_name(source.get('production_type'))
+        default_sheet.append(_build_row(item, section_name))
 
-        for item in grouped[section_name]:
-            display_titulo, display_autores = _compute_display_fields(item)
-            source = item.get('source') or {}
-            row = []
-            for column in COLUMN_ORDER:
-                if column == 'numero_item':
-                    row.append(item.get('numero_item'))
-                elif column == 'ano':
-                    row.append(item.get('ano'))
-                elif column == 'titulo':
-                    row.append(display_titulo)
-                elif column == 'autores':
-                    row.append(display_autores)
-                elif column == 'veiculo_ou_livro':
-                    row.append(_compute_veiculo_ou_livro(item))
-                elif column == 'doi':
-                    row.append(item.get('doi'))
-                elif column == 'paginas':
-                    row.append(item.get('paginas'))
-                elif column == 'volume':
-                    row.append(item.get('volume'))
-                elif column == 'source_file':
-                    row.append(source.get('file'))
-                elif column == 'section':
-                    row.append(section_name)
-                elif column == 'pertence_INCT':
-                    row.append('')
-                elif column == 'observacoes':
-                    row.append('')
-                else:
-                    row.append('')
-            sheet.append(row)
+    if grouped:
+        used_names: set = {"Produções"}
+        section_names = section_order or list(grouped.keys())
+        for section_name in section_names:
+            if section_name not in grouped:
+                continue
+            sheet_name = _sanitize_sheet_name(section_name, used_names)
+            sheet = workbook.create_sheet(title=sheet_name)
+            sheet.append(headers)
+
+            for item in grouped[section_name]:
+                sheet.append(_build_row(item, section_name))
 
     workbook.save(output_path)
 

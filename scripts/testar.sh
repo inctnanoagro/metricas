@@ -47,8 +47,8 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-if [[ ! -f "venv/bin/activate" ]]; then
-  echo "Erro: venv nao encontrado em ./venv. Crie o venv antes de rodar." >&2
+if [[ ! -f ".venv/bin/activate" ]]; then
+  echo "Erro: .venv nao encontrado em ./.venv. Crie o venv antes de rodar." >&2
   exit 1
 fi
 
@@ -82,7 +82,7 @@ validation_out="$OUTPUT_BASE/validation_${timestamp}"
 
 mkdir -p "$batch_out"
 
-source venv/bin/activate
+source .venv/bin/activate
 
 python3 -m metricas_lattes.batch_full_profile \
   --in "$INPUT_DIR" \

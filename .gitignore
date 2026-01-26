@@ -2,7 +2,6 @@
 **/.DS_Store
 outputs/
 *.tar.gz
-venv/
 .venv/
 __pycache__/
 **/__pycache__/
