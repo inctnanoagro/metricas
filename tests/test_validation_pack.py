@@ -9,11 +9,14 @@ import pytest
 
 from metricas_lattes.exports.validation_pack import (
     generate_validation_pack,
-    _normalize_section_name,
+    _ordered_section_names,
+    _section_identity,
 )
+from metricas_lattes.batch_full_profile import process_researcher_file
 
 
 FIXTURE_PATH = Path('tests/fixtures/validation_pack/carlos_alberto_perez.json')
+FRACETO_FIXTURE = Path('tests/fixtures/lattes/full_profile/full_profile_leonardo_fraceto.html')
 
 
 def test_generate_validation_pack_html(tmp_path: Path) -> None:
@@ -56,22 +59,46 @@ def test_validation_pack_section_order(tmp_path: Path) -> None:
     html_path = output_dir / 'researchers' / f'{lattes_id}__' / 'VALIDACAO.html'
     html = html_path.read_text(encoding='utf-8')
 
-    headings = re.findall(r'<h2>(.*?)</h2>', html)
+    headings = [
+        re.sub(r'\s*\(\d+\)\s*$', '', heading).strip()
+        for heading in re.findall(r'<h2>(.*?)</h2>', html)
+    ]
     productions = data.get('productions', [])
-    grouped = []
+    grouped = {}
+    labels = {}
     for item in productions:
-        source = item.get('source') or {}
-        name = _normalize_section_name(source.get('production_type'))
-        if name not in grouped:
-            grouped.append(name)
+        key, label = _section_identity(item)
+        if key not in grouped:
+            grouped[key] = []
+        if key not in labels:
+            labels[key] = label
 
-    expected = []
-    for section in data.get('metadata', {}).get('sections', []):
-        name = _normalize_section_name(section.get('section_title'))
-        if name in grouped and name not in expected:
-            expected.append(name)
-    for name in grouped:
-        if name not in expected:
-            expected.append(name)
+    section_order = _ordered_section_names(data.get('metadata', {}).get('sections', []), grouped)
+    expected = [labels[key] for key in section_order]
 
     assert headings == expected
+
+
+def test_validation_pack_sections_from_fraceto(tmp_path: Path) -> None:
+    if not FRACETO_FIXTURE.exists():
+        pytest.skip(f"Fixture not found: {FRACETO_FIXTURE}")
+
+    batch_dir = tmp_path / 'batch'
+    (batch_dir / 'researchers').mkdir(parents=True)
+
+    result = process_researcher_file(FRACETO_FIXTURE, batch_dir, schema=None, allowed_years=None)
+    assert result['success'] is True
+
+    output_dir = tmp_path / 'out'
+    generate_validation_pack(batch_dir / 'researchers', output_dir, ['html'])
+
+    lattes_id = result['lattes_id']
+    html_path = output_dir / 'researchers' / f'{lattes_id}__' / 'VALIDACAO.html'
+    html = html_path.read_text(encoding='utf-8')
+    headings = [
+        re.sub(r'\s*\(\d+\)\s*$', '', heading).strip()
+        for heading in re.findall(r'<h2>(.*?)</h2>', html)
+    ]
+
+    assert len(set(headings)) > 1
+    assert any(heading != 'Produções' for heading in headings)

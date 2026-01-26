@@ -7,7 +7,6 @@ from openpyxl import load_workbook
 
 from metricas_lattes.exports.validation_pack import (
     COLUMN_ORDER,
-    _normalize_section_name,
     generate_validation_pack,
 )
 
@@ -79,7 +78,7 @@ def test_validation_pack_preserves_input_order_xlsx(tmp_path: Path) -> None:
     assert header == COLUMN_ORDER
 
     expected = [
-        (_normalize_section_name(item['source']['production_type']), item['numero_item'], item['titulo'])
+        (item['source']['production_type'], item['numero_item'], item['titulo'])
         for item in data['productions']
     ]
     observed = _extract_ids_from_sheet(sheet)

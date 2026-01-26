@@ -129,6 +129,49 @@ def extract_production_sections_from_html(html_path: Path) -> List[Dict[str, Any
     soup = BeautifulSoup(html, 'lxml')
     sections = []
 
+    def _count_items(fragment_html: str) -> int:
+        fragment_soup = BeautifulSoup(fragment_html, 'lxml')
+        return len(fragment_soup.find_all('div', class_='layout-cell-1'))
+
+    def _split_production_subsections(wrapper) -> List[Dict[str, Any]]:
+        data_cell = wrapper.find('div', class_='data-cell')
+        if not data_cell:
+            return []
+        children = [child for child in data_cell.children if str(child).strip()]
+        subsections: List[Dict[str, Any]] = []
+        current_label: Optional[str] = None
+        current_nodes: List[Any] = []
+
+        def flush() -> None:
+            if not current_label:
+                return
+            html_fragment = ''.join(str(node) for node in current_nodes)
+            item_count = _count_items(html_fragment)
+            if item_count == 0:
+                return
+            subsections.append({
+                'section_title': current_label,
+                'html_content': html_fragment,
+                'item_count': item_count,
+            })
+
+        for child in children:
+            header_div = None
+            if getattr(child, 'name', None) == 'div':
+                if 'cita-artigos' in (child.get('class') or []):
+                    header_div = child
+                else:
+                    header_div = child.find('div', class_='cita-artigos')
+            if header_div is not None:
+                flush()
+                current_label = header_div.get_text(' ', strip=True)
+                current_nodes = [child]
+            else:
+                if current_label is not None:
+                    current_nodes.append(child)
+        flush()
+        return subsections
+
     # Find all title-wrapper divs (these contain production sections)
     title_wrappers = soup.find_all('div', class_='title-wrapper')
 
@@ -164,6 +207,11 @@ def extract_production_sections_from_html(html_path: Path) -> List[Dict[str, Any
                 item_count += 1
 
         if item_count > 0:
+            if section_title == 'Produções':
+                subsections = _split_production_subsections(wrapper)
+                if subsections:
+                    sections.extend(subsections)
+                    continue
             sections.append({
                 'section_title': section_title,
                 'html_content': str(wrapper),
@@ -201,30 +249,63 @@ def parse_section_html(
             temp_path.unlink()
 
 
+def _normalize_section_label(label: Optional[str]) -> str:
+    if not label:
+        return ''
+    return ' '.join(str(label).split())
+
+
+def _apply_section_label(item: Dict[str, Any], section_label: str) -> None:
+    if not section_label:
+        return
+    current_type = item.get('production_type')
+    if current_type not in (None, '') and current_type != section_label:
+        if item.get('section') in (None, ''):
+            item['section'] = section_label
+    else:
+        item['production_type'] = section_label
+
+
+def _apply_source_section_label(source: Dict[str, Any], section_label: str) -> None:
+    if not section_label:
+        return
+    current_type = source.get('production_type')
+    if current_type not in (None, '') and current_type != section_label:
+        if source.get('section') in (None, ''):
+            source['section'] = section_label
+    else:
+        source['production_type'] = section_label
+
+
 def add_provenance_to_items(
     items: List[Dict],
     lattes_id: str,
     source_file: str,
-    production_type: str
+    production_type: str,
 ) -> List[Dict]:
     """
-    Add provenance metadata (source.*) to each item.
+    Add provenance metadata (source.*) to each item without overwriting existing fields.
 
     Adds:
     - source.file
     - source.lattes_id
-    - source.production_type
+    - source.production_type (section title)
+    - source.section (optional redundancy if conflict)
     - source.extracted_at
     """
     extracted_at = datetime.now().isoformat()
 
     for item in items:
-        item['source'] = {
-            'file': source_file,
-            'lattes_id': lattes_id,
-            'production_type': production_type,
-            'extracted_at': extracted_at
-        }
+        _apply_section_label(item, production_type)
+        source = item.get('source') or {}
+        if 'file' not in source:
+            source['file'] = source_file
+        if 'lattes_id' not in source:
+            source['lattes_id'] = lattes_id
+        _apply_source_section_label(source, production_type)
+        if 'extracted_at' not in source:
+            source['extracted_at'] = extracted_at
+        item['source'] = source
 
     return items
 
@@ -369,6 +450,10 @@ def process_researcher_file(
 
             for section in sections_html:
                 section_title = section['section_title']
+                section_label = _normalize_section_label(section_title)
+                if not section_label:
+                    section_label = 'Produções'
+                    print(f"  ⚠ Section title vazio em {filepath.name}; usando fallback 'Produções'")
                 section_html = section['html_content']
 
                 # Parse this section
@@ -379,7 +464,7 @@ def process_researcher_file(
                     parsed['items'],
                     result['lattes_id'],
                     filepath.name,
-                    section_title
+                    section_label
                 )
 
                 all_productions.extend(items_with_provenance)

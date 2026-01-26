@@ -104,8 +104,7 @@ class TestExtractProductionSections:
 
         # Check for known sections
         section_titles = [s['section_title'] for s in sections]
-        # At least "Produções" should be present
-        assert any('Produções' in title or 'Produ' in title for title in section_titles)
+        assert any('Artigos completos publicados' in title for title in section_titles)
 
 
 class TestProcessResearcherFile:
@@ -171,11 +170,19 @@ class TestProcessResearcherFile:
         assert first_item['source']['lattes_id'] == '4741480538883395'
         assert 'production_type' in first_item['source']
         assert 'extracted_at' in first_item['source']
+        assert 'production_type' in first_item
 
         # Check required fields in item
         assert 'numero_item' in first_item
         assert 'raw' in first_item
         assert 'fingerprint_sha1' in first_item
+
+        production_types = {
+            item.get('production_type')
+            for item in data['productions']
+            if item.get('production_type')
+        }
+        assert len(production_types) > 1
 
 
 class TestBatchIntegration:

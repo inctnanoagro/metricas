@@ -133,24 +133,43 @@ def _compute_veiculo_ou_livro(item: Dict[str, Any]) -> str:
     return split_veiculo
 
 
-def _group_by_production_type(items: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
-    grouped: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
-    for item in items:
-        source = item.get('source') or {}
-        production_type = _normalize_section_name(source.get('production_type'))
-        grouped[production_type].append(item)
-    return grouped
-
-
 def _normalize_section_name(value: Any) -> str:
-    name = _safe_text(value or '').strip()
+    name = _safe_text(value or '').strip().lower()
     if not name:
-        return 'Desconhecido'
+        return 'desconhecido'
     if name.startswith('temp__'):
         name = name[len('temp__'):]
-        name = name.replace('_', ' ')
-        name = name.lower().strip()
-    return name or 'Desconhecido'
+    name = re.sub(r'[^a-z0-9]+', '_', name)
+    name = re.sub(r'_+', '_', name).strip('_')
+    return name or 'desconhecido'
+
+
+def _section_identity(item: Dict[str, Any]) -> Tuple[str, str]:
+    source = item.get('source') or {}
+    candidates = [
+        item.get('production_type'),
+        item.get('section'),
+        item.get('tipo_producao'),
+        source.get('production_type'),
+        source.get('section'),
+        source.get('tipo_producao'),
+    ]
+    label = next((c for c in candidates if c not in (None, '')), None)
+    if label is None:
+        label = 'Produções'
+    key = _normalize_section_name(label)
+    return key, _safe_text(label)
+
+
+def _group_by_section(items: List[Dict[str, Any]]) -> Tuple[Dict[str, List[Dict[str, Any]]], Dict[str, str]]:
+    grouped: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    labels: Dict[str, str] = {}
+    for item in items:
+        key, label = _section_identity(item)
+        grouped[key].append(item)
+        if key not in labels:
+            labels[key] = label
+    return grouped, labels
 
 
 def _sanitize_sheet_name(name: str, used: set) -> str:
@@ -175,7 +194,7 @@ def _ordered_section_names(
     grouped_keys = list(grouped.keys())
     ordered: List[str] = []
     for section in sections_metadata:
-        title = section.get('section_title') or section.get('tipo_producao')
+        title = section.get('section_title') or section.get('tipo_producao') or section.get('section')
         name = _normalize_section_name(title)
         if name in grouped and name not in ordered:
             ordered.append(name)
@@ -193,13 +212,14 @@ def _render_html_researcher(
     full_name = _safe_text(researcher.get('full_name') or 'Pesquisador(a)')
     lattes_id = _safe_text(researcher.get('lattes_id') or 'N/A')
 
-    grouped = _group_by_production_type(productions)
+    grouped, labels = _group_by_section(productions)
     section_names = section_order or list(grouped.keys())
     sections = []
 
     for section_name in section_names:
         if section_name not in grouped:
             continue
+        section_label = labels.get(section_name, section_name)
         items = grouped[section_name]
         rows = []
         for item in items:
@@ -249,7 +269,7 @@ def _render_html_researcher(
               </table>
             </section>
             """.format(
-                section_name=escape(section_name),
+                section_name=escape(f"{section_label} ({len(items)})"),
                 rows='\n'.join(rows),
             )
         )
@@ -348,7 +368,7 @@ def _write_xlsx(
     except ImportError as exc:  # pragma: no cover - dependency guard
         raise RuntimeError("openpyxl nao esta instalado. Adicione em requirements.txt") from exc
 
-    grouped = _group_by_production_type(productions)
+    grouped, labels = _group_by_section(productions)
     workbook = Workbook()
     headers = COLUMN_ORDER[:]
 
@@ -390,9 +410,8 @@ def _write_xlsx(
         return row
 
     for item in productions:
-        source = item.get('source') or {}
-        section_name = _normalize_section_name(source.get('production_type'))
-        default_sheet.append(_build_row(item, section_name))
+        section_key, section_label = _section_identity(item)
+        default_sheet.append(_build_row(item, section_label))
 
     if grouped:
         used_names: set = {"Produções"}
@@ -400,12 +419,13 @@ def _write_xlsx(
         for section_name in section_names:
             if section_name not in grouped:
                 continue
-            sheet_name = _sanitize_sheet_name(section_name, used_names)
+            sheet_label = labels.get(section_name, section_name)
+            sheet_name = _sanitize_sheet_name(sheet_label, used_names)
             sheet = workbook.create_sheet(title=sheet_name)
             sheet.append(headers)
 
             for item in grouped[section_name]:
-                sheet.append(_build_row(item, section_name))
+                sheet.append(_build_row(item, sheet_label))
 
     workbook.save(output_path)
 
@@ -448,7 +468,7 @@ def generate_validation_pack(input_dir: Path, output_dir: Path, formats: List[st
         full_name = _safe_text(researcher.get('full_name') or json_path.stem)
 
         sections_metadata = (data.get('metadata') or {}).get('sections', [])
-        grouped = _group_by_production_type(productions)
+        grouped, _ = _group_by_section(productions)
         section_order = _ordered_section_names(sections_metadata, grouped)
 
         researcher_dir = researchers_root / f"{lattes_id}__"
