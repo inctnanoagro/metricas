@@ -7,14 +7,74 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:30.660339",
+    "extracted_at": "2026-01-28T14:28:14.662462",
     "source_file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
     "total_productions": 73,
     "sections": [
       {
-        "section_title": "Produções",
+        "section_title": "Artigos completos publicados em periódicos",
         "item_count": 38,
-        "tipo_producao": "temp__producoes"
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Livros publicados/organizados ou edições",
+        "item_count": 0,
+        "tipo_producao": "temp__livros-publicados-organizados-ou-edia-a-es"
+      },
+      {
+        "section_title": "Capítulos de livros publicados",
+        "item_count": 0,
+        "tipo_producao": "temp__capa-tulos-de-livros-publicados"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Artigos aceitos para publicação",
+        "item_count": 0,
+        "tipo_producao": "temp__artigos-aceitos-para-publicaa-a-o"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 0,
+        "tipo_producao": "temp__apresentaa-a-es-de-trabalho"
+      },
+      {
+        "section_title": "Outras produções bibliográficas",
+        "item_count": 0,
+        "tipo_producao": "temp__outras-produa-a-es-bibliogra-ficas"
+      },
+      {
+        "section_title": "Programas de computador sem registro",
+        "item_count": 0,
+        "tipo_producao": "temp__programas-de-computador-sem-registro"
+      },
+      {
+        "section_title": "Trabalhos técnicos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-ta-cnicos"
+      },
+      {
+        "section_title": "Entrevistas, mesas redondas, programas e comentários na mídia",
+        "item_count": 0,
+        "tipo_producao": "temp__entrevistas-mesas-redondas-programas-e-comenta-rios-na-ma-dia"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-produa-a-o-ta-cnica"
       },
       {
         "section_title": "Patentes e registros",
@@ -65,11 +125,12 @@
       "doi": "10.3390/microorganisms13102401",
       "fingerprint_sha1": "8125aad7d3ea7f78627ba0f89572e7e2b89c15f1",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ARRUDA, BRUNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/microorganisms13102401\" target=\"_blank\"></a>ARRUDA, BRUNA ; MARIANO, EDUARDO ; BEJARANO-HERRERA, WILFRAND FERNEY ; PRATAVIERA, FÁBIO ; HASHIMOTO, ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Microorganisms"
     },
@@ -83,11 +144,12 @@
       "doi": "10.1021/acsagscitech.5c00509",
       "fingerprint_sha1": "1385640bd83a7f4f3e3af76b223fbab08fa2bbbc",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MAJARON, VINÍCIUS FERRAZ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00509\" target=\"_blank\"></a>MAJARON, VINÍCIUS FERRAZ ; VELLANI, CASSIO LUIZ ; JUNIOR, ALEXANDRE ANTONIO FIDELIS MARTINS ;",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Acs Agricultural Science & Technology"
     },
@@ -101,11 +163,12 @@
       "doi": "10.54899/dcs.v22i82.3332",
       "fingerprint_sha1": "47a51d098d3d8d07f4996e10356c6b34b9c30360",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RAMIRIO, LUCAS DELEON</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.54899/dcs.v22i82.3332\" target=\"_blank\"></a>RAMIRIO, LUCAS DELEON ; <b>PUTTI, FERNANDO FERRARI</b> ; OLIVEIRA JÚNIOR, GERALDO GOMES DE ; APARECI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Revista de Derecho y Câmbio Social"
     },
@@ -119,11 +182,12 @@
       "doi": "10.1002/ep.70023",
       "fingerprint_sha1": "bdad17326baba116f1204058aefdf84a86c7e38a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PACAGNELLA JUNIOR, ANTONIO CARLOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1002/ep.70023\" target=\"_blank\"></a>PACAGNELLA JUNIOR, ANTONIO CARLOS ; DE MORAES, GUSTAVO HERMÍNIO SALATI MARCONDES ; DA SILVA, ADA",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Environmental Progress & Sustainable Energy"
     },
@@ -137,11 +201,12 @@
       "doi": "10.54033/cadpedv22n8-306",
       "fingerprint_sha1": "2d7fc99153b840a9a4e429a80bf7b9d3f8f37d22",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">RAMIRIO, LUCAS DELEON</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.54033/cadpedv22n8-306\" target=\"_blank\"></a>RAMIRIO, LUCAS DELEON ; <b>PUTTI, FERNANDO FERRARI</b> ; OLIVEIRA JÚNIOR, GERALDO GOMES DE ; APARECI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)"
     },
@@ -155,29 +220,31 @@
       "doi": "10.3390/agriengineering7070201",
       "fingerprint_sha1": "1587ffb965f9bbfaca3db74be969600ddd42cde1",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GOMES, HELOISA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agriengineering7070201\" target=\"_blank\"></a>GOMES, HELOISA ; SILVA, GUSTAVO FERREIRA DA ; CALONEGO, JULIANO CARLOS ; BARCELOS, JÉSSICA PIGATTO DE",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Agriengineering"
     },
     {
       "numero_item": 7,
       "raw": "NETO, FRANCISCO JOSÉ DOMINGUES 2025 NETO, FRANCISCO JOSÉ DOMINGUES ; TECCHIO, MARCO ANTONIO ; CARNEIRO, DÉBORA CAVALCANTE DOS SANTOS ; FIGUEIRA, RICARDO ; RODRIGUES, JOÃO DOMINGOS ; MOURA, MARA FERNANDES ; HERNANDES, JOSÉ LUIZ ; PUTTI, , FERNANDO FERRARI ; LEONEL, SARITA ; SILVA, MARCELO DE SOUZA ; BONFIM, FILIPE PEREIRA GIARDINI ; LIMA, GIUSEPPINA PACE PEREIRA ; SANTOS, PRICILA VEIGA- . Impact of training systems and rootstocks on yield and quality of white Brazilian hybrid grapes. AUST J CROP SCI , v. 19, p. 705-716, 2025.",
-      "autores": "NETO, FRANCISCO JOSÉ DOMINGUES NETO, FRANCISCO JOSÉ DOMINGUES; TECCHIO, MARCO ANTONIO; CARNEIRO, DÉBORA CAVALCANTE DOS SANTOS; FIGUEIRA, RICARDO; RODRIGUES, JOÃO DOMINGOS; MOURA, MARA FERNANDES; HERNANDES, JOSÉ LUIZ; PUTTI, , FERNANDO FERRARI; LEONEL, SARITA; SILVA, MARCELO DE SOUZA; BONFIM, FILIPE PEREIRA GIARDINI; LIMA, GIUSEPPINA PACE PEREIRA; SANTOS, PRICILA VEIGA-",
+      "autores": "NETO, FRANCISCO JOS DOMINGUES NETO, FRANCISCO JOS DOMINGUES; TECCHIO, MARCO ANTONIO; CARNEIRO, DBORA CAVALCANTE DOS SANTOS; FIGUEIRA, RICARDO; RODRIGUES, JOO DOMINGOS; MOURA, MARA FERNANDES; HERNANDES, JOS LUIZ; PUTTI, , FERNANDO FERRARI; LEONEL, SARITA; SILVA, MARCELO DE SOUZA; BONFIM, FILIPE PEREIRA GIARDINI; LIMA, GIUSEPPINA PACE PEREIRA; SANTOS, PRICILA VEIGA-",
       "titulo": "Impact of training systems and rootstocks on yield and quality of white Brazilian hybrid grapes",
       "ano": 2025,
       "mes": null,
       "doi": "10.21475/ajcs.25.19.06.p374",
       "fingerprint_sha1": "3412ea7337dd93d2a1e077226e1a5563e7d8bd5b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NETO, FRANCISCO JOSÉ DOMINGUES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21475/ajcs.25.19.06.p374\" target=\"_blank\"></a>NETO, FRANCISCO JOSÉ DOMINGUES ; TECCHIO, MARCO ANTONIO ; CARNEIRO, DÉBORA CAVALCANTE DO",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "AUST J CROP SCI"
     },
@@ -191,11 +258,12 @@
       "doi": "10.3390/agronomy15051249",
       "fingerprint_sha1": "7af11f02a56d58eb354dac2a862d4ad71c4bdfe2",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, GUSTAVO FERREIRA DA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agronomy15051249\" target=\"_blank\"></a>SILVA, GUSTAVO FERREIRA DA ; LUPERINI, BRUNO CESAR OTTOBONI ; BARCELOS, JÉSSICA PIGATTO DE QUEI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Agronomy-Basel"
     },
@@ -209,11 +277,12 @@
       "doi": "10.56238/arev7n4-012",
       "fingerprint_sha1": "b2e5d07ea75828e51ec7c39a01549839290325c5",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, LAZARO QUINTINO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.56238/arev7n4-012\" target=\"_blank\"></a>ALVES, LAZARO QUINTINO ; DA SILVA, ADRIANO BORTOLOTTI ; ZANETTI, WILLIAN APARECIDO LEOTI ; <b>PUTTI, FE",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "ARACÊ - DIREITOS HUMANOS EM REVISTA"
     },
@@ -227,11 +296,12 @@
       "doi": "10.3390/gels11030183",
       "fingerprint_sha1": "86ade1f9ea2bf5d41bc0ef92827aa9230a68b310",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VEDOVELLO, PRISCILA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/gels11030183\" target=\"_blank\"></a>VEDOVELLO, PRISCILA ; PAIVA, ROBERT SILVA ; BORTOLETTO-SANTOS, RICARDO ; RIBEIRO, CAUE ; <b>PUTTI, FERNAND",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "GELS"
     },
@@ -245,11 +315,12 @@
       "doi": "10.3390/horticulturae11030270",
       "fingerprint_sha1": "233f0ee02b70473dfb54226f95646486888dbff7",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NORDI, NICHOLAS TABORDA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/horticulturae11030270\" target=\"_blank\"></a>NORDI, NICHOLAS TABORDA ; COELHO, LUCIANO RODRIGUES ; LEONEL, SARITA ; SILVA, MARCELO DE SOUZ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Horticulturae"
     },
@@ -263,11 +334,12 @@
       "doi": "10.3390/stresses5010017",
       "fingerprint_sha1": "706e9236e69dddb2c2043a2147c8864e42f938f0",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ARRUDA, BRUNA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/stresses5010017\" target=\"_blank\"></a>ARRUDA, BRUNA ; BAGAGI, BRENO MIRANDA ; DE FREITAS JUNIOR, NELSON BORGES ; BEJARANO HERRERA, WILFRAND FERNEY ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Stresses"
     },
@@ -281,29 +353,31 @@
       "doi": "10.1007/s44279-025-00170-2",
       "fingerprint_sha1": "04b684307e4a64396ac17ac422cfe6594caab837",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PUTTI, FERNANDO FERRARI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s44279-025-00170-2\" target=\"_blank\"></a><b>PUTTI, FERNANDO FERRARI</b>; GUERRERO, PEDRO HENRIQUE LUPO ; PUTTI, JÉSSICA PIGATTO BARCELOS ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Discover Agriculture"
     },
     {
       "numero_item": 14,
       "raw": "PUTTI, FERNANDO FERRARI 2024 PUTTI, FERNANDO FERRARI ; ARRUDA, BRUNA ; VICENTE, EDUARDO FESTOZO ; CHAVES, PRÍNSCILLA PÂMELA NUNES ; Nogueira, Bianca Bueno ; ZANETTI, WILLIAN APARECIDO LEOTI ; ONO, ELIZABETH ORIKA ; DOS REIS, ANDRÉ RODRIGUES . Magnetic technology to reduce the effects of saline stress on tomato plants. ENVIRONMENTAL TECHNOLOGY & INNOVATION , v. 1, p. 103544, 2024.",
-      "autores": "PUTTI, FERNANDO FERRARI PUTTI, FERNANDO FERRARI; ARRUDA, BRUNA; VICENTE, EDUARDO FESTOZO; CHAVES, PRÍNSCILLA PÂMELA NUNES; Nogueira, Bianca Bueno; ZANETTI, WILLIAN APARECIDO LEOTI; ONO, ELIZABETH ORIKA; DOS REIS, ANDRÉ RODRIGUES",
+      "autores": "PUTTI, FERNANDO FERRARI PUTTI, FERNANDO FERRARI; ARRUDA, BRUNA; VICENTE, EDUARDO FESTOZO; CHAVES, PRNSCILLA PMELA NUNES; Nogueira, Bianca Bueno; ZANETTI, WILLIAN APARECIDO LEOTI; ONO, ELIZABETH ORIKA; DOS REIS, ANDR RODRIGUES",
       "titulo": "Magnetic technology to reduce the effects of saline stress on tomato plants",
       "ano": 2024,
       "mes": null,
       "doi": "10.1016/j.eti.2024.103544",
       "fingerprint_sha1": "4b56be1b4b4bb3df4e729e109f28a3aed8bf9c9d",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PUTTI, FERNANDO FERRARI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.eti.2024.103544\" target=\"_blank\"></a><b>PUTTI, FERNANDO FERRARI</b>; ARRUDA, BRUNA ; VICENTE, EDUARDO FESTOZO ; CHAVES, PRÍNSCILLA PÂM",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PUTTI, FERNANDO FERRARI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.eti.2024.103544\" target=\"_blank\"></a><b>PUTTI, FERNANDO FERRARI</b>; ARRUDA, BRUNA ; VICENTE, EDUARDO FESTOZO ; CHAVES, PRNSCILLA PM",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "ENVIRONMENTAL TECHNOLOGY & INNOVATION"
     },
@@ -317,11 +391,12 @@
       "doi": "10.1080/01904167.2024.2315975",
       "fingerprint_sha1": "61175ac70beecb30f8060102a28dfbdfb237639d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ZÜGE, PATRÍCIA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/01904167.2024.2315975\" target=\"_blank\"></a>ZÜGE, PATRÍCIA ; LEONEL, SARITA ; <b>PUTTI, FERNANDO FERRARI</b> ; MARTINS, RAFAELLY CALSAVARA . Leaf ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "JOURNAL OF PLANT NUTRITION"
     },
@@ -335,11 +410,12 @@
       "doi": null,
       "fingerprint_sha1": "b321adb31a2529eafb83fa30158699c2e6d36b6f",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GABRIEL FILHO, L. R. A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5255054247692798\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GABRIEL FILHO, L. R. A.</a> ; VIAIS NETO, DANIEL DOS S. ; <b>PUTTI, F. F.</b> ; ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "ACTA SCIENTIARUM-AGRONOMY"
     },
@@ -353,11 +429,12 @@
       "doi": "10.17765/2176-9168.2024v17n1e9479",
       "fingerprint_sha1": "d4025f7d5b5851235274f8f31a51c2d39b4a4143",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BASSOTTO, LEANDRO CARVALHO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.17765/2176-9168.2024v17n1e9479\" target=\"_blank\"></a>BASSOTTO, LEANDRO CARVALHO ; <b>PUTTI, F. F.</b> ; BENEDICTO, G. C. . Desenvolvimento ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "RAMA - Revista em Agronegócio e Meio Ambiente"
     },
@@ -371,11 +448,12 @@
       "doi": "10.3390/pr12050887",
       "fingerprint_sha1": "922824f28d51162954d2ce1bc936071993f9df1e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FORTI, JULIANE C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/pr12050887\" target=\"_blank\"></a>FORTI, JULIANE C. ; ROBLES, PEDRO E. M. ; TADAYOZZI, YASMIN S. ; DEMORI, MAIARA A. F. ; SANTOS, FELIPE A. ; <b",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "PROCESSES"
     },
@@ -389,11 +467,12 @@
       "doi": "10.53660/PRW-2117-3911",
       "fingerprint_sha1": "1bdc0de0d6612c5228b79e11f043e22bbb8207b3",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, LÁZARO QUINTINO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.53660/PRW-2117-3911\" target=\"_blank\"></a>ALVES, LÁZARO QUINTINO ; SILVA, ADRIANO BORTOLOTTI DA ; <b>PUTTI, FERNANDO FERRARI</b> ; GÓES, BRUNO ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "PEER REVIEW"
     },
@@ -407,11 +486,12 @@
       "doi": "10.1071/cp23117",
       "fingerprint_sha1": "8d798113a6ece0fc79dab74daf9c16500b082036",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NOGUEIRA, DANILO BATISTA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1071/cp23117\" target=\"_blank\"></a>NOGUEIRA, DANILO BATISTA ; SOUSA, ALFREDO MENDONÇA DE ; SILVA, ALEXSANDRO OLIVEIRA DA ; COSTA, BRUNO RICAR",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Crop & Pasture Science"
     },
@@ -425,29 +505,31 @@
       "doi": "10.1016/j.eja.2024.127206",
       "fingerprint_sha1": "1299dab12e49e8e93bfed40c19f4cd4647751468",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DA SILVA, GUSTAVO FERREIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.eja.2024.127206\" target=\"_blank\"></a>DA SILVA, GUSTAVO FERREIRA ; CALONEGO, JULIANO CARLOS ; LUPERINI, BRUNO CESAR OTTOBONI ; CHAMM",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "EUROPEAN JOURNAL OF AGRONOMY"
     },
     {
       "numero_item": 22,
       "raw": "CÂNDIDO, HEBERT 2024 CÂNDIDO, HEBERT ; DOMICIANO, VINÍCIUS ; MARZULLO, YASMINE ; MOLHA, NICHOLAS ; PUTTI, FERNANDO ; LEONEL, MAGALI . Perfil do consumo de tuberosas amiláceas no Estado de São Paulo e seus produtos processados. REVISTA DE ECONOMIA AGRÍCOLA (ONLINE) , v. 71, p. 1-17, 2024.",
-      "autores": "CÂNDIDO, HEBERT CÂNDIDO, HEBERT; DOMICIANO, VINÍCIUS; MARZULLO, YASMINE; MOLHA, NICHOLAS; PUTTI, FERNANDO; LEONEL, MAGALI",
+      "autores": "CNDIDO, HEBERT CNDIDO, HEBERT; DOMICIANO, VINCIUS; MARZULLO, YASMINE; MOLHA, NICHOLAS; PUTTI, FERNANDO; LEONEL, MAGALI",
       "titulo": "Perfil do consumo de tuberosas amiláceas no Estado de São Paulo e seus produtos processados",
       "ano": 2024,
       "mes": null,
       "doi": "10.56468/1983-7747.erea0123.2024",
       "fingerprint_sha1": "df0a18d03b89674dffbb3b0bc19ea9d424456780",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CÂNDIDO, HEBERT</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.56468/1983-7747.erea0123.2024\" target=\"_blank\"></a>CÂNDIDO, HEBERT ; DOMICIANO, VINÍCIUS ; MARZULLO, YASMINE ; MOLHA, NICHOLAS ; <b>PUTTI, FERNANDO</",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CNDIDO, HEBERT</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.56468/1983-7747.erea0123.2024\" target=\"_blank\"></a>CNDIDO, HEBERT ; DOMICIANO, VINCIUS ; MARZULLO, YASMINE ; MOLHA, NICHOLAS ; <b>PUTTI, FERNANDO</",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "REVISTA DE ECONOMIA AGRÍCOLA (ONLINE)"
     },
@@ -461,11 +543,12 @@
       "doi": "10.3390/agriculture14060840",
       "fingerprint_sha1": "b8b21a53accdfbd6f9f88cbf4276b54883946949",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VEDOVELLO, PRISCILA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agriculture14060840\" target=\"_blank\"></a>VEDOVELLO, PRISCILA ; SANCHES, LÍVIA VALENTIM ; TEODORO, GABRIEL DA SILVA ; MAJARON, VINÍCIUS FERRA",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "AGRICULTURE"
     },
@@ -479,11 +562,12 @@
       "doi": "10.1590/0100-29452024863",
       "fingerprint_sha1": "a9cf1d638a6145ce82952cea6fdbdd283182b280",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOUZA, ANGELA VACARO DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/0100-29452024863\" target=\"_blank\"></a>SOUZA, ANGELA VACARO DE ; MELLO, JÉSSICA MARQUES DE ; FAVARO, VITÓRIA FERREIRA DA SILVA ; <b>PUTTI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "REVISTA BRASILEIRA DE FRUTICULTURA (ONLINE)"
     },
@@ -497,13 +581,14 @@
       "doi": "10.7769/gesec.v15i6.3619",
       "fingerprint_sha1": "ddd4db292edcdb5b567ebea56d3349377c7b7b07",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SERAFIM, ULISSES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v15i6.3619\" target=\"_blank\"></a>SERAFIM, ULISSES ; <b>PUTTI, FERNANDO FERRARI</b> ; NATEL, ANDRESSA SANTANNA ; GÓES, BRUNO CÉSAR ; BARCEL",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
-      "veiculo": "REVISTA DE GESTÃO E SECRETARIADO"
+      "veiculo": "REVISTA DE GESTO E SECRETARIADO"
     },
     {
       "numero_item": 26,
@@ -515,11 +600,12 @@
       "doi": "10.1007/s00500-024-09699-8",
       "fingerprint_sha1": "d5fbff210ae559259c0da49405d484d395d1de5b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MAZIERO, LUANA POSSARI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s00500-024-09699-8\" target=\"_blank\"></a>MAZIERO, LUANA POSSARI ; CHACUR, MARCELO GEORGE MUNGAI ; CREMASCO, CAMILA PIRES ; BORDIN, DEYVER ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "SOFT COMPUTING"
     },
@@ -533,11 +619,12 @@
       "doi": "10.3390/foods13142284",
       "fingerprint_sha1": "e0d7d4bdb51b287b747fea39207bde176daac0b4",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SOUZA, ANGELA VACARO DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/foods13142284\" target=\"_blank\"></a>SOUZA, ANGELA VACARO DE ; FAVARO, VITÓRIA FERREIRA DA SILVA ; MELLO, JÉSSICA MARQUES DE ; CANATO, VIN",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Foods"
     },
@@ -551,47 +638,50 @@
       "doi": "10.3390/plants13141981",
       "fingerprint_sha1": "98bf48499f1d1f51e25f638a85dc1008f467244c",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BATISTA, ALINE MARTINELI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/plants13141981\" target=\"_blank\"></a>BATISTA, ALINE MARTINELI ; PESSOA, THAÍS NASCIMENTO ; <b>PUTTI, FERNANDO FERRARI</b> ; ANDREOTE, FE",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "PLANTS"
     },
     {
       "numero_item": 29,
       "raw": "OLIVEIRA, ANA LAURA PAULA DE 2024 OLIVEIRA, ANA LAURA PAULA DE ; SANTOS, JOÃO PEDRO DOS ; SILVA, GUSTAVO FERREIRA DA ; PUTTI, FERNANDO FERRARI . Uso de bioinsumos como possibilidade de atenuação dos efeitos do estresse hídrico. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 22, p. e6566, 2024.",
-      "autores": "OLIVEIRA, ANA LAURA PAULA DE OLIVEIRA, ANA LAURA PAULA DE; SANTOS, JOÃO PEDRO DOS; SILVA, GUSTAVO FERREIRA DA; PUTTI, FERNANDO FERRARI",
+      "autores": "OLIVEIRA, ANA LAURA PAULA DE OLIVEIRA, ANA LAURA PAULA DE; SANTOS, JOO PEDRO DOS; SILVA, GUSTAVO FERREIRA DA; PUTTI, FERNANDO FERRARI",
       "titulo": "Uso de bioinsumos como possibilidade de atenuação dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": "10.55905/oelv22n9-039",
       "fingerprint_sha1": "78d7e5566ec40636099de4e0d046b76fc0337ff3",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, ANA LAURA PAULA DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv22n9-039\" target=\"_blank\"></a>OLIVEIRA, ANA LAURA PAULA DE ; SANTOS, JOÃO PEDRO DOS ; SILVA, GUSTAVO FERREIRA DA ; <b>PUTTI, F",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, ANA LAURA PAULA DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv22n9-039\" target=\"_blank\"></a>OLIVEIRA, ANA LAURA PAULA DE ; SANTOS, JOO PEDRO DOS ; SILVA, GUSTAVO FERREIRA DA ; <b>PUTTI, F",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
     },
     {
       "numero_item": 30,
       "raw": "DOMINGUES NETO, FRANCISCO JOSÉ 2024 DOMINGUES NETO, FRANCISCO JOSÉ ; CARNEIRO, DÉBORA CAVALCANTE DOS SANTOS ; PUTTI, FERNANDO FERRARI ; RODRIGUES, JOÃO DOMINGOS ; TECCHIO, MARCO ANTONIO ; LEONEL, SARITA ; SILVA, MARCELO DE SOUZA . Physiological Indexes in Seed Germination and Seedling Growth of Rangpur Lime (Citrus limonia L. Osbeck) under Plant Growth Regulators. Agronomy-Basel , v. 14, p. 2066, 2024.",
-      "autores": "DOMINGUES NETO, FRANCISCO JOSÉ DOMINGUES NETO, FRANCISCO JOSÉ; CARNEIRO, DÉBORA CAVALCANTE DOS SANTOS; PUTTI, FERNANDO FERRARI; RODRIGUES, JOÃO DOMINGOS; TECCHIO, MARCO ANTONIO; LEONEL, SARITA; SILVA, MARCELO DE SOUZA",
+      "autores": "DOMINGUES NETO, FRANCISCO JOS DOMINGUES NETO, FRANCISCO JOS; CARNEIRO, DBORA CAVALCANTE DOS SANTOS; PUTTI, FERNANDO FERRARI; RODRIGUES, JOO DOMINGOS; TECCHIO, MARCO ANTONIO; LEONEL, SARITA; SILVA, MARCELO DE SOUZA",
       "titulo": "Physiological Indexes in Seed Germination and Seedling Growth of Rangpur Lime (Citrus limonia L",
       "ano": 2024,
       "mes": null,
       "doi": "10.3390/agronomy14092066",
       "fingerprint_sha1": "9ef0b697bc7128fc42ed7b6432beb06d75823bcf",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DOMINGUES NETO, FRANCISCO JOSÉ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.3390/agronomy14092066\" target=\"_blank\"></a>DOMINGUES NETO, FRANCISCO JOSÉ ; CARNEIRO, DÉBORA CAVALCANTE DOS SANTOS ; <b>PUTTI, FERNAND",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Osbeck) under Plant Growth Regulators. Agronomy-Basel"
     },
@@ -605,13 +695,14 @@
       "doi": "10.7769/gesec.v15i9.4115",
       "fingerprint_sha1": "e0547274fe9a1a39525cc379420388c9b915d92d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, LUCIANO OLINTO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v15i9.4115\" target=\"_blank\"></a>ALVES, LUCIANO OLINTO ; BORELLI, VITÓRIA APARECIDA DA SILVA ; ZANETTI, WILLIAN APARECIDO LEOTI ; <b>",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
-      "veiculo": "REVISTA DE GESTÃO E SECRETARIADO"
+      "veiculo": "REVISTA DE GESTO E SECRETARIADO"
     },
     {
       "numero_item": 32,
@@ -623,11 +714,12 @@
       "doi": "10.55905/oelv22n11-056",
       "fingerprint_sha1": "a7b9a2c6a888052016812cef95c34db6748a0c82",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, JOSÉ ANTONIO RAMOS DA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv22n11-056\" target=\"_blank\"></a>SILVA, JOSÉ ANTONIO RAMOS DA ; JUNIOR, GERALDO GOMES DE OLIVEIRA ; <b>PUTTI, FERNANDO FERRARI</",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
     },
@@ -641,11 +733,12 @@
       "doi": "10.1590/1983-40632024v5479143",
       "fingerprint_sha1": "3727ceea3db9b5159b62ffd877852b3d4b9558bc",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">TÉLLEZ, HAYVER OLAYA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1983-40632024v5479143\" target=\"_blank\"></a>TÉLLEZ, HAYVER OLAYA ; <b>PUTTI, FERNANDO FERRARI</b> ; BÔAS, ROBERTO LYRA VILLAS . Magnetic and",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Pesquisa Agropecuaria Tropical (Online)"
     },
@@ -659,31 +752,33 @@
       "doi": "10.54033/cadpedv21n10-290",
       "fingerprint_sha1": "a9aee20cae95ce7c5e0cfc625ba9b630b61c932c",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, LAZARO QUINTINO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.54033/cadpedv21n10-290\" target=\"_blank\"></a>ALVES, LAZARO QUINTINO ; BORELLI, VITÓRIA APARECIDA DA SILVA ; ZANETTI, WILLIAN APARECIDO LEOTI ; ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)"
     },
     {
       "numero_item": 35,
       "raw": "SANTOS, JOÃO PEDRO DOS 2024 SANTOS, JOÃO PEDRO DOS ; OLIVEIRA, ANA LAURA PAULA DE ; PUTTI, FERNANDO FERRARI . Bioinsumos na agricultura: panorama tecnológico das patentes biológicas. REVISTA DE GESTÃO E SECRETARIADO , v. 15, p. e4137, 2024.",
-      "autores": "SANTOS, JOÃO PEDRO DOS SANTOS, JOÃO PEDRO DOS; OLIVEIRA, ANA LAURA PAULA DE; PUTTI, FERNANDO FERRARI",
+      "autores": "SANTOS, JOO PEDRO DOS SANTOS, JOO PEDRO DOS; OLIVEIRA, ANA LAURA PAULA DE; PUTTI, FERNANDO FERRARI",
       "titulo": "Bioinsumos na agricultura: panorama tecnológico das patentes biológicas",
       "ano": 2024,
       "mes": null,
       "doi": "10.7769/gesec.v15i9.4137",
       "fingerprint_sha1": "9ab4a539e8c46f944d6192b49e09050778104640",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, JOÃO PEDRO DOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v15i9.4137\" target=\"_blank\"></a>SANTOS, JOÃO PEDRO DOS ; OLIVEIRA, ANA LAURA PAULA DE ; <b>PUTTI, FERNANDO FERRARI</b> . Bioinsumos",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, JOO PEDRO DOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.7769/gesec.v15i9.4137\" target=\"_blank\"></a>SANTOS, JOO PEDRO DOS ; OLIVEIRA, ANA LAURA PAULA DE ; <b>PUTTI, FERNANDO FERRARI</b> . Bioinsumos",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
-      "veiculo": "REVISTA DE GESTÃO E SECRETARIADO"
+      "veiculo": "REVISTA DE GESTO E SECRETARIADO"
     },
     {
       "numero_item": 36,
@@ -695,11 +790,12 @@
       "doi": "10.21475/ajcs.24.18.09.p33",
       "fingerprint_sha1": "f0b59789b595b39dd53131d482641232e3b4ea2d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FILHO, VITOR HUGO ARTIGIANI</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21475/ajcs.24.18.09.p33\" target=\"_blank\"></a>FILHO, VITOR HUGO ARTIGIANI ; LEONEL, SARITA ; <b>PUTTI, FERNANDO FERRARI</b> ; MARTINS, RAF",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "AUST J CROP SCI"
     },
@@ -713,11 +809,12 @@
       "doi": "10.5281/zenodo.14290773",
       "fingerprint_sha1": "e1faa687332165876da89c33b98686b653209d55",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARDOSO, D. B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5281/zenodo.14290773\" target=\"_blank\"></a>CARDOSO, D. B. ; BORELLI, V. A. S. ; <b>PUTTI, F. F.</b> ; GÓES, B. C. . Horticultura no Brasil: desafios e ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "Revista Tema ON-LINE"
     },
@@ -731,11 +828,12 @@
       "doi": "10.55905/rdelosv17.n61-022",
       "fingerprint_sha1": "35920cd085260de2e68d8f1988380ceafd797ea8",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, JOSÉ ANTONIO RAMOS DA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/rdelosv17.n61-022\" target=\"_blank\"></a>SILVA, JOSÉ ANTONIO RAMOS DA ; OLIVEIRA JUNIOR, GERALDO GOMES DE ; <b>PUTTI, FERNANDO FERRA",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.597733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:14.512586"
       },
       "veiculo": "DELOS: DESARROLLO LOCAL SOSTENIBLE"
     },
@@ -743,89 +841,94 @@
       "numero_item": 1,
       "raw": "CALONEGO, J. C.; CASTOLDI, G.; Fernando F. Putti . ParticipaÃ§Ã£o em banca de ALINE OLIVEIRA DA SILVA. CALAGEM COMO MEIO PARA VIABILIZAR A REDUÃÃO DA ADUBAÃÃO NO SISTEMA SOJA-SORGO. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
       "autores": "CALONEGO, J. C.; CASTOLDI, G.; Fernando F. Putti",
-      "titulo": "ParticipaÃ§Ã£o em banca de ALINE OLIVEIRA DA SILVA",
+      "titulo": "Participação em banca de ALINE OLIVEIRA DA SILVA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "a4e3764465cb98437d2cbf1e77df558b2d031394",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CALONEGO, J. C.; CASTOLDI, G.; <b>Fernando F. Putti</b>.  ParticipaÃ§Ã£o em banca de ALINE OLIVEIRA DA SILVA. CALAGEM COMO MEIO PARA VIABILIZAR A REDUÃÃO DA ADUBAÃÃO NO SISTEMA SOJA-SORGO. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CALONEGO, J. C.; CASTOLDI, G.; <b>Fernando F. Putti</b>.  Participao em banca de ALINE OLIVEIRA DA SILVA. CALAGEM COMO MEIO PARA VIABILIZAR A REDUO DA ADUBAO NO SISTEMA SOJA-SORGO. 2024. Dissertao (Mestrado em Agronomia (Agricultura)) - Universidade Estadual Paulista Jlio de Mesquita Filho. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:30.619691"
+        "extracted_at": "2026-01-28T14:28:14.621060"
       },
-      "veiculo": "CALAGEM COMO MEIO PARA VIABILIZAR A REDUÃÃO DA ADUBAÃÃO NO SISTEMA SOJA-SORGO. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "CALAGEM COMO MEIO PARA VIABILIZAR A REDUO DA ADUBAO NO SISTEMA SOJA-SORGO. 2024. Dissertao (Mestrado em Agronomia (Agricultura)) - Universidade Estadual Paulista Jlio de Mesquita Filho"
     },
     {
       "numero_item": 2,
       "raw": "PASCOALOTO, I. M.; PAI, A. D.; PUTTI, F. F. . ParticipaÃ§Ã£o em banca de HeloÃ­sa Gomes. COMPARAÃÃO DE IMAGENS MULTIESPECTRAIS UTILIZANDO SENTINEL-2, CBERS-4, LANDSAT-8 E VANT PARA A ANÃLISE DE DEFICIÃNCIA DE NITROGÃNIO NO MILHO.. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia AgrÃ­cola) - Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
       "autores": "PASCOALOTO, I. M.; PAI, A. D.; PUTTI, F. F.",
-      "titulo": "ParticipaÃ§Ã£o em banca de HeloÃ­sa Gomes",
+      "titulo": "Participação em banca de Heloísa Gomes",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "872aa4a7420204303b47b62380fd3db8b55288f7",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PASCOALOTO, I. M.; PAI, A. D.; <b>PUTTI, F. F.</b>.  ParticipaÃ§Ã£o em banca de HeloÃ­sa Gomes. COMPARAÃÃO DE IMAGENS MULTIESPECTRAIS UTILIZANDO SENTINEL-2, CBERS-4, LANDSAT-8 E VANT PARA A ANÃLISE DE DEFICIÃNCIA DE NITROGÃNIO NO MILHO.. 2024. DissertaÃ§Ã£o (Mestrado em Engenharia AgrÃ­cola) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PASCOALOTO, I. M.; PAI, A. D.; <b>PUTTI, F. F.</b>.  Participao em banca de Helosa Gomes. COMPARAO DE IMAGENS MULTIESPECTRAIS UTILIZANDO SENTINEL-2, CBERS-4, LANDSAT-8 E VANT PARA A ANLISE DE DEFICINCIA DE NITROGNIO NO MILHO.. 2024. Dissertao (Mestrado em Engenharia Agrcola) - Universidade Estadual Paulista Jlio de Mesquita Filho. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:30.619691"
+        "extracted_at": "2026-01-28T14:28:14.621060"
       },
-      "veiculo": "COMPARAÃÃO DE IMAGENS MULTIESPECTRAIS UTILIZANDO SENTINEL-2"
+      "veiculo": "COMPARAO DE IMAGENS MULTIESPECTRAIS UTILIZANDO SENTINEL-2"
     },
     {
       "numero_item": 19,
       "raw": "FERRARI PUTTI, FERNANDO . ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral. ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel) - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas.",
       "autores": "FERRARI PUTTI, FERNANDO",
-      "titulo": "ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral",
+      "titulo": "Participação em banca de Ana Maria Santana do Amaral",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "914988ab10e0dd43c38bd1e5fcc9f1b41c145c84",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FERRARI PUTTI, FERNANDO</b>.  ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral. ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel)  - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FERRARI PUTTI, FERNANDO</b>.  Participao em banca de Ana Maria Santana do Amaral. ANLISE DA EVOLUO CIENTFICA E TECNOLGICA DAS PATENTES RELACIONADAS  AGRICULTURA SUSTENTVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura Sustentvel)  - Unifenas/Fundao de Ensino e Tecnologia de Alfenas. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:30.619691"
+        "extracted_at": "2026-01-28T14:28:14.621060"
       },
-      "veiculo": "ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel) - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas"
+      "veiculo": "ANLISE DA EVOLUO CIENTFICA E TECNOLGICA DAS PATENTES RELACIONADAS  AGRICULTURA SUSTENTVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura Sustentvel) - Unifenas/Fundao de Ensino e Tecnologia de Alfenas"
     },
     {
       "numero_item": 20,
       "raw": "FERRARI PUTTI, FERNANDO . ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral. ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel) - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas.",
       "autores": "FERRARI PUTTI, FERNANDO",
-      "titulo": "ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral",
+      "titulo": "Participação em banca de Ana Maria Santana do Amaral",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "914988ab10e0dd43c38bd1e5fcc9f1b41c145c84",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FERRARI PUTTI, FERNANDO</b>.  ParticipaÃ§Ã£o em banca de Ana Maria Santana do Amaral. ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel)  - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FERRARI PUTTI, FERNANDO</b>.  Participao em banca de Ana Maria Santana do Amaral. ANLISE DA EVOLUO CIENTFICA E TECNOLGICA DAS PATENTES RELACIONADAS  AGRICULTURA SUSTENTVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura Sustentvel)  - Unifenas/Fundao de Ensino e Tecnologia de Alfenas. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:30.619691"
+        "extracted_at": "2026-01-28T14:28:14.621060"
       },
-      "veiculo": "ANÃLISE DA EVOLUÃÃO CIENTÃFICA E TECNOLÃGICA DAS PATENTES RELACIONADAS Ã AGRICULTURA SUSTENTÃVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura SustentÃ¡vel) - Unifenas/FundaÃ§Ã£o de Ensino e Tecnologia de Alfenas"
+      "veiculo": "ANLISE DA EVOLUO CIENTFICA E TECNOLGICA DAS PATENTES RELACIONADAS  AGRICULTURA SUSTENTVEL DEPOSITADAS NO BRASIL. 2024. Tese (Doutorado em Doutorado em Agicultura Sustentvel) - Unifenas/Fundao de Ensino e Tecnologia de Alfenas"
     },
     {
       "numero_item": 1,
       "raw": "Breno Miranda Bagagi. A definir. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo",
+      "titulo": "Dissertação (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo  Pesquisa do Estado de São Paulo",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "63b991ea5c4e41cf3feb487e2e4df19adfc27a19",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3488562133654901\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Breno Miranda Bagagi. A definir.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3488562133654901\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Breno Miranda Bagagi. A definir.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
       "veiculo": "(Orientador)"
     },
@@ -833,17 +936,18 @@
       "numero_item": 2,
       "raw": "Ronaldo de Oliveira Elias. A definir. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "Dissertação (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "bae351480176f4082c17b4d90f4bd36769803b7a",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4323925275490546\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ronaldo de Oliveira Elias. A definir.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4323925275490546\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ronaldo de Oliveira Elias. A definir.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
       "veiculo": "(Orientador)"
     },
@@ -851,53 +955,56 @@
       "numero_item": 3,
       "raw": "Gabriel da Silva Teodoro. InfluÃªncia de hidrogÃ©is na cultura do capim sob estresse hÃ­drico. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "InfluÃªncia de hidrogÃ©is na cultura do capim sob estresse hÃ­drico",
+      "titulo": "Influência de hidrogéis na cultura do capim sob estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "aa69114b0731f5b555730e83fd35c5b7db98204c",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4898417143720040\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Gabriel da Silva Teodoro. InfluÃªncia de hidrogÃ©is na cultura do capim sob estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo.",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4898417143720040\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Gabriel da Silva Teodoro. Influência de hidrogéis na cultura do capim sob estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo.",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Dissertação (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 4,
       "raw": "LÃ­via Valentim Sanches. Desenvolvimento, caracterizaÃ§Ã£o e avaliaÃ§Ã£o de hidrogÃ©is com fertilizantes de liberaÃ§Ã£o controlada. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "Desenvolvimento, caracterizaÃ§Ã£o e avaliaÃ§Ã£o de hidrogÃ©is com fertilizantes de liberaÃ§Ã£o controlada",
+      "titulo": "Desenvolvimento, caracterização e avaliação de hidrogéis com fertilizantes de liberação controlada",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "de155b9d47a8ad2f1512c91c6c395118f8a94d64",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7346719640570184\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>LÃ­via Valentim Sanches. Desenvolvimento, caracterizaÃ§Ã£o e avaliaÃ§Ã£o de hidrogÃ©is com fertilizantes de liberaÃ§Ã£o controlada.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7346719640570184\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Lívia Valentim Sanches. Desenvolvimento, caracterização e avaliação de hidrogéis com fertilizantes de liberação controlada.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Dissertação (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 5,
       "raw": "Neraldo Cesar Gritti. A definir. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "DissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "Dissertação (Mestrado profissional em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d81562847b778861db497774ee7d381fe95e469b",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Neraldo Cesar Gritti. A definir.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Neraldo Cesar Gritti. A definir.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
       "veiculo": "(Orientador)"
     },
@@ -905,35 +1012,37 @@
       "numero_item": 7,
       "raw": "HeloÃ­sa Gomes. Desenvolvimento e caracterizaÃ§Ã£o de hidrogeis a base de zeÃ³litas. InÃ­cio: 2024. Tese (Doutorado em Engenharia AgrÃ­cola) - Faculdade de CiÃªncias AgonÃ´micas /Unesp, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
       "autores": null,
-      "titulo": "Desenvolvimento e caracterizaÃ§Ã£o de hidrogeis a base de zeÃ³litas",
+      "titulo": "Desenvolvimento e caracterização de hidrogeis a base de zeólitas",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "71d9fcde0f1e623aa3209c97d80107c110d7e098",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5859433676436881\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>HeloÃ­sa Gomes. Desenvolvimento e caracterizaÃ§Ã£o de hidrogeis a base de zeÃ³litas.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Engenharia AgrÃ­cola)  - Faculdade de CiÃªncias AgonÃ´micas /Unesp, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5859433676436881\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Heloísa Gomes. Desenvolvimento e caracterização de hidrogeis a base de zeólitas.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Engenharia Agrícola)  - Faculdade de Ciências Agonômicas /Unesp, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Engenharia AgrÃ­cola) - Faculdade de CiÃªncias AgonÃ´micas /Unesp"
+      "veiculo": "Início: 2024. Tese (Doutorado em Engenharia Agrícola) - Faculdade de Ciências Agonômicas /Unesp"
     },
     {
       "numero_item": 8,
       "raw": "Ana Laura Paula de Oliveira. A definir. InÃ­cio: 2024. Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo",
+      "titulo": "Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo  Pesquisa do Estado de São Paulo",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "62eb0293595ed67ff13fbeba9c3c53328a6e48d7",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Laura Paula de Oliveira. A definir.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Laura Paula de Oliveira. A definir.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
       "veiculo": "(Orientador)"
     },
@@ -941,35 +1050,37 @@
       "numero_item": 9,
       "raw": "JoÃ£o Henrique Silva da Luz. Manejo de hidrogÃ©is com liberaÃ§Ã£o controlada de fÃ³sforo (33P) na cultura do milho. InÃ­cio: 2024. Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "Manejo de hidrogÃ©is com liberaÃ§Ã£o controlada de fÃ³sforo (33P) na cultura do milho",
+      "titulo": "Manejo de hidrogéis com liberação controlada de fósforo (33P) na cultura do milho",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "bd641ee1d73baf80ef8406b9cbeab44f13a31c32",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6519828713312785\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>JoÃ£o Henrique Silva da Luz. Manejo de hidrogÃ©is com liberaÃ§Ã£o controlada de fÃ³sforo (33P) na cultura do milho.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Agronomia (Agricultura))  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Ori",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6519828713312785\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>João Henrique Silva da Luz. Manejo de hidrogéis com liberação controlada de fósforo (33P) na cultura do milho.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Agronomia (Agricultura))  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Ori",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Tese (Doutorado em Agronomia (Agricultura)) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 10,
       "raw": "JoÃ£o Pedro dos Santos. A definir. InÃ­cio: 2024. Tese (Doutorado em Engenharia AgrÃ­cola) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "Tese (Doutorado em Engenharia AgrÃ­cola) - Universidade Estadual Paulista JÃºlio de Mesquita Filho",
+      "titulo": "Tese (Doutorado em Engenharia Agrícola) - Universidade Estadual Paulista Júlio de Mesquita Filho",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "1d5052671a493f10662805e72ea930474cbaa407",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JoÃ£o Pedro dos Santos. A definir.\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Engenharia AgrÃ­cola)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">João Pedro dos Santos. A definir.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Engenharia Agrícola)  - Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
       "veiculo": "(Orientador)"
     },
@@ -977,396 +1088,418 @@
       "numero_item": 13,
       "raw": "JOSE ANTONIO RAMOS DA SILVA. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
       "autores": null,
-      "titulo": "InÃ­cio: 2024",
+      "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "e203d136aaf43c330a039eadbbe7ebc01460c762",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JOSE ANTONIO RAMOS DA SILVA.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JOSE ANTONIO RAMOS DA SILVA.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 14,
       "raw": "Lucas Deleon Ramirio. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
       "autores": null,
-      "titulo": "InÃ­cio: 2024",
+      "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "8e835d7c157a579c52222391081d201a99958ede",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Deleon Ramirio.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Deleon Ramirio.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 15,
       "raw": "Rafaela da Silva Arruda. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
       "autores": null,
-      "titulo": "InÃ­cio: 2024",
+      "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "87fc7b5089ef247a3ee3a15e80b24dc0838a22bf",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafaela da Silva Arruda.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafaela da Silva Arruda.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 16,
       "raw": "Ana Carolina P. Petronilio. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
       "autores": null,
-      "titulo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico",
+      "titulo": "Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "166244e345d5c53641c629e2dd03c8e3f5913513",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Carolina P. Petronilio.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Carolina P. Petronilio.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       }
     },
     {
       "numero_item": 17,
       "raw": "Tayla Ãvellin de Oliveira. InÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho.",
       "autores": null,
-      "titulo": "InÃ­cio: 2024",
+      "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "b2429856340619dfcc8c8ab55bcb0454686cdb59",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tayla Ãvellin de Oliveira.\n\t\t\t\t\tInÃ­cio: 2024. Universidade Estadual Paulista JÃºlio de Mesquita Filho. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tayla Évellin de Oliveira.\n\t\t\t\t\tInício: 2024. Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 18,
       "raw": "Gessica Kaylane Pereira Carlos. InoculaÃ§Ã£o de Bacillus aryabhattai na avaliaÃ§Ã£o do estresse hÃ­drico da cultura do feijoeiro. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "InoculaÃ§Ã£o de Bacillus aryabhattai na avaliaÃ§Ã£o do estresse hÃ­drico da cultura do feijoeiro",
+      "titulo": "Inoculação de Bacillus aryabhattai na avaliação do estresse hídrico da cultura do feijoeiro",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "f834e3eb7dfb8b855e015f83c28c1f9fbad7d2b8",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gessica Kaylane Pereira Carlos. InoculaÃ§Ã£o de Bacillus aryabhattai na avaliaÃ§Ã£o do estresse hÃ­drico da cultura do feijoeiro. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gessica Kaylane Pereira Carlos. Inoculação de Bacillus aryabhattai na avaliação do estresse hídrico da cultura do feijoeiro. Início: 2024. Iniciação científica (Graduando em Engenharia Agronômica)  - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia Agronômica) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 19,
       "raw": "Eduarda Andrade da Silva. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Centro UniversitÃ¡rio das Faculdades Integradas de Ourinhos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "3eaad65856983f3fb5b3ef42c62959f0c9aae09a",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eduarda Andrade da Silva. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Centro UniversitÃ¡rio das Faculdades Integradas de Ourinhos, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eduarda Andrade da Silva. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Centro Universitário das Faculdades Integradas de Ourinhos, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Centro UniversitÃ¡rio das Faculdades Integradas de Ourinhos"
+      "veiculo": "Início: 2024 - Centro Universitário das Faculdades Integradas de Ourinhos"
     },
     {
       "numero_item": 20,
       "raw": "Bianca Rotelli Ramos Farias. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "adaa39ad190db9c91ef427452e4150754d87522d",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bianca Rotelli Ramos Farias. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bianca Rotelli Ramos Farias. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 21,
       "raw": "JoÃ£o Vitor Santos de Lima. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "0a030338077c2303e52b21b3f7516ece223de744",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JoÃ£o Vitor Santos de Lima. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">João Vitor Santos de Lima. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 22,
       "raw": "Isabelli Natalia Fialho da Silva. BiofortificaÃ§Ã£o da cultura do feijÃ£o com selÃªnio utilizando hidrogÃ©is de nanocompÃ³sitos. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "BiofortificaÃ§Ã£o da cultura do feijÃ£o com selÃªnio utilizando hidrogÃ©is de nanocompÃ³sitos",
+      "titulo": "Biofortificação da cultura do feijão com selênio utilizando hidrogéis de nanocompósitos",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "e4dcc0c729de64162cdf9331ab5e1860cec2b6be",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabelli Natalia Fialho da Silva. BiofortificaÃ§Ã£o da cultura do feijÃ£o com selÃªnio utilizando hidrogÃ©is de nanocompÃ³sitos. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabelli Natalia Fialho da Silva. Biofortificação da cultura do feijão com selênio utilizando hidrogéis de nanocompósitos. Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 23,
       "raw": "Gabriela Rangel Paulino. INOCULAÃÃO DE BIOINSUMOS NA CULTURA DO MILHO PARA A GERMINAÃÃO. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "INOCULAÃÃO DE BIOINSUMOS NA CULTURA DO MILHO PARA A GERMINAÃÃO",
+      "titulo": "INOCULAO DE BIOINSUMOS NA CULTURA DO MILHO PARA A GERMINAO",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "52e81972dbebb673bd46f457e09581d08065d49d",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela Rangel Paulino. INOCULAÃÃO DE BIOINSUMOS NA CULTURA DO MILHO PARA A GERMINAÃÃO. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela Rangel Paulino. INOCULAO DE BIOINSUMOS NA CULTURA DO MILHO PARA A GERMINAO. Incio: 2024. Iniciao cientfica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista Jlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador)"
     },
     {
       "numero_item": 24,
       "raw": "Breno Miranda Bagagi. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "f05cb5dd959a42fea22e8642816fc81e6c8e1e34",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Breno Miranda Bagagi. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Breno Miranda Bagagi. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 25,
       "raw": "Victor Vieira SimÃµes. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade JosÃ© do RosÃ¡rio Vellano, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5dd0d1adde78bec0b21373561e2326734527d28c",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Victor Vieira SimÃµes. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade JosÃ© do RosÃ¡rio Vellano, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Victor Vieira Simões. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Universidade José do Rosário Vellano, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade JosÃ© do RosÃ¡rio Vellano"
+      "veiculo": "Início: 2024 - Universidade José do Rosário Vellano"
     },
     {
       "numero_item": 26,
       "raw": "Leonardo Nogueira Lods da Silva. InoculaÃ§Ã£o de Bacillus aryabhattai e Rhizobium tropici em feijoeiro-comum submetido em diferentes doses de nitrogÃªnio. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "InoculaÃ§Ã£o de Bacillus aryabhattai e Rhizobium tropici em feijoeiro-comum submetido em diferentes doses de nitrogÃªnio",
+      "titulo": "Inoculação de Bacillus aryabhattai e Rhizobium tropici em feijoeiro-comum submetido em diferentes doses de nitrogênio",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5cd798318fcf9f6d8c9b4a56437f9eb83bd312f3",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Leonardo Nogueira Lods da Silva. InoculaÃ§Ã£o de Bacillus aryabhattai e Rhizobium tropici em feijoeiro-comum submetido em diferentes doses de nitrogÃªnio. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Leonardo Nogueira Lods da Silva. Inoculação de Bacillus aryabhattai e Rhizobium tropici em feijoeiro-comum submetido em diferentes doses de nitrogênio. Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 27,
       "raw": "Bruno Braga da Silva. HidrogÃ©is de liberaÃ§Ã£o controla com zinco como fonte de biofortificaÃ§Ã£o da cultura do feijÃ£o. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
       "autores": null,
-      "titulo": "HidrogÃ©is de liberaÃ§Ã£o controla com zinco como fonte de biofortificaÃ§Ã£o da cultura do feijÃ£o",
+      "titulo": "Hidrogéis de liberação controla com zinco como fonte de biofortificação da cultura do feijão",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "6e58f0b3cf61c9f92cc59d74c7cf38af4e6ddbb2",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruno Braga da Silva. HidrogÃ©is de liberaÃ§Ã£o controla com zinco como fonte de biofortificaÃ§Ã£o da cultura do feijÃ£o. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista JÃºlio de Mesquita Filho, FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruno Braga da Silva. Hidrogéis de liberação controla com zinco como fonte de biofortificação da cultura do feijão. Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas)  - Universidade Estadual Paulista Júlio de Mesquita Filho, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia de Biossistemas) - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 28,
       "raw": "Ana Luiza Calvi De Oliveira. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "08fd600ba094e30c9cb6cf5c58439282d6c1b3cd",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Luiza Calvi De Oliveira. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Luiza Calvi De Oliveira. Bolsa ITI-A Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico. Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "Início: 2024 - Universidade Estadual Paulista Júlio de Mesquita Filho"
     },
     {
       "numero_item": 29,
       "raw": "Rafaela da Silva Arruda. Bolsa DTI -A: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa DTI -A: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa DTI -A: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "586d7fc34be172412321a56098066fceee8b6fb7",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafaela da Silva Arruda. Bolsa DTI -A: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafaela da Silva Arruda. Bolsa DTI -A: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador)"
+      "veiculo": "Início: 2024. Orientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador)"
     },
     {
       "numero_item": 30,
       "raw": "Juan de Nicolai. Bolsa DTI-b Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa DTI-b Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa DTI-b Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d4f8f0298000c69e9e62a4e8e264e0b65edacc44",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Juan de Nicolai. Bolsa DTI-b Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Juan de Nicolai. Bolsa DTI-b Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+      "veiculo": "Início: 2024. Orientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador)"
     },
     {
       "numero_item": 31,
       "raw": "Bruna Arruda. Bolsista EXP-B-CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsista EXP-B-CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsista EXP-B-CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "2a93d86cc4630524595d49549e91fefaeaee67b9",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna Arruda. Bolsista EXP-B-CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruna Arruda. Bolsista EXP-B-CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador)"
+      "veiculo": "Início: 2024. Orientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador)"
     },
     {
       "numero_item": 32,
       "raw": "Priscila Vedovello. Bolsa DTI-B do CNPq Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "Bolsa DTI-B do CNPq Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa DTI-B do CNPq Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "820b53c7847cdaf8e374d780fab039ded76d5bb1",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Priscila Vedovello. Bolsa DTI-B do CNPq Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Priscila Vedovello. Bolsa DTI-B do CNPq Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador)"
+      "veiculo": "Início: 2024. Orientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador)"
     },
     {
       "numero_item": 33,
       "raw": "Ana Carolina Picinini Petronilio. Bolsista DTI-A do CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador).",
       "autores": null,
-      "titulo": "Bolsista DTI-A do CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsista DTI-A do CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "0fa25fb331861ab33c1e019477b2837565693dbc",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Carolina Picinini Petronilio. Bolsista DTI-A  do CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tOrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Carolina Picinini Petronilio. Bolsista DTI-A  do CNPq: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "InÃ­cio: 2024. OrientaÃ§Ã£o de outra natureza. Universidade Estadual Paulista JÃºlio de Mesquita Filho. (Orientador)"
+      "veiculo": "Início: 2024. Orientação de outra natureza. Universidade Estadual Paulista Júlio de Mesquita Filho. (Orientador)"
     },
     {
       "numero_item": 111,
       "raw": "Ana Laura Silva SilvÃ©rio. Bolsa EXP-C: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico. 2024. OrientaÃ§Ã£o de outra natureza - Universidade Estadual Paulista JÃºlio de Mesquita Filho, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Fernando Ferrari Putti.",
       "autores": null,
-      "titulo": "Bolsa EXP-C: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico",
+      "titulo": "Bolsa EXP-C: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5dbb2596cad53dca2a7a4a2244680209ab875f56",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Laura Silva SilvÃ©rio.\n\t\t\t\t\t\tBolsa EXP-C: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hÃ­drico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientaÃ§Ã£o de outra natureza - Universidade Estadual Paulista JÃºlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Fernando Ferrari Putti.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Laura Silva Silvério.\n\t\t\t\t\t\tBolsa EXP-C: Rede Aqua-Bio: bioinsumos como redutor dos efeitos do estresse hídrico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientação de outra natureza - Universidade Estadual Paulista Júlio de Mesquita Filho,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Ferrari Putti.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "1271601437211484__fernando-ferrari-putti.full_profile.html",
         "lattes_id": "1271601437211484",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:30.647246"
+        "extracted_at": "2026-01-28T14:28:14.649154"
       },
-      "veiculo": "2024. OrientaÃ§Ã£o de outra natureza - Universidade Estadual Paulista JÃºlio de Mesquita Filho"
+      "veiculo": "2024. Orientação de outra natureza - Universidade Estadual Paulista Júlio de Mesquita Filho"
     }
   ]
 }

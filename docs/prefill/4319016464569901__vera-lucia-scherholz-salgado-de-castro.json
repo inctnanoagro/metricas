@@ -7,14 +7,79 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:33.749340",
+    "extracted_at": "2026-01-28T14:28:19.021943",
     "source_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
     "total_productions": 7,
     "sections": [
       {
-        "section_title": "Produções",
+        "section_title": "Artigos completos publicados em periódicos",
         "item_count": 4,
-        "tipo_producao": "temp__producoes"
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Livros publicados/organizados ou edições",
+        "item_count": 0,
+        "tipo_producao": "temp__livros-publicados-organizados-ou-edicoes"
+      },
+      {
+        "section_title": "Capítulos de livros publicados",
+        "item_count": 0,
+        "tipo_producao": "temp__capitulos-de-livros-publicados"
+      },
+      {
+        "section_title": "Textos em jornais de notícias/revistas",
+        "item_count": 0,
+        "tipo_producao": "temp__textos-em-jornais-de-noticias-revistas"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 0,
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
+      },
+      {
+        "section_title": "Outras produções bibliográficas",
+        "item_count": 0,
+        "tipo_producao": "temp__outras-producoes-bibliograficas"
+      },
+      {
+        "section_title": "Assessoria e consultoria",
+        "item_count": 0,
+        "tipo_producao": "temp__assessoria-e-consultoria"
+      },
+      {
+        "section_title": "Processos ou técnicas",
+        "item_count": 0,
+        "tipo_producao": "temp__processos-ou-tecnicas"
+      },
+      {
+        "section_title": "Trabalhos técnicos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-tecnicos"
+      },
+      {
+        "section_title": "Entrevistas, mesas redondas, programas e comentários na mídia",
+        "item_count": 0,
+        "tipo_producao": "temp__entrevistas-mesas-redondas-programas-e-comentarios-na-midia"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
       },
       {
         "section_title": "Bancas",
@@ -55,11 +120,12 @@
       "doi": "10.1016/j.envpol.2024.123688",
       "fingerprint_sha1": "53234f73ed828b93562bb057b9d392fec4351bbb",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VILARA, DÉBORA S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.envpol.2024.123688\" target=\"_blank\"></a>VILARA, DÉBORA S. ; CORREIA DA SILVA, HUGO H. ; DÓRIA, ALINE R. ; TORRES, NÁDIA H. ; VALLIM, JOSÉ H.",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:33.728733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
       "veiculo": "ENVIRONMENTAL POLLUTION"
     },
@@ -73,11 +139,12 @@
       "doi": "10.1007/s11270-024-06983-z",
       "fingerprint_sha1": "d6e66909512dc80896df4b9c639b23aab5bd58be",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAGA, ANA PAULA ANDRADE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11270-024-06983-z\" target=\"_blank\"></a>BRAGA, ANA PAULA ANDRADE ; VALLIM, JOSÉ HENRIQUE ; CASTANHA, RODRIGO FERNANDES ; <b>DE CASTRO, ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:33.728733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
       "veiculo": "WATER AIR AND SOIL POLLUTION"
     },
@@ -91,11 +158,12 @@
       "doi": "10.1007/s11244-024-01970-4",
       "fingerprint_sha1": "9babd5df76c6b8856e9e33fac0452cc22aa428d7",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES, CLARA DOURADO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s11244-024-01970-4\" target=\"_blank\"></a>FERNANDES, CLARA DOURADO ; <b>DE CASTRO, VERA LUCIA SCHERHOLZ SALGADO</b> ; VALLIM, JOSÉ HENRIQ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:33.728733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
       "veiculo": "TOPICS IN CATALYSIS"
     },
@@ -109,11 +177,12 @@
       "doi": "10.1590/1678-4324-2024220968",
       "fingerprint_sha1": "9ea736c649ea7560a4ba8f1ca5a507214ff9c31a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BRAGA, ANA PAULA ANDRADE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/1678-4324-2024220968\" target=\"_blank\"></a>BRAGA, ANA PAULA ANDRADE ; SOUZA, LETICIA ROSA DE ; LIMA, MARIA GABRIELA FRANCO ; CRUZ, JAQUE",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:33.728733"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
       "veiculo": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE)"
     },
@@ -127,11 +196,12 @@
       "doi": null,
       "fingerprint_sha1": "a91552070385edc872c71caae6033fc265513f63",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>De Castro, Vera L S S</b>.  Participação em banca de SAYANI GIRI. TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS, BISPHENOL A AND ITS BINARY MIXTURE ON FRESHWATER ALGAE Scenedesmus obliquus AND PLANT Allium cepa. 2024 - Vellore Institute of Technology University, Vellore Campus. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:33.733663"
+        "extracted_at": "2026-01-28T14:28:19.006392"
       },
       "veiculo": "TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS"
     },
@@ -145,11 +215,12 @@
       "doi": null,
       "fingerprint_sha1": "70fee4fce9f0e1c710c11134a06e8708192cbb24",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Fazzio, A; ARANTES JUNIOR, J. T.; PAULA, A. J.; SOUZA FILHO, A. G.; <b>De Castro, Vera L S S</b>.  Participação em banca de Romana Petry. Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid, Graphene-oxide and Atrazine molecular interactions and mixture toxicity. 2024. Tese (Doutorado em Nanociências e Materiais Avançados)  - Universidade Federal do ABC. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:33.733663"
+        "extracted_at": "2026-01-28T14:28:19.006392"
       },
       "veiculo": "Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid"
     },
@@ -163,11 +234,12 @@
       "doi": null,
       "fingerprint_sha1": "6e8cd69a29c11d73edd4891069edb7c715361c63",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Paula Andrade Braga.\n\t\t\t\t\tInício: 2024. Embrapa Meio Ambiente, Fundação de Amparo à Pesquisa do Estado de São Paulo. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:33.743068"
+        "extracted_at": "2026-01-28T14:28:19.015682"
       },
       "veiculo": "Embrapa Meio Ambiente"
     }

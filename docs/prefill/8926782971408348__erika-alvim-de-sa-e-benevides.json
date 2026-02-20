@@ -7,14 +7,29 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:41.895281",
+    "extracted_at": "2026-01-28T14:28:30.366687",
     "source_file": "8926782971408348__erika-alvim-de-sa-e-benevides.full_profile.html",
     "total_productions": 0,
     "sections": [
       {
-        "section_title": "Produções",
+        "section_title": "Apresentações de Trabalho",
         "item_count": 0,
-        "tipo_producao": "temp__producoes"
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
+      },
+      {
+        "section_title": "Outras produções bibliográficas",
+        "item_count": 0,
+        "tipo_producao": "temp__outras-producoes-bibliograficas"
+      },
+      {
+        "section_title": "Trabalhos técnicos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-tecnicos"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
       },
       {
         "section_title": "Bancas",

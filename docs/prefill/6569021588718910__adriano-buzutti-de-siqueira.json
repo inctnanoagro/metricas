@@ -7,14 +7,44 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:38.900749",
+    "extracted_at": "2026-01-28T14:28:26.211804",
     "source_file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
     "total_productions": 33,
     "sections": [
       {
-        "section_title": "Produções",
-        "item_count": 10,
-        "tipo_producao": "temp__producoes"
+        "section_title": "Artigos completos publicados em periódicos",
+        "item_count": 9,
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Artigos aceitos para publicação",
+        "item_count": 1,
+        "tipo_producao": "temp__artigos-aceitos-para-publicacao"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 0,
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
+      },
+      {
+        "section_title": "Artes Cênicas",
+        "item_count": 0,
+        "tipo_producao": "temp__artes-cenicas"
       },
       {
         "section_title": "Patentes e registros",
@@ -65,11 +95,12 @@
       "doi": "10.1016/j.biombioe.2024.107556",
       "fingerprint_sha1": "bcbbd9b10112c239484aecba77dd3b14ff0278f4",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">VIEIRA, A. T.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.biombioe.2024.107556\" target=\"_blank\"></a>VIEIRA, A. T. ; EBERT, H. V. ; THEREZIO, E. M. ; TEREZO, A. J. ; BARROS, A. I. ; <b>Siqueira, A.B.</b>",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "BIOMASS & BIOENERGY"
     },
@@ -83,11 +114,12 @@
       "doi": "10.22320/s0718221x/2025.12",
       "fingerprint_sha1": "065cd4620915ecddec57814ff6ef1cdce2df188e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CARBONATO DE SOUZA, LEANDRO VINICIUS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22320/s0718221x/2025.12\" target=\"_blank\"></a>CARBONATO DE SOUZA, LEANDRO VINICIUS ; ZANATTA, BRUNO ; <b>SIQUEIRA, ADRIANO</b> ; ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "Maderas-Ciencia y Tecnologia"
     },
@@ -101,11 +133,12 @@
       "doi": "10.21577/0100-4042.20250130",
       "fingerprint_sha1": "8f662e0df6ddcb05beeb6c62d257df1826548f72",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">AKEL, RHALID</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.21577/0100-4042.20250130\" target=\"_blank\"></a>AKEL, RHALID ; LIRA, FERNANDA S. ; LUNA, VINICIUS C. ; MARQUES, MATHEUS Z. ; VASCONCELOS, LEONARDO G. ; CA",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "QUÍMICA NOVA (ONLINE)"
     },
@@ -119,11 +152,12 @@
       "doi": "10.1016/j.plana.2025.100159",
       "fingerprint_sha1": "12c70ce943acfec0bfbe2e690ddc49f1ac01f061",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, RENATA CAROLINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100159\" target=\"_blank\"></a>ALVES, RENATA CAROLINA ; LUNA, VINICIUS CAGNOTO ; BACO, CRISTIANO JOSÉ ; TEREZO, AILTON JOSÉ ; C",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "Plant Nano Biology"
     },
@@ -137,11 +171,12 @@
       "doi": null,
       "fingerprint_sha1": "bd6f1812ff00254adc37b0e05ee5c5f96b7960cb",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">BARBOZA, A. M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>BARBOZA, A. M. ; SILVA, C. G. ; TEREZO, A. J. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5535453881365083\" target=\"_blank\" title=\"Clique para visualizar o currículo\">DE ANDRADE, ROBSON CARLOS</a> ; RODRIGUES",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "Molecular Catalysis"
     },
@@ -155,11 +190,12 @@
       "doi": "10.1021/acsomega.4c11597",
       "fingerprint_sha1": "101ae0fec7811e11a1c826b9b117c439ff49abcd",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MORAIS, U. N.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.4c11597\" target=\"_blank\"></a>MORAIS, U. N. ; THEREZIO, E. M. ; TEREZO, A. J. ; <b>SIQUEIRA, Adriano Buzutti de</b> . Nanocircularity in A",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "ACS Omega"
     },
@@ -173,11 +209,12 @@
       "doi": "10.2166/aqua.2024.300",
       "fingerprint_sha1": "73e9a75149effd0222a7e7d2116fb2990df648c0",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CORRÊA, CASSIANO RICARDO REINEHR</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.2166/aqua.2024.300\" target=\"_blank\"></a>CORRÊA, CASSIANO RICARDO REINEHR ; <b>DE SIQUEIRA, ADRIANO BUZUTTI</b> ; MATOS LOPES, PAULO ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "Aqua-Water Infrastructure Ecosystems And Society"
     },
@@ -191,11 +228,12 @@
       "doi": "10.1016/j.molstruc.2024.138944",
       "fingerprint_sha1": "334e870b13f63e828f0baf20ec5ad1520cf5e972",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SANTOS, A. J.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.molstruc.2024.138944\" target=\"_blank\"></a>SANTOS, A. J. ; SERAFIM, A. C. C. ; SIQUEIRA, A. P. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.b",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "JOURNAL OF MOLECULAR STRUCTURE"
     },
@@ -209,16 +247,17 @@
       "doi": "10.1080/15226514.2024.2354411",
       "fingerprint_sha1": "9b90675f028a64686b56938430d10636151556a2",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">NASCIMENTO, MARIELLE XAVIER</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1080/15226514.2024.2354411\" target=\"_blank\"></a>NASCIMENTO, MARIELLE XAVIER ; SANTOS, BRUNA ASSIS PAIM DOS ; NASSARDEN, MANOEL MARCOS SAN",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
       "veiculo": "INTERNATIONAL JOURNAL OF PHYTOREMEDIATION"
     },
     {
-      "numero_item": 105,
+      "numero_item": 1,
       "raw": "SERAFIM, A. C. C. ; SIQUEIRA, A. P. C. ; CASTILHO, M. ; SOARES, M. R. S. ; FORTUNA, A. T. X. ; TERZIOTTI, R. S. ; THEREZIO, E. M. ; GOMES, D. G. ; OLIVEIRA, H. C. ; Terezo, A. J. ; Siqueira, A.B. . Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach. Acs Agricultural Science & Technology , 2025.",
       "autores": "SERAFIM, A. C. C.; SIQUEIRA, A. P. C.; CASTILHO, M.; SOARES, M. R. S.; FORTUNA, A. T. X.; TERZIOTTI, R. S.; THEREZIO, E. M.; GOMES, D. G.; OLIVEIRA, H. C.; Terezo, A. J.; Siqueira, A.B.",
       "titulo": "Plant Growth Enhancement Using Carbon Dots Synthesized from Swine Effluent: A Sustainable Approach",
@@ -227,11 +266,12 @@
       "doi": "10.1021/acsagscitech.5c00411",
       "fingerprint_sha1": "6dfd7252df9fe54067dbe50f314712239fe2b582",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00411\" target=\"_blank\"></a>SERAFIM, A. C. C. ; SIQUEIRA, A. P. C. ; CASTILHO, M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4911726217936813\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SOARES, M. R. S.</a> ; FORTUNA, A. T. X. ; TERZIOTTI, R. S. ; THEREZIO, ",
+      "production_type": "Artigos aceitos para publicação",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:38.846620"
+        "production_type": "Artigos aceitos para publicação",
+        "extracted_at": "2026-01-28T14:28:26.146908"
       },
       "veiculo": "Acs Agricultural Science & Technology"
     },
@@ -245,11 +285,12 @@
       "doi": null,
       "fingerprint_sha1": "95c08569b433e84bd1e0241d0a5ccdef0f8ace50",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, H. C.; <b>Siqueira, A. B.</b>; MARKUS, C.; PIMENTA, J. A.; FRACETO, L. F..  Participação em banca de Bruno Teixeira de Sousa. Modo de ação de nanoatrazina em plantas de milho e daninhas suscetíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
       "veiculo": "Modo de ação de nanoatrazina em plantas de milho e daninhas suscetíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
     },
@@ -262,12 +303,13 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "913a792e1f9fd408b26ec025829f85443f4ed99c",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, L. G.; <b>Siqueira, A.B.</b>; FUKUMOTO, A. A. F.; MORAIS, E. B..  Participação em banca de RENATA GABRIELE DA SILVA BARROS. SÍNTESE VERDE DE NANOPARTÍCULAS DE PRATA MEDIADA POR EXTRATO DE ALGODÃOZINHO DO CERRADO (Cochlospermum regium) VISANDO A DEGRADAÇÃO DE CONTAMINANTES EMERGENTES. 2025. Exame de qualificação (Mestrando em Recursos Hídricos)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, L. G.; <b>Siqueira, A.B.</b>; FUKUMOTO, A. A. F.; MORAIS, E. B..  Participao em banca de RENATA GABRIELE DA SILVA BARROS. SNTESE VERDE DE NANOPARTCULAS DE PRATA MEDIADA POR EXTRATO DE ALGODOZINHO DO CERRADO (Cochlospermum regium) VISANDO A DEGRADAO DE CONTAMINANTES EMERGENTES. 2025. Exame de qualificao (Mestrando em Recursos Hdricos)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
       "veiculo": "A. F.; MORAIS"
     },
@@ -280,14 +322,15 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "cf02082d17dfc8154f06d9e145efb35beac173c7",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASTILHO, M.; BRUGNERA, M. F.; <b>Siqueira, A. B.</b>.  Participação em banca de Mateus Ferreira Amaral. DETERMINAÇÃO VOLTAMÉTRICA DE MANCOZEBE EM HORTALIÇA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificação (Mestrando em Quimica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASTILHO, M.; BRUGNERA, M. F.; <b>Siqueira, A. B.</b>.  Participao em banca de Mateus Ferreira Amaral. DETERMINAO VOLTAMTRICA DE MANCOZEBE EM HORTALIA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificao (Mestrando em Quimica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "DETERMINAÇÃO VOLTAMÉTRICA DE MANCOZEBE EM HORTALIÇA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificação (Mestrando em Quimica) - Universidade Federal de Mato Grosso"
+      "veiculo": "DETERMINAO VOLTAMTRICA DE MANCOZEBE EM HORTALIA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificao (Mestrando em Quimica) - Universidade Federal de Mato Grosso"
     },
     {
       "numero_item": 36,
@@ -298,66 +341,70 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "44481abf6ab85dd545537731a83ae21a8967288b",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASTILHO, M.; TEREZO, A. J.; <b>Siqueira, A.B.</b>.  Participação em banca de ANA FLÁVIA DE ALMEIDA.DESENVOLVIMENTO E CARACTERIZAÇÃO ELETROQUÍMICA DE ELETRODOS QUIMICAMENTE MODIFICADOS COM PONTOS DE CARBONO E QUITOSANA.\n\t\t\t\t\t\t2025. Trabalho de Conclusão de Curso (Graduação em Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CASTILHO, M.; TEREZO, A. J.; <b>Siqueira, A.B.</b>.  Participao em banca de ANA FLVIA DE ALMEIDA.DESENVOLVIMENTO E CARACTERIZAO ELETROQUMICA DE ELETRODOS QUIMICAMENTE MODIFICADOS COM PONTOS DE CARBONO E QUITOSANA.\n\t\t\t\t\t\t2025. Trabalho de Concluso de Curso (Graduao em Qumica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
       "veiculo": "2025. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
     },
     {
       "numero_item": 37,
       "raw": "TEREZO, A. J.; Siqueira, A.B. ; CASTILHO, M.. Participação em banca de MIRIÃ BRANDÃO PEREIRA.USO DE ÓLEOS VEGETAIS EMULSIONÁVEIS E GLICERINA NA AGRICULTURA. 2025. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso.",
-      "autores": "TEREZO, A. J.; Siqueira, A.B.; CASTILHO, M.. Participação em banca de MIRIÃ BRANDÃO PEREIRA.USO DE ÓLEOS VEGETAIS EMULSIONÁVEIS E GLICERINA NA AGRICULTURA.. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso",
+      "autores": "TEREZO, A. J.; Siqueira, A.B.; CASTILHO, M.. Participao em banca de MIRI BRANDO PEREIRA.USO DE LEOS VEGETAIS EMULSIONVEIS E GLICERINA NA AGRICULTURA.. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso",
       "titulo": "; CASTILHO, M",
       "ano": 2025,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "25305de497e2d6c1ce7d7ab692e57c550d9902a9",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TEREZO, A. J.; <b>Siqueira, A.B.</b>; CASTILHO, M..  Participação em banca de MIRIÃ BRANDÃO PEREIRA.USO DE ÓLEOS VEGETAIS EMULSIONÁVEIS E GLICERINA NA AGRICULTURA.\n\t\t\t\t\t\t2025. Trabalho de Conclusão de Curso (Graduação em Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TEREZO, A. J.; <b>Siqueira, A.B.</b>; CASTILHO, M..  Participao em banca de MIRI BRANDO PEREIRA.USO DE LEOS VEGETAIS EMULSIONVEIS E GLICERINA NA AGRICULTURA.\n\t\t\t\t\t\t2025. Trabalho de Concluso de Curso (Graduao em Qumica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "Participação em banca de MIRIÃ BRANDÃO PEREIRA.USO DE ÓLEOS VEGETAIS EMULSIONÁVEIS E GLICERINA NA AGRICULTURA. 2025. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "Participao em banca de MIRI BRANDO PEREIRA.USO DE LEOS VEGETAIS EMULSIONVEIS E GLICERINA NA AGRICULTURA. 2025. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso"
     },
     {
       "numero_item": 38,
       "raw": "VASCONCELOS, LEONARDO GOMES DE; MORAIS, E. B.; Siqueira, A. B. ; GOLIN, R.. Participação em banca de KEZYA DOS SANTOS NOGUEIRA.ADSORÇÃO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACAÚBA (ACROMIA ACULEATA) ?. 2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso.",
-      "autores": "VASCONCELOS, LEONARDO GOMES DE; MORAIS, E. B.; Siqueira, A. B.; GOLIN, R.. Participação em banca de KEZYA DOS SANTOS NOGUEIRA.ADSORÇÃO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACAÚBA (ACROMIA ACULEATA) ?. 2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso",
+      "autores": "VASCONCELOS, LEONARDO GOMES DE; MORAIS, E. B.; Siqueira, A. B.; GOLIN, R.. Participao em banca de KEZYA DOS SANTOS NOGUEIRA.ADSORO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACABA (ACROMIA ACULEATA) ?. 2024. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso",
       "titulo": "Participação em banca de KEZYA DOS SANTOS NOGUEIRA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "c42149d76f8c5fcffb649151e2b1a0b7d1436f78",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, LEONARDO GOMES DE; MORAIS, E. B.; <b>Siqueira, A. B.</b>; GOLIN, R..  Participação em banca de KEZYA DOS SANTOS NOGUEIRA.ADSORÇÃO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACAÚBA (ACROMIA ACULEATA) ?.\n\t\t\t\t\t\t2024. Trabalho de Conclusão de Curso (Graduação em Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, LEONARDO GOMES DE; MORAIS, E. B.; <b>Siqueira, A. B.</b>; GOLIN, R..  Participao em banca de KEZYA DOS SANTOS NOGUEIRA.ADSORO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACABA (ACROMIA ACULEATA) ?.\n\t\t\t\t\t\t2024. Trabalho de Concluso de Curso (Graduao em Qumica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "ADSORÇÃO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACAÚBA (ACROMIA ACULEATA) ?. 2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "ADSORO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACABA (ACROMIA ACULEATA) ?. 2024. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso"
     },
     {
       "numero_item": 39,
       "raw": "RIBEIRO, JÂNIO; ALMEIDA, P. H. S.; Siqueira, A. B. . Participação em banca de Camila Dantas da Silva.CONSTRUÇÃO DE UM PROTÓTIPO PARA A SÍNTESE DE NANOMATERIAIS LUMINESCENTES. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) - Universidade Federal de Mato Grosso.",
-      "autores": "RIBEIRO, JÂNIO; ALMEIDA, P. H. S.; Siqueira, A. B.",
+      "autores": "RIBEIRO, JNIO; ALMEIDA, P. H. S.; Siqueira, A. B.",
       "titulo": "Participação em banca de Camila Dantas da Silva",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "15676feed18cbd93246534e2e9e637cd3f6b0c01",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RIBEIRO, JÂNIO; ALMEIDA, P. H. S.; <b>Siqueira, A. B.</b>.  Participação em banca de Camila Dantas da Silva.CONSTRUÇÃO DE UM PROTÓTIPO PARA A SÍNTESE DE NANOMATERIAIS LUMINESCENTES.\n\t\t\t\t\t\t2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RIBEIRO, JNIO; ALMEIDA, P. H. S.; <b>Siqueira, A. B.</b>.  Participao em banca de Camila Dantas da Silva.CONSTRUO DE UM PROTTIPO PARA A SNTESE DE NANOMATERIAIS LUMINESCENTES.\n\t\t\t\t\t\t2024. Trabalho de Concluso de Curso (Graduao em Engenharia Qumica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
       "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) - Universidade Federal de Mato Grosso"
     },
@@ -370,12 +417,13 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "39e57d60b88cd6bac4e21d11ce46e5f1ee2472d8",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, L. G.; SANTANA, A. M.; <b>SIQUEIRA, Adriano Buzutti de</b>.  Participação em banca de CAROLINE LIMA SANTOS.ESTUDO E AVALIAÇÃO DA EFICIÊNCIA ENERGÉTICA DE CÉLULAS FOTOVOLTAICAS EM PESQUISA &amp; DESENVOLVIMENTO VERSUS AS USADAS COMERCIALMENTE.\n\t\t\t\t\t\t2024. Trabalho de Conclusão de Curso (Graduação em Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VASCONCELOS, L. G.; SANTANA, A. M.; <b>SIQUEIRA, Adriano Buzutti de</b>.  Participao em banca de CAROLINE LIMA SANTOS.ESTUDO E AVALIAO DA EFICINCIA ENERGTICA DE CLULAS FOTOVOLTAICAS EM PESQUISA & DESENVOLVIMENTO VERSUS AS USADAS COMERCIALMENTE.\n\t\t\t\t\t\t2024. Trabalho de Concluso de Curso (Graduao em Qumica)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:38.873043"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
       "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
     },
@@ -389,11 +437,12 @@
       "doi": null,
       "fingerprint_sha1": "d9c421e06af103e4267eeac518fd694f6177b35a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5976850252950757\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Luiz Fellipy Sila Borges. Desenvolvimento de formulação com nanosilicananosílica e sua compatibilidade frente a diferentes caldas de pulverização agrícola.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado profissional em Quimica)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "Início: 2024. Dissertação (Mestrado profissional em Quimica) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -407,11 +456,12 @@
       "doi": null,
       "fingerprint_sha1": "c7ee94354a27e9c438641f51fbb31bcff7338522",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lucas Vinicius Moreira Guerra. ESTUDO DA INCOMPATIBILIDADE FÍSICO-QUÍMICA EM MISTURAS DE AGROQUÍMICOS A BASE DE 2,4-D E GLIFOSATO.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Quimica)  - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Adriano Buzutti de Siqueira. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2025. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
     },
@@ -425,11 +475,12 @@
       "doi": null,
       "fingerprint_sha1": "48e997630083fcf82dc5f787ce41e482426dc590",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7346769540998502\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>ANA CAROLINA CUNHA SERAFIM. Síntese verde de pontos quânticos de carbono a partir de efluente da suinocultura.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Quimica)  - Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Adriano Buzutti de Siquei",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
     },
@@ -443,11 +494,12 @@
       "doi": null,
       "fingerprint_sha1": "07cb90c787af82abd1adf48b7c35b733274fe330",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/0937457806167461\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Crislaurio Gonçalves da Silva. Obtenção e uso de Carbon Dots de glicerina na produção de solketal.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Quimica)  - Universidade Federal de Mato Grosso, . Orientador: Adriano Buzutti de Siqueira. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       }
     },
     {
@@ -460,11 +512,12 @@
       "doi": null,
       "fingerprint_sha1": "9519d52e554227d7a514e0e5dd4c83106c65909a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Adriene de Moura Barboza.\n\t\t\t\t\t\tDesenvolvimento e Caracterização de Catalisadores à Base de Óxidos de Molibdênio e Ferro Suportados em Sílica Mesoporosa para a Conversão do Glicerol em Solketal.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Doutorado em Química em associação UFGD/UFCAT/UEG)  - Universidade Federal da Grande Dourados, . Coorientador: Adriano Buzutti de Siqueira. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       }
     },
     {
@@ -477,28 +530,30 @@
       "doi": null,
       "fingerprint_sha1": "1ec7f89e127abbab9a48eb1b67bb64f9caac7e87",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Renata Carolina Alves.\n\t\t\t\t\t\t2024. Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Adriano Buzutti de Siqueira. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       }
     },
     {
       "numero_item": 21,
       "raw": "Hevelyn Victória Ebert Machado. OBTENÇÃO DE PARTÍCULAS FOTOLUMINESCENTES A PARTIR DE GLICERINA ORIUNDA DA INDÚSTRIA DE BIODIESEL. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.",
       "autores": null,
-      "titulo": "OBTENÇÃO DE PARTÍCULAS FOTOLUMINESCENTES A PARTIR DE GLICERINA ORIUNDA DA INDÚSTRIA DE BIODIESEL",
+      "titulo": "OBTENO DE PARTCULAS FOTOLUMINESCENTES A PARTIR DE GLICERINA ORIUNDA DA INDSTRIA DE BIODIESEL",
       "ano": 2025,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "cdbf4c0ab745c41091786d3fd7ccaf1e065d41b2",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Hevelyn Victória Ebert Machado.\n\t\t\t\t\t\tOBTENÇÃO DE PARTÍCULAS FOTOLUMINESCENTES A PARTIR DE GLICERINA ORIUNDA DA INDÚSTRIA DE BIODIESEL.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Química)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Hevelyn Victria Ebert Machado.\n\t\t\t\t\t\tOBTENO DE PARTCULAS FOTOLUMINESCENTES A PARTIR DE GLICERINA ORIUNDA DA INDSTRIA DE BIODIESEL.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Qumica)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
     },
@@ -506,17 +561,18 @@
       "numero_item": 22,
       "raw": "Cristiano Jose Baco. SÍNTESE E CARACTERIZAÇÃO DE ESTRUTURAS METAL-ORGÂNICAS BASEADAS EM 2-METILIMIDAZOL E ÁCIDO GLUTÂMICO: ZIF-8, ZIF-67 E CuGLU. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.",
       "autores": null,
-      "titulo": "SÍNTESE E CARACTERIZAÇÃO DE ESTRUTURAS METAL-ORGÂNICAS BASEADAS EM 2-METILIMIDAZOL E ÁCIDO GLUTÂMICO: ZIF-8, ZIF-67 E CuGLU",
+      "titulo": "SNTESE E CARACTERIZAO DE ESTRUTURAS METAL-ORGNICAS BASEADAS EM 2-METILIMIDAZOL E CIDO GLUTMICO: ZIF-8, ZIF-67 E CuGLU",
       "ano": 2025,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "65296cae24cb3db7f6bddef056bef78f8211adda",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cristiano Jose Baco.\n\t\t\t\t\t\tSÍNTESE E CARACTERIZAÇÃO DE ESTRUTURAS METAL-ORGÂNICAS BASEADAS EM 2-METILIMIDAZOL E ÁCIDO GLUTÂMICO: ZIF-8, ZIF-67 E CuGLU.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Química)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cristiano Jose Baco.\n\t\t\t\t\t\tSNTESE E CARACTERIZAO DE ESTRUTURAS METAL-ORGNICAS BASEADAS EM 2-METILIMIDAZOL E CIDO GLUTMICO: ZIF-8, ZIF-67 E CuGLU.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Qumica)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
     },
@@ -524,17 +580,18 @@
       "numero_item": 23,
       "raw": "Adriene Vitoria Figueiredo de Oliveira. COMPOSTOS LANTANÍDICOS: UMA REVISÃO PARA TRATAMENTO FOTOSSENSÍVEL. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.",
       "autores": null,
-      "titulo": "COMPOSTOS LANTANÍDICOS: UMA REVISÃO PARA TRATAMENTO FOTOSSENSÍVEL",
+      "titulo": "COMPOSTOS LANTANDICOS: UMA REVISO PARA TRATAMENTO FOTOSSENSVEL",
       "ano": 2025,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "0749fbaee4eb4eabb1a4c8673bf72af6b0d9ef62",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Adriene Vitoria Figueiredo de Oliveira.\n\t\t\t\t\t\tCOMPOSTOS LANTANÍDICOS: UMA REVISÃO PARA TRATAMENTO FOTOSSENSÍVEL.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Química)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Adriene Vitoria Figueiredo de Oliveira.\n\t\t\t\t\t\tCOMPOSTOS LANTANDICOS: UMA REVISO PARA TRATAMENTO FOTOSSENSVEL.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Qumica)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
     },
@@ -542,17 +599,18 @@
       "numero_item": 24,
       "raw": "LUCAS RIBEIRO GONÇALVES. ANÁLISE DO USO DE NANOCARBONO SUSTENTÁVEL COM APLICAÇÃO FOLIAR EM LACTUCA SATIVA VAR. CRISPA. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.",
       "autores": null,
-      "titulo": "ANÁLISE DO USO DE NANOCARBONO SUSTENTÁVEL COM APLICAÇÃO FOLIAR EM LACTUCA SATIVA VAR",
+      "titulo": "ANLISE DO USO DE NANOCARBONO SUSTENTVEL COM APLICAO FOLIAR EM LACTUCA SATIVA VAR",
       "ano": 2025,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "c23db3e97d834416b3de4848625a3741052e4e91",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LUCAS RIBEIRO GONÇALVES.\n\t\t\t\t\t\tANÁLISE DO USO DE NANOCARBONO SUSTENTÁVEL COM APLICAÇÃO FOLIAR EM LACTUCA SATIVA VAR. CRISPA.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Química)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LUCAS RIBEIRO GONALVES.\n\t\t\t\t\t\tANLISE DO USO DE NANOCARBONO SUSTENTVEL COM APLICAO FOLIAR EM LACTUCA SATIVA VAR. CRISPA.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Qumica)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "CRISPA. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
     },
@@ -560,17 +618,18 @@
       "numero_item": 25,
       "raw": "VINÍCIUS CAGNOTO LUNA. SÍNTESE E CARACTERIZAÇÃO DE FILMES AUTO-ORGANIZADOS CONTENDO UBIOC-DOT. 2024. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.",
       "autores": null,
-      "titulo": "SÍNTESE E CARACTERIZAÇÃO DE FILMES AUTO-ORGANIZADOS CONTENDO UBIOC-DOT",
+      "titulo": "SNTESE E CARACTERIZAO DE FILMES AUTO-ORGANIZADOS CONTENDO UBIOC-DOT",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "886be4e28412386096876f2f1f69b15e581fd974",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VINÍCIUS CAGNOTO LUNA.\n\t\t\t\t\t\tSÍNTESE E CARACTERIZAÇÃO DE FILMES AUTO-ORGANIZADOS CONTENDO UBIOC-DOT.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Química)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VINCIUS CAGNOTO LUNA.\n\t\t\t\t\t\tSNTESE E CARACTERIZAO DE FILMES AUTO-ORGANIZADOS CONTENDO UBIOC-DOT.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Qumica)  - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
     },
@@ -584,11 +643,12 @@
       "doi": null,
       "fingerprint_sha1": "31266578992b0e0538aa0af395101676760036df",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Pedro Henrique da Silva.\n\t\t\t\t\t\tSíntese de bioC-dots a partir de biomassa proteica.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Química)  - Universidade Federal de Mato Grosso,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientifico e Tecnologico. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
     },
@@ -602,11 +662,12 @@
       "doi": null,
       "fingerprint_sha1": "d051e5fdc8bb7964581253690e96ca34a409919d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ulisses Nunes de Morais.\n\t\t\t\t\t\tSíntese e caracterização de BioC-dots a partir da vinhaça.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Engenharia Química)  - Universidade Federal de Mato Grosso,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientifico e Tecnologico. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Iniciação Científica. (Graduando em Engenharia Química) - Universidade Federal de Mato Grosso"
     },
@@ -620,11 +681,12 @@
       "doi": null,
       "fingerprint_sha1": "e234315f7010dc063c85200f83ca74ebd363e2da",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Cristiano Jose Baco.\n\t\t\t\t\t\tInfluência de complexos com metais de transição bivalentes na preparação de BioC-dots e de ácido glutâmico..\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Química)  - Universidade Federal de Mato Grosso,\n\t\t\t\t\t\tFundação de Amparo à Pesquisa do Estado de Mato Grosso. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
     },
@@ -638,11 +700,12 @@
       "doi": null,
       "fingerprint_sha1": "fd643b5137a21f04e9555d6a3c21ea7c486a82fa",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela Cristina dos Reis Silva.\n\t\t\t\t\t\tSíntese e caracterização de pontos quânticos de carbono (PQCs) a partir da biomassa de cana-de-açúcar.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Química)  - Universidade Federal de Mato Grosso,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientifico e Tecnologico. Orientador: Adriano Buzutti de Siqueira.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:38.892461"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
       "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
     }

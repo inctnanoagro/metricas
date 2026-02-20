@@ -7,14 +7,39 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:32.936373",
+    "extracted_at": "2026-01-28T14:28:17.866856",
     "source_file": "3560580165299597__marilza-castilho.full_profile.html",
     "total_productions": 14,
     "sections": [
       {
-        "section_title": "Produções",
-        "item_count": 5,
-        "tipo_producao": "temp__producoes"
+        "section_title": "Artigos completos publicados em periódicos",
+        "item_count": 4,
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Capítulos de livros publicados",
+        "item_count": 0,
+        "tipo_producao": "temp__capitulos-de-livros-publicados"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 1,
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
       },
       {
         "section_title": "Bancas",
@@ -55,11 +80,12 @@
       "doi": null,
       "fingerprint_sha1": "89b62f3bca86bde6a0fab7654ee3125036752207",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SIQUEIRA, A. P. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>SIQUEIRA, A. P. C. ; Vasconcelos, L.G. ; <b>CASTILHO, M.</b> ; TEREZO, A. J. ; Siqueira, A.B. . SUSTAINABLE USE OF BOILER ASH TO PURIFY BIODIESEL AND WASTE FRYING OIL: A PROPOSAL OF CIRCULAR ECONOMY. QUIMICA N",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:32.910127"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:17.821905"
       },
       "veiculo": "QUIMICA NOVA"
     },
@@ -73,29 +99,31 @@
       "doi": "10.1016/j.plana.2025.100159",
       "fingerprint_sha1": "ec73881fc8daec82a20a604b1ae3f76d9654a03e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, RENATA CAROLINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100159\" target=\"_blank\"></a>ALVES, RENATA CAROLINA ; LUNA, VINICIUS CAGNOTO ; BACO, CRISTIANO JOSÉ ; TEREZO, AILTON JOSÉ ; <",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:32.910127"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:17.821905"
       },
       "veiculo": "Plant Nano Biology"
     },
     {
       "numero_item": 3,
       "raw": "DE BARROS, WELLINGTON ALVES 2024 DE BARROS, WELLINGTON ALVES ; LOURENÇO, ANABEL SANTOS ; AMARAL, MATEUS FERREIRA ; Castilho, Marilza ; TEREZO, AILTON JOSÉ ; DE FÁTIMA, ÂNGELO . Voltammetric study and determination of the new psychoactive substances 25H-NBOH and 25B-NBOH in synthetic urine and blotter paper samples using a composite electrode. ELECTROCHIMICA ACTA , v. 484, p. 144051, 2024.",
-      "autores": "DE BARROS, WELLINGTON ALVES DE BARROS, WELLINGTON ALVES; LOURENÇO, ANABEL SANTOS; AMARAL, MATEUS FERREIRA; Castilho, Marilza; TEREZO, AILTON JOSÉ; DE FÁTIMA, ÂNGELO",
+      "autores": "DE BARROS, WELLINGTON ALVES DE BARROS, WELLINGTON ALVES; LOURENO, ANABEL SANTOS; AMARAL, MATEUS FERREIRA; Castilho, Marilza; TEREZO, AILTON JOS; DE FTIMA, NGELO",
       "titulo": "Voltammetric study and determination of the new psychoactive substances 25H-NBOH and 25B-NBOH in synthetic urine and blotter paper samples using a composite electrode",
       "ano": 2024,
       "mes": null,
       "doi": "10.1016/j.electacta.2024.144051",
       "fingerprint_sha1": "c481f7c315e63f8b561b4ba2e2b43c2dd8606973",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE BARROS, WELLINGTON ALVES</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.electacta.2024.144051\" target=\"_blank\"></a>DE BARROS, WELLINGTON ALVES ; LOURENÇO, ANABEL SANTOS ; AMARAL, MATEUS FERREIRA ; <b>Ca",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:32.910127"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:17.821905"
       },
       "veiculo": "ELECTROCHIMICA ACTA"
     },
@@ -109,16 +137,17 @@
       "doi": null,
       "fingerprint_sha1": "eef032d3f41c9f7626e4094d7894a0be8309196b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CASTILHO, M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><b>CASTILHO, M.</b> ; TEREZO, A. J. ; BEZERRA, F. P. ; Silva, G.B.F. ; AMARAL, MATEUS FERREIRA . DEVELOPMENT OF A VOLTAMMETRIC METHOD FOR THE SIMULTANEOUS DETERMINATION OF PESTICIDES IN SURFACE WATER USING A COMPOSI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:32.910127"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:17.821905"
       },
       "veiculo": "QUIMICA NOVA"
     },
     {
-      "numero_item": 78,
+      "numero_item": 1,
       "raw": "Marilza Castilho . Potencialidades da biodiversidade regional e de nanomateriais no desenvolvimento de (bios)sensores eletroquímicos. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
       "autores": "Marilza Castilho",
       "titulo": "Potencialidades da biodiversidade regional e de nanomateriais no desenvolvimento de (bios)sensores eletroquímicos",
@@ -127,11 +156,12 @@
       "doi": null,
       "fingerprint_sha1": "529739efdc226717d20d8564202614aaf97cce39",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Marilza Castilho</b> . Potencialidades da biodiversidade regional e de nanomateriais no desenvolvimento de (bios)sensores eletroquímicos. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
+      "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:32.910127"
+        "production_type": "Apresentações de Trabalho",
+        "extracted_at": "2026-01-28T14:28:17.838247"
       },
       "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
     },
@@ -145,11 +175,12 @@
       "doi": null,
       "fingerprint_sha1": "6d7fc11f4b5bdc8e6ca404f35dfed855f542229b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bichinho, K.M.; de Lima, M.B.; Oliveira, S.C.B.; Lemos, S.G.; Silva, F.F.; <b>CASTILHO, M.</b>.  Participação em banca de Flaviana Justino Rolim Severo. Eletrodo de pasta de carbono modificado com ftalocianina de ferro(II) para determinação simultânea de carbendazim e naftol em suco de frutas. 2024. Tese (Doutorado em Química)  - Universidade Federal da Paraíba. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:32.921172"
+        "extracted_at": "2026-01-28T14:28:17.849033"
       },
       "veiculo": "Eletrodo de pasta de carbono modificado com ftalocianina de ferro(II) para determinação simultânea de carbendazim e naftol em suco de frutas. 2024. Tese (Doutorado em Química) - Universidade Federal da Paraíba"
     },
@@ -163,11 +194,12 @@
       "doi": null,
       "fingerprint_sha1": "639e88925fac22f81a9fa00c18ab37986bd393bf",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>CASTILHO, M.</b>; Siqueira, A.B.; Pereira, R; Soares, M.R.S..  Participação em banca de Crislauro Gonçalves da Silva. Avaliação do uso de Carbon Dots de glicerina na produção de solketal. 2024. Exame de qualificação (Mestrando em Programa de Pós Graduação em Química)  - Universidade Federal de Mato Grosso. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:32.921172"
+        "extracted_at": "2026-01-28T14:28:17.849033"
       },
       "veiculo": "B.; Pereira"
     },
@@ -181,11 +213,12 @@
       "doi": null,
       "fingerprint_sha1": "1919814a9db5ade9a6f4130966ff2bf9496930b8",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Fernanda Silva Lira Assis. Obtenção de aminoácidos livres a partir de hidrolisado de peixe.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Quimica)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Início: 2025. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -193,17 +226,18 @@
       "numero_item": 2,
       "raw": "Vinícius Cagnoto Luna. SÍNTESE E CARACTERIZAÇÃO DE MATERIAIS DERIVADOS DE ESTRUTURA METALORGÂNICA (MOF) E SUA POTENCIAL APLICAÇÃO EM SENSORES ELETROQUÍMICOS. Início: 2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso. (Orientador).",
       "autores": null,
-      "titulo": "SÍNTESE E CARACTERIZAÇÃO DE MATERIAIS DERIVADOS DE ESTRUTURA METALORGÂNICA (MOF) E SUA POTENCIAL APLICAÇÃO EM SENSORES ELETROQUÍMICOS",
+      "titulo": "SNTESE E CARACTERIZAO DE MATERIAIS DERIVADOS DE ESTRUTURA METALORGNICA (MOF) E SUA POTENCIAL APLICAO EM SENSORES ELETROQUMICOS",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "69a1d072d25f4ab4e9be45e0521c260c86adaa11",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vinícius Cagnoto Luna. SÍNTESE E CARACTERIZAÇÃO DE MATERIAIS DERIVADOS DE ESTRUTURA METALORGÂNICA (MOF) E SUA POTENCIAL APLICAÇÃO EM SENSORES ELETROQUÍMICOS.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado em Quimica)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vincius Cagnoto Luna. SNTESE E CARACTERIZAO DE MATERIAIS DERIVADOS DE ESTRUTURA METALORGNICA (MOF) E SUA POTENCIAL APLICAO EM SENSORES ELETROQUMICOS.\n\t\t\t\t\tIncio: 2024.\n\t\t\t\t\tDissertao (Mestrado em Quimica)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Início: 2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -217,11 +251,12 @@
       "doi": null,
       "fingerprint_sha1": "8f5ae4528f4cfcb83ab93bbf6a1b8cd65ec1e293",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Grasielli Correa de Oliveira.\n\t\t\t\t\tInício: 2025. Universidade Federal de Mato Grosso, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Universidade Federal de Mato Grosso"
     },
@@ -235,11 +270,12 @@
       "doi": null,
       "fingerprint_sha1": "d470e56abde963c6435418c322019e98de752437",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Felipe Cândido dos Santos. Desenvolvimento de Sensor Eletroquímico Baseado em ISFET para Detecção de Glifosato. Início: 2025. Iniciação científica (Graduando em Engenharia Elétrica)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Início: 2025. Iniciação científica (Graduando em Engenharia Elétrica) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -253,11 +289,12 @@
       "doi": null,
       "fingerprint_sha1": "5603b19db1f206dd645dbeaf5f19f90d3b025de0",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela Cristina dos Reis Silva. Obtenção de biocarvão/biochar de biomassa de cana-de-açucar para desenvolvimento eletrodos quimicamente modificados. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -271,11 +308,12 @@
       "doi": null,
       "fingerprint_sha1": "cbf8e9a0955b894db4e345c7a3ab3531fff2389b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabeli Silva Bulhões. Síntese e caracterização de MOFs. Início: 2024. Iniciação científica (Graduando em Química)  - Universidade Federal de Mato Grosso. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:32.931229"
+        "extracted_at": "2026-01-28T14:28:17.861608"
       },
       "veiculo": "Início: 2024. Iniciação científica (Graduando em Química) - Universidade Federal de Mato Grosso. (Orientador)"
     },
@@ -289,11 +327,12 @@
       "doi": "10.1016/j.plana.2025.100159",
       "fingerprint_sha1": "ec73881fc8daec82a20a604b1ae3f76d9654a03e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, RENATA CAROLINA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100159\" target=\"_blank\"></a>ALVES, RENATA CAROLINA ; LUNA, VINICIUS CAGNOTO ; BACO, CRISTIANO JOSÉ ; TEREZO, AILTON JOSÉ ; <",
+      "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "3560580165299597__marilza-castilho.full_profile.html",
         "lattes_id": "3560580165299597",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-01-26T09:30:32.933738"
+        "extracted_at": "2026-01-28T14:28:17.864154"
       },
       "veiculo": "Plant Nano Biology"
     }

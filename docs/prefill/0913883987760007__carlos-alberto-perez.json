@@ -7,14 +7,49 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:30.178173",
+    "extracted_at": "2026-01-28T14:28:13.970954",
     "source_file": "0913883987760007__carlos-alberto-perez.full_profile.html",
     "total_productions": 8,
     "sections": [
       {
-        "section_title": "Produções",
-        "item_count": 5,
-        "tipo_producao": "temp__producoes"
+        "section_title": "Artigos completos publicados em periódicos",
+        "item_count": 4,
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Textos em jornais de notícias/revistas",
+        "item_count": 0,
+        "tipo_producao": "temp__textos-em-jornais-de-noticias-revistas"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Artigos aceitos para publicação",
+        "item_count": 1,
+        "tipo_producao": "temp__artigos-aceitos-para-publicacao"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 0,
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
       },
       {
         "section_title": "Bancas",
@@ -43,18 +78,19 @@
     {
       "numero_item": 1,
       "raw": "CASSIMIRO, VINICIUS R. S. 2025 CASSIMIRO, VINICIUS R. S. ; CUNHA, RUBENS M. ; REHDER, GUSTAVO P. ; PEREYRA, INÉS ; CARREÑO, MARCELO N. P. ; ALAYO, MARCO I. ; TRCERA, NICOLAS ; SCOPEL, WANDERLÃ L. ; Pérez, Carlos A. ; RODRIGUES, CLEBER L. ; FANTINI, MÁRCIA C. A. . SiC Structural Analysis on Energized Microlamps in Micrometric Scale. ECS Journal of Solid State Science and Technology , v. 14, p. 043002, 2025.",
-      "autores": "CASSIMIRO, VINICIUS R. S. CASSIMIRO, VINICIUS R. S.; CUNHA, RUBENS M.; REHDER, GUSTAVO P.; PEREYRA, INÉS; CARREÑO, MARCELO N. P.; ALAYO, MARCO I.; TRCERA, NICOLAS; SCOPEL, WANDERLÃ L.; Pérez, Carlos A.; RODRIGUES, CLEBER L.; FANTINI, MÁRCIA C. A.",
+      "autores": "CASSIMIRO, VINICIUS R. S. CASSIMIRO, VINICIUS R. S.; CUNHA, RUBENS M.; REHDER, GUSTAVO P.; PEREYRA, INS; CARREO, MARCELO N. P.; ALAYO, MARCO I.; TRCERA, NICOLAS; SCOPEL, WANDERL L.; Prez, Carlos A.; RODRIGUES, CLEBER L.; FANTINI, MRCIA C. A.",
       "titulo": "SiC Structural Analysis on Energized Microlamps in Micrometric Scale",
       "ano": 2025,
       "mes": null,
       "doi": "10.1149/2162-8777/adc2d1",
       "fingerprint_sha1": "32dd41376dbfffd4dca134ff93ce48a6d15a8360",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CASSIMIRO, VINICIUS R. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1149/2162-8777/adc2d1\" target=\"_blank\"></a>CASSIMIRO, VINICIUS R. S. ; CUNHA, RUBENS M. ; REHDER, GUSTAVO P. ; PEREYRA, INÉS ; CARREÑO, MAR",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.166877"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:13.947368"
       },
       "veiculo": "ECS Journal of Solid State Science and Technology"
     },
@@ -68,11 +104,12 @@
       "doi": "10.1021/acsomega.5c02064",
       "fingerprint_sha1": "0691ae9d18ca97b1da386711365ff6cce5c332ec",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">LIMA, LUIZ HENRIQUE VIEIRA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsomega.5c02064\" target=\"_blank\"></a>LIMA, LUIZ HENRIQUE VIEIRA ; LY, SERIGNE NDIAWAR ; ARAÚJO, RAUL SANTOS ROCHA DE ; NASCIMENTO, J",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.166877"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:13.947368"
       },
       "veiculo": "ACS Omega"
     },
@@ -86,11 +123,12 @@
       "doi": "10.1016/j.jhazmat.2023.132555",
       "fingerprint_sha1": "4585f1faffbfa6a5f47b5e36a185972212d28b24",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">DE OLIVEIRA, VINICIUS H.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.jhazmat.2023.132555\" target=\"_blank\"></a>DE OLIVEIRA, VINICIUS H. ; MAZZAFERA, PAULO ; FALEIRO, RODRIGO ; MAYER, JULIANA LISCHKA SAMP",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.166877"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:13.947368"
       },
       "veiculo": "JOURNAL OF HAZARDOUS MATERIALS"
     },
@@ -104,29 +142,31 @@
       "doi": "10.1021/acs.jafc.4c01522",
       "fingerprint_sha1": "35e464b48aa51784bd832d0c85cb7f7d4779f060",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALVES, FELIPE B.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acs.jafc.4c01522\" target=\"_blank\"></a>ALVES, FELIPE B. ; ANDRADA, HEBER E. ; FICO, BRUNO A. ; REINALDI, JULIA S. ; TAVARES, DENISE C. ; SQUARIS",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.166877"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:13.947368"
       },
       "veiculo": "JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY"
     },
     {
-      "numero_item": 144,
+      "numero_item": 1,
       "raw": "BENATO, BETINA DEBASTIANI ; SIERRA RATIVA, ANGIE GERALDINE ; OLSSON, RAQUEL VARGAS ; LIMA-MELO, YUGO ; SANTOS, EDUARDO ; SGARBIERO MONTANHA, GABRIEL ; ALVES, JOVER DA SILVA ; PONTE, LUCAS ROANI ; FIORENTINI, VICTOR HUGO ROLLA ; MICHELON BETIN, FERNANDO MATEUS ; ORTOLAN, FRANCIELI ; MARQUES, JOÃO PAULO RODRIGUES ; SPEROTTO, RAUL ANTONIO ; PEREIRA DE CARVALHO, HUDSON WALLACE ; CESCO, STEFANO ; MIMMO, TANJA ; TIZIANI, RAPHAEL ; BEONE, GIAN MARIA ; NAVARRO, NATHALIA ; PÉREZ, C. A. ; et.al . Double knockout of rice Vacuolar Iron Transporters <i>OsVIT1</i> and <i>OsVIT2</i> reveals a trade-off between iron biofortification and iron excess tolerance. JOURNAL OF EXPERIMENTAL BOTANY , 2025.",
-      "autores": "BENATO, BETINA DEBASTIANI; SIERRA RATIVA, ANGIE GERALDINE; OLSSON, RAQUEL VARGAS; LIMA-MELO, YUGO; SANTOS, EDUARDO; SGARBIERO MONTANHA, GABRIEL; ALVES, JOVER DA SILVA; PONTE, LUCAS ROANI; FIORENTINI, VICTOR HUGO ROLLA; MICHELON BETIN, FERNANDO MATEUS; ORTOLAN, FRANCIELI; MARQUES, JOÃO PAULO RODRIGUES; SPEROTTO, RAUL ANTONIO; PEREIRA DE CARVALHO, HUDSON WALLACE; CESCO, STEFANO; MIMMO, TANJA; TIZIANI, RAPHAEL; BEONE, GIAN MARIA; NAVARRO, NATHALIA; PÉREZ, C. A.; et.al",
+      "autores": "BENATO, BETINA DEBASTIANI; SIERRA RATIVA, ANGIE GERALDINE; OLSSON, RAQUEL VARGAS; LIMA-MELO, YUGO; SANTOS, EDUARDO; SGARBIERO MONTANHA, GABRIEL; ALVES, JOVER DA SILVA; PONTE, LUCAS ROANI; FIORENTINI, VICTOR HUGO ROLLA; MICHELON BETIN, FERNANDO MATEUS; ORTOLAN, FRANCIELI; MARQUES, JOO PAULO RODRIGUES; SPEROTTO, RAUL ANTONIO; PEREIRA DE CARVALHO, HUDSON WALLACE; CESCO, STEFANO; MIMMO, TANJA; TIZIANI, RAPHAEL; BEONE, GIAN MARIA; NAVARRO, NATHALIA; PREZ, C. A.; et.al",
       "titulo": "Double knockout of rice Vacuolar Iron Transporters <i>OsVIT1</i> and <i>OsVIT2</i> reveals a trade-off between iron biofortification and iron excess tolerance",
       "ano": 2025,
       "mes": null,
       "doi": "10.1093/jxb/eraf505",
       "fingerprint_sha1": "b38ced4f78d887322c6ff02ef0ba315475864f95",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1093/jxb/eraf505\" target=\"_blank\"></a>BENATO, BETINA DEBASTIANI ; SIERRA RATIVA, ANGIE GERALDINE ; OLSSON, RAQUEL VARGAS ; LIMA-MELO, YUGO ; SANTOS, EDUARDO ; SGARBIERO MONTANHA, GABRIEL ; ALVES, JOVER DA SILVA ; PONTE, LUCAS ROANI ; FIORENTINI, VICTOR HUGO ROLLA ; MICHELON BETIN, FERNANDO MATEUS ;",
+      "production_type": "Artigos aceitos para publicação",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:30.166877"
+        "production_type": "Artigos aceitos para publicação",
+        "extracted_at": "2026-01-28T14:28:13.956789"
       },
       "veiculo": "JOURNAL OF EXPERIMENTAL BOTANY"
     },
@@ -140,11 +180,12 @@
       "doi": null,
       "fingerprint_sha1": "9fddcc8f31e3720cff13cd1d287f0b113909653a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MONTANHA, G. S.; <b>PÉREZ, CA</b>.  Participação em banca de Gabriel Sgabiero Montanha. Time-resolved elemental mapping and characterisation of storage proteins during soybean seeds development: a bottom-up strategy to increase protein content and quality. 2025. Tese (Doutorado em Quimica na Agricultura e Meio Ambiente)  - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:30.168403"
+        "extracted_at": "2026-01-28T14:28:13.961514"
       },
       "veiculo": "Time-resolved elemental mapping and characterisation of storage proteins during soybean seeds development: a bottom-up strategy to increase protein content and quality. 2025. Tese (Doutorado em Quimica na Agricultura e Meio Ambiente) - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo"
     },
@@ -158,11 +199,12 @@
       "doi": null,
       "fingerprint_sha1": "04ec052858f867e37959123101ad802270137312",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">17 RIO Simposium on Atomic Spectrometry. Nano-analytical techniques at the CARNAUBA beamline for experiments in several research areas of  science. 2025. (Congresso). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:30.173037"
+        "extracted_at": "2026-01-28T14:28:13.965940"
       },
       "veiculo": "2025. (Congresso)"
     },
@@ -176,11 +218,12 @@
       "doi": null,
       "fingerprint_sha1": "531b264f3fbd31d7f2a64f7bd8b242d1239b6b56",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PALSA 2025 - Advancing Sustainable Agriculture and Food Research. Micro- and nano-scale studies in agro-environmental science using the Carnaúba beamline at the Sirius synchrotron. 2025. (Congresso). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "0913883987760007__carlos-alberto-perez.full_profile.html",
         "lattes_id": "0913883987760007",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:30.173037"
+        "extracted_at": "2026-01-28T14:28:13.965940"
       },
       "veiculo": "2025. (Congresso)"
     }

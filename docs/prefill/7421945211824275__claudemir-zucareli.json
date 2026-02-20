@@ -7,14 +7,54 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:39.637246",
+    "extracted_at": "2026-01-28T14:28:27.242730",
     "source_file": "7421945211824275__claudemir-zucareli.full_profile.html",
     "total_productions": 37,
     "sections": [
       {
-        "section_title": "Produções",
-        "item_count": 11,
-        "tipo_producao": "temp__producoes"
+        "section_title": "Artigos completos publicados em periódicos",
+        "item_count": 7,
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Capítulos de livros publicados",
+        "item_count": 0,
+        "tipo_producao": "temp__capa-tulos-de-livros-publicados"
+      },
+      {
+        "section_title": "Textos em jornais de notícias/revistas",
+        "item_count": 0,
+        "tipo_producao": "temp__textos-em-jornais-de-nota-cias-revistas"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 4,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Apresentações de Trabalho",
+        "item_count": 0,
+        "tipo_producao": "temp__apresentaa-a-es-de-trabalho"
+      },
+      {
+        "section_title": "Assessoria e consultoria",
+        "item_count": 0,
+        "tipo_producao": "temp__assessoria-e-consultoria"
+      },
+      {
+        "section_title": "Demais tipos de produção técnica",
+        "item_count": 0,
+        "tipo_producao": "temp__demais-tipos-de-produa-a-o-ta-cnica"
       },
       {
         "section_title": "Patentes e registros",
@@ -58,18 +98,19 @@
     {
       "numero_item": 1,
       "raw": "ALMEIDA, LUIZ HENRIQUE CAMPOS DE 2025 ALMEIDA, LUIZ HENRIQUE CAMPOS DE ; ALMEIDA, PAULA PINHEIRO SANCHES DE ; FRATONI, MÔNICA MARIANA JORGE ; FREGONEZI, GUSTAVO ADOLFO DE FREITAS ; PRAZERES, MARCO SEGALLA ; SILVA, GABRIELA MACHINESKI DA ; LOPES, ALLAN REMOR ; Zucareli, Claudemir ; GUIMARÃES, MARIA DE FATIMA . Doses of fertirrigated potassium in tomato cultivation in a semi-hydroponic system. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 23, p. e8532, 2025.",
-      "autores": "ALMEIDA, LUIZ HENRIQUE CAMPOS DE ALMEIDA, LUIZ HENRIQUE CAMPOS DE; ALMEIDA, PAULA PINHEIRO SANCHES DE; FRATONI, MÔNICA MARIANA JORGE; FREGONEZI, GUSTAVO ADOLFO DE FREITAS; PRAZERES, MARCO SEGALLA; SILVA, GABRIELA MACHINESKI DA; LOPES, ALLAN REMOR; Zucareli, Claudemir; GUIMARÃES, MARIA DE FATIMA",
+      "autores": "ALMEIDA, LUIZ HENRIQUE CAMPOS DE ALMEIDA, LUIZ HENRIQUE CAMPOS DE; ALMEIDA, PAULA PINHEIRO SANCHES DE; FRATONI, MNICA MARIANA JORGE; FREGONEZI, GUSTAVO ADOLFO DE FREITAS; PRAZERES, MARCO SEGALLA; SILVA, GABRIELA MACHINESKI DA; LOPES, ALLAN REMOR; Zucareli, Claudemir; GUIMARES, MARIA DE FATIMA",
       "titulo": "Doses of fertirrigated potassium in tomato cultivation in a semi-hydroponic system",
       "ano": 2025,
       "mes": null,
       "doi": "10.55905/oelv23n1-023",
       "fingerprint_sha1": "19c96970c1ebae13b9419b1d0f6159309266268b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ALMEIDA, LUIZ HENRIQUE CAMPOS DE</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.55905/oelv23n1-023\" target=\"_blank\"></a>ALMEIDA, LUIZ HENRIQUE CAMPOS DE ; ALMEIDA, PAULA PINHEIRO SANCHES DE ; FRATONI, MÔNICA MARI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
     },
@@ -83,11 +124,12 @@
       "doi": "10.5935/1806-6690.20240030",
       "fingerprint_sha1": "16baf854c6d18be6335654495906ece66823f54d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES, CARLOS HENRIQUE DOS SANTOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5935/1806-6690.20240030\" target=\"_blank\"></a>FERNANDES, CARLOS HENRIQUE DOS SANTOS ; ARRUDA, KLEVER MÁRCIO ANTUNES ; FONSECA, I",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "Revista Ciencia Agronomica"
     },
@@ -101,11 +143,12 @@
       "doi": "10.5433/1679-0359.2024v45n5p1639",
       "fingerprint_sha1": "635f7d8a2c263517bfbfb7ce87adbaecb0a65fd7",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERREIRA, A. S.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5433/1679-0359.2024v45n5p1639\" target=\"_blank\"></a><a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique par",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
     },
@@ -119,11 +162,12 @@
       "doi": "10.1021/acsanm.4c02607",
       "fingerprint_sha1": "1672336ff1c097eae4c2fe0366c542c2e9630c72",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">GOMES, DIEGO GENUÁRIO</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsanm.4c02607\" target=\"_blank\"></a>GOMES, DIEGO GENUÁRIO ; PIERETTI, JOANA CLAUDIO ; LANGE, CAMILA NEVES ; SANTANA, BIANCA DE MELO ; BATI",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "Acs Applied Nano Materials"
     },
@@ -137,11 +181,12 @@
       "doi": "10.5433/1679-0359.2024v45n3p883",
       "fingerprint_sha1": "a0cd38ddcf8c13f0aee8a906e884851a7dc06eb4",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERNANDES, CARLOS HENRIQUE DOS SANTOS</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.5433/1679-0359.2024v45n3p883\" target=\"_blank\"></a>FERNANDES, CARLOS HENRIQUE DOS SANTOS ; ARRUDA, KLEVER MÁRCIO ANTUNES ; BURAT",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
     },
@@ -155,11 +200,12 @@
       "doi": "10.1590/2317-1545v46279725",
       "fingerprint_sha1": "a8704714383d9580f39fbb415d4c85e516d472cc",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Gomes, M.M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/2317-1545v46279725\" target=\"_blank\"></a>Gomes, M.M. ; Krzyzanowski, Francisco Carlos ; Emrich, P.P. ; <b>ZUCARELI, C.</b> . Standardization of the a",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "Journal of Seed Sciences (antiga Revista Brasileira de Sementes)"
     },
@@ -173,52 +219,55 @@
       "doi": "10.1590/2317-1545v46285736",
       "fingerprint_sha1": "bc6805b6b8feb563c123a5dc3ebb761bd8084a78",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">Gomes, M.M.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/2317-1545v46285736\" target=\"_blank\"></a>Gomes, M.M. ; Krzyzanowski, Francisco Carlos ; Emrich, P.P. ; <b>ZUCARELI, C.</b> . Primary root emission an",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:27.059901"
       },
       "veiculo": "Journal of Seed Sciences (antiga Revista Brasileira de Sementes)"
     },
     {
-      "numero_item": 311,
+      "numero_item": 1,
       "raw": "Martinez, L. ; Colombo, M. C. ; Ferreira, A. S. ; ZUCARELI, C. . CRESCIMENTO E DESEMPENHO PRODUTIVO DO FEIJOEIRO COMUM EM RESPOSTA A INOCULAÃÃO DE BACTÃRIAS PROMOTORAS DE CRESCIMENTO E APLICAÃÃO FOLIAR DO COLÃGENO HIDROLISADO. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024. v. 1. p. 1-1.",
       "autores": "Martinez, L.; Colombo, M. C.; Ferreira, A. S.; ZUCARELI, C.",
-      "titulo": "CRESCIMENTO E DESEMPENHO PRODUTIVO DO FEIJOEIRO COMUM EM RESPOSTA A INOCULAÃÃO DE BACTÃRIAS PROMOTORAS DE CRESCIMENTO E APLICAÃÃO FOLIAR DO COLÃGENO HIDROLISADO",
+      "titulo": "CRESCIMENTO E DESEMPENHO PRODUTIVO DO FEIJOEIRO COMUM EM RESPOSTA A INOCULAO DE BACTRIAS PROMOTORAS DE CRESCIMENTO E APLICAO FOLIAR DO COLGENO HIDROLISADO",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d0ae9cfe7f1fdf35962d201ed3b15199f3c35d17",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Martinez, L. ; Colombo, M. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Ferreira, A. S.</a> ; <b>ZUCARELI, C.</b> . CRESCIMENTO E DESEMPENHO PRODUTIVO DO FEIJOEIRO COMUM EM  RESPOSTA A INOCULAÃÃO DE BACTÃRIAS PROMOTORAS DE  CRESCIMENTO E APLICAÃÃO FOLIAR DO COLÃGENO HIDROLISADO. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Martinez, L. ; Colombo, M. C. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currculo\">Ferreira, A. S.</a> ; <b>ZUCARELI, C.</b> . CRESCIMENTO E DESEMPENHO PRODUTIVO DO FEIJOEIRO COMUM EM  RESPOSTA A INOCULAO DE BACTRIAS PROMOTORAS DE  CRESCIMENTO E APLICAO FOLIAR DO COLGENO HIDROLISADO. In: XXXIII Encontro Anual de Iniciao Cientfica (EAIC), 2024",
+      "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Resumos publicados em anais de congressos",
+        "extracted_at": "2026-01-28T14:28:27.142557"
       },
-      "livro": "XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC)"
+      "livro": "XXXIII Encontro Anual de Iniciação Científica (EAIC)"
     },
     {
-      "numero_item": 312,
+      "numero_item": 2,
       "raw": "Bobroff, G.S. ; Silva, H.R. ; ZUCARELI, C. . BIOESTIMULANTES A BASE DE MICROALGAS NO DESEMPENHO GERMINATIVO DE SEMENTES DE MILHO EM CONDIÃÃES DE ESTRESSE HÃDRICO. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024. v. 1. p. 1-1.",
       "autores": "Bobroff, G.S.; Silva, H.R.; ZUCARELI, C.",
-      "titulo": "BIOESTIMULANTES A BASE DE MICROALGAS NO DESEMPENHO GERMINATIVO DE SEMENTES DE MILHO EM CONDIÃÃES DE ESTRESSE HÃDRICO",
+      "titulo": "BIOESTIMULANTES A BASE DE MICROALGAS NO DESEMPENHO GERMINATIVO DE SEMENTES DE MILHO EM CONDIÇÕES DE ESTRESSE HÍDRICO",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "86e1a741f5d96eb2e888bf4689ff87527fbf5205",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bobroff, G.S. ; Silva, H.R. ; <b>ZUCARELI, C.</b> . BIOESTIMULANTES A BASE DE MICROALGAS NO DESEMPENHO  GERMINATIVO DE SEMENTES DE MILHO EM CONDIÃÃES DE ESTRESSE  HÃDRICO. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024. v. 1. p. 1-1. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bobroff, G.S. ; Silva, H.R. ; <b>ZUCARELI, C.</b> . BIOESTIMULANTES A BASE DE MICROALGAS NO DESEMPENHO  GERMINATIVO DE SEMENTES DE MILHO EM CONDIÇÕES DE ESTRESSE  HÍDRICO. In: XXXIII Encontro Anual de Iniciação Científica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de Iniciação Científica (EAIC), 2024. v. 1. p. 1-1. </span></div>",
+      "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Resumos publicados em anais de congressos",
+        "extracted_at": "2026-01-28T14:28:27.142557"
       },
-      "livro": "XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC)"
+      "livro": "XXXIII Encontro Anual de Iniciação Científica (EAIC)"
     },
     {
-      "numero_item": 313,
+      "numero_item": 3,
       "raw": "Silva, N.T. ; Pereira, J.P.C. ; ZUCARELI, C. . COMPONENTES DO RENDIMENTO E PRODUTIVIDADE DE TRIGO SUBMETIDO A DIFERENTES DOSES DE ENXOFRE. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024. v. 1. p. 1-1.",
       "autores": "Silva, N.T.; Pereira, J.P.C.; ZUCARELI, C.",
       "titulo": "COMPONENTES DO RENDIMENTO E PRODUTIVIDADE DE TRIGO SUBMETIDO A DIFERENTES DOSES DE ENXOFRE",
@@ -226,30 +275,32 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "e2de81ff7e3a964c3898906964d91a3a21515996",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Silva, N.T. ; Pereira, J.P.C. ; <b>ZUCARELI, C.</b> . COMPONENTES DO RENDIMENTO E PRODUTIVIDADE DE TRIGO SUBMETIDO  A DIFERENTES DOSES DE ENXOFRE. In: XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC), 2024. v. 1. p. 1-1. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Silva, N.T. ; Pereira, J.P.C. ; <b>ZUCARELI, C.</b> . COMPONENTES DO RENDIMENTO E PRODUTIVIDADE DE TRIGO SUBMETIDO  A DIFERENTES DOSES DE ENXOFRE. In: XXXIII Encontro Anual de Iniciação Científica (EAIC), 2024, Londrina. Anais do XXXIII Encontro Anual de Iniciação Científica (EAIC), 2024. v. 1. p. 1-1. </span></div>",
+      "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Resumos publicados em anais de congressos",
+        "extracted_at": "2026-01-28T14:28:27.142557"
       },
-      "livro": "XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica (EAIC)"
+      "livro": "XXXIII Encontro Anual de Iniciação Científica (EAIC)"
     },
     {
-      "numero_item": 314,
+      "numero_item": 4,
       "raw": "CAZARIM, P. H. ; Knoor, M.V. ; Ferreira, A. S. ; Fonseca, I.C.B. ; ZUCARELI, C. . PRODUÃÃO DE SEMENTES DE SOJA ENRIQUECIDAS COM COBALTO, MOLIBDÃNIO E NÃQUEL. In: XXII Congresso Brasileiro de Sementes, 2024, Foz do IguaÃ§Ãº. Sementes, matÃ©ria prima da sustentabilidade. Londrina: ABRATES, 2024. v. 1. p. 1-1.",
       "autores": "CAZARIM, P. H.; Knoor, M.V.; Ferreira, A. S.; Fonseca, I.C.B.; ZUCARELI, C.",
-      "titulo": "PRODUÃÃO DE SEMENTES DE SOJA ENRIQUECIDAS COM COBALTO, MOLIBDÃNIO E NÃQUEL",
+      "titulo": "PRODUO DE SEMENTES DE SOJA ENRIQUECIDAS COM COBALTO, MOLIBDNIO E NQUEL",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d46b16ddefbb3a8d8cc4a46cb0447de992977996",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAZARIM, P. H. ; Knoor, M.V. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Ferreira, A. S.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4732940408047293\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Fonseca, I.C.B.</a> ; <b>ZUCARELI, C.</b> . PRODUÃÃO DE SEMENTES DE SOJA ENRIQUECIDAS COM COBALTO, MOLIBDÃNIO E NÃQUEL. In: XXII ",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CAZARIM, P. H. ; Knoor, M.V. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currculo\">Ferreira, A. S.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4732940408047293\" target=\"_blank\" title=\"Clique para visualizar o currculo\">Fonseca, I.C.B.</a> ; <b>ZUCARELI, C.</b> . PRODUO DE SEMENTES DE SOJA ENRIQUECIDAS COM COBALTO, MOLIBDNIO E NQUEL. In: XXII ",
+      "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:39.547001"
+        "production_type": "Resumos publicados em anais de congressos",
+        "extracted_at": "2026-01-28T14:28:27.142557"
       },
       "livro": "XXII Congresso Brasileiro de Sementes"
     },
@@ -257,17 +308,18 @@
       "numero_item": 1,
       "raw": "OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; ZUCARELI, C. ; GOMES, DIEGO G ; Ferreira, A. S. ; SOUZA, B. T. ; PIERETTI, J. C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
       "autores": "OLIVEIRA, HALLEY C; OLIVEIRA, H. C.; SEABRA, AMEDEA B; ZUCARELI, C.; GOMES, DIEGO G; Ferreira, A. S.; SOUZA, B. T.; PIERETTI, J. C.",
-      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES",
+      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEO CONTRA ESTRESSES",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "fc374a36dd17c8fdcc1955e13da01c8b947c44d2",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&amp;idCNPq=7421945211824275&amp;sequencial=915\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; <b>ZUCARELI, C.</b> ; GOMES, DIEGO G ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Ferrei",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7421945211824275&sequencial=915\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"></span>OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; <b>ZUCARELI, C.</b> ; GOMES, DIEGO G ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Ferrei",
+      "production_type": "Patentes e registros",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Patentes e registros",
-        "extracted_at": "2026-01-26T09:30:39.548387"
+        "extracted_at": "2026-01-28T14:28:27.147761"
       },
       "veiculo": "2024"
     },
@@ -275,71 +327,75 @@
       "numero_item": 1,
       "raw": "Kawakami, J.; Muller, M.M.L.; ZUCARELI, C. . ParticipaÃ§Ã£o em banca de JoÃ£o Pedro Malanchuk. Lodging resistance in old and modrn soybean cultivars. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual do Centro-Oeste.",
       "autores": "Kawakami, J.; Muller, M.M.L.; ZUCARELI, C.",
-      "titulo": "ParticipaÃ§Ã£o em banca de JoÃ£o Pedro Malanchuk",
+      "titulo": "Participação em banca de João Pedro Malanchuk",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d0003e03874b2bb419c49f811c7e095a15a338f6",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kawakami, J.; Muller, M.M.L.; <b>ZUCARELI, C.</b>.  ParticipaÃ§Ã£o em banca de JoÃ£o Pedro Malanchuk. Lodging resistance in old and modrn soybean cultivars. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual do Centro-Oeste. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Kawakami, J.; Muller, M.M.L.; <b>ZUCARELI, C.</b>.  Participação em banca de João Pedro Malanchuk. Lodging resistance in old and modrn soybean cultivars. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual do Centro-Oeste. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:39.581228"
+        "extracted_at": "2026-01-28T14:28:27.186754"
       },
-      "veiculo": "Lodging resistance in old and modrn soybean cultivars. 2024. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual do Centro-Oeste"
+      "veiculo": "Lodging resistance in old and modrn soybean cultivars. 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual do Centro-Oeste"
     },
     {
       "numero_item": 48,
       "raw": "Silva, M. R. L.; Caldareli, C. E.; ZUCARELI, C. . ParticipaÃ§Ã£o em banca de Maria Beatriz Funari de Souza. ValoraÃ§Ã£o econÃ´mica dos danos causados pelo complexo de enfezamento do milho no ParanÃ¡.. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia) - Universidade Estadual de Londrina.",
       "autores": "Silva, M. R. L.; Caldareli, C. E.; ZUCARELI, C.",
-      "titulo": "ParticipaÃ§Ã£o em banca de Maria Beatriz Funari de Souza",
+      "titulo": "Participação em banca de Maria Beatriz Funari de Souza",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "b69ddbe8b44dc12bf189c05d3fcd2f567fa35571",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Silva, M. R. L.; Caldareli, C. E.; <b>ZUCARELI, C.</b>.  ParticipaÃ§Ã£o em banca de Maria Beatriz Funari de Souza. ValoraÃ§Ã£o econÃ´mica dos danos causados pelo complexo de enfezamento do milho no ParanÃ¡.. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia)  - Universidade Estadual de Londrina. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Silva, M. R. L.; Caldareli, C. E.; <b>ZUCARELI, C.</b>.  Participação em banca de Maria Beatriz Funari de Souza. Valoração econômica dos danos causados pelo complexo de enfezamento do milho no Paraná.. 2024. Exame de qualificação (Mestrando em Agronomia)  - Universidade Estadual de Londrina. </span></div>",
+      "production_type": "Bancas",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-26T09:30:39.581228"
+        "extracted_at": "2026-01-28T14:28:27.186754"
       },
-      "veiculo": "ValoraÃ§Ã£o econÃ´mica dos danos causados pelo complexo de enfezamento do milho no ParanÃ¡.. 2024. Exame de qualificaÃ§Ã£o (Mestrando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Valoração econômica dos danos causados pelo complexo de enfezamento do milho no Paraná.. 2024. Exame de qualificação (Mestrando em Agronomia) - Universidade Estadual de Londrina"
     },
     {
       "numero_item": 1,
       "raw": "XXII Congresso Brasileiro de Sementes. ProduÃ§Ã£o de sementes de soja enriquecidas com cobalto, molibidÃªnio e nÃ­quel. 2024. (Congresso).",
       "autores": null,
-      "titulo": "ProduÃ§Ã£o de sementes de soja enriquecidas com cobalto, molibidÃªnio e nÃ­quel",
+      "titulo": "Produção de sementes de soja enriquecidas com cobalto, molibidênio e níquel",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "6c890cdf5e98ffb0676ee2c30400e1777dbd9bd2",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XXII Congresso Brasileiro de Sementes. ProduÃ§Ã£o de sementes de soja enriquecidas com cobalto, molibidÃªnio e nÃ­quel. 2024. (Congresso). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">XXII Congresso Brasileiro de Sementes. Produção de sementes de soja enriquecidas com cobalto, molibidênio e níquel. 2024. (Congresso). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:39.591073"
+        "extracted_at": "2026-01-28T14:28:27.196644"
       },
       "veiculo": "2024. (Congresso)"
     },
     {
       "numero_item": 22,
       "raw": "ZUCARELI, C. ; Russo, A.L.S. ; AraÃºjo, E.J.A. . XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica - ComissÃ£o Coordenadora. 2024. (Outro).",
-      "autores": "ZUCARELI, C.; Russo, A.L.S.; AraÃºjo, E.J.A.",
-      "titulo": "XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica - ComissÃ£o Coordenadora",
+      "autores": "ZUCARELI, C.; Russo, A.L.S.; Araújo, E.J.A.",
+      "titulo": "XXXIII Encontro Anual de Iniciação Científica - Comissão Coordenadora",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "3f38f8851cf6f29c31dd4bb2717ffc2747493b07",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; Russo, A.L.S. ; AraÃºjo, E.J.A. . XXXIII Encontro Anual de IniciaÃ§Ã£o CientÃ­fica - ComissÃ£o Coordenadora. 2024. (Outro). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; Russo, A.L.S. ; Araújo, E.J.A. . XXXIII Encontro Anual de Iniciação Científica - Comissão Coordenadora. 2024. (Outro). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:39.591073"
+        "extracted_at": "2026-01-28T14:28:27.196644"
       },
       "veiculo": "2024. (Outro)"
     },
@@ -347,17 +403,18 @@
       "numero_item": 23,
       "raw": "ZUCARELI, C. ; PENA, M. I. B. . XI SimpÃ³sio de AtualizaÃ§Ã£o em CiÃªncias AgronÃ´micas - SACA. 2024. (Outro).",
       "autores": "ZUCARELI, C.; PENA, M. I. B.",
-      "titulo": "XI SimpÃ³sio de AtualizaÃ§Ã£o em CiÃªncias AgronÃ´micas - SACA",
+      "titulo": "XI Simpósio de Atualização em Ciências Agronômicas - SACA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "28b9ad29503d3e7f99e97c2ff679add119dfe893",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; PENA, M. I. B. . XI SimpÃ³sio de AtualizaÃ§Ã£o em CiÃªncias AgronÃ´micas - SACA. 2024. (Outro). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; PENA, M. I. B. . XI Simpósio de Atualização em Ciências Agronômicas - SACA. 2024. (Outro). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:39.591073"
+        "extracted_at": "2026-01-28T14:28:27.196644"
       },
       "veiculo": "2024. (Outro)"
     },
@@ -365,17 +422,18 @@
       "numero_item": 24,
       "raw": "ZUCARELI, C. ; Russo, A.L.S. . V ENCONTRO ANUAL DE INICIAÃÃO CIENTÃFICA JÃNIOR (EAIC JR 2024). 2024. (Outro).",
       "autores": "ZUCARELI, C.; Russo, A.L.S.",
-      "titulo": "V ENCONTRO ANUAL DE INICIAÃÃO CIENTÃFICA JÃNIOR (EAIC JR 2024)",
+      "titulo": "V ENCONTRO ANUAL DE INICIAO CIENTFICA JNIOR (EAIC JR 2024)",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5d120c904d7cdbd8cfb5bf6e12805704effcd3bf",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; Russo, A.L.S. . V ENCONTRO ANUAL DE INICIAÃÃO CIENTÃFICA JÃNIOR (EAIC JR 2024). 2024. (Outro). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; Russo, A.L.S. . V ENCONTRO ANUAL DE INICIAO CIENTFICA JNIOR (EAIC JR 2024). 2024. (Outro). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:39.591073"
+        "extracted_at": "2026-01-28T14:28:27.196644"
       },
       "veiculo": "2024. (Outro)"
     },
@@ -383,17 +441,18 @@
       "numero_item": 25,
       "raw": "ZUCARELI, C. ; BONA, A. N. ; SCHIEFLER FILHO, M. . 5a ConferÃªncia Estadual de CiÃªncia, Tecnologia e InovaÃ§Ã£o do ParanÃ¡. 2024. (Outro).",
       "autores": "ZUCARELI, C.; BONA, A. N.; SCHIEFLER FILHO, M",
-      "titulo": "5a ConferÃªncia Estadual de CiÃªncia, Tecnologia e InovaÃ§Ã£o do ParanÃ¡",
+      "titulo": "5a Conferência Estadual de Ciência, Tecnologia e Inovação do Paraná",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5123237c56e48d8f91d2bb564b0978073b647543",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; BONA, A. N. ; SCHIEFLER FILHO, M. . 5a ConferÃªncia Estadual de CiÃªncia, Tecnologia e InovaÃ§Ã£o do ParanÃ¡. 2024. (Outro). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>ZUCARELI, C.</b>; BONA, A. N. ; SCHIEFLER FILHO, M. . 5a Conferência Estadual de Ciência, Tecnologia e Inovação do Paraná. 2024. (Outro). </span></div>",
+      "production_type": "Eventos",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-26T09:30:39.591073"
+        "extracted_at": "2026-01-28T14:28:27.196644"
       },
       "veiculo": "2024. (Outro)"
     },
@@ -401,125 +460,132 @@
       "numero_item": 1,
       "raw": "Robison Alessandro de Queiroz. BIOESTIMULANTE Ã BASE DE EXTRATOS DE ALGAS DAS ESPÃCIES Chlorella vulgaris E Spirulina platensis ASSOCIADAS A NANOPARTÃCULAS DE ZINCO NO DESEMPENHO GERMINATIVO DE SEMENTES E NO DESENVOLVIMENTO INICIAL DE PLANTULAS DE MILHO. InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
-      "titulo": "BIOESTIMULANTE Ã BASE DE EXTRATOS DE ALGAS DAS ESPÃCIES Chlorella vulgaris E Spirulina platensis ASSOCIADAS A NANOPARTÃCULAS DE ZINCO NO DESEMPENHO GERMINATIVO DE SEMENTES E NO DESENVOLVIMENTO INICIAL DE PLANTULAS DE MILHO",
+      "titulo": "BIOESTIMULANTE Á BASE DE EXTRATOS DE ALGAS DAS ESPÉCIES Chlorella vulgaris E Spirulina platensis ASSOCIADAS A NANOPARTÍCULAS DE ZINCO NO DESEMPENHO GERMINATIVO DE SEMENTES E NO DESENVOLVIMENTO INICIAL DE PLANTULAS DE MILHO",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "9d56ceede5598bc9314f867825d60b4531aa81f4",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Robison Alessandro de Queiroz. BIOESTIMULANTE Ã BASE DE EXTRATOS DE ALGAS DAS ESPÃCIES Chlorella vulgaris E Spirulina platensis ASSOCIADAS A NANOPARTÃCULAS DE ZINCO NO DESEMPENHO GERMINATIVO DE SEMENTES E NO DESENVOLVIMENTO INICIAL  DE PLANTULAS DE MILHO.\n\t\t\t\t\tInÃ­cio: 2024.\n\t\t\t\t\tDissertaÃ§Ã£o (Mestrado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Robison Alessandro de Queiroz. BIOESTIMULANTE Á BASE DE EXTRATOS DE ALGAS DAS ESPÉCIES Chlorella vulgaris E Spirulina platensis ASSOCIADAS A NANOPARTÍCULAS DE ZINCO NO DESEMPENHO GERMINATIVO DE SEMENTES E NO DESENVOLVIMENTO INICIAL  DE PLANTULAS DE MILHO.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "InÃ­cio: 2024. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "Início: 2024. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
     },
     {
       "numero_item": 2,
       "raw": "PatrÃ­cia Piva Emrich. PADRONIZAÃÃO DE TESTES DE VIGOR PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA (Hordeum vulgare L.). InÃ­cio: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
-      "titulo": "PADRONIZAÃÃO DE TESTES DE VIGOR PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA (Hordeum vulgare L",
+      "titulo": "PADRONIZAO DE TESTES DE VIGOR PARA AVALIAO DO POTENCIAL FISIOLGICO DE SEMENTES DE CEVADA (Hordeum vulgare L",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "e74675b9b517ad946845f565a0e177205367de8a",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PatrÃ­cia Piva Emrich. PADRONIZAÃÃO DE TESTES DE VIGOR PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA (Hordeum vulgare L.).\n\t\t\t\t\tInÃ­cio: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Patrcia Piva Emrich. PADRONIZAO DE TESTES DE VIGOR PARA AVALIAO DO POTENCIAL FISIOLGICO DE SEMENTES DE CEVADA (Hordeum vulgare L.).\n\t\t\t\t\tIncio: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "). InÃ­cio: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "). Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
     },
     {
       "numero_item": 7,
       "raw": "Ana Clara Barros Knoor. ESTRESSE TÃRMICO PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
-      "titulo": "ESTRESSE TÃRMICO PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA",
+      "titulo": "ESTRESSE TRMICO PARA AVALIAO DO POTENCIAL FISIOLGICO DE SEMENTES DE CEVADA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "8e5e1492365ac129ee4c395c792e20b699dbdf34",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Clara Barros Knoor. ESTRESSE TÃRMICO PARA AVALIAÃÃO DO POTENCIAL FISIOLÃGICO DE SEMENTES DE CEVADA. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Clara Barros Knoor. ESTRESSE TRMICO PARA AVALIAO DO POTENCIAL FISIOLGICO DE SEMENTES DE CEVADA. Incio: 2024. Iniciao cientfica (Graduando em Agronomia)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Londrina. (Orientador)"
     },
     {
       "numero_item": 8,
       "raw": "VitÃ³ria Vianna de Oliveira. ColÃ¡geno hidrolisado de curtume e doses de NitrogÃªnio em cobertura sobre o desempenho produtivo do trigo. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador).",
       "autores": null,
-      "titulo": "ColÃ¡geno hidrolisado de curtume e doses de NitrogÃªnio em cobertura sobre o desempenho produtivo do trigo",
+      "titulo": "Colágeno hidrolisado de curtume e doses de Nitrogênio em cobertura sobre o desempenho produtivo do trigo",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "cd6de6fdc52932ab607d308883524a5427eb36e1",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VitÃ³ria Vianna de Oliveira. ColÃ¡geno hidrolisado de curtume e doses de NitrogÃªnio em cobertura sobre o desempenho produtivo do trigo. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia)  - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Vitória Vianna de Oliveira. Colágeno hidrolisado de curtume e doses de Nitrogênio em cobertura sobre o desempenho produtivo do trigo. Início: 2024. Iniciação científica (Graduando em Agronomia)  - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Início: 2024. Iniciação científica (Graduando em Agronomia) - Universidade Estadual de Londrina"
     },
     {
       "numero_item": 9,
       "raw": "Yasmin de Andrade Penna Alves. PADRONIZAÃÃO DO TESTE DE ENVELHECIMENTO ACELERADO PARA AVALIAÃÃO DO VIGOR DE SEMENTES DE CEVADA. InÃ­cio: 2024 - Universidade Estadual de Londrina, A FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico d. (Orientador).",
       "autores": null,
-      "titulo": "PADRONIZAÃÃO DO TESTE DE ENVELHECIMENTO ACELERADO PARA AVALIAÃÃO DO VIGOR DE SEMENTES DE CEVADA",
+      "titulo": "PADRONIZAO DO TESTE DE ENVELHECIMENTO ACELERADO PARA AVALIAO DO VIGOR DE SEMENTES DE CEVADA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "a48ac9f524ad0ff1051db885b091d05634c3c913",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yasmin de Andrade Penna Alves. PADRONIZAÃÃO DO TESTE DE ENVELHECIMENTO ACELERADO PARA AVALIAÃÃO DO VIGOR DE SEMENTES DE CEVADA. InÃ­cio: 2024 - Universidade Estadual de Londrina, A FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico d. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yasmin de Andrade Penna Alves. PADRONIZAO DO TESTE DE ENVELHECIMENTO ACELERADO PARA AVALIAO DO VIGOR DE SEMENTES DE CEVADA. Incio: 2024 - Universidade Estadual de Londrina, A Fundao Araucria de Apoio ao Desenvolvimento Cientfico e Tecnolgico d. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual de Londrina"
+      "veiculo": "Início: 2024 - Universidade Estadual de Londrina"
     },
     {
       "numero_item": 10,
       "raw": "Hiago Parmezan Rodrigues. AlteraÃ§Ãµes fÃ­sico-quÃ­micas de sementes de soja em resposta a doses de zinco em diferentes fases reprodutivas. InÃ­cio: 2024 - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
-      "titulo": "AlteraÃ§Ãµes fÃ­sico-quÃ­micas de sementes de soja em resposta a doses de zinco em diferentes fases reprodutivas",
+      "titulo": "Alterações físico-químicas de sementes de soja em resposta a doses de zinco em diferentes fases reprodutivas",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "ac52f136902d712c0004711c56765804d234b65c",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Hiago Parmezan Rodrigues. AlteraÃ§Ãµes fÃ­sico-quÃ­micas de sementes de soja em resposta a doses de zinco em diferentes fases reprodutivas. InÃ­cio: 2024 - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Hiago Parmezan Rodrigues. Alterações físico-químicas de sementes de soja em resposta a doses de zinco em diferentes fases reprodutivas. Início: 2024 - Universidade Estadual de Londrina. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "InÃ­cio: 2024 - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "Início: 2024 - Universidade Estadual de Londrina. (Orientador)"
     },
     {
       "numero_item": 38,
       "raw": "Vania Kajiwara. Caracteristicas fÃ­sico-quÃ­micas e reolÃ³gicas de farinhas integrais de genÃ³tipos de trigo cultivados em diferentes ambientes. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Caracteristicas fÃ­sico-quÃ­micas e reolÃ³gicas de farinhas integrais de genÃ³tipos de trigo cultivados em diferentes ambientes",
+      "titulo": "Caracteristicas físico-químicas e reológicas de farinhas integrais de genótipos de trigo cultivados em diferentes ambientes",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "034e88f1dd96f90351e41129446a7b4f73c750ee",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5118199430515796\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Vania Kajiwara.\n\t\t\t\t\t\tCaracteristicas fÃ­sico-quÃ­micas e reolÃ³gicas de farinhas integrais de genÃ³tipos de trigo cultivados em diferentes ambientes.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. ",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5118199430515796\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Vania Kajiwara.\n\t\t\t\t\t\tCaracteristicas físico-químicas e reológicas de farinhas integrais de genótipos de trigo cultivados em diferentes ambientes.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. ",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
       "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
     },
@@ -527,126 +593,133 @@
       "numero_item": 39,
       "raw": "Marinara Ferneda Ventorim. Produtividade, qualidade fisiolÃ³gica, tecnolÃ³gica e atividade enzimÃ¡tica de sementes e grÃ£os de trigo submetidos ao atraso na colheita em diferentes Ã©pocas de semeadura.. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Produtividade, qualidade fisiolÃ³gica, tecnolÃ³gica e atividade enzimÃ¡tica de sementes e grÃ£os de trigo submetidos ao atraso na colheita em diferentes Ã©pocas de semeadura",
+      "titulo": "Produtividade, qualidade fisiológica, tecnológica e atividade enzimática de sementes e grãos de trigo submetidos ao atraso na colheita em diferentes épocas de semeadura",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "c148d17f8a6b03b767e48cf5524ce89faa2a1108",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2937651509696554\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marinara Ferneda Ventorim.\n\t\t\t\t\t\tProdutividade, qualidade fisiolÃ³gica, tecnolÃ³gica e atividade enzimÃ¡tica de sementes e grÃ£os de trigo submetidos ao atraso na colheita em diferentes Ã©pocas de semeadura..\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coorden",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/2937651509696554\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marinara Ferneda Ventorim.\n\t\t\t\t\t\tProdutividade, qualidade fisiológica, tecnológica e atividade enzimática de sementes e grãos de trigo submetidos ao atraso na colheita em diferentes épocas de semeadura..\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coorden",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
       "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
     },
     {
       "numero_item": 57,
       "raw": "Ana LÃ­gia Giraldeli. 2024. Universidade Estadual de Londrina, . Claudemir Zucareli.",
-      "autores": "Ana LÃ­gia Giraldeli. . Universidade Estadual de Londrina,",
+      "autores": "Ana Lígia Giraldeli. . Universidade Estadual de Londrina,",
       "titulo": "Claudemir Zucareli",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "9ed373b10ed745ed235776e3d0f82016459ac481",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana LÃ­gia Giraldeli.\n\t\t\t\t\t\t2024. Universidade Estadual de Londrina, . Claudemir Zucareli. </span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Lígia Giraldeli.\n\t\t\t\t\t\t2024. Universidade Estadual de Londrina, . Claudemir Zucareli. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       }
     },
     {
       "numero_item": 63,
       "raw": "Alex shinji Goto. Extrato de alga na promoÃ§Ã£o de desempenho produtivo da cultura da soja. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Extrato de alga na promoÃ§Ã£o de desempenho produtivo da cultura da soja",
+      "titulo": "Extrato de alga na promoção de desempenho produtivo da cultura da soja",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "d890c4f509688d3850efbd7de1f75ff92dd17714",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alex shinji Goto.\n\t\t\t\t\t\tExtrato de alga na promoÃ§Ã£o de desempenho produtivo da cultura da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Alex shinji Goto.\n\t\t\t\t\t\tExtrato de alga na promoção de desempenho produtivo da cultura da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 64,
       "raw": "Maria Eduarda Mariano de Oliveira. GerminaÃ§Ã£o e sistema de defesas de sementes de soja. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "GerminaÃ§Ã£o e sistema de defesas de sementes de soja",
+      "titulo": "Germinação e sistema de defesas de sementes de soja",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "c78c6052bfc0c1d621aa3a8d3c6d1b93b9000b74",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Mariano de Oliveira.\n\t\t\t\t\t\tGerminaÃ§Ã£o e sistema de defesas de sementes de soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Mariano de Oliveira.\n\t\t\t\t\t\tGerminação e sistema de defesas de sementes de soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 65,
       "raw": "Angelo Ansanello. Qualidade fisiolÃ³gica de sementes e qualidade tecnolÃ³gica de grÃ£os de aveia granÃ­fera submetida a atraso na colheita apÃ³s dessecaÃ§Ã£o de prÃ©-colheita. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Qualidade fisiolÃ³gica de sementes e qualidade tecnolÃ³gica de grÃ£os de aveia granÃ­fera submetida a atraso na colheita apÃ³s dessecaÃ§Ã£o de prÃ©-colheita",
+      "titulo": "Qualidade fisiológica de sementes e qualidade tecnológica de grãos de aveia granífera submetida a atraso na colheita após dessecação de pré-colheita",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "95f0faa5d93de5fc5b699c69e2c61a89f79615f1",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Angelo Ansanello.\n\t\t\t\t\t\tQualidade fisiolÃ³gica de sementes e qualidade tecnolÃ³gica de grÃ£os de aveia granÃ­fera submetida a atraso na colheita apÃ³s dessecaÃ§Ã£o de prÃ©-colheita.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Angelo Ansanello.\n\t\t\t\t\t\tQualidade fisiológica de sementes e qualidade tecnológica de grãos de aveia granífera submetida a atraso na colheita após dessecação de pré-colheita.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 66,
       "raw": "Gabriela de Souza Bobroff. Bioestimulante a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ã£o de dÃ©ficit hÃ­drico. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Bioestimulante a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ã£o de dÃ©ficit hÃ­drico",
+      "titulo": "Bioestimulante a base de microalgas no desempenho germinativo de sementes de milho em condição de déficit hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "cc01f18c31b336be419f3be1b4befac5405d1f8a",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela de Souza Bobroff.\n\t\t\t\t\t\tBioestimulante a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ã£o de dÃ©ficit hÃ­drico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriela de Souza Bobroff.\n\t\t\t\t\t\tBioestimulante a base de microalgas no desempenho germinativo de sementes de milho em condição de déficit hídrico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 67,
       "raw": "Higor Guilherme Bernardes TamiÃ£o. BIOESTIMULANTE A BASE DE ?SCENEDESMUS DIMORPHUS? NO PROCESSO GERMINATIVO DE SEMENTES DE MILHO SOB CONDIÃÃES DE DÃFICIT HÃDRICO. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "BIOESTIMULANTE A BASE DE ?SCENEDESMUS DIMORPHUS? NO PROCESSO GERMINATIVO DE SEMENTES DE MILHO SOB CONDIÃÃES DE DÃFICIT HÃDRICO",
+      "titulo": "BIOESTIMULANTE A BASE DE ?SCENEDESMUS DIMORPHUS? NO PROCESSO GERMINATIVO DE SEMENTES DE MILHO SOB CONDIÇÕES DE DÉFICIT HÍDRICO",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "4bd25c9b4ff4f6a6f44386f7ba761233018ad4c7",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Higor Guilherme Bernardes TamiÃ£o.\n\t\t\t\t\t\tBIOESTIMULANTE A BASE DE ?SCENEDESMUS DIMORPHUS? NO PROCESSO GERMINATIVO DE SEMENTES DE MILHO SOB CONDIÃÃES DE DÃFICIT  HÃDRICO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Higor Guilherme Bernardes Tamião.\n\t\t\t\t\t\tBIOESTIMULANTE A BASE DE ?SCENEDESMUS DIMORPHUS? NO PROCESSO GERMINATIVO DE SEMENTES DE MILHO SOB CONDIÇÕES DE DÉFICIT  HÍDRICO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 143,
@@ -657,66 +730,70 @@
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "575c41a1d39e60d62fbd977f20faea1b893b3e4c",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NICOLY TERNIVSKI SILVA.\n\t\t\t\t\t\tComponentes do rendimento e produtividade de trigo submetido a diferentes doses de enxofre.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">NICOLY TERNIVSKI SILVA.\n\t\t\t\t\t\tComponentes do rendimento e produtividade de trigo submetido a diferentes doses de enxofre.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 144,
       "raw": "LEONARDO MARTINEZ. Crescimento e desempenho produtivo do feijoeiro comum em resposta a inoculaÃ§Ã£o de bactÃ©rias promotoras de crescimento e aplicaÃ§Ã£o foliar de colÃ¡geno hidrolisado. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Crescimento e desempenho produtivo do feijoeiro comum em resposta a inoculaÃ§Ã£o de bactÃ©rias promotoras de crescimento e aplicaÃ§Ã£o foliar de colÃ¡geno hidrolisado",
+      "titulo": "Crescimento e desempenho produtivo do feijoeiro comum em resposta a inoculação de bactérias promotoras de crescimento e aplicação foliar de colágeno hidrolisado",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "897096260bf20272252c4fb9cb491815cdea0643",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LEONARDO MARTINEZ.\n\t\t\t\t\t\tCrescimento e desempenho produtivo do feijoeiro comum em resposta a inoculaÃ§Ã£o de bactÃ©rias promotoras de crescimento e aplicaÃ§Ã£o foliar de colÃ¡geno hidrolisado.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LEONARDO MARTINEZ.\n\t\t\t\t\t\tCrescimento e desempenho produtivo do feijoeiro comum em resposta a inoculação de bactérias promotoras de crescimento e aplicação foliar de colágeno hidrolisado.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Agronomia)  - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina. Orientador: Claudemir Zucareli"
     },
     {
       "numero_item": 145,
       "raw": "GABRIELA DE SOUZA BOBROFF. Bioestimulantes a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ãµes de estresse hÃ­drico. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Claudemir Zucareli.",
       "autores": null,
-      "titulo": "Bioestimulantes a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ãµes de estresse hÃ­drico",
+      "titulo": "Bioestimulantes a base de microalgas no desempenho germinativo de sementes de milho em condições de estresse hídrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "379a8240842918d27e338cec95539011c7e42793",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GABRIELA DE SOUZA BOBROFF.\n\t\t\t\t\t\tBioestimulantes a base de microalgas no desempenho germinativo de sementes de milho em condiÃ§Ãµes de estresse hÃ­drico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">GABRIELA DE SOUZA BOBROFF.\n\t\t\t\t\t\tBioestimulantes a base de microalgas no desempenho germinativo de sementes de milho em condições de estresse hídrico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Claudemir Zucareli.\n\t\t\t\t\t</span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:39.622290"
+        "extracted_at": "2026-01-28T14:28:27.227403"
       },
-      "veiculo": "2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
     },
     {
       "numero_item": 1,
       "raw": "OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; ZUCARELI, C. ; GOMES, DIEGO G ; Ferreira, A. S. ; SOUZA, B. T. ; PIERETTI, J. C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
       "autores": "OLIVEIRA, HALLEY C; OLIVEIRA, H. C.; SEABRA, AMEDEA B; ZUCARELI, C.; GOMES, DIEGO G; Ferreira, A. S.; SOUZA, B. T.; PIERETTI, J. C.",
-      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES",
+      "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEO CONTRA ESTRESSES",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "fc374a36dd17c8fdcc1955e13da01c8b947c44d2",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&amp;idCNPq=7421945211824275&amp;sequencial=915\" title=\"Clique aqui para visualizar as informaÃ§Ãµes da patente no site do INPI\"> </span>OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; <b>ZUCARELI, C.</b> ; GOMES, DIEGO G ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currÃ­culo\">Ferrei",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7421945211824275&sequencial=915\" title=\"Clique aqui para visualizar as informações da patente no site do INPI\"></span>OLIVEIRA, HALLEY C ; OLIVEIRA, H. C. ; SEABRA, AMEDEA B ; <b>ZUCARELI, C.</b> ; GOMES, DIEGO G ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1246606748588663\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Ferrei",
+      "production_type": "Inovação",
       "source": {
         "file": "7421945211824275__claudemir-zucareli.full_profile.html",
         "lattes_id": "7421945211824275",
         "production_type": "Inovação",
-        "extracted_at": "2026-01-26T09:30:39.623077"
+        "extracted_at": "2026-01-28T14:28:27.228259"
       },
       "veiculo": "2024"
     }

@@ -7,14 +7,44 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-26T09:30:31.230017",
+    "extracted_at": "2026-01-28T14:28:15.451805",
     "source_file": "2723323416837014__adriano-arrue-melo.full_profile.html",
     "total_productions": 11,
     "sections": [
       {
-        "section_title": "Produções",
+        "section_title": "Artigos completos publicados em periódicos",
         "item_count": 7,
-        "tipo_producao": "temp__producoes"
+        "tipo_producao": "temp__artigos-completos-publicados-em-periodicos"
+      },
+      {
+        "section_title": "Capítulos de livros publicados",
+        "item_count": 0,
+        "tipo_producao": "temp__capitulos-de-livros-publicados"
+      },
+      {
+        "section_title": "Trabalhos completos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-completos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos expandidos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-expandidos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Resumos publicados em anais de congressos",
+        "item_count": 0,
+        "tipo_producao": "temp__resumos-publicados-em-anais-de-congressos"
+      },
+      {
+        "section_title": "Produtos tecnológicos",
+        "item_count": 0,
+        "tipo_producao": "temp__produtos-tecnologicos"
+      },
+      {
+        "section_title": "Trabalhos técnicos",
+        "item_count": 0,
+        "tipo_producao": "temp__trabalhos-tecnicos"
       },
       {
         "section_title": "Patentes e registros",
@@ -60,11 +90,12 @@
       "doi": "10.1590/0103-8478cr20240187",
       "fingerprint_sha1": "f26d42ed910b1a160e77bbf3ed56617cc45c4da9",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SEIBT, TIAGO ANDRÉ</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/0103-8478cr20240187\" target=\"_blank\"></a>SEIBT, TIAGO ANDRÉ ; BOLLE",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "CIÊNCIA RURAL"
     },
@@ -78,29 +109,31 @@
       "doi": "10.1021/acsagscitech.5c00303",
       "fingerprint_sha1": "d4cd7a0212228ceac3a58a762997301805fca3bf",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MELO, ADRIANO A.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span>\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1021/acsagscitech.5c00303\" target=\"_blank\"></a><b>MELO, ADRIANO A.</b>; BA",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "Acs Agricultural Science & Technology"
     },
     {
       "numero_item": 3,
       "raw": "SILVA, GIOVANNA MOURA 2025 SILVA, GIOVANNA MOURA ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; DE OLIVEIRA, FELIPE FRANCO ; DE SOUZA RODRIGUES, JÉSSICA ; DE FREITAS PROENÇA, PATRÍCIA LUIZA ; MELO, ADRIANO ARRUÉ ; FRACETO, LEONARDO FERNANDES . Harnessing Nanotechnology and Bio-based Agents: Advanced Strategies for Sustainable Soybean Nematode Management. Plant Nano Biology , v. 13, p. 100195, 2025.",
-      "autores": "SILVA, GIOVANNA MOURA SILVA, GIOVANNA MOURA; CAMPOS, ESTEFÂNIA VANGELIE RAMOS; DE OLIVEIRA, FELIPE FRANCO; DE SOUZA RODRIGUES, JÉSSICA; DE FREITAS PROENÇA, PATRÍCIA LUIZA; MELO, ADRIANO ARRUÉ; FRACETO, LEONARDO FERNANDES",
+      "autores": "SILVA, GIOVANNA MOURA SILVA, GIOVANNA MOURA; CAMPOS, ESTEFNIA VANGELIE RAMOS; DE OLIVEIRA, FELIPE FRANCO; DE SOUZA RODRIGUES, JSSICA; DE FREITAS PROENA, PATRCIA LUIZA; MELO, ADRIANO ARRU; FRACETO, LEONARDO FERNANDES",
       "titulo": "Harnessing Nanotechnology and Bio-based Agents: Advanced Strategies for Sustainable Soybean Nematode Management",
       "ano": 2025,
       "mes": null,
       "doi": "10.1016/j.plana.2025.100195",
       "fingerprint_sha1": "a1d265cf3369626bc8ff10034810fca544925e7e",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, GIOVANNA MOURA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100195\" target=\"_blank\"></a>SILVA, GIOVANNA MOURA ; CAMPOS, ESTEFÂNIA VANGELIE RAMOS ; DE OLIVEIRA, FELIPE FRANCO ; DE SOUZA ",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">SILVA, GIOVANNA MOURA</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2025</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2025.100195\" target=\"_blank\"></a>SILVA, GIOVANNA MOURA ; CAMPOS, ESTEFNIA VANGELIE RAMOS ; DE OLIVEIRA, FELIPE FRANCO ; DE SOUZA ",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "Plant Nano Biology"
     },
@@ -114,11 +147,12 @@
       "doi": "10.1590/0103-8478cr20230005",
       "fingerprint_sha1": "50e00880b7e35142bbef6df68020e467754341ba",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">AVILA NETO, R. C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1590/0103-8478cr20230005\" target=\"_blank\"></a>AVILA NETO, R. C. ; LEICHTWEISS, EDUARD MROGINSKI ; BORTOLIN, E. ; BARBIERI, GEOVANA FACCO ; THOMASI,",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "CIÊNCIA RURAL"
     },
@@ -132,11 +166,12 @@
       "doi": "10.1007/s42690-024-01217-5",
       "fingerprint_sha1": "4e07b35e355e9b69d441d1754cd4641c87851433",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">PES, MAIQUEL P.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/s42690-024-01217-5\" target=\"_blank\"></a>PES, MAIQUEL P. ; <b>MELO, ADRIANO A.</b> ; STACKE, REGINA S. ; PERINI, CLÉRISON R. ; SILVA, FÁBIO M. A.",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "International Journal of Tropical Insect Science (Online)"
     },
@@ -150,11 +185,12 @@
       "doi": null,
       "fingerprint_sha1": "f5264de7c052aaa7e14abac6850ca9577916d18c",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MELO, ADRIANO A</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><b>MELO, ADRIANO A</b>; MARTINI, A. T. ; DALAZEN, G. ; GARCIA, L. C. ; BOLLER, W. . Uso de drones para pulverização na agricultura. INFORMAÇÕES AGRONÔMICAS<sup><img class=\"ajaxJCR\" data-issn=\"23115904\" id=\"231159",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "INFORMAÇÕES AGRONÔMICAS"
     },
@@ -168,11 +204,12 @@
       "doi": "10.1016/j.plana.2024.100103",
       "fingerprint_sha1": "8e5127b583504fd3824ae2daf76470f2f0b14d9a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">OLIVEIRA, HALLEY C.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2024</span><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/j.plana.2024.100103\" target=\"_blank\"></a>OLIVEIRA, HALLEY C. ; <b>MELO, ADRIANO A.</b> ; FRACETO, LEONARDO F. . Nanotechnology and agricultu",
+      "production_type": "Artigos completos publicados em periódicos",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
-        "production_type": "Produções",
-        "extracted_at": "2026-01-26T09:30:31.217886"
+        "production_type": "Artigos completos publicados em periódicos",
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
       "veiculo": "Plant Nano Biology"
     },
@@ -186,11 +223,12 @@
       "doi": null,
       "fingerprint_sha1": "c007b51dbb76cbf32420914f28d877b693f7b935",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Manoel Peres Zinelli. uso de drones na agricultura.\n\t\t\t\t\tInício: 2024.\n\t\t\t\t\tDissertação (Mestrado em Engenharia Agrícola)  - Universidade Federal de Santa Maria. (Orientador). </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:31.226873"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
       "veiculo": "Início: 2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria. (Orientador)"
     },
@@ -198,17 +236,18 @@
       "numero_item": 3,
       "raw": "Marcos Lenz. DESENVOLVIMENTO E AVALIAÇÃO DE UMA NANOFORMULAÇÃO DE FUNGICIDA À BASE DE FLUAZINAM E TRICHODERMA PARA CONTROLE DE MOFO BRANCO (SCLEROTINIA SCLEROTIORUM) EM SOJA. Início: 2024. Tese (Doutorado em Engenharia Agrícola) - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
       "autores": null,
-      "titulo": "DESENVOLVIMENTO E AVALIAÇÃO DE UMA NANOFORMULAÇÃO DE FUNGICIDA À BASE DE FLUAZINAM E TRICHODERMA PARA CONTROLE DE MOFO BRANCO (SCLEROTINIA SCLEROTIORUM) EM SOJA",
+      "titulo": "DESENVOLVIMENTO E AVALIAO DE UMA NANOFORMULAO DE FUNGICIDA  BASE DE FLUAZINAM E TRICHODERMA PARA CONTROLE DE MOFO BRANCO (SCLEROTINIA SCLEROTIORUM) EM SOJA",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "5e84e34c6e71415f77957a5bc17f256ba68d4c66",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5317653360278699\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marcos Lenz. DESENVOLVIMENTO E AVALIAÇÃO DE UMA NANOFORMULAÇÃO DE FUNGICIDA À BASE DE FLUAZINAM E TRICHODERMA PARA CONTROLE DE MOFO BRANCO (SCLEROTINIA SCLEROTIORUM) EM SOJA.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Engenharia Agrícola)  - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamen",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5317653360278699\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marcos Lenz. DESENVOLVIMENTO E AVALIAO DE UMA NANOFORMULAO DE FUNGICIDA  BASE DE FLUAZINAM E TRICHODERMA PARA CONTROLE DE MOFO BRANCO (SCLEROTINIA SCLEROTIORUM) EM SOJA.\n\t\t\t\t\tIncio: 2024. Tese (Doutorado em Engenharia Agrcola)  - Universidade Federal de Santa Maria, Coordenao de Aperfeioamen",
+      "production_type": "Orientações",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:31.226873"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
       "veiculo": "Início: 2024. Tese (Doutorado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
     },
@@ -216,17 +255,18 @@
       "numero_item": 4,
       "raw": "Marcos Lenz. AVALIAÇÃO IN VITRO E SEMI-CAMPO DE LUFENUROM NANOENCAPSULADO PARA CONTROLE DE RACHIPLUSIA NU: UMA ABORDAGEM INTERESSANTE VISANDO UMA AGRICULTURA SUSTENTÁVEL. 2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Adriano Arrué Melo.",
       "autores": null,
-      "titulo": "AVALIAÇÃO IN VITRO E SEMI-CAMPO DE LUFENUROM NANOENCAPSULADO PARA CONTROLE DE RACHIPLUSIA NU: UMA ABORDAGEM INTERESSANTE VISANDO UMA AGRICULTURA SUSTENTÁVEL",
+      "titulo": "AVALIAO IN VITRO E SEMI-CAMPO DE LUFENUROM NANOENCAPSULADO PARA CONTROLE DE RACHIPLUSIA NU: UMA ABORDAGEM INTERESSANTE VISANDO UMA AGRICULTURA SUSTENTVEL",
       "ano": 2024,
       "mes": null,
       "doi": null,
       "fingerprint_sha1": "a685a02f7448df8772f09d57135fa0964abb5d69",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5317653360278699\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marcos Lenz. AVALIAÇÃO IN VITRO E SEMI-CAMPO DE LUFENUROM NANOENCAPSULADO PARA CONTROLE DE RACHIPLUSIA NU: UMA ABORDAGEM INTERESSANTE VISANDO UMA AGRICULTURA SUSTENTÁVEL.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Engenharia Agrícola)  - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoam",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5317653360278699\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Marcos Lenz. AVALIAO IN VITRO E SEMI-CAMPO DE LUFENUROM NANOENCAPSULADO PARA CONTROLE DE RACHIPLUSIA NU: UMA ABORDAGEM INTERESSANTE VISANDO UMA AGRICULTURA SUSTENTVEL.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertao  (Mestrado em Engenharia Agrcola)  - Universidade Federal de Santa Maria, Coordenao de Aperfeioam",
+      "production_type": "Orientações",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:31.226873"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
       "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
     },
@@ -240,11 +280,12 @@
       "doi": null,
       "fingerprint_sha1": "4de78903b013d4bc9d4fdb1c34a77b235159039e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Renata Bencke Gross. EFICÁCIA DE FUNGICIDAS ASSOCIADOS A DIFERENTES ADJUVANTES E VOLUMES DE CALDA NO CONTROLE DE DOENÇAS DO TRIGO.\n\t\t\t\t\t\t2024.\n\n\t\t\t\t\tDissertação  (Mestrado em Engenharia Agrícola)  - Universidade Federal de Santa Maria, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Adriano Arrué Melo. </span></div>",
+      "production_type": "Orientações",
       "source": {
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-26T09:30:31.226873"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
       "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
     }
