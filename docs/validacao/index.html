@@ -397,6 +397,10 @@
         content: "";
       }
     }
+
+    .hidden-col {
+      display: none !important;
+    }
   </style>
 </head>
 <body>
@@ -653,6 +657,7 @@
         key: 'numero_item',
         label: 'Número item',
         getValue: (item) => item.numero_item ?? item.ordem_lattes ?? item.numeroItem ?? '',
+        hidden: true,
       },
       {
         key: 'ano',
@@ -736,6 +741,7 @@
       {
         key: 'fingerprint_sha1',
         label: 'Fingerprint SHA1',
+        hidden: true,
       },
       {
         key: 'parse_warnings',
@@ -1005,17 +1011,21 @@
       headerRow.appendChild(inctTh);
       const orderTh = document.createElement('th');
       orderTh.textContent = 'Ordem';
+      orderTh.className = 'hidden-col';
       headerRow.appendChild(orderTh);
       columns.forEach((column) => {
         const th = document.createElement('th');
         th.textContent = column.label;
+        if (column.hidden) th.classList.add('hidden-col');
         headerRow.appendChild(th);
       });
       const rawTh = document.createElement('th');
       rawTh.textContent = 'Raw';
+      rawTh.className = 'hidden-col';
       headerRow.appendChild(rawTh);
       const actionTh = document.createElement('th');
       actionTh.textContent = 'Ações';
+      actionTh.className = 'hidden-col';
       headerRow.appendChild(actionTh);
       thead.appendChild(headerRow);
       table.appendChild(thead);
@@ -1041,6 +1051,7 @@
         row.appendChild(selectCell);
         const orderCell = document.createElement('td');
         orderCell.textContent = safeText(index + 1);
+        orderCell.className = 'hidden-col';
         row.appendChild(orderCell);
 
         columns.forEach((column) => {
@@ -1049,11 +1060,13 @@
             : item[column.key];
           const cell = document.createElement('td');
           cell.textContent = formatValue(value);
+          if (column.hidden) cell.classList.add('hidden-col');
           row.appendChild(cell);
         });
 
         const raw = getRawText(item);
         const rawCell = document.createElement('td');
+        rawCell.className = 'hidden-col';
         const rawWrap = document.createElement('div');
         rawWrap.className = 'raw-flyout';
         const rawLink = document.createElement('span');
@@ -1069,6 +1082,7 @@
         row.appendChild(rawCell);
 
         const actionCell = document.createElement('td');
+        actionCell.className = 'hidden-col';
         const editBtn = document.createElement('button');
         editBtn.type = 'button';
         editBtn.className = 'action-btn';
