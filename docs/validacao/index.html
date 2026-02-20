@@ -104,6 +104,68 @@
       background: rgba(26, 79, 91, 0.08);
     }
 
+    .summary-link {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      padding: 2px 0;
+    }
+
+    .section-header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .section-header h2 {
+      margin: 0;
+      scroll-margin-top: 16px;
+    }
+
+    .section-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .section-controls label {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      font-weight: 600;
+      color: var(--ink);
+    }
+
+    .section-controls .selection-count {
+      font-variant-numeric: tabular-nums;
+    }
+
+    .inct-checkbox {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      font-weight: 600;
+    }
+
+    .action-btn {
+      border: 1px solid var(--accent);
+      background: transparent;
+      color: var(--accent);
+      padding: 6px 10px;
+      font-size: 13px;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    .action-btn:hover {
+      background: rgba(26, 79, 91, 0.08);
+    }
+
     .panel {
       margin-top: 20px;
       padding: 16px 20px;
@@ -211,6 +273,111 @@
       max-width: 520px;
     }
 
+    .raw-flyout {
+      position: relative;
+      display: inline-block;
+    }
+
+    .raw-link {
+      color: var(--accent);
+      cursor: pointer;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+
+    .raw-tooltip {
+      position: absolute;
+      top: 100%;
+      right: 0;
+      z-index: 5;
+      min-width: 240px;
+      max-width: min(420px, 80vw);
+      max-height: 260px;
+      overflow: auto;
+      white-space: pre-wrap;
+      background: #fffdf8;
+      border: 1px solid var(--border);
+      padding: 10px;
+      box-shadow: 0 8px 18px rgba(30, 27, 22, 0.18);
+      color: var(--ink);
+      display: none;
+    }
+
+    .raw-flyout:hover .raw-tooltip,
+    .raw-flyout:focus-within .raw-tooltip {
+      display: block;
+    }
+
+    .flash {
+      animation: flash-bg 0.8s ease;
+    }
+
+    @keyframes flash-bg {
+      0% {
+        background: rgba(26, 79, 91, 0.2);
+      }
+      100% {
+        background: transparent;
+      }
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(30, 27, 22, 0.45);
+      display: grid;
+      place-items: center;
+      padding: 16px;
+      z-index: 10;
+    }
+
+    [hidden] {
+      display: none !important;
+    }
+
+    .modal-card {
+      width: min(640px, 100%);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 18px 20px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .modal-card h3 {
+      margin: 0;
+    }
+
+    .modal-grid {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    .modal-field {
+      display: grid;
+      gap: 6px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .modal-field input,
+    .modal-field textarea {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      font-size: 14px;
+      font-family: inherit;
+      color: var(--ink);
+      background: #fffdf8;
+    }
+
+    .modal-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
     @media print {
       body {
         background: white;
@@ -257,6 +424,7 @@
       </div>
     </div>
     <div class="actions">
+      <button id="export-validation" type="button">Baixar validação (JSON)</button>
       <a id="download-json" href="#" target="_blank" rel="noopener">Baixar JSON original</a>
       <button id="print-btn" type="button">Exportar HTML (print)</button>
       <a id="list-link" href="lista.html">Índice</a>
@@ -287,7 +455,7 @@
       </div>
       <div class="filter-group">
         <span class="filter-title">Busca</span>
-        <input id="search-input" type="search" placeholder="Digite parte do título, veículo, autores ou raw" />
+        <input id="search-input" type="search" placeholder="Digite parte do título, veículo, autores, DOI/ISBN/ISSN, editora ou raw" />
       </div>
     </div>
     <div class="filter-status">Itens exibidos: <span id="visible-count">0</span> / <span id="total-count">0</span></div>
@@ -295,29 +463,61 @@
 
   <section class="panel">
     <h2>Produções</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Ordem</th>
-          <th>Número item</th>
-          <th>Ano</th>
-          <th>Tipo / Seção</th>
-          <th>Título</th>
-          <th>Veículo</th>
-          <th>Autores</th>
-          <th>Raw</th>
-        </tr>
-      </thead>
-      <tbody id="productions-body"></tbody>
-    </table>
+    <div id="productions-container"></div>
   </section>
+
+  <div id="edit-modal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="edit-modal-title">
+      <h3 id="edit-modal-title">Edição rápida</h3>
+      <div class="modal-grid">
+        <label class="modal-field">
+          Título
+          <input id="edit-titulo" type="text" />
+        </label>
+        <label class="modal-field">
+          Veículo
+          <input id="edit-veiculo" type="text" />
+        </label>
+        <label class="modal-field">
+          Ano
+          <input id="edit-ano" type="number" />
+        </label>
+        <label class="modal-field">
+          DOI
+          <input id="edit-doi" type="text" />
+        </label>
+      </div>
+      <label class="modal-field">
+        Autores (opcional)
+        <textarea id="edit-autores" rows="3"></textarea>
+      </label>
+      <div class="modal-actions">
+        <button id="edit-clear" class="action-btn" type="button">Limpar edição</button>
+        <button id="edit-cancel" class="action-btn" type="button">Cancelar</button>
+        <button id="edit-save" class="action-btn" type="button">Salvar</button>
+      </div>
+    </div>
+  </div>
 
   <script>
     const state = {
-      rows: [],
-      sections: [],
+      productions: [],
+      productionsRaw: [],
+      metadataSections: [],
+      sectionsAll: [],
       years: [],
       sourceUrl: null,
+      prefillParam: null,
+      prefillSource: null,
+      storageKey: null,
+      selections: {},
+      edits: {},
+      observations: {},
+      currentEntriesBySection: new Map(),
+      schemaVersion: null,
+      researcher: null,
+      editingKey: null,
+      editingIndex: null,
     };
 
     const elements = {
@@ -327,6 +527,7 @@
       extractedAt: document.getElementById('extracted-at'),
       totalProductions: document.getElementById('total-productions'),
       downloadJson: document.getElementById('download-json'),
+      exportValidation: document.getElementById('export-validation'),
       printBtn: document.getElementById('print-btn'),
       errors: document.getElementById('errors'),
       errorMessage: document.getElementById('error-message'),
@@ -336,23 +537,47 @@
       yearFilters: document.getElementById('year-filters'),
       sectionFilters: document.getElementById('section-filters'),
       searchInput: document.getElementById('search-input'),
-      productionsBody: document.getElementById('productions-body'),
+      productionsContainer: document.getElementById('productions-container'),
       visibleCount: document.getElementById('visible-count'),
       totalCount: document.getElementById('total-count'),
+      editModal: document.getElementById('edit-modal'),
+      editTitulo: document.getElementById('edit-titulo'),
+      editVeiculo: document.getElementById('edit-veiculo'),
+      editAno: document.getElementById('edit-ano'),
+      editDoi: document.getElementById('edit-doi'),
+      editAutores: document.getElementById('edit-autores'),
+      editSave: document.getElementById('edit-save'),
+      editCancel: document.getElementById('edit-cancel'),
+      editClear: document.getElementById('edit-clear'),
     };
 
     const safeText = (value) => (value === undefined || value === null) ? '' : String(value);
 
     const normalizeWhitespace = (value) => safeText(value).replace(/\s+/g, ' ').trim();
 
-    const getSectionLabel = (item) => {
+    const slugify = (value) => {
+      return safeText(value)
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+        .replace(/[^a-z0-9-]/g, '')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '');
+    };
+
+    const getSectionId = (label) => `sec-${slugify(label)}`;
+
+    const getCategory = (item) => {
       const source = item && item.source ? item.source : {};
       return (
+        item.production_type ||
+        item.section ||
+        item.tipo_producao ||
         source.production_type ||
-        source.section_name ||
-        item.section_name ||
-        item.categoria ||
-        'Sem seção'
+        source.section ||
+        source.tipo_producao ||
+        'Produções'
       );
     };
 
@@ -362,6 +587,197 @@
 
     const getRawText = (item) => {
       return item.raw ?? item.raw_text ?? '';
+    };
+
+    const getItemKey = (item, groupKey, index) => {
+      if (item && item.fingerprint_sha1) {
+        return item.fingerprint_sha1;
+      }
+      const numeroItem = item?.numero_item ?? item?.ordem_lattes ?? item?.numeroItem ?? index + 1;
+      const rawSlice = safeText(getRawText(item)).slice(0, 40);
+      // Fallback deterministico quando fingerprint_sha1 nao esta disponivel.
+      return `${groupKey}::${numeroItem}::${rawSlice}`;
+    };
+
+    const loadStoredState = () => {
+      if (!state.storageKey) return;
+      try {
+        const raw = localStorage.getItem(state.storageKey);
+        if (!raw) return;
+        const parsed = JSON.parse(raw);
+        state.selections = parsed.selections && typeof parsed.selections === 'object' ? parsed.selections : {};
+        state.edits = parsed.edits && typeof parsed.edits === 'object' ? parsed.edits : {};
+        state.observations = parsed.observations && typeof parsed.observations === 'object' ? parsed.observations : {};
+      } catch (err) {
+        console.warn('Falha ao carregar estado salvo.', err);
+      }
+    };
+
+    const persistState = () => {
+      if (!state.storageKey) return;
+      const payload = {
+        selections: state.selections,
+        edits: state.edits,
+        observations: state.observations,
+      };
+      localStorage.setItem(state.storageKey, JSON.stringify(payload));
+    };
+
+    const applyEditsToItem = (item, index) => {
+      const key = getItemKey(item, getCategory(item), index);
+      const edits = state.edits[key];
+      if (!edits) return { ...item };
+      return { ...item, ...edits };
+    };
+
+    const isNonEmptyValue = (value) => {
+      if (Array.isArray(value)) {
+        return value.some((entry) => isNonEmptyValue(entry));
+      }
+      if (typeof value === 'string') {
+        return value.trim().length > 0;
+      }
+      if (value === 0) return true;
+      return Boolean(value);
+    };
+
+    const formatValue = (value) => {
+      if (Array.isArray(value)) {
+        return value.filter((entry) => isNonEmptyValue(entry)).map((entry) => safeText(entry)).join('; ');
+      }
+      return safeText(value);
+    };
+
+    const COLUMN_DEFS = [
+      {
+        key: 'numero_item',
+        label: 'Número item',
+        getValue: (item) => item.numero_item ?? item.ordem_lattes ?? item.numeroItem ?? '',
+      },
+      {
+        key: 'ano',
+        label: 'Ano',
+        getValue: (item) => getYear(item) ?? '',
+      },
+      {
+        key: 'mes',
+        label: 'Mês',
+        getValue: (item) => item.mes ?? item.month ?? '',
+      },
+      {
+        key: 'tipo_secao',
+        label: 'Tipo / Seção',
+        getValue: (item) => getCategory(item),
+      },
+      {
+        key: 'titulo',
+        label: 'Título',
+        getValue: (item) => item.titulo ?? item.title ?? '',
+      },
+      {
+        key: 'veiculo',
+        label: 'Veículo',
+        getValue: (item) => item.veiculo ?? item.vehicle ?? '',
+      },
+      {
+        key: 'autores',
+        label: 'Autores',
+        getValue: (item) => item.autores ?? item.authors ?? '',
+      },
+      {
+        key: 'doi',
+        label: 'DOI',
+      },
+      {
+        key: 'issn',
+        label: 'ISSN',
+      },
+      {
+        key: 'isbn',
+        label: 'ISBN',
+      },
+      {
+        key: 'url',
+        label: 'URL',
+      },
+      {
+        key: 'volume',
+        label: 'Volume',
+      },
+      {
+        key: 'numero',
+        label: 'Número',
+      },
+      {
+        key: 'paginas',
+        label: 'Páginas',
+      },
+      {
+        key: 'editora',
+        label: 'Editora',
+      },
+      {
+        key: 'local',
+        label: 'Local',
+      },
+      {
+        key: 'organizadores',
+        label: 'Organizadores',
+        getValue: (item) => item.organizadores ?? item.organizador ?? item.organizers ?? '',
+      },
+      {
+        key: 'tipo_orientacao',
+        label: 'Tipo orientação',
+      },
+      {
+        key: 'natureza',
+        label: 'Natureza',
+      },
+      {
+        key: 'fingerprint_sha1',
+        label: 'Fingerprint SHA1',
+      },
+      {
+        key: 'parse_warnings',
+        label: 'Parse warnings',
+      },
+    ];
+
+    const detectColumns = (items) => {
+      return COLUMN_DEFS.filter((column) => {
+        return items.some((item) => {
+          const value = column.getValue ? column.getValue(item) : item[column.key];
+          return isNonEmptyValue(value);
+        });
+      });
+    };
+
+    const getSearchText = (item) => {
+      const parts = [
+        getCategory(item),
+        getYear(item),
+        item.mes ?? item.month,
+        item.titulo ?? item.title,
+        item.veiculo ?? item.vehicle,
+        item.autores ?? item.authors,
+        item.doi,
+        item.issn,
+        item.isbn,
+        item.url,
+        item.volume,
+        item.numero,
+        item.paginas,
+        item.editora,
+        item.local,
+        item.organizadores ?? item.organizador ?? item.organizers,
+        item.tipo_orientacao,
+        item.natureza,
+        item.fingerprint_sha1,
+        item.parse_warnings,
+        getRawText(item),
+      ];
+
+      return normalizeWhitespace(parts.map((part) => formatValue(part)).join(' ')).toLowerCase();
     };
 
     const showError = (message, details) => {
@@ -383,11 +799,14 @@
       const params = new URLSearchParams(window.location.search);
       const sourceParam = params.get('source');
       const prefillParam = params.get('prefill');
+      state.prefillParam = prefillParam;
+      state.prefillSource = prefillParam || sourceParam || null;
 
       if (sourceParam) {
         if (!isAbsoluteUrl(sourceParam)) {
           throw new Error(`Parametro source precisa ser uma URL absoluta: ${sourceParam}`);
         }
+        state.prefillSource = sourceParam;
         return sourceParam;
       }
 
@@ -417,12 +836,12 @@
       throw new Error(`Parametro prefill invalido: ${prefillParam}`);
     };
 
-    const renderSummary = (productions, metadataSections) => {
+    const computeSectionOrder = (productions, metadataSections) => {
       const counts = new Map();
       const seenOrder = [];
 
       for (const item of productions) {
-        const label = getSectionLabel(item);
+        const label = getCategory(item);
         counts.set(label, (counts.get(label) || 0) + 1);
         if (!seenOrder.includes(label)) {
           seenOrder.push(label);
@@ -446,26 +865,55 @@
         summaryOrder.push(...seenOrder);
       }
 
+      return summaryOrder;
+    };
+
+    const renderSummary = (productions, summaryOrder) => {
+      const counts = new Map();
+      for (const item of productions) {
+        const label = getCategory(item);
+        counts.set(label, (counts.get(label) || 0) + 1);
+      }
+
       if (summaryOrder.length === 0) {
+        elements.summaryPanel.hidden = true;
         return;
       }
 
       elements.summaryList.innerHTML = '';
+      let hasItems = false;
       for (const label of summaryOrder) {
         const count = counts.get(label) || 0;
+        if (count === 0) continue;
         const li = document.createElement('li');
-        li.textContent = `${label}: ${count}`;
+        const sectionId = getSectionId(label);
+        const link = document.createElement('a');
+        link.href = `#${sectionId}`;
+        link.className = 'summary-link';
+        link.textContent = `${label}: ${count}`;
+        li.appendChild(link);
         elements.summaryList.appendChild(li);
+        hasItems = true;
       }
-      elements.summaryPanel.hidden = false;
-      state.sections = summaryOrder;
+      elements.summaryPanel.hidden = !hasItems;
+    };
+
+    const flashAndScrollToSection = (sectionId) => {
+      const heading = document.getElementById(sectionId);
+      if (!heading) return;
+      heading.classList.add('flash');
+      heading.focus({ preventScroll: true });
+      heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      window.setTimeout(() => heading.classList.remove('flash'), 800);
     };
 
     const renderFilters = () => {
       elements.yearFilters.innerHTML = '';
       elements.sectionFilters.innerHTML = '';
 
-      const uniqueYears = Array.from(new Set(state.rows.map((row) => row.dataset.year))).filter(Boolean);
+      const uniqueYears = Array.from(
+        new Set(state.productions.map((item) => safeText(getYear(item))).filter(Boolean))
+      );
       uniqueYears.sort((a, b) => Number(a) - Number(b));
       state.years = uniqueYears;
 
@@ -481,7 +929,9 @@
         elements.yearFilters.appendChild(label);
       }
 
-      const sections = state.sections.length ? state.sections : Array.from(new Set(state.rows.map((row) => row.dataset.section)));
+      const sections = state.sectionsAll.length
+        ? state.sectionsAll
+        : Array.from(new Set(state.productions.map((item) => getCategory(item))));
       for (const section of sections) {
         if (!section) continue;
         const label = document.createElement('label');
@@ -505,74 +955,207 @@
       );
       const query = elements.searchInput.value.trim().toLowerCase();
 
-      let visible = 0;
-      for (const row of state.rows) {
-        const yearOk = selectedYears.size === 0 || selectedYears.has(row.dataset.year);
-        const sectionOk = selectedSections.size === 0 || selectedSections.has(row.dataset.section);
-        const searchOk = !query || row.dataset.search.includes(query);
-        const show = yearOk && sectionOk && searchOk;
-        row.hidden = !show;
-        if (show) visible += 1;
+      const filtered = [];
+      for (let index = 0; index < state.productions.length; index += 1) {
+        const item = state.productions[index];
+        const category = getCategory(item);
+        const year = safeText(getYear(item));
+        const search = getSearchText(item);
+
+        const yearOk = selectedYears.size === 0 || selectedYears.has(year);
+        const sectionOk = selectedSections.size === 0 || selectedSections.has(category);
+        const searchOk = !query || search.includes(query);
+        if (yearOk && sectionOk && searchOk) {
+          filtered.push({ item, index, category });
+        }
       }
-      elements.visibleCount.textContent = String(visible);
+
+      renderGroupedTables(filtered);
+      renderSummary(filtered.map((entry) => entry.item), state.sectionsAll);
+      elements.visibleCount.textContent = String(filtered.length);
     };
 
-    const renderTable = (productions) => {
-      elements.productionsBody.innerHTML = '';
-      state.rows = [];
+    const getSectionSelectionStats = (entries) => {
+      let selectedCount = 0;
+      for (const entry of entries) {
+        const key = getItemKey(entry.item, entry.category, entry.index);
+        if (state.selections[key]) selectedCount += 1;
+      }
+      return { selectedCount, total: entries.length };
+    };
 
-      productions.forEach((item, index) => {
+    const updateSectionHeaderControls = (sectionEl, entries) => {
+      const checkbox = sectionEl.querySelector('.section-select-all');
+      const countEl = sectionEl.querySelector('.selection-count');
+      if (!checkbox || !countEl) return;
+      const { selectedCount, total } = getSectionSelectionStats(entries);
+      checkbox.checked = total > 0 && selectedCount === total;
+      checkbox.indeterminate = selectedCount > 0 && selectedCount < total;
+      countEl.textContent = `selecionados ${selectedCount} / total ${total}`;
+    };
+
+    const buildTable = (entries, sectionName) => {
+      const table = document.createElement('table');
+      const items = entries.map((entry) => entry.item);
+      const columns = detectColumns(items);
+      const thead = document.createElement('thead');
+      const headerRow = document.createElement('tr');
+      const inctTh = document.createElement('th');
+      inctTh.textContent = 'INCT?';
+      headerRow.appendChild(inctTh);
+      const orderTh = document.createElement('th');
+      orderTh.textContent = 'Ordem';
+      headerRow.appendChild(orderTh);
+      columns.forEach((column) => {
+        const th = document.createElement('th');
+        th.textContent = column.label;
+        headerRow.appendChild(th);
+      });
+      const rawTh = document.createElement('th');
+      rawTh.textContent = 'Raw';
+      headerRow.appendChild(rawTh);
+      const actionTh = document.createElement('th');
+      actionTh.textContent = 'Ações';
+      headerRow.appendChild(actionTh);
+      thead.appendChild(headerRow);
+      table.appendChild(thead);
+
+      const tbody = document.createElement('tbody');
+      entries.forEach(({ item, index, category }) => {
         const row = document.createElement('tr');
-        const sectionLabel = getSectionLabel(item);
-        const year = getYear(item);
-        const raw = getRawText(item);
-        const numeroItem = item.numero_item ?? item.ordem_lattes ?? '';
-
-        const cells = [
-          index + 1,
-          numeroItem,
-          year ?? '',
-          sectionLabel,
-          item.titulo ?? item.title ?? '',
-          item.veiculo ?? item.vehicle ?? '',
-          item.autores ?? '',
-          raw,
-        ];
-
-        cells.forEach((value, colIndex) => {
-          const cell = document.createElement('td');
-          if (colIndex === 7) {
-            const details = document.createElement('details');
-            const summary = document.createElement('summary');
-            summary.textContent = 'raw';
-            const pre = document.createElement('pre');
-            pre.className = 'raw-block';
-            pre.textContent = safeText(value);
-            details.appendChild(summary);
-            details.appendChild(pre);
-            cell.appendChild(details);
-          } else {
-            cell.textContent = safeText(value);
+        const key = getItemKey(item, category, index);
+        const selectCell = document.createElement('td');
+        const selectInput = document.createElement('input');
+        selectInput.type = 'checkbox';
+        selectInput.checked = Boolean(state.selections[key]);
+        selectInput.addEventListener('change', () => {
+          state.selections[key] = selectInput.checked;
+          persistState();
+          const sectionEl = row.closest('section');
+          const sectionEntries = state.currentEntriesBySection.get(category) || [];
+          if (sectionEl) {
+            updateSectionHeaderControls(sectionEl, sectionEntries);
           }
+        });
+        selectCell.appendChild(selectInput);
+        row.appendChild(selectCell);
+        const orderCell = document.createElement('td');
+        orderCell.textContent = safeText(index + 1);
+        row.appendChild(orderCell);
+
+        columns.forEach((column) => {
+          const value = column.getValue
+            ? column.getValue(item, category, sectionName)
+            : item[column.key];
+          const cell = document.createElement('td');
+          cell.textContent = formatValue(value);
           row.appendChild(cell);
         });
 
-        row.dataset.year = safeText(year);
-        row.dataset.section = sectionLabel;
-        row.dataset.search = normalizeWhitespace(
-          `${item.titulo ?? ''} ${item.veiculo ?? ''} ${item.autores ?? ''} ${raw}`
-        ).toLowerCase();
-        elements.productionsBody.appendChild(row);
-        state.rows.push(row);
-      });
+        const raw = getRawText(item);
+        const rawCell = document.createElement('td');
+        const rawWrap = document.createElement('div');
+        rawWrap.className = 'raw-flyout';
+        const rawLink = document.createElement('span');
+        rawLink.className = 'raw-link';
+        rawLink.textContent = 'raw';
+        rawLink.tabIndex = 0;
+        const rawTip = document.createElement('div');
+        rawTip.className = 'raw-tooltip';
+        rawTip.textContent = safeText(raw);
+        rawWrap.appendChild(rawLink);
+        rawWrap.appendChild(rawTip);
+        rawCell.appendChild(rawWrap);
+        row.appendChild(rawCell);
 
-      elements.totalCount.textContent = String(productions.length);
-      elements.visibleCount.textContent = String(productions.length);
+        const actionCell = document.createElement('td');
+        const editBtn = document.createElement('button');
+        editBtn.type = 'button';
+        editBtn.className = 'action-btn';
+        editBtn.textContent = 'Editar';
+        editBtn.addEventListener('click', () => openEditModal(item, key, index));
+        actionCell.appendChild(editBtn);
+        row.appendChild(actionCell);
+
+        tbody.appendChild(row);
+      });
+      table.appendChild(tbody);
+      return table;
+    };
+
+    const renderGroupedTables = (entries) => {
+      elements.productionsContainer.innerHTML = '';
+      state.currentEntriesBySection = new Map();
+      const groups = new Map();
+      const order = [];
+
+      for (const entry of entries) {
+        const key = entry.category;
+        if (!groups.has(key)) {
+          groups.set(key, []);
+          order.push(key);
+        }
+        groups.get(key).push(entry);
+      }
+
+      order.forEach((category) => {
+        const items = groups.get(category) || [];
+        state.currentEntriesBySection.set(category, items);
+        const section = document.createElement('section');
+        section.className = 'secao';
+
+        const sectionId = getSectionId(category);
+        const headingWrap = document.createElement('div');
+        headingWrap.className = 'section-header';
+
+        const heading = document.createElement('h2');
+        heading.id = sectionId;
+        heading.tabIndex = -1;
+        heading.textContent = `${category} (${items.length})`;
+        headingWrap.appendChild(heading);
+
+        const controls = document.createElement('div');
+        controls.className = 'section-controls';
+
+        const selectLabel = document.createElement('label');
+        const selectAll = document.createElement('input');
+        selectAll.type = 'checkbox';
+        selectAll.className = 'section-select-all';
+        selectAll.addEventListener('change', () => {
+          const checked = selectAll.checked;
+          const sectionEntries = state.currentEntriesBySection.get(category) || [];
+          sectionEntries.forEach((entry) => {
+            const key = getItemKey(entry.item, entry.category, entry.index);
+            state.selections[key] = checked;
+          });
+          const rowCheckboxes = section.querySelectorAll('tbody input[type="checkbox"]');
+          rowCheckboxes.forEach((input) => {
+            input.checked = checked;
+          });
+          persistState();
+          updateSectionHeaderControls(section, sectionEntries);
+        });
+        selectLabel.appendChild(selectAll);
+        selectLabel.appendChild(document.createTextNode('Selecionar tudo'));
+        controls.appendChild(selectLabel);
+
+        const countSpan = document.createElement('span');
+        countSpan.className = 'selection-count';
+        controls.appendChild(countSpan);
+        headingWrap.appendChild(controls);
+
+        section.appendChild(headingWrap);
+        section.appendChild(buildTable(items, category));
+        elements.productionsContainer.appendChild(section);
+        updateSectionHeaderControls(section, items);
+      });
     };
 
     const renderHeader = (data) => {
       const researcher = data.researcher || {};
       const metadata = data.metadata || {};
+      state.researcher = researcher;
+      state.schemaVersion = data.schema_version || metadata.schema_version || null;
 
       elements.researcherName.textContent = researcher.full_name || researcher.nome || data.pesquisador || '--';
       elements.researcherId.textContent = researcher.lattes_id || metadata.lattes_id || (data.productions?.[0]?.source?.lattes_id || '--');
@@ -582,6 +1165,52 @@
 
       elements.sourceLine.textContent = `Fonte: ${state.sourceUrl}`;
       elements.downloadJson.href = state.sourceUrl;
+      state.storageKey = `inct_validacao::${researcher.lattes_id || state.prefillParam || 'unknown'}`;
+    };
+
+    const applyEditsToProductions = () => {
+      state.productions = state.productionsRaw.map((item, index) => applyEditsToItem(item, index));
+    };
+
+    const openEditModal = (item, key, index) => {
+      state.editingKey = key;
+      state.editingIndex = index;
+      elements.editTitulo.value = safeText(item.titulo ?? item.title ?? '');
+      elements.editVeiculo.value = safeText(item.veiculo ?? item.vehicle ?? '');
+      elements.editAno.value = safeText(getYear(item) ?? '');
+      elements.editDoi.value = safeText(item.doi ?? '');
+      elements.editAutores.value = safeText(item.autores ?? item.authors ?? '');
+      elements.editModal.hidden = false;
+      elements.editTitulo.focus();
+    };
+
+    const closeEditModal = () => {
+      elements.editModal.hidden = true;
+      state.editingKey = null;
+      state.editingIndex = null;
+    };
+
+    const applyEditChanges = (edits) => {
+      if (!state.editingKey || state.editingIndex === null) return;
+      state.edits[state.editingKey] = edits;
+      state.productions[state.editingIndex] = {
+        ...state.productionsRaw[state.editingIndex],
+        ...edits,
+      };
+      persistState();
+      closeEditModal();
+      applyFilters();
+    };
+
+    const clearEditChanges = () => {
+      if (!state.editingKey || state.editingIndex === null) return;
+      delete state.edits[state.editingKey];
+      state.productions[state.editingIndex] = {
+        ...state.productionsRaw[state.editingIndex],
+      };
+      persistState();
+      closeEditModal();
+      applyFilters();
     };
 
     const loadData = async () => {
@@ -596,10 +1225,17 @@
           throw new Error('JSON invalido: campo productions nao encontrado ou nao e um array.');
         }
 
+        state.productionsRaw = data.productions;
+        state.metadataSections = data.metadata?.sections || [];
+
         renderHeader(data);
-        renderSummary(data.productions, data.metadata?.sections || []);
-        renderTable(data.productions);
+        loadStoredState();
+        applyEditsToProductions();
+        state.sectionsAll = computeSectionOrder(state.productions, state.metadataSections);
+
+        renderSummary(state.productions, state.sectionsAll);
         renderFilters();
+        elements.totalCount.textContent = String(state.productions.length);
         applyFilters();
       } catch (err) {
         const details = err && err.stack ? err.stack : String(err);
@@ -607,8 +1243,118 @@
       }
     };
 
+    const buildExportPayload = () => {
+      const summary = [];
+      const counts = new Map();
+      const selectedCounts = new Map();
+
+      state.productions.forEach((item, index) => {
+        const category = getCategory(item);
+        counts.set(category, (counts.get(category) || 0) + 1);
+        const key = getItemKey(item, category, index);
+        if (state.selections[key]) {
+          selectedCounts.set(category, (selectedCounts.get(category) || 0) + 1);
+        }
+      });
+
+      for (const category of state.sectionsAll) {
+        const total = counts.get(category) || 0;
+        if (!total) continue;
+        const markedInct = selectedCounts.get(category) || 0;
+        summary.push({
+          section: category,
+          total,
+          selected: markedInct,
+          marked_inct: markedInct,
+          unmarked: total - markedInct,
+        });
+      }
+
+      const items = state.productions.map((item, index) => {
+        const category = getCategory(item);
+        const key = getItemKey(item, category, index);
+        const selected = Boolean(state.selections[key]);
+        return {
+          fingerprint_sha1: item.fingerprint_sha1 || null,
+          selected,
+          pertence_inct: selected,
+          production_type: category,
+          titulo: item.titulo ?? item.title ?? null,
+          ano: getYear(item) ?? null,
+          doi: item.doi ?? null,
+          veiculo: item.veiculo ?? item.vehicle ?? null,
+          observacao: state.observations[key] || null,
+          edits: state.edits[key] || null,
+        };
+      });
+
+      return {
+        schema_version: state.schemaVersion,
+        schema_version_validacao: "1.0.0",
+        researcher: state.researcher || null,
+        prefill_source: state.prefillSource,
+        exported_at: new Date().toISOString(),
+        summary,
+        items,
+      };
+    };
+
+    const downloadValidationJson = () => {
+      const payload = buildExportPayload();
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      const baseId = state.researcher?.lattes_id || state.prefillParam || 'prefill';
+      const stamp = new Date().toISOString().replace(/[-:]/g, '').replace('T', '-').slice(0, 15);
+      link.download = `${baseId}__validacao_${stamp}.json`;
+      link.href = url;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      URL.revokeObjectURL(url);
+    };
+
     elements.searchInput.addEventListener('input', applyFilters);
     elements.printBtn.addEventListener('click', () => window.print());
+    elements.exportValidation.addEventListener('click', downloadValidationJson);
+    elements.summaryList.addEventListener('click', (event) => {
+      const link = event.target.closest('a[href^="#"]');
+      if (!link) return;
+      event.preventDefault();
+      const sectionId = link.getAttribute('href').slice(1);
+      history.replaceState(null, '', `#${sectionId}`);
+      flashAndScrollToSection(sectionId);
+    });
+
+    elements.editSave.addEventListener('click', () => {
+      const titulo = normalizeWhitespace(elements.editTitulo.value);
+      const veiculo = normalizeWhitespace(elements.editVeiculo.value);
+      const doi = normalizeWhitespace(elements.editDoi.value);
+      const autores = normalizeWhitespace(elements.editAutores.value);
+      const anoRaw = elements.editAno.value.trim();
+      const anoNumber = anoRaw === '' ? '' : Number(anoRaw);
+      const ano = Number.isNaN(anoNumber) ? '' : anoNumber;
+
+      applyEditChanges({
+        titulo,
+        veiculo,
+        ano,
+        doi,
+        autores,
+      });
+    });
+    elements.editCancel.addEventListener('click', closeEditModal);
+    elements.editClear.addEventListener('click', clearEditChanges);
+    elements.editModal.addEventListener('click', (event) => {
+      if (event.target === elements.editModal) {
+        closeEditModal();
+      }
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && !elements.editModal.hidden) {
+        closeEditModal();
+      }
+    });
 
     loadData();
   </script>

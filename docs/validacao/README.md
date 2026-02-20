@@ -19,6 +19,10 @@ Este viewer carrega um JSON de produções e renderiza em HTML **preservando a o
 - `source=`
   - URL absoluta de um JSON (prioridade sobre `prefill`)
 
+## Como salvar/exportar a validação
+
+Use o botão **"Baixar validação (JSON)"** no topo do viewer: o arquivo gerado inclui as seleções INCT?, as edições rápidas por item e um resumo por seção. O nome do arquivo usa o `lattes_id` (quando disponível) e timestamp para facilitar o retorno ao time técnico.
+
 ## Como publicar JSONs no Pages
 
 1. Gere o batch normalmente.
@@ -42,3 +46,12 @@ Depois acesse:
 
 - `http://localhost:8000/docs/validacao/?prefill=<filename>.json`
 - `http://localhost:8000/docs/validacao/lista.html`
+
+### Validação manual (3 passos)
+
+1. `python3 -m http.server`
+2. Abra `http://localhost:8000/docs/validacao/?prefill=4741480538883395`
+3. Confira:
+   - Seções continuam separadas
+   - Colunas mudam por seção (Artigos mostra DOI/ISSN quando houver; Livros/Capítulos mostra ISBN/Editora/Páginas quando houver)
+   - Busca e filtros continuam funcionando
