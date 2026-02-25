@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-01-28T14:28:31.613864",
+    "extracted_at": "2026-02-25T12:52:30.958941",
     "source_file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
     "total_productions": 36,
     "sections": [
@@ -49,27 +49,27 @@
       {
         "section_title": "Apresentações de Trabalho",
         "item_count": 5,
-        "tipo_producao": "temp__apresentaa-a-es-de-trabalho"
+        "tipo_producao": "temp__apresentacoes-de-trabalho"
       },
       {
         "section_title": "Outras produções bibliográficas",
         "item_count": 0,
-        "tipo_producao": "temp__outras-produa-a-es-bibliogra-ficas"
+        "tipo_producao": "temp__outras-producoes-bibliograficas"
       },
       {
         "section_title": "Processos ou técnicas",
         "item_count": 0,
-        "tipo_producao": "temp__processos-ou-ta-cnicas"
+        "tipo_producao": "temp__processos-ou-tecnicas"
       },
       {
         "section_title": "Entrevistas, mesas redondas, programas e comentários na mídia",
         "item_count": 0,
-        "tipo_producao": "temp__entrevistas-mesas-redondas-programas-e-comenta-rios-na-ma-dia"
+        "tipo_producao": "temp__entrevistas-mesas-redondas-programas-e-comentarios-na-midia"
       },
       {
         "section_title": "Demais tipos de produção técnica",
         "item_count": 0,
-        "tipo_producao": "temp__demais-tipos-de-produa-a-o-ta-cnica"
+        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
       },
       {
         "section_title": "Patentes e registros",
@@ -120,7 +120,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "SOUTH AFRICAN JOURNAL OF BOTANY"
     },
@@ -139,7 +139,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "PLANT CELL AND ENVIRONMENT"
     },
@@ -158,7 +158,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "Ecology and Evolution"
     },
@@ -177,7 +177,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "PLANTS"
     },
@@ -196,7 +196,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "BIODIVERSITY AND CONSERVATION (DORDRECHT. ONLINE)"
     },
@@ -215,64 +215,64 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-01-28T14:28:31.410298"
+        "extracted_at": "2026-02-25T12:52:30.758459"
       },
       "veiculo": "GigaScience"
     },
     {
       "numero_item": 1,
-      "raw": "OLIVEIRA, J. V. M. ; SILVA, E. M. ; PASCHOAL, D. ; Antonio Figueira . Functional study of the auxin role in symptom induction in tomato infected by Moniliophthora perniciosa, the causal agent of cacao ?witches? broom? disease. In: IX SimpÃ³sio Brasileiro de GenÃ©tica Molecular de Plantas, 2025, BÃºzios, RJ. IX SimpÃ³sio Brasileiro de GenÃ©tica Molecular de Plantas, 2025.",
+      "raw": "OLIVEIRA, J. V. M. ; SILVA, E. M. ; PASCHOAL, D. ; Antonio Figueira . Functional study of the auxin role in symptom induction in tomato infected by Moniliophthora perniciosa, the causal agent of cacao ?witches? broom? disease. In: IX Simpósio Brasileiro de Genética Molecular de Plantas, 2025, Búzios, RJ. IX Simpósio Brasileiro de Genética Molecular de Plantas, 2025.",
       "autores": "OLIVEIRA, J. V. M.; SILVA, E. M.; PASCHOAL, D.; Antonio Figueira",
       "titulo": "Functional study of the auxin role in symptom induction in tomato infected by Moniliophthora perniciosa, the causal agent of cacao ?witches? broom? disease",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "a993960c62bb75d772b1e8c5841bfc34fa1f5d93",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, J. V. M. ; SILVA, E. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PASCHOAL, D.</a> ; <b>Antonio Figueira</b> . Functional study of the auxin role in symptom induction in tomato infected by Moniliophthora perniciosa, the causal agent of cacao ?witches? broom? disease. In: IX Simpósio Brasileiro de Genética Molecular de Plantas, 2025, Búz",
+      "fingerprint_sha1": "7739081c70ee3f6689391f20e80c9c427cac8ade",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">OLIVEIRA, J. V. M. ; SILVA, E. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PASCHOAL, D.</a> ; <b>Antonio Figueira</b> . Functional study of the auxin role in symptom induction in tomato infected by Moniliophthora perniciosa, the causal agent of cacao ?witches? broom? disease. In: IX Simpósio Brasileiro de Genética Molecular de Plantas, 2025, Búzios,",
       "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-01-28T14:28:31.481900"
+        "extracted_at": "2026-02-25T12:52:30.829149"
       },
       "livro": "IX Simpósio Brasileiro de Genética Molecular de Plantas"
     },
     {
       "numero_item": 2,
-      "raw": "CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; DIAS, S. A. C. ; Figueira, A . The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. In: 21Âº Congresso Brasileiro de BioinformÃ¡tica: X Meeting 2025, 2025, JoÃ£o Pessoa. 21Âº Congresso Brasileiro de BioinformÃ¡tica: X Meeting 2025, 2025.",
+      "raw": "CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; DIAS, S. A. C. ; Figueira, A . The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. In: 21º Congresso Brasileiro de Bioinformática: X Meeting 2025, 2025, João Pessoa. 21º Congresso Brasileiro de Bioinformática: X Meeting 2025, 2025.",
       "autores": "CARVALHO, P. C.; BOMBARDELLI, R. G. H.; CONTILIANI, D. F.; VITORELLO, C. B. M.; DIAS, S. A. C.; Figueira, A",
       "titulo": "The ?sweet thirsty spider?: Building a drought-related sugarcane gene network",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "fa29654d44188b5e0f3bc39f0fe779e1a37994df",
+      "fingerprint_sha1": "71d46951c9344e1094c1402941c54b780e94c8d6",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; DIAS, S. A. C. ; <b>Figueira, A</b> . The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. In: 21º Congresso Brasileiro de Bioinformática: X Meeting 2025, 2025, João Pessoa. 21º Congresso Brasileiro de Bioinformática: X Meeting 2025, 2025. </span></div>",
       "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-01-28T14:28:31.481900"
+        "extracted_at": "2026-02-25T12:52:30.829149"
       },
       "livro": "21º Congresso Brasileiro de Bioinformática: X Meeting 2025"
     },
     {
       "numero_item": 3,
-      "raw": "CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; CRESTE, S. ; Figueira, A . Across The Sugarverse: The Use Of Biological Network In Sugarcane Breeding. In: II Escola Latino-Americana de BioinformÃ¡tica, 2024, Petropolis. I Escola Latino-Americana de BioinformÃ¡tica, 2024. v. 1.",
+      "raw": "CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; CRESTE, S. ; Figueira, A . Across The Sugarverse: The Use Of Biological Network In Sugarcane Breeding. In: II Escola Latino-Americana de Bioinformática, 2024, Petropolis. I Escola Latino-Americana de Bioinformática, 2024. v. 1.",
       "autores": "CARVALHO, P. C.; BOMBARDELLI, R. G. H.; CONTILIANI, D. F.; VITORELLO, C. B. M.; CRESTE, S.; Figueira, A",
       "titulo": "Across The Sugarverse: The Use Of Biological Network In Sugarcane Breeding",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "1403554a2c7ee8e09e00773fc2550dac5b3b8c45",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7471645176444598\" target=\"_blank\" title=\"Clique para visualizar o currículo\">CRESTE, S.</a> ; <b>Figueira, A</b> . Across The Sugarverse: The Use Of Biological Network In Sugarcane Breeding. In: II Escola Latino-Americana de Bioinformática, 2024, Petropolis. I Escola Latino-Americana de Bioinformática",
+      "fingerprint_sha1": "a2a373cc4006f08d283a5865f30e52c7fa0f70fb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">CARVALHO, P. C. ; BOMBARDELLI, R. G. H. ; CONTILIANI, D. F. ; VITORELLO, C. B. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7471645176444598\" target=\"_blank\" title=\"Clique para visualizar o currículo\">CRESTE, S.</a> ; <b>Figueira, A</b> . Across The Sugarverse: The Use Of Biological Network In Sugarcane Breeding. In: II Escola Latino-Americana de Bioinformática, 2024, Petropolis. I Escola Latino-Americana de Bioinformática, 2",
       "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-01-28T14:28:31.481900"
+        "extracted_at": "2026-02-25T12:52:30.829149"
       },
       "livro": "II Escola Latino-Americana de Bioinformática"
     },
@@ -291,235 +291,235 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-01-28T14:28:31.481900"
+        "extracted_at": "2026-02-25T12:52:30.829149"
       },
       "livro": "Plant Pathology 2024 (PPATH2024)"
     },
     {
       "numero_item": 5,
-      "raw": "ARGOTE-VARGAS, A. ; ROSSI, M. ; SILVA, E. ; Figueira, A . Unravelling the secrets of Moniliophthora perniciosa: Host manipulation and pathogen spread in the cacao witches' broom disease. In: XV SimpÃ³sio CientÃ­fico dos PÃ³s-Graduandos do CENA, 2024, Piracicaba, SP. XV SimpÃ³sio CientÃ­fico dos PÃ³s-Graduandos do CENA, 2024.",
+      "raw": "ARGOTE-VARGAS, A. ; ROSSI, M. ; SILVA, E. ; Figueira, A . Unravelling the secrets of Moniliophthora perniciosa: Host manipulation and pathogen spread in the cacao witches' broom disease. In: XV Simpósio Científico dos Pós-Graduandos do CENA, 2024, Piracicaba, SP. XV Simpósio Científico dos Pós-Graduandos do CENA, 2024.",
       "autores": "ARGOTE-VARGAS, A.; ROSSI, M.; SILVA, E.; Figueira, A",
       "titulo": "Unravelling the secrets of Moniliophthora perniciosa: Host manipulation and pathogen spread in the cacao witches' broom disease",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "d03c65961ffb1cd14269ada467908072582cdf30",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARGOTE-VARGAS, A. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9985280419642106\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSSI, M.</a> ; SILVA, E. ; <b>Figueira, A</b> . Unravelling the secrets of Moniliophthora perniciosa: Host manipulation and  pathogen spread in the cacao witches' broom disease. In: XV Simpósio Científico dos Pós-Graduandos do CENA, 2024, Piracicaba, SP. XV Simpósio Científico dos Pó",
+      "fingerprint_sha1": "fbb2e7816347201c832765d8d41a4d35e56532bb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ARGOTE-VARGAS, A. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9985280419642106\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSSI, M.</a> ; SILVA, E. ; <b>Figueira, A</b> . Unravelling the secrets of Moniliophthora perniciosa: Host manipulation and  pathogen spread in the cacao witches' broom disease. In: XV Simpósio Científico dos Pós-Graduandos do CENA, 2024, Piracicaba, SP. XV Simpósio Científico dos Pós-Gradu",
       "production_type": "Resumos publicados em anais de congressos",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-01-28T14:28:31.481900"
+        "extracted_at": "2026-02-25T12:52:30.829149"
       },
       "livro": "XV Simpósio Científico dos Pós-Graduandos do CENA"
     },
     {
       "numero_item": 1,
-      "raw": "Antonio Figueira . Centro de Estudos GenÃ©ticos e Evolutivos de Theobroma. 2025. (ApresentaÃ§Ã£o de Trabalho/SimpÃ³sio).",
+      "raw": "Antonio Figueira . Centro de Estudos Genéticos e Evolutivos de Theobroma. 2025. (Apresentação de Trabalho/Simpósio).",
       "autores": "Antonio Figueira",
       "titulo": "Centro de Estudos Genéticos e Evolutivos de Theobroma",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "2c94d4354e17d98ab53b170e3de7e247c5e15c0b",
+      "fingerprint_sha1": "6111695437f39a41ff0bdbc938bd840330991e00",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Antonio Figueira</b>. Centro de Estudos Genéticos e Evolutivos de Theobroma. 2025. (Apresentação de Trabalho/Simpósio). </span></div>",
       "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-01-28T14:28:31.487008"
+        "extracted_at": "2026-02-25T12:52:30.834279"
       },
       "veiculo": "2025. (Apresentação de Trabalho/Simpósio)"
     },
     {
       "numero_item": 2,
-      "raw": "PASCHOAL, D. ; CAZETTA, L. ; OLIVEIRA, J. V. M. ; DIAS, NATHÃLIA C. F. ; OMETTO, V. ; CARRERA, E. ; ROSSI, M. L. ; ARICETTI, J. A. ; MIECZKOWSKI, P. ; CESARINO, IGOR ; SILVA, S. ; RIBEIRO, R. V. ; TEIXEIRA, P. J. P. L. ; Antonio Figueira ; SILVA, E. M. . Infection by Moniliophthora perniciosa, the Causal Agentof Cacao Witches? Broom Disease, Limits Sugar Supplyfor Effective Development of Lateral Roots: Evidence from Tomato. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "raw": "PASCHOAL, D. ; CAZETTA, L. ; OLIVEIRA, J. V. M. ; DIAS, NATHÁLIA C. F. ; OMETTO, V. ; CARRERA, E. ; ROSSI, M. L. ; ARICETTI, J. A. ; MIECZKOWSKI, P. ; CESARINO, IGOR ; SILVA, S. ; RIBEIRO, R. V. ; TEIXEIRA, P. J. P. L. ; Antonio Figueira ; SILVA, E. M. . Infection by Moniliophthora perniciosa, the Causal Agentof Cacao Witches? Broom Disease, Limits Sugar Supplyfor Effective Development of Lateral Roots: Evidence from Tomato. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
       "autores": "PASCHOAL, D.; CAZETTA, L.; OLIVEIRA, J. V. M.; DIAS, NATHÁLIA C. F.; OMETTO, V.; CARRERA, E.; ROSSI, M. L.; ARICETTI, J. A.; MIECZKOWSKI, P.; CESARINO, IGOR; SILVA, S.; RIBEIRO, R. V.; TEIXEIRA, P. J. P. L.; Antonio Figueira; SILVA, E. M.",
       "titulo": "Infection by Moniliophthora perniciosa, the Causal Agentof Cacao Witches? Broom Disease, Limits Sugar Supplyfor Effective Development of Lateral Roots: Evidence from Tomato",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "35ed77f857f911f662dfccd473fac9da7e685ef5",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PASCHOAL, D.</a> ; CAZETTA, L. ; OLIVEIRA, J. V. M. ; DIAS, NATHÁLIA C. F. ; OMETTO, V. ; CARRERA, E. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9985280419642106\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSSI, M. L.</a> ; ARICETTI, J. A. ; MIECZKOWSKI, P. ; CESARINO, IGOR ; SILVA, S.",
+      "fingerprint_sha1": "fcd240624979ee765eb717358b1c01eb4c679184",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PASCHOAL, D.</a> ; CAZETTA, L. ; OLIVEIRA, J. V. M. ; DIAS, NATHÁLIA C. F. ; OMETTO, V. ; CARRERA, E. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9985280419642106\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSSI, M. L.</a> ; ARICETTI, J. A. ; MIECZKOWSKI, P. ; CESARINO, IGOR ; SILVA, S. ; ",
       "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-01-28T14:28:31.487008"
+        "extracted_at": "2026-02-25T12:52:30.834279"
       },
       "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
     },
     {
       "numero_item": 3,
-      "raw": "Figueira, A . GeraÃ§Ã£o de variabilidade no EspaÃ§o - Moderador. 2025. (ApresentaÃ§Ã£o de Trabalho/SimpÃ³sio).",
+      "raw": "Figueira, A . Geração de variabilidade no Espaço - Moderador. 2025. (Apresentação de Trabalho/Simpósio).",
       "autores": "Figueira, A",
       "titulo": "Geração de variabilidade no Espaço - Moderador",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "c8f0277286a67f04586d980d73274bddacb86098",
+      "fingerprint_sha1": "e40ac7823d716cadf2a0f32324f47b65f1e36884",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Figueira, A</b>. Geração de variabilidade no Espaço - Moderador. 2025. (Apresentação de Trabalho/Simpósio). </span></div>",
       "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-01-28T14:28:31.487008"
+        "extracted_at": "2026-02-25T12:52:30.834279"
       },
       "veiculo": "2025. (Apresentação de Trabalho/Simpósio)"
     },
     {
       "numero_item": 4,
-      "raw": "A. Figueira . Theobroma cacao x Moniliophthora perniciosa: How much have we learned about the witches' broom disease of cacao using model systems?. 2024. (ApresentaÃ§Ã£o de Trabalho/SeminÃ¡rio).",
+      "raw": "A. Figueira . Theobroma cacao x Moniliophthora perniciosa: How much have we learned about the witches' broom disease of cacao using model systems?. 2024. (Apresentação de Trabalho/Seminário).",
       "autores": "A. Figueira",
       "titulo": "Theobroma cacao x Moniliophthora perniciosa: How much have we learned about the witches' broom disease of cacao using model systems?",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "d9decdef4e0070dc4d339c742496b1cd7ceb3218",
+      "fingerprint_sha1": "6d20daeba7ffaf319636008ae4330d225f506239",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>A. Figueira</b>. Theobroma cacao x Moniliophthora perniciosa: How much have we learned about the witches' broom disease of cacao  using model systems?. 2024. (Apresentação de Trabalho/Seminário). </span></div>",
       "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-01-28T14:28:31.487008"
+        "extracted_at": "2026-02-25T12:52:30.834279"
       },
       "veiculo": "2024. (Apresentação de Trabalho/Seminário)"
     },
     {
       "numero_item": 5,
-      "raw": "Figueira, Antonio . Fundos Patrimoniais: Modelos adotados no Brasil. 2024. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
+      "raw": "Figueira, Antonio . Fundos Patrimoniais: Modelos adotados no Brasil. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
       "autores": "Figueira, Antonio",
       "titulo": "Fundos Patrimoniais: Modelos adotados no Brasil",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "44544c1a01a9e60d3162e354eb584ed34c571910",
+      "fingerprint_sha1": "f40bfddc30fe91504454185c4e9bab1b79b61bd1",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Figueira, Antonio</b>. Fundos Patrimoniais: Modelos adotados no Brasil. 2024. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
       "production_type": "Apresentações de Trabalho",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-01-28T14:28:31.487008"
+        "extracted_at": "2026-02-25T12:52:30.834279"
       },
       "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
     },
     {
       "numero_item": 1,
-      "raw": "A. Figueira ; HAYASHIBARA, C. A. A.; PEREIRA, T. C.. ParticipaÃ§Ã£o em banca de Ricardo Yoshio Baba Junior. Silenciamento gÃªnico por RNA de interferÃªncia (RNAi) para controle de Diatraea saccharalis por expressÃ£o de dsRNA em Pantoea agglomerans 33.1. 2025. DissertaÃ§Ã£o (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de SÃ£o Paulo.",
+      "raw": "A. Figueira ; HAYASHIBARA, C. A. A.; PEREIRA, T. C.. Participação em banca de Ricardo Yoshio Baba Junior. Silenciamento gênico por RNA de interferência (RNAi) para controle de Diatraea saccharalis por expressão de dsRNA em Pantoea agglomerans 33.1. 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo.",
       "autores": "A. Figueira; HAYASHIBARA, C. A. A.; PEREIRA, T. C.. Participação em banca de Ricardo Yoshio Baba Junior. Silenciamento gênico por RNA de interferência (RNAi) para controle de Diatraea saccharalis por expressão de dsRNA em Pantoea agglomerans 33.1. 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo",
       "titulo": "Figueira ; HAYASHIBARA, C",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "edb511ec24eca03e087f729b6358d773adadc24c",
+      "fingerprint_sha1": "11c4f1af94be40a746a250f9b4e03b4cfb6c4615",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>A. Figueira</b>; HAYASHIBARA, C. A. A.; PEREIRA, T. C..  Participação em banca de Ricardo Yoshio Baba Junior. Silenciamento gênico por RNA de interferência (RNAi) para controle de Diatraea saccharalis por expressão de dsRNA em Pantoea agglomerans 33.1. 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo. </span></div>",
       "production_type": "Bancas",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-28T14:28:31.546159"
+        "extracted_at": "2026-02-25T12:52:30.891483"
       },
       "veiculo": "A. A.; PEREIRA"
     },
     {
       "numero_item": 32,
-      "raw": "ROSSI, M. M.; Campos ML; REIS, P. A. B.; Figueira, A . ParticipaÃ§Ã£o em banca de Lumi Shiose. O papel das proteÃ­nas que contÃ©m domÃ­nio B-box no desenvolvimento vegetativo de tomateiro. 2024 - Instituto de BiociÃªncias.",
+      "raw": "ROSSI, M. M.; Campos ML; REIS, P. A. B.; Figueira, A . Participação em banca de Lumi Shiose. O papel das proteínas que contém domínio B-box no desenvolvimento vegetativo de tomateiro. 2024 - Instituto de Biociências.",
       "autores": "ROSSI, M. M.; Campos ML; REIS, P. A. B.; Figueira, A",
       "titulo": "Participação em banca de Lumi Shiose",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "9b64314904302fa9aedeecdd19766a809804a793",
+      "fingerprint_sha1": "ec62138ecf122c78b4878bdc8bbdf1cc2aa93c4e",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">ROSSI, M. M.; Campos ML; REIS, P. A. B.; <b>Figueira, A</b>.  Participação em banca de Lumi Shiose. O papel das proteínas que contém domínio B-box no desenvolvimento vegetativo de tomateiro. 2024 - Instituto de Biociências. </span></div>",
       "production_type": "Bancas",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-28T14:28:31.546159"
+        "extracted_at": "2026-02-25T12:52:30.891483"
       },
       "veiculo": "O papel das proteínas que contém domínio B-box no desenvolvimento vegetativo de tomateiro. 2024 - Instituto de Biociências"
     },
     {
       "numero_item": 33,
-      "raw": "RECH FILHO, E. L.; FONTES, E. P. B.; SA, M. F. G.; Figueira, A . ParticipaÃ§Ã£o em banca de Valdeir Junio Vaz Moreira. Integrando o silenciamento gÃªnico dos efetores Minc03328 e Minc16803 a expressÃ£o do recombinante Germin-like protein 10 como nova medida protetiva in planta contra o nematoide Meloidogyne incognita. 2024. Tese (Doutorado em CiÃªncias BiolÃ³gicas (Biologia Molecular)) - Universidade de BrasÃ­lia.",
+      "raw": "RECH FILHO, E. L.; FONTES, E. P. B.; SA, M. F. G.; Figueira, A . Participação em banca de Valdeir Junio Vaz Moreira. Integrando o silenciamento gênico dos efetores Minc03328 e Minc16803 a expressão do recombinante Germin-like protein 10 como nova medida protetiva in planta contra o nematoide Meloidogyne incognita. 2024. Tese (Doutorado em Ciências Biológicas (Biologia Molecular)) - Universidade de Brasília.",
       "autores": "RECH FILHO, E. L.; FONTES, E. P. B.; SA, M. F. G.; Figueira, A",
       "titulo": "Participação em banca de Valdeir Junio Vaz Moreira",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "5302661433f8755666c5ee639125bca1cb7632f5",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RECH FILHO, E. L.; FONTES, E. P. B.; SA, M. F. G.; <b>Figueira, A</b>.  Participação em banca de Valdeir Junio Vaz Moreira. Integrando o silenciamento gênico dos efetores Minc03328 e Minc16803 a expressão do recombinante Germin-like protein 10 como nova medida protetiva in planta contra o nematoide Meloidogyne incognita. 2024. Tese (Doutorado em Ciências Biológicas (Biologia Molecular))  - Universidade de Brasília. </span></d",
+      "fingerprint_sha1": "62f6267c65124be48302b4ff24c788b0b3a3f447",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RECH FILHO, E. L.; FONTES, E. P. B.; SA, M. F. G.; <b>Figueira, A</b>.  Participação em banca de Valdeir Junio Vaz Moreira. Integrando o silenciamento gênico dos efetores Minc03328 e Minc16803 a expressão do recombinante Germin-like protein 10 como nova medida protetiva in planta contra o nematoide Meloidogyne incognita. 2024. Tese (Doutorado em Ciências Biológicas (Biologia Molecular))  - Universidade de Brasília. </span></div>",
       "production_type": "Bancas",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-28T14:28:31.546159"
+        "extracted_at": "2026-02-25T12:52:30.891483"
       },
       "veiculo": "Integrando o silenciamento gênico dos efetores Minc03328 e Minc16803 a expressão do recombinante Germin-like protein 10 como nova medida protetiva in planta contra o nematoide Meloidogyne incognita. 2024. Tese (Doutorado em Ciências Biológicas (Biologia Molecular)) - Universidade de Brasília"
     },
     {
       "numero_item": 136,
-      "raw": "LABATE, C. A.; Antonio Figueira ; GAVASSI, M. A.. ParticipaÃ§Ã£o em banca de Gian Carlos Costa Barros. EFEITOS DO DESEQUILÃBRIO NUTRICIONAL NO PERFIL TRANSCRICIONAL E NO METABOLISMO DE CARBOIDRATOS EM Coffea arabica: ESTUDO DAS INTERAÃÃES SINÃRGICAS E ANTAGÃNICAS ENTRE MAGNÃSIO, FÃSFORO E POTÃSSIO. 2024. Exame de qualificaÃ§Ã£o (Mestrando em GenÃ©tica e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz.",
+      "raw": "LABATE, C. A.; Antonio Figueira ; GAVASSI, M. A.. Participação em banca de Gian Carlos Costa Barros. EFEITOS DO DESEQUILÍBRIO NUTRICIONAL NO PERFIL TRANSCRICIONAL E NO METABOLISMO DE CARBOIDRATOS EM Coffea arabica: ESTUDO DAS INTERAÇÕES SINÉRGICAS E ANTAGÔNICAS ENTRE MAGNÉSIO, FÓSFORO E POTÁSSIO. 2024. Exame de qualificação (Mestrando em Genética e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz.",
       "autores": "LABATE, C. A.; Antonio Figueira; GAVASSI, M. A.. Participação em banca de Gian Carlos Costa Barros",
       "titulo": "Participação em banca de Gian Carlos Costa Barros",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "baa73c452284f1dccde0ef14255d2e8839556505",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LABATE, C. A.; <b>Antonio Figueira</b>; GAVASSI, M. A..  Participação em banca de Gian Carlos Costa Barros. EFEITOS DO DESEQUILÍBRIO NUTRICIONAL NO PERFIL TRANSCRICIONAL E NO METABOLISMO DE CARBOIDRATOS EM Coffea arabica: ESTUDO DAS INTERAÇÕES SINÉRGICAS E ANTAGÔNICAS ENTRE MAGNÉSIO, FÓSFORO E POTÁSSIO. 2024. Exame de qualificação (Mestrando em Genética e Melhoramento de Plantas)  - Escola Superior de Agricultura Luiz d",
+      "fingerprint_sha1": "fc042ee2046c7a56fa90c1fda445e60b8b7b7142",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LABATE, C. A.; <b>Antonio Figueira</b>; GAVASSI, M. A..  Participação em banca de Gian Carlos Costa Barros. EFEITOS DO DESEQUILÍBRIO NUTRICIONAL NO PERFIL TRANSCRICIONAL E NO METABOLISMO DE CARBOIDRATOS EM Coffea arabica: ESTUDO DAS INTERAÇÕES SINÉRGICAS E ANTAGÔNICAS ENTRE MAGNÉSIO, FÓSFORO E POTÁSSIO. 2024. Exame de qualificação (Mestrando em Genética e Melhoramento de Plantas)  - Escola Superior de Agricultura Luiz de Queiroz. </",
       "production_type": "Bancas",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-28T14:28:31.546159"
+        "extracted_at": "2026-02-25T12:52:30.891483"
       },
       "veiculo": "EFEITOS DO DESEQUILÍBRIO NUTRICIONAL NO PERFIL TRANSCRICIONAL E NO METABOLISMO DE CARBOIDRATOS EM Coffea arabica: ESTUDO DAS INTERAÇÕES SINÉRGICAS E ANTAGÔNICAS ENTRE MAGNÉSIO"
     },
     {
       "numero_item": 147,
-      "raw": "LABATE, C. A.; Figueira A. ; MARTINS, K.; REIS, M. S.; VALLE, T. L.. GenÃ©tica da ConservaÃ§Ã£o e EvoluÃ§Ã£o de Plantas. 2024. Escola Superior de Agricultura Luiz de Queiroz.",
+      "raw": "LABATE, C. A.; Figueira A. ; MARTINS, K.; REIS, M. S.; VALLE, T. L.. Genética da Conservação e Evolução de Plantas. 2024. Escola Superior de Agricultura Luiz de Queiroz.",
       "autores": "LABATE, C. A.; Figueira A.; MARTINS, K.; REIS, M. S.; VALLE, T. L.. Genética da Conservação e Evolução de Plantas. 2024. Escola Superior de Agricultura Luiz de Queiroz",
       "titulo": "; MARTINS, K",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "0549c4a52fabe11326a3c78f5434164ca59ce719",
+      "fingerprint_sha1": "ecc9f938afde8a29ecd755b25877c3fa10e3d517",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">LABATE, C. A.; <b>Figueira A.</b>; MARTINS, K.; REIS, M. S.; VALLE, T. L.. Genética da Conservação e Evolução de Plantas.\n\t\t\t\t\t\t2024. Escola Superior de Agricultura Luiz de Queiroz. </span></div>",
       "production_type": "Bancas",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Bancas",
-        "extracted_at": "2026-01-28T14:28:31.546159"
+        "extracted_at": "2026-02-25T12:52:30.891483"
       },
       "veiculo": "; REIS"
     },
     {
       "numero_item": 1,
-      "raw": "21Âº Congresso Brasileiro de BioinformÃ¡tica: X Meeting 2025. The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. 2025. (Congresso).",
+      "raw": "21º Congresso Brasileiro de Bioinformática: X Meeting 2025. The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. 2025. (Congresso).",
       "autores": null,
       "titulo": "The ?sweet thirsty spider?: Building a drought-related sugarcane gene network",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "1db9ac3646048b5dcb126e824fc6ceea0e0d5394",
+      "fingerprint_sha1": "a4e19101f645a4510d5151beefe27747cff87429",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">21º Congresso Brasileiro de Bioinformática: X Meeting 2025. The ?sweet thirsty spider?: Building a drought-related sugarcane gene network. 2025. (Congresso). </span></div>",
       "production_type": "Eventos",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-28T14:28:31.564853"
+        "extracted_at": "2026-02-25T12:52:30.911103"
       },
       "veiculo": "2025. (Congresso)"
     },
@@ -538,7 +538,7 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-28T14:28:31.564853"
+        "extracted_at": "2026-02-25T12:52:30.911103"
       },
       "veiculo": "2025. (Congresso)"
     },
@@ -557,234 +557,234 @@
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Eventos",
-        "extracted_at": "2026-01-28T14:28:31.564853"
+        "extracted_at": "2026-02-25T12:52:30.911103"
       },
       "veiculo": "2024. (Congresso)"
     },
     {
       "numero_item": 1,
-      "raw": "Raquel Giselli Assis do RosÃ¡rio. AnÃ¡lise funcional do gene UACA em tomateiro ?Micro-Tom? e seu papel na resposta a infecÃ§Ã£o por fungos patogÃªnicos. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de SÃ£o Paulo, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
+      "raw": "Raquel Giselli Assis do Rosário. Análise funcional do gene UACA em tomateiro ?Micro-Tom? e seu papel na resposta a infecção por fungos patogênicos. Início: 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador).",
       "autores": null,
       "titulo": "Análise funcional do gene UACA em tomateiro ?Micro-Tom? e seu papel na resposta a infecção por fungos patogênicos",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "931768a6e89beaeeb554b875a46c59cd34e7b668",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4717220816910947\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Raquel Giselli Assis do Rosário. Análise funcional do gene UACA em tomateiro ?Micro-Tom? e seu papel na resposta a infecção por fungos patogênicos.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Biologia na Agricultura e no AMbiente)  - Centro de Energia Nuclear na Agricultura-Universidade d",
+      "fingerprint_sha1": "6402a013f2f08cecb6fe9c8d1a58ec12e1342c24",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/4717220816910947\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Raquel Giselli Assis do Rosário. Análise funcional do gene UACA em tomateiro ?Micro-Tom? e seu papel na resposta a infecção por fungos patogênicos.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Biologia na Agricultura e no AMbiente)  - Centro de Energia Nuclear na Agricultura-Universidade de São Pa",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Início: 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo"
     },
     {
       "numero_item": 3,
-      "raw": "Arlam Fernandes da Silva. Mecanismos moleculares de defesa em citros: AnÃ¡lise transcritÃ´mica da interaÃ§Ã£o Candidatus Liberibacter asiaticus e raÃ­zes de Citrus. InÃ­cio: 2024. Tese (Doutorado em GenÃ©tica e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
+      "raw": "Arlam Fernandes da Silva. Mecanismos moleculares de defesa em citros: Análise transcritômica da interação Candidatus Liberibacter asiaticus e raízes de Citrus. Início: 2024. Tese (Doutorado em Genética e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
       "autores": null,
       "titulo": "Mecanismos moleculares de defesa em citros: Análise transcritômica da interação Candidatus Liberibacter asiaticus e raízes de Citrus",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "16a61d97a63dda1bf16ce1b1b0c7b1187227c054",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8952846103713108\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Arlam Fernandes da Silva. Mecanismos moleculares de defesa em citros: Análise transcritômica da interação Candidatus Liberibacter asiaticus e raízes de Citrus.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Genética e Melhoramento de Plantas)  - Escola Superior de Agricultura Luiz de Queiroz, Coordenaç",
+      "fingerprint_sha1": "18ee03a440d7918294db6c9d30b0b16bbc9238b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8952846103713108\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Arlam Fernandes da Silva. Mecanismos moleculares de defesa em citros: Análise transcritômica da interação Candidatus Liberibacter asiaticus e raízes de Citrus.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Genética e Melhoramento de Plantas)  - Escola Superior de Agricultura Luiz de Queiroz, Coordenação de Ap",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Início: 2024. Tese (Doutorado em Genética e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 7,
-      "raw": "Daniele Paschoal. InÃ­cio: 2024. Centro de Energia Nuclear na Agricultura-Universidade de SÃ£o Paulo, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
+      "raw": "Daniele Paschoal. Início: 2024. Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico.",
       "autores": null,
       "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "2e30533dc965b8fbe420b92bb1aa2249b543c7aa",
+      "fingerprint_sha1": "b5292e4c8b50409229e0c8a8851eb832e150a129",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Daniele Paschoal.\n\t\t\t\t\tInício: 2024. Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Centro de Energia Nuclear na Agricultura-Universidade de São Paulo"
     },
     {
       "numero_item": 8,
-      "raw": "Raissa Lara Pinheiro. ObtenÃ§Ã£o de cultivo autÃ´nomo in vitro de raÃ­zes de Citrus empregando Agrobacterium rhizogenes. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz. (Orientador).",
+      "raw": "Raissa Lara Pinheiro. Obtenção de cultivo autônomo in vitro de raízes de Citrus empregando Agrobacterium rhizogenes. Início: 2025. Iniciação científica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz. (Orientador).",
       "autores": null,
       "titulo": "Obtenção de cultivo autônomo in vitro de raízes de Citrus empregando Agrobacterium rhizogenes",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "75c2be44025d2f743d825bc7e436e4230d89ec11",
+      "fingerprint_sha1": "f791b0568c40372e9e6c8bb6dab16072e9dd4ed0",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Raissa Lara Pinheiro. Obtenção de cultivo autônomo in vitro de raízes de Citrus empregando Agrobacterium rhizogenes. Início: 2025. Iniciação científica (Graduando em Biologia)  - Escola Superior de Agricultura Luiz de Queiroz. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Início: 2025. Iniciação científica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz. (Orientador)"
     },
     {
       "numero_item": 9,
-      "raw": "Maria Eduarda Silva Hasselmann. InduÃ§Ã£o de enraizamento de explantes de Citrus por Agrobacterium rhizogenes. InÃ­cio: 2025. IniciaÃ§Ã£o cientÃ­fica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de SÃ£o Paulo. (Orientador).",
+      "raw": "Maria Eduarda Silva Hasselmann. Indução de enraizamento de explantes de Citrus por Agrobacterium rhizogenes. Início: 2025. Iniciação científica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo. (Orientador).",
       "autores": null,
       "titulo": "Indução de enraizamento de explantes de Citrus por Agrobacterium rhizogenes",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "cf1cc3f0b28ac2bdcb09e809a85a30a094bc9980",
+      "fingerprint_sha1": "2de23cdc28237ae866b85acdc8dc75003ddfa511",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Maria Eduarda Silva Hasselmann. Indução de enraizamento de explantes de Citrus por Agrobacterium rhizogenes. Início: 2025. Iniciação científica (Graduando em Biologia)  - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Início: 2025. Iniciação científica (Graduando em Biologia) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 10,
-      "raw": "LÃ­via Akemi Tahara Amaral. AvaliaÃ§Ã£o do perfil hormonal de plantas modelos para o estudo da resistÃªncia biÃ³tipo-especÃ­fica ao patÃ³geno Moniliophthora perniciosa. InÃ­cio: 2024. IniciaÃ§Ã£o cientÃ­fica (Graduando em Engenharia AgronÃ´mica) - Escola Superior de Agricultura Luiz de Queiroz, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. (Orientador).",
+      "raw": "Lívia Akemi Tahara Amaral. Avaliação do perfil hormonal de plantas modelos para o estudo da resistência biótipo-específica ao patógeno Moniliophthora perniciosa. Início: 2024. Iniciação científica (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador).",
       "autores": null,
       "titulo": "Avaliação do perfil hormonal de plantas modelos para o estudo da resistência biótipo-específica ao patógeno Moniliophthora perniciosa",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "f0d1cef5a685c0c0aab0bcdd65807553bd63e278",
+      "fingerprint_sha1": "7b6ad5084892ece0418043b6dde88a424e40b588",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lívia Akemi Tahara Amaral. Avaliação do perfil hormonal de plantas modelos para o estudo da resistência biótipo-específica ao patógeno Moniliophthora perniciosa. Início: 2024. Iniciação científica (Graduando em Engenharia Agronômica)  - Escola Superior de Agricultura Luiz de Queiroz, Fundação de Amparo à Pesquisa do Estado de São Paulo. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "Início: 2024. Iniciação científica (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 14,
-      "raw": "Ricardo Yoshio Baba. Silenciamento gÃªnico por RNA interferente (RNAi) por bactÃ©ria endofÃ­tica para controle de Diatreaea saccharalis. 2025. DissertaÃ§Ã£o (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de SÃ£o Paulo, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Antonio Vargas de Oliveira Figueira.",
+      "raw": "Ricardo Yoshio Baba. Silenciamento gênico por RNA interferente (RNAi) por bactéria endofítica para controle de Diatreaea saccharalis. 2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "Silenciamento gênico por RNA interferente (RNAi) por bactéria endofítica para controle de Diatreaea saccharalis",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "13c732f68afde8392b47493192b38d43b87fb7b5",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8368137990528164\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ricardo Yoshio Baba. Silenciamento gênico por RNA interferente (RNAi) por bactéria endofítica para controle de Diatreaea saccharalis.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Biologia na Agricultura e no AMbiente)  - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Coordena",
+      "fingerprint_sha1": "f5af922ec694740ee7f3c2b8bd9e480f067b48d2",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/8368137990528164\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ricardo Yoshio Baba. Silenciamento gênico por RNA interferente (RNAi) por bactéria endofítica para controle de Diatreaea saccharalis.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Biologia na Agricultura e no AMbiente)  - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Coordenação de",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "2025. Dissertação (Mestrado em Biologia na Agricultura e no AMbiente) - Centro de Energia Nuclear na Agricultura-Universidade de São Paulo"
     },
     {
       "numero_item": 51,
-      "raw": "Daniele Paschoal. \"Dissecando a especificidade do hospedeiro na patogÃªnese dos isolados dos biÃ³tipos-S e C de Moniliophthora perniciosa, o agente causador da vassoura-de-bruxa do cacaueiro\". 2024. Tese (Doutorado em GenÃ©tica e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
+      "raw": "Daniele Paschoal. \"Dissecando a especificidade do hospedeiro na patogênese dos isolados dos biótipos-S e C de Moniliophthora perniciosa, o agente causador da vassoura-de-bruxa do cacaueiro\". 2024. Tese (Doutorado em Genética e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz, Fundação de Amparo à Pesquisa do Estado de São Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "\"Dissecando a especificidade do hospedeiro na patogênese dos isolados dos biótipos-S e C de Moniliophthora perniciosa, o agente causador da vassoura-de-bruxa do cacaueiro\"",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "d7131c32a65376d4ff650050133eea83568ac3fd",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Daniele Paschoal.\n\t\t\t\t\t\t\"Dissecando a especificidade do hospedeiro na patogênese dos isolados dos biótipos-S e C de Moniliophthora perniciosa, o agente causador da vassoura-de-bruxa do cacaueiro\".\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Genética e Melhoramento de Plantas)  - Escola Superior de Agricul",
+      "fingerprint_sha1": "d1de99686e6903cbd46668ceb8fdca1f64d3f690",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/6975230546509515\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Daniele Paschoal.\n\t\t\t\t\t\t\"Dissecando a especificidade do hospedeiro na patogênese dos isolados dos biótipos-S e C de Moniliophthora perniciosa, o agente causador da vassoura-de-bruxa do cacaueiro\".\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Genética e Melhoramento de Plantas)  - Escola Superior de Agricultur",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "2024. Tese (Doutorado em Genética e Melhoramento de Plantas) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 79,
-      "raw": "Eder Marques da Silva. 2024. Centro de Energia Nuclear na Agricultura-Universidade de SÃ£o Paulo, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Antonio Vargas de Oliveira Figueira.",
+      "raw": "Eder Marques da Silva. 2024. Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Fundação de Amparo à Pesquisa do Estado de São Paulo. Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "Antonio Vargas de Oliveira Figueira",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "54ada12150572db07fb4d260a4cce351e884a445",
+      "fingerprint_sha1": "86f0999ef03575b8de49043afeddee4226eb5b3f",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eder Marques da Silva.\n\t\t\t\t\t\t2024. Centro de Energia Nuclear na Agricultura-Universidade de São Paulo, Fundação de Amparo à Pesquisa do Estado de São Paulo. Antonio Vargas de Oliveira Figueira. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       }
     },
     {
       "numero_item": 112,
-      "raw": "Laura Cazetta. Suscetibilidade de tomateiro supreexpressando o gene da via de sÃ­ntese de citocinina Isopentenyl Transferase 3(SlIPT3) a Moniliophthora perniciosa. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia Florestal) - Escola Superior de Agricultura Luiz de Queiroz, FundaÃ§Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
+      "raw": "Laura Cazetta. Suscetibilidade de tomateiro supreexpressando o gene da via de síntese de citocinina Isopentenyl Transferase 3(SlIPT3) a Moniliophthora perniciosa. 2025. Iniciação Científica. (Graduando em Engenharia Florestal) - Escola Superior de Agricultura Luiz de Queiroz, Fundação de Amparo à Pesquisa do Estado de São Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "Suscetibilidade de tomateiro supreexpressando o gene da via de síntese de citocinina Isopentenyl Transferase 3(SlIPT3) a Moniliophthora perniciosa",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "4b62800dfccab6c6620775244277d4215de18a20",
+      "fingerprint_sha1": "d7e619749ed006d00acd6da99cc3572c35b974ff",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laura Cazetta.\n\t\t\t\t\t\tSuscetibilidade de tomateiro supreexpressando o gene da via de síntese de citocinina Isopentenyl Transferase 3(SlIPT3) a Moniliophthora perniciosa.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Engenharia Florestal)  - Escola Superior de Agricultura Luiz de Queiroz,\n\t\t\t\t\t\tFundação de Amparo à Pesquisa do Estado de São Paulo. Orientador: Antonio Vargas de Oliveira Figueira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "2025. Iniciação Científica. (Graduando em Engenharia Florestal) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 113,
-      "raw": "Karoline Santos Armando. Aspectos biolÃ³gicos de Tuta absoluta (Meyrick, 1917) em tomateiros transgÃªnicos expressando RNA de dupla fita (dsRNA). 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia AgronÃ´mica) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de SÃ£o Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
+      "raw": "Karoline Santos Armando. Aspectos biológicos de Tuta absoluta (Meyrick, 1917) em tomateiros transgênicos expressando RNA de dupla fita (dsRNA). 2025. Iniciação Científica. (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo. Orientador: Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "Aspectos biológicos de Tuta absoluta (Meyrick, 1917) em tomateiros transgênicos expressando RNA de dupla fita (dsRNA)",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "9eb6d0632ac36a71196caf1bf1f8f4b37d22367c",
+      "fingerprint_sha1": "c2cabee33b961a06b4ddf21ef2cb3230c2453b00",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Karoline Santos Armando.\n\t\t\t\t\t\tAspectos biológicos de Tuta absoluta (Meyrick, 1917) em tomateiros transgênicos expressando RNA de dupla fita (dsRNA).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Engenharia Agronômica)  - Escola Superior de Agricultura Luiz de Queiroz,\n\t\t\t\t\t\tUniversidade de São Paulo. Orientador: Antonio Vargas de Oliveira Figueira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "2025. Iniciação Científica. (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz"
     },
     {
       "numero_item": 114,
-      "raw": "Gabriel Mercaldi Evangelista. QuantificaÃ§Ã£o de DNA genÃ´mico de Moniliophtora perniciosa para avaliar a colonizaÃ§Ã£o em mutantes de tomateiro contrastantes na sinalizaÃ§Ã£o de auxina. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Engenharia AgronÃ´mica) - Escola Superior de Agricultura Luiz de Queiroz, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Antonio Vargas de Oliveira Figueira.",
+      "raw": "Gabriel Mercaldi Evangelista. Quantificação de DNA genômico de Moniliophtora perniciosa para avaliar a colonização em mutantes de tomateiro contrastantes na sinalização de auxina. 2024. Iniciação Científica. (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Antonio Vargas de Oliveira Figueira.",
       "autores": null,
       "titulo": "Quantificação de DNA genômico de Moniliophtora perniciosa para avaliar a colonização em mutantes de tomateiro contrastantes na sinalização de auxina",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "bd7701a725d35d897f1d2ceeba0c301591d12b97",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Mercaldi Evangelista.\n\t\t\t\t\t\tQuantificação de DNA genômico de Moniliophtora perniciosa para avaliar a colonização em mutantes de tomateiro contrastantes na sinalização de auxina.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Engenharia Agronômica)  - Escola Superior de Agricultura Luiz de Queiroz,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Antonio Vargas de Oliveira F",
+      "fingerprint_sha1": "875d6345370deff20c77973dbb89d75b765704ed",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Gabriel Mercaldi Evangelista.\n\t\t\t\t\t\tQuantificação de DNA genômico de Moniliophtora perniciosa para avaliar a colonização em mutantes de tomateiro contrastantes na sinalização de auxina.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Engenharia Agronômica)  - Escola Superior de Agricultura Luiz de Queiroz,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Antonio Vargas de Oliveira Figueira.\n\t\t\t\t",
       "production_type": "Orientações",
       "source": {
         "file": "9274242771803008__antonio-vargas-de-oliveira-figueira.full_profile.html",
         "lattes_id": "9274242771803008",
         "production_type": "Orientações",
-        "extracted_at": "2026-01-28T14:28:31.597540"
+        "extracted_at": "2026-02-25T12:52:30.943112"
       },
       "veiculo": "2024. Iniciação Científica. (Graduando em Engenharia Agronômica) - Escola Superior de Agricultura Luiz de Queiroz"
     }
