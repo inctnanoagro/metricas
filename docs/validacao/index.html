@@ -3,1372 +3,405 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Validação de Produções</title>
+  <title>Validação de Produções - INCT NanoAgro</title>
+  <link rel="stylesheet" href="metricas-inct.css">
   <style>
     :root {
-      color-scheme: light;
-      --bg: #f6f3ea;
-      --panel: #fffaf0;
-      --ink: #1e1b16;
-      --muted: #6a635c;
-      --accent: #1a4f5b;
-      --danger: #8a1f17;
-      --border: #d9d0c7;
+      color-scheme: light dark;
+      --bg: #f0f7ef; --panel: #ffffff; --ink: #1a2e18; --muted: #557052;
+      --accent: #284C23; --danger: #8a1f17; --border: #d1e0d0;
+      --table-row-even: rgba(40, 76, 35, 0.04); --table-hover: rgba(40, 76, 35, 0.07); --meta-bg: #f9fff8;
     }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      padding: 24px;
-      font-family: "Georgia", "Times New Roman", serif;
-      background: var(--bg);
-      color: var(--ink);
-    }
-
-    h1, h2, h3 {
-      margin: 0 0 8px;
-      font-weight: 600;
-    }
-
-    a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .page-header {
-      display: grid;
-      gap: 16px;
-      padding: 16px 20px;
-      border: 1px solid var(--border);
-      background: var(--panel);
-    }
-
-    .header-title {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .meta-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 12px;
-    }
-
-    .meta-card {
-      padding: 10px 12px;
-      border: 1px solid var(--border);
-      background: #fffdf8;
-    }
-
-    .meta-card span {
-      display: block;
-      font-size: 12px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-    }
-
-    .meta-card strong {
-      display: block;
-      font-size: 16px;
-      font-weight: 600;
-    }
-
-    .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-    }
-
-    .actions a,
-    .actions button {
-      border: 1px solid var(--accent);
-      background: transparent;
-      color: var(--accent);
-      padding: 8px 12px;
-      font-size: 14px;
-      cursor: pointer;
-    }
-
-    .actions button:hover,
-    .actions a:hover {
-      background: rgba(26, 79, 91, 0.08);
-    }
-
-    .summary-link {
-      display: inline-flex;
-      gap: 6px;
-      align-items: center;
-      padding: 2px 0;
-    }
-
-    .section-header {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .section-header h2 {
-      margin: 0;
-      scroll-margin-top: 16px;
-    }
-
-    .section-controls {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-      font-size: 13px;
-      color: var(--muted);
-    }
-
-    .section-controls label {
-      display: inline-flex;
-      gap: 6px;
-      align-items: center;
-      font-weight: 600;
-      color: var(--ink);
-    }
-
-    .section-controls .selection-count {
-      font-variant-numeric: tabular-nums;
-    }
-
-    .inct-checkbox {
-      display: inline-flex;
-      gap: 6px;
-      align-items: center;
-      font-weight: 600;
-    }
-
-    .action-btn {
-      border: 1px solid var(--accent);
-      background: transparent;
-      color: var(--accent);
-      padding: 6px 10px;
-      font-size: 13px;
-      cursor: pointer;
-      border-radius: 4px;
-    }
-
-    .action-btn:hover {
-      background: rgba(26, 79, 91, 0.08);
-    }
-
-    .panel {
-      margin-top: 20px;
-      padding: 16px 20px;
-      border: 1px solid var(--border);
-      background: var(--panel);
-    }
-
-    .error-panel {
-      border-color: var(--danger);
-      background: #fff0ed;
-      color: var(--danger);
-    }
-
-    .error-panel pre {
-      white-space: pre-wrap;
-      background: #f8dfdb;
-      padding: 12px;
-      border: 1px solid var(--danger);
-      margin-top: 12px;
-    }
-
-    .filters {
-      display: grid;
-      gap: 12px;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      align-items: start;
-    }
-
-    .filter-group {
-      display: grid;
-      gap: 8px;
-    }
-
-    .filter-title {
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--muted);
-    }
-
-    .filter-options {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      max-height: 200px;
-      overflow: auto;
-      padding-right: 4px;
-    }
-
-    .filter-options label {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      font-size: 14px;
-    }
-
-    input[type="search"] {
-      padding: 8px 10px;
-      border: 1px solid var(--border);
-      font-size: 14px;
-    }
-
-    .filter-status {
-      margin-top: 12px;
-      font-size: 14px;
-      color: var(--muted);
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 16px;
-    }
-
-    th, td {
-      border: 1px solid var(--border);
-      padding: 8px 10px;
-      vertical-align: top;
-      font-size: 14px;
-    }
-
-    th {
-      background: #efe8dc;
-      text-align: left;
-      position: sticky;
-      top: 0;
-      z-index: 1;
-    }
-
-    tbody tr:nth-child(even) {
-      background: #fffdf7;
-    }
-
-    details summary {
-      cursor: pointer;
-      color: var(--accent);
-    }
-
-    pre.raw-block {
-      white-space: pre-wrap;
-      margin: 8px 0 0;
-      background: #f4efe6;
-      padding: 8px;
-      border: 1px solid var(--border);
-      max-width: 520px;
-    }
-
-    .raw-flyout {
-      position: relative;
-      display: inline-block;
-    }
-
-    .raw-link {
-      color: var(--accent);
-      cursor: pointer;
-      text-decoration: underline;
-      font-weight: 600;
-    }
-
-    .raw-tooltip {
-      position: absolute;
-      top: 100%;
-      right: 0;
-      z-index: 5;
-      min-width: 240px;
-      max-width: min(420px, 80vw);
-      max-height: 260px;
-      overflow: auto;
-      white-space: pre-wrap;
-      background: #fffdf8;
-      border: 1px solid var(--border);
-      padding: 10px;
-      box-shadow: 0 8px 18px rgba(30, 27, 22, 0.18);
-      color: var(--ink);
-      display: none;
-    }
-
-    .raw-flyout:hover .raw-tooltip,
-    .raw-flyout:focus-within .raw-tooltip {
-      display: block;
-    }
-
-    .flash {
-      animation: flash-bg 0.8s ease;
-    }
-
-    @keyframes flash-bg {
-      0% {
-        background: rgba(26, 79, 91, 0.2);
-      }
-      100% {
-        background: transparent;
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #112210; --panel: #1a2e18; --ink: #d1d9d0; --muted: #7a9477;
+        --accent: #4caf50; --danger: #ff8a80; --border: #2c422a;
+        --table-row-even: rgba(255, 255, 255, 0.03); --table-hover: rgba(255, 255, 255, 0.06); --meta-bg: var(--panel);
       }
     }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; font-family: "Helvetica", "Arial", sans-serif; background: var(--bg); color: var(--ink); line-height: 1.5; }
+    h1 { color: var(--ink) !important; font-weight: 600; margin: 0 0 8px; }
+    h2, h3 { color: var(--ink); font-weight: 600; margin: 0 0 8px; }
+    .muted, #source-line { color: var(--muted); font-size: 13px; }
+    a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    a:hover { text-decoration: underline; }
 
-    .modal {
-      position: fixed;
-      inset: 0;
-      background: rgba(30, 27, 22, 0.45);
-      display: grid;
-      place-items: center;
-      padding: 16px;
-      z-index: 10;
-    }
+    /* Header & Branding */
+    .page-header { display: flex; align-items: center; gap: 20px; padding: 16px 20px; border: 1px solid var(--border); background: var(--panel); color: var(--ink); }
+    .logo-container { display: flex; align-items: center; justify-content: center; height: 80px; width: auto; max-width: 250px; overflow: hidden; }
+    .logo-container img { height: 140%; width: auto; object-fit: contain; }
 
-    [hidden] {
-      display: none !important;
-    }
+    /* Sticky Dashboard */
+    .sticky-header { position: sticky; top: 0; z-index: 100; background: var(--panel); border-bottom: 2px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 12px 20px; margin: 0 -24px 12px -24px; }
+    .meta-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+    .meta-card { padding: 10px 12px; border: 1px solid var(--border); background: var(--meta-bg); }
+    .meta-card span { display: block; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .meta-card strong { display: block; font-size: 15px; color: var(--ink); }
 
-    .modal-card {
-      width: min(640px, 100%);
-      background: var(--panel);
-      border: 1px solid var(--border);
-      padding: 18px 20px;
-      display: grid;
-      gap: 12px;
-    }
+    /* Actions */
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+    .actions button, .actions a { padding: 8px 16px; font-size: 13px; cursor: pointer; border: 1px solid var(--accent); background: transparent; color: var(--accent); border-radius: 4px; font-weight: 600; }
+    #export-validation { background: var(--accent); color: var(--bg); border: none; }
+    #add-production-btn { background: var(--muted); color: var(--bg); border: none; display: none !important; }
+    #download-json, #print-btn, #list-link { display: none !important; }
 
-    .modal-card h3 {
-      margin: 0;
-    }
+    /* Tables */
+    .panel { margin-top: 20px; padding: 16px 20px; border: 1px solid var(--border); background: var(--panel); }
+    .filters { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+    .filter-group { display: grid; gap: 6px; }
+    .filter-title { font-size: 11px; text-transform: uppercase; color: var(--muted); font-weight: bold; }
+    input[type="search"], input[type="text"], input[type="number"], textarea, select { padding: 8px 10px; border: 1px solid var(--border); font-size: 14px; background: var(--bg); color: var(--ink); width: 100%; border-radius: 4px; }
+    
+    table { width: 100%; border-collapse: collapse; margin-top: 16px; background: rgba(255, 255, 255, 0.02); }
+    th, td { border: 1px solid var(--border); padding: 10px 12px; vertical-align: top; font-size: 13px; }
+    th { background: var(--panel); color: var(--ink); text-transform: uppercase; font-size: 10px; letter-spacing: 0.05em; text-align: left; position: sticky; top: 132px; z-index: 1; }
+    tbody tr:nth-child(even) { background: var(--table-row-even); }
+    tbody tr:hover { background: var(--table-hover); }
 
-    .modal-grid {
-      display: grid;
-      gap: 10px;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    }
+    /* Section Control */
+    .section-header { display: flex; align-items: center; justify-content: space-between; margin-top: 40px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+    .section-controls { display: flex; align-items: center; gap: 15px; font-size: 12px; }
+    .add-to-section-btn { display: none !important; background: var(--accent); color: var(--bg); border: none; padding: 4px 8px; border-radius: 4px; cursor: pointer; font-size: 10px; font-weight: bold; text-transform: uppercase; }
 
-    .modal-field {
-      display: grid;
-      gap: 6px;
-      font-size: 13px;
-      color: var(--muted);
-    }
+    /* Backdoor & Admin Reveal */
+    .reveal-all #download-json, .reveal-all #print-btn, .reveal-all #list-link, .reveal-all #add-production-btn, .reveal-all .add-to-section-btn, .reveal-all .hidden-col { display: inline-block !important; }
+    .reveal-all th.hidden-col, .reveal-all td.hidden-col { display: table-cell !important; }
+    .hidden-col { display: none !important; }
+    .backdoor-dot { position: fixed; bottom: 10px; right: 10px; cursor: pointer; z-index: 9999; font-size: 20px; opacity: 0.8; }
 
-    .modal-field input,
-    .modal-field textarea {
-      padding: 8px 10px;
-      border: 1px solid var(--border);
-      font-size: 14px;
-      font-family: inherit;
-      color: var(--ink);
-      background: #fffdf8;
-    }
+    /* Modals */
+    .modal { position: fixed; inset: 0; background: rgba(0,0,0,0.7); display: none; place-items: center; z-index: 20000; padding: 20px; }
+    .modal-card { background: var(--panel); padding: 24px; border: 1px solid var(--border); border-radius: 8px; width: 100%; max-width: 600px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); }
+    .modal-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+    .modal-field { display: grid; gap: 6px; font-size: 12px; color: var(--muted); }
+    .auth-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 20px; }
+    .auth-input-group { position: relative; display: flex; align-items: center; }
+    .auth-toggle-eye { position: absolute; right: 12px; cursor: pointer; font-size: 18px; }
 
-    .modal-actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: flex-end;
-    }
+    /* Back to Top */
+    .back-to-top-btn { position: fixed; bottom: 40px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 12px 24px; border-radius: 40px; cursor: pointer; z-index: 10000; box-shadow: 0 8px 32px rgba(0,0,0,0.4); display: none; align-items: center; gap: 10px; font-weight: bold; }
+    .flash { animation: flash-bg 0.8s ease; }
+    @keyframes flash-bg { 0% { background: rgba(40, 76, 35, 0.3); } 100% { background: transparent; } }
 
-    @media print {
-      body {
-        background: white;
-        padding: 12px;
-      }
-      .actions, #filters-panel, #list-link {
-        display: none !important;
-      }
-      .panel {
-        border: none;
-        padding: 0;
-      }
-      th {
-        position: static;
-      }
-      a::after {
-        content: "";
-      }
-    }
-
-    .hidden-col {
-      display: none !important;
-    }
+    footer { margin-top: 120px; padding: 60px 24px; background: var(--panel); border-top: 1px solid var(--border); display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center; }
+    .footer-logo img { height: 70px; opacity: 0.8; }
   </style>
 </head>
 <body>
-  <header class="page-header">
-    <div class="header-title">
-      <h1>Validação de Produções</h1>
-      <div id="source-line" class="muted"></div>
-    </div>
-    <div class="meta-grid">
-      <div class="meta-card">
-        <span>Pesquisador</span>
-        <strong id="researcher-name">--</strong>
+  <!-- Auth Modal -->
+  <div id="auth-modal" class="modal">
+    <div class="modal-card" style="max-width: 320px;">
+      <h4>Acesso Administrativo</h4>
+      <div class="auth-input-group">
+        <input type="password" id="auth-pass" placeholder="Chave de acesso">
+        <span id="auth-eye" class="auth-toggle-eye">👁️</span>
       </div>
-      <div class="meta-card">
-        <span>Lattes ID</span>
-        <strong id="researcher-id">--</strong>
-      </div>
-      <div class="meta-card">
-        <span>Extração</span>
-        <strong id="extracted-at">--</strong>
-      </div>
-      <div class="meta-card">
-        <span>Total de produções</span>
-        <strong id="total-productions">--</strong>
-      </div>
-    </div>
-    <div class="actions">
-      <button id="export-validation" type="button">Baixar validação (JSON)</button>
-      <a id="download-json" href="#" target="_blank" rel="noopener">Baixar JSON original</a>
-      <button id="print-btn" type="button">Exportar HTML (print)</button>
-      <a id="list-link" href="lista.html">Índice</a>
-    </div>
-  </header>
-
-  <section id="errors" class="panel error-panel" hidden>
-    <h2>Erros</h2>
-    <div id="error-message"></div>
-    <pre id="error-details"></pre>
-  </section>
-
-  <section id="summary-panel" class="panel" hidden>
-    <h2>Sumário por seção</h2>
-    <ul id="summary-list"></ul>
-  </section>
-
-  <section id="filters-panel" class="panel">
-    <h2>Filtros</h2>
-    <div class="filters">
-      <div class="filter-group">
-        <span class="filter-title">Ano</span>
-        <div id="year-filters" class="filter-options"></div>
-      </div>
-      <div class="filter-group">
-        <span class="filter-title">Seção / Tipo</span>
-        <div id="section-filters" class="filter-options"></div>
-      </div>
-      <div class="filter-group">
-        <span class="filter-title">Busca</span>
-        <input id="search-input" type="search" placeholder="Digite parte do título, veículo, autores, DOI/ISBN/ISSN, editora ou raw" />
-      </div>
-    </div>
-    <div class="filter-status">Itens exibidos: <span id="visible-count">0</span> / <span id="total-count">0</span></div>
-  </section>
-
-  <section class="panel">
-    <h2>Produções</h2>
-    <div id="productions-container"></div>
-  </section>
-
-  <div id="edit-modal" class="modal" hidden>
-    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="edit-modal-title">
-      <h3 id="edit-modal-title">Edição rápida</h3>
-      <div class="modal-grid">
-        <label class="modal-field">
-          Título
-          <input id="edit-titulo" type="text" />
-        </label>
-        <label class="modal-field">
-          Veículo
-          <input id="edit-veiculo" type="text" />
-        </label>
-        <label class="modal-field">
-          Ano
-          <input id="edit-ano" type="number" />
-        </label>
-        <label class="modal-field">
-          DOI
-          <input id="edit-doi" type="text" />
-        </label>
-      </div>
-      <label class="modal-field">
-        Autores (opcional)
-        <textarea id="edit-autores" rows="3"></textarea>
-      </label>
-      <div class="modal-actions">
-        <button id="edit-clear" class="action-btn" type="button">Limpar edição</button>
-        <button id="edit-cancel" class="action-btn" type="button">Cancelar</button>
-        <button id="edit-save" class="action-btn" type="button">Salvar</button>
+      <div class="auth-actions">
+        <button onclick="document.getElementById('auth-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button id="auth-submit" class="actions button" style="background:var(--accent);color:var(--bg)">Entrar</button>
       </div>
     </div>
   </div>
 
+  <header class="page-header">
+    <div class="logo-container"><img src="../assets/logo-nanoagro.png"></div>
+    <div class="header-title">
+      <h1>Validação de Produções</h1>
+      <div id="source-line" class="muted"></div>
+    </div>
+  </header>
+
+  <div class="sticky-header">
+    <div class="meta-grid">
+      <div class="meta-card"><span>Pesquisador</span><strong id="researcher-name">--</strong></div>
+      <div class="meta-card"><span>Lattes ID</span><strong id="researcher-id">--</strong></div>
+      <div class="meta-card"><span>Extração</span><strong id="extracted-at">--</strong></div>
+      <div class="meta-card"><span>Total</span><strong id="total-productions">--</strong></div>
+    </div>
+    <div class="actions">
+      <button id="add-production-btn" onclick="openAddModal()">+ Adicionar Produção</button>
+      <button id="export-validation" onclick="downloadValidationJson()">Baixar validação (JSON)</button>
+      <a id="download-json" href="#" target="_blank">Baixar JSON original</a>
+      <button id="print-btn" onclick="window.print()">Exportar HTML (print)</button>
+      <a id="list-link" href="lista.html">Índice</a>
+    </div>
+  </div>
+
+  <section id="filters-panel" class="panel">
+    <div class="filters">
+      <div class="filter-group"><span class="filter-title">Ano</span><div id="year-filters" class="filter-options"></div></div>
+      <div class="filter-group"><span class="filter-title">Busca</span><input id="search-input" type="search" placeholder="Título, veículo, autores..." oninput="applyFilters()" /></div>
+    </div>
+  </section>
+
+  <section id="summary-panel" class="panel">
+    <h2>Sumário por seção</h2>
+    <ul id="summary-list"></ul>
+  </section>
+
+  <div id="productions-container"></div>
+
+  <footer>
+    <div class="footer-logo"><img src="../assets/logo-nanoagro.png"></div>
+    <div class="footer-info">
+      <strong>INCT NanoAgro</strong><br>
+      UNESP - Campus Sorocaba | Avenida Três de Março, 511 - Sorocaba/SP<br>
+      &copy; 2026 INCT NanoAgro. Todos os direitos reservados.
+    </div>
+  </footer>
+
+  <!-- Modals -->
+  <div id="add-modal" class="modal">
+    <div class="modal-card">
+      <h3>Injetar Nova Produção</h3>
+      <div class="modal-grid">
+        <div class="modal-field">Seção<input id="add-tipo" type="text" readonly></div>
+        <div class="modal-field">Título<input id="add-titulo" type="text"></div>
+        <div class="modal-field">Veículo<input id="add-veiculo" type="text"></div>
+        <div class="modal-field">Ano<input id="add-ano" type="number"></div>
+        <div class="modal-field">DOI<input id="add-doi" type="text"></div>
+      </div>
+      <div class="modal-field" style="margin-top:12px;">Autores<textarea id="add-autores" rows="3"></textarea></div>
+      <div class="auth-actions">
+        <button onclick="document.getElementById('add-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button onclick="saveManualProduction()" class="actions button" style="background:var(--accent);color:var(--bg)">Injetar na Lista</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="edit-modal" class="modal">
+    <div class="modal-card">
+      <h3>Edição rápida</h3>
+      <div class="modal-grid">
+        <div class="modal-field">Título<input id="edit-titulo" type="text"></div>
+        <div class="modal-field">Veículo<input id="edit-veiculo" type="text"></div>
+        <div class="modal-field">Ano<input id="edit-ano" type="number"></div>
+        <div class="modal-field">DOI<input id="edit-doi" type="text"></div>
+      </div>
+      <div class="modal-field" style="margin-top:12px;">Autores<textarea id="edit-autores" rows="3"></textarea></div>
+      <div class="auth-actions">
+        <button onclick="clearEdits()" class="actions button">Limpar</button>
+        <button onclick="document.getElementById('edit-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button onclick="saveEdit()" class="actions button" style="background:var(--accent);color:var(--bg)">Salvar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="bd-trigger" class="backdoor-dot">⚙️</div>
+
   <script>
-    const state = {
-      productions: [],
-      productionsRaw: [],
-      metadataSections: [],
-      sectionsAll: [],
-      years: [],
-      sourceUrl: null,
-      prefillParam: null,
-      prefillSource: null,
-      storageKey: null,
-      selections: {},
-      edits: {},
-      observations: {},
-      currentEntriesBySection: new Map(),
-      schemaVersion: null,
-      researcher: null,
-      editingKey: null,
-      editingIndex: null,
-    };
+    const state = { productionsRaw: [], selections: {}, edits: {}, storageKey: null, sectionsAll: [], editingKey: null };
+    const BD_KEY = 'inct_admin_authorized';
+    const BD_PASS = 'nanoagro2026';
 
-    const elements = {
-      sourceLine: document.getElementById('source-line'),
-      researcherName: document.getElementById('researcher-name'),
-      researcherId: document.getElementById('researcher-id'),
-      extractedAt: document.getElementById('extracted-at'),
-      totalProductions: document.getElementById('total-productions'),
-      downloadJson: document.getElementById('download-json'),
-      exportValidation: document.getElementById('export-validation'),
-      printBtn: document.getElementById('print-btn'),
-      errors: document.getElementById('errors'),
-      errorMessage: document.getElementById('error-message'),
-      errorDetails: document.getElementById('error-details'),
-      summaryPanel: document.getElementById('summary-panel'),
-      summaryList: document.getElementById('summary-list'),
-      yearFilters: document.getElementById('year-filters'),
-      sectionFilters: document.getElementById('section-filters'),
-      searchInput: document.getElementById('search-input'),
-      productionsContainer: document.getElementById('productions-container'),
-      visibleCount: document.getElementById('visible-count'),
-      totalCount: document.getElementById('total-count'),
-      editModal: document.getElementById('edit-modal'),
-      editTitulo: document.getElementById('edit-titulo'),
-      editVeiculo: document.getElementById('edit-veiculo'),
-      editAno: document.getElementById('edit-ano'),
-      editDoi: document.getElementById('edit-doi'),
-      editAutores: document.getElementById('edit-autores'),
-      editSave: document.getElementById('edit-save'),
-      editCancel: document.getElementById('edit-cancel'),
-      editClear: document.getElementById('edit-clear'),
-    };
+    const loadData = async () => {
+      const p = new URLSearchParams(window.location.search).get('prefill');
+      if (!p) return;
+      const res = await fetch(`../prefill/${p}`);
+      const data = await res.json();
+      state.productionsRaw = data.productions;
+      const r = data.researcher || {};
+      state.storageKey = `inct_v3::${r.lattes_id || p}`;
 
-    const safeText = (value) => (value === undefined || value === null) ? '' : String(value);
+      document.getElementById('researcher-name').textContent = r.full_name || '--';
+      document.getElementById('researcher-id').textContent = r.lattes_id || '--';
+      document.getElementById('extracted-at').textContent = data.metadata?.extracted_at || '--';
+      document.getElementById('total-productions').textContent = data.productions.length;
+      document.getElementById('source-line').textContent = `Fonte: localhost:8000/docs/prefill/${p}`;
 
-    const normalizeWhitespace = (value) => safeText(value).replace(/\s+/g, ' ').trim();
-
-    const slugify = (value) => {
-      return safeText(value)
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .toLowerCase()
-        .replace(/\s+/g, '-')
-        .replace(/[^a-z0-9-]/g, '')
-        .replace(/-+/g, '-')
-        .replace(/^-|-$/g, '');
-    };
-
-    const getSectionId = (label) => `sec-${slugify(label)}`;
-
-    const getCategory = (item) => {
-      const source = item && item.source ? item.source : {};
-      return (
-        item.production_type ||
-        item.section ||
-        item.tipo_producao ||
-        source.production_type ||
-        source.section ||
-        source.tipo_producao ||
-        'Produções'
-      );
-    };
-
-    const getYear = (item) => {
-      return item.ano ?? item.year ?? item.ano_publicacao ?? item.ano_publicacao;
-    };
-
-    const getRawText = (item) => {
-      return item.raw ?? item.raw_text ?? '';
-    };
-
-    const getItemKey = (item, groupKey, index) => {
-      if (item && item.fingerprint_sha1) {
-        return item.fingerprint_sha1;
+      const saved = localStorage.getItem(state.storageKey);
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        state.selections = parsed.selections || {};
+        state.edits = parsed.edits || {};
+      } else {
+        state.productionsRaw.forEach((item, i) => { state.selections[item.fingerprint_sha1 || i] = true; });
       }
-      const numeroItem = item?.numero_item ?? item?.ordem_lattes ?? item?.numeroItem ?? index + 1;
-      const rawSlice = safeText(getRawText(item)).slice(0, 40);
-      // Fallback deterministico quando fingerprint_sha1 nao esta disponivel.
-      return `${groupKey}::${numeroItem}::${rawSlice}`;
+
+      state.sectionsAll = [...new Set(state.productionsRaw.map(i => i.production_type || i.section || 'Outros'))];
+      renderSummary();
+      renderYearFilters();
+      applyFilters();
     };
 
-    const loadStoredState = () => {
-      if (!state.storageKey) return;
-      try {
-        const raw = localStorage.getItem(state.storageKey);
-        if (!raw) return;
-        const parsed = JSON.parse(raw);
-        state.selections = parsed.selections && typeof parsed.selections === 'object' ? parsed.selections : {};
-        state.edits = parsed.edits && typeof parsed.edits === 'object' ? parsed.edits : {};
-        state.observations = parsed.observations && typeof parsed.observations === 'object' ? parsed.observations : {};
-      } catch (err) {
-        console.warn('Falha ao carregar estado salvo.', err);
-      }
-    };
-
-    const persistState = () => {
-      if (!state.storageKey) return;
-      const payload = {
-        selections: state.selections,
-        edits: state.edits,
-        observations: state.observations,
-      };
-      localStorage.setItem(state.storageKey, JSON.stringify(payload));
-    };
-
-    const applyEditsToItem = (item, index) => {
-      const key = getItemKey(item, getCategory(item), index);
-      const edits = state.edits[key];
-      if (!edits) return { ...item };
-      return { ...item, ...edits };
-    };
-
-    const isNonEmptyValue = (value) => {
-      if (Array.isArray(value)) {
-        return value.some((entry) => isNonEmptyValue(entry));
-      }
-      if (typeof value === 'string') {
-        return value.trim().length > 0;
-      }
-      if (value === 0) return true;
-      return Boolean(value);
-    };
-
-    const formatValue = (value) => {
-      if (Array.isArray(value)) {
-        return value.filter((entry) => isNonEmptyValue(entry)).map((entry) => safeText(entry)).join('; ');
-      }
-      return safeText(value);
-    };
-
-    const COLUMN_DEFS = [
-      {
-        key: 'numero_item',
-        label: 'Número item',
-        getValue: (item) => item.numero_item ?? item.ordem_lattes ?? item.numeroItem ?? '',
-        hidden: true,
-      },
-      {
-        key: 'ano',
-        label: 'Ano',
-        getValue: (item) => getYear(item) ?? '',
-      },
-      {
-        key: 'mes',
-        label: 'Mês',
-        getValue: (item) => item.mes ?? item.month ?? '',
-      },
-      {
-        key: 'tipo_secao',
-        label: 'Tipo / Seção',
-        getValue: (item) => getCategory(item),
-      },
-      {
-        key: 'titulo',
-        label: 'Título',
-        getValue: (item) => item.titulo ?? item.title ?? '',
-      },
-      {
-        key: 'veiculo',
-        label: 'Veículo',
-        getValue: (item) => item.veiculo ?? item.vehicle ?? '',
-      },
-      {
-        key: 'autores',
-        label: 'Autores',
-        getValue: (item) => item.autores ?? item.authors ?? '',
-      },
-      {
-        key: 'doi',
-        label: 'DOI',
-      },
-      {
-        key: 'issn',
-        label: 'ISSN',
-      },
-      {
-        key: 'isbn',
-        label: 'ISBN',
-      },
-      {
-        key: 'url',
-        label: 'URL',
-      },
-      {
-        key: 'volume',
-        label: 'Volume',
-      },
-      {
-        key: 'numero',
-        label: 'Número',
-      },
-      {
-        key: 'paginas',
-        label: 'Páginas',
-      },
-      {
-        key: 'editora',
-        label: 'Editora',
-      },
-      {
-        key: 'local',
-        label: 'Local',
-      },
-      {
-        key: 'organizadores',
-        label: 'Organizadores',
-        getValue: (item) => item.organizadores ?? item.organizador ?? item.organizers ?? '',
-      },
-      {
-        key: 'tipo_orientacao',
-        label: 'Tipo orientação',
-      },
-      {
-        key: 'natureza',
-        label: 'Natureza',
-      },
-      {
-        key: 'fingerprint_sha1',
-        label: 'Fingerprint SHA1',
-        hidden: true,
-      },
-      {
-        key: 'parse_warnings',
-        label: 'Parse warnings',
-      },
-    ];
-
-    const detectColumns = (items) => {
-      return COLUMN_DEFS.filter((column) => {
-        return items.some((item) => {
-          const value = column.getValue ? column.getValue(item) : item[column.key];
-          return isNonEmptyValue(value);
-        });
+    const renderSummary = () => {
+      const list = document.getElementById('summary-list');
+      list.innerHTML = '';
+      state.sectionsAll.forEach(s => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.textContent = s; a.href = '#';
+        a.onclick = (e) => {
+          e.preventDefault();
+          const target = document.getElementById(`sec-${s.toLowerCase().replace(/\s+/g, '-')}`);
+          window.scrollTo({ top: target.getBoundingClientRect().top + window.pageYOffset - 132, behavior: 'auto' });
+          showBackToTop();
+        };
+        li.appendChild(a); list.appendChild(li);
       });
     };
 
-    const getSearchText = (item) => {
-      const parts = [
-        getCategory(item),
-        getYear(item),
-        item.mes ?? item.month,
-        item.titulo ?? item.title,
-        item.veiculo ?? item.vehicle,
-        item.autores ?? item.authors,
-        item.doi,
-        item.issn,
-        item.isbn,
-        item.url,
-        item.volume,
-        item.numero,
-        item.paginas,
-        item.editora,
-        item.local,
-        item.organizadores ?? item.organizador ?? item.organizers,
-        item.tipo_orientacao,
-        item.natureza,
-        item.fingerprint_sha1,
-        item.parse_warnings,
-        getRawText(item),
-      ];
-
-      return normalizeWhitespace(parts.map((part) => formatValue(part)).join(' ')).toLowerCase();
+    const showBackToTop = () => {
+      let btt = document.getElementById('ephemeral-btt');
+      if (!btt) {
+        btt = document.createElement('div'); btt.id = 'ephemeral-btt'; btt.className = 'back-to-top-btn';
+        btt.innerHTML = '<span>⬆️</span> VOLTAR AO SUMÁRIO'; document.body.appendChild(btt);
+        btt.onclick = () => {
+          window.scrollTo({ top: document.getElementById('summary-panel').offsetTop - 132, behavior: 'auto' });
+          btt.style.display = 'none';
+        };
+      }
+      btt.style.display = 'flex';
+      setTimeout(() => { window.onscroll = () => { if (window.scrollY < 200) { btt.style.display = 'none'; window.onscroll = null; } }; }, 1000);
     };
 
-    const showError = (message, details) => {
-      elements.errors.hidden = false;
-      elements.errorMessage.textContent = message;
-      elements.errorDetails.textContent = details || '';
-    };
-
-    const isAbsoluteUrl = (url) => {
-      try {
-        const parsed = new URL(url);
-        return parsed.protocol === 'http:' || parsed.protocol === 'https:';
-      } catch (err) {
-        return false;
-      }
-    };
-
-    const resolveSourceUrl = async () => {
-      const params = new URLSearchParams(window.location.search);
-      const sourceParam = params.get('source');
-      const prefillParam = params.get('prefill');
-      state.prefillParam = prefillParam;
-      state.prefillSource = prefillParam || sourceParam || null;
-
-      if (sourceParam) {
-        if (!isAbsoluteUrl(sourceParam)) {
-          throw new Error(`Parametro source precisa ser uma URL absoluta: ${sourceParam}`);
-        }
-        state.prefillSource = sourceParam;
-        return sourceParam;
-      }
-
-      if (!prefillParam) {
-        throw new Error('Parametro prefill nao informado. Use ?prefill=<arquivo.json> ou ?prefill=<lattes_id>.');
-      }
-
-      if (/\.json$/i.test(prefillParam)) {
-        const filename = prefillParam.split('/').pop();
-        return new URL(`../prefill/${encodeURIComponent(filename)}`, window.location.href).href;
-      }
-
-      if (/^\d{16}$/.test(prefillParam)) {
-        const manifestUrl = new URL('../prefill/manifest.json', window.location.href).href;
-        const response = await fetch(manifestUrl, { cache: 'no-store' });
-        if (!response.ok) {
-          throw new Error(`Falha ao carregar manifest: ${manifestUrl}`);
-        }
-        const manifest = await response.json();
-        const filename = manifest.by_lattes_id ? manifest.by_lattes_id[prefillParam] : null;
-        if (!filename) {
-          throw new Error(`lattes_id nao encontrado no manifest: ${prefillParam}`);
-        }
-        return new URL(`../prefill/${encodeURIComponent(filename)}`, window.location.href).href;
-      }
-
-      throw new Error(`Parametro prefill invalido: ${prefillParam}`);
-    };
-
-    const computeSectionOrder = (productions, metadataSections) => {
-      const counts = new Map();
-      const seenOrder = [];
-
-      for (const item of productions) {
-        const label = getCategory(item);
-        counts.set(label, (counts.get(label) || 0) + 1);
-        if (!seenOrder.includes(label)) {
-          seenOrder.push(label);
-        }
-      }
-
-      const summaryOrder = [];
-      if (Array.isArray(metadataSections) && metadataSections.length > 0) {
-        for (const section of metadataSections) {
-          const label = section.section_title || section.section_name || section.name;
-          if (label && !summaryOrder.includes(label)) {
-            summaryOrder.push(label);
-          }
-        }
-        for (const label of seenOrder) {
-          if (!summaryOrder.includes(label)) {
-            summaryOrder.push(label);
-          }
-        }
-      } else {
-        summaryOrder.push(...seenOrder);
-      }
-
-      return summaryOrder;
-    };
-
-    const renderSummary = (productions, summaryOrder) => {
-      const counts = new Map();
-      for (const item of productions) {
-        const label = getCategory(item);
-        counts.set(label, (counts.get(label) || 0) + 1);
-      }
-
-      if (summaryOrder.length === 0) {
-        elements.summaryPanel.hidden = true;
-        return;
-      }
-
-      elements.summaryList.innerHTML = '';
-      let hasItems = false;
-      for (const label of summaryOrder) {
-        const count = counts.get(label) || 0;
-        if (count === 0) continue;
-        const li = document.createElement('li');
-        const sectionId = getSectionId(label);
-        const link = document.createElement('a');
-        link.href = `#${sectionId}`;
-        link.className = 'summary-link';
-        link.textContent = `${label}: ${count}`;
-        li.appendChild(link);
-        elements.summaryList.appendChild(li);
-        hasItems = true;
-      }
-      elements.summaryPanel.hidden = !hasItems;
-    };
-
-    const flashAndScrollToSection = (sectionId) => {
-      const heading = document.getElementById(sectionId);
-      if (!heading) return;
-      heading.classList.add('flash');
-      heading.focus({ preventScroll: true });
-      heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      window.setTimeout(() => heading.classList.remove('flash'), 800);
-    };
-
-    const renderFilters = () => {
-      elements.yearFilters.innerHTML = '';
-      elements.sectionFilters.innerHTML = '';
-
-      const uniqueYears = Array.from(
-        new Set(state.productions.map((item) => safeText(getYear(item))).filter(Boolean))
-      );
-      uniqueYears.sort((a, b) => Number(a) - Number(b));
-      state.years = uniqueYears;
-
-      for (const year of uniqueYears) {
-        const label = document.createElement('label');
-        const input = document.createElement('input');
-        input.type = 'checkbox';
-        input.value = year;
-        input.checked = true;
-        input.addEventListener('change', applyFilters);
-        label.appendChild(input);
-        label.appendChild(document.createTextNode(year));
-        elements.yearFilters.appendChild(label);
-      }
-
-      const sections = state.sectionsAll.length
-        ? state.sectionsAll
-        : Array.from(new Set(state.productions.map((item) => getCategory(item))));
-      for (const section of sections) {
-        if (!section) continue;
-        const label = document.createElement('label');
-        const input = document.createElement('input');
-        input.type = 'checkbox';
-        input.value = section;
-        input.checked = true;
-        input.addEventListener('change', applyFilters);
-        label.appendChild(input);
-        label.appendChild(document.createTextNode(section));
-        elements.sectionFilters.appendChild(label);
-      }
+    const renderYearFilters = () => {
+      const yCont = document.getElementById('year-filters');
+      const years = [...new Set(state.productionsRaw.map(i => i.ano || i.year))].filter(Boolean).sort();
+      years.forEach(y => {
+        const l = document.createElement('label');
+        l.innerHTML = `<input type="checkbox" value="${y}" checked onchange="applyFilters()"> ${y}`;
+        yCont.appendChild(l);
+      });
     };
 
     const applyFilters = () => {
-      const selectedYears = new Set(
-        Array.from(elements.yearFilters.querySelectorAll('input:checked')).map((el) => el.value)
-      );
-      const selectedSections = new Set(
-        Array.from(elements.sectionFilters.querySelectorAll('input:checked')).map((el) => el.value)
-      );
-      const query = elements.searchInput.value.trim().toLowerCase();
-
-      const filtered = [];
-      for (let index = 0; index < state.productions.length; index += 1) {
-        const item = state.productions[index];
-        const category = getCategory(item);
-        const year = safeText(getYear(item));
-        const search = getSearchText(item);
-
-        const yearOk = selectedYears.size === 0 || selectedYears.has(year);
-        const sectionOk = selectedSections.size === 0 || selectedSections.has(category);
-        const searchOk = !query || search.includes(query);
-        if (yearOk && sectionOk && searchOk) {
-          filtered.push({ item, index, category });
-        }
-      }
-
-      renderGroupedTables(filtered);
-      renderSummary(filtered.map((entry) => entry.item), state.sectionsAll);
-      elements.visibleCount.textContent = String(filtered.length);
-    };
-
-    const getSectionSelectionStats = (entries) => {
-      let selectedCount = 0;
-      for (const entry of entries) {
-        const key = getItemKey(entry.item, entry.category, entry.index);
-        if (state.selections[key]) selectedCount += 1;
-      }
-      return { selectedCount, total: entries.length };
-    };
-
-    const updateSectionHeaderControls = (sectionEl, entries) => {
-      const checkbox = sectionEl.querySelector('.section-select-all');
-      const countEl = sectionEl.querySelector('.selection-count');
-      if (!checkbox || !countEl) return;
-      const { selectedCount, total } = getSectionSelectionStats(entries);
-      checkbox.checked = total > 0 && selectedCount === total;
-      checkbox.indeterminate = selectedCount > 0 && selectedCount < total;
-      countEl.textContent = `selecionados ${selectedCount} / total ${total}`;
-    };
-
-    const buildTable = (entries, sectionName) => {
-      const table = document.createElement('table');
-      const items = entries.map((entry) => entry.item);
-      const columns = detectColumns(items);
-      const thead = document.createElement('thead');
-      const headerRow = document.createElement('tr');
-      const inctTh = document.createElement('th');
-      inctTh.textContent = 'INCT?';
-      headerRow.appendChild(inctTh);
-      const orderTh = document.createElement('th');
-      orderTh.textContent = 'Ordem';
-      orderTh.className = 'hidden-col';
-      headerRow.appendChild(orderTh);
-      columns.forEach((column) => {
-        const th = document.createElement('th');
-        th.textContent = column.label;
-        if (column.hidden) th.classList.add('hidden-col');
-        headerRow.appendChild(th);
+      const q = document.getElementById('search-input').value.toLowerCase();
+      const selectedYears = new Set(Array.from(document.querySelectorAll('#year-filters input:checked')).map(i => i.value));
+      const filtered = state.productionsRaw.filter(i => {
+        const yearMatch = selectedYears.has(String(i.ano || i.year));
+        const textMatch = !q || `${i.titulo} ${i.veiculo} ${i.autores}`.toLowerCase().includes(q);
+        return yearMatch && textMatch;
       });
-      const rawTh = document.createElement('th');
-      rawTh.textContent = 'Raw';
-      rawTh.className = 'hidden-col';
-      headerRow.appendChild(rawTh);
-      const actionTh = document.createElement('th');
-      actionTh.textContent = 'Ações';
-      actionTh.className = 'hidden-col';
-      headerRow.appendChild(actionTh);
-      thead.appendChild(headerRow);
-      table.appendChild(thead);
-
-      const tbody = document.createElement('tbody');
-      entries.forEach(({ item, index, category }) => {
-        const row = document.createElement('tr');
-        const key = getItemKey(item, category, index);
-        const selectCell = document.createElement('td');
-        const selectInput = document.createElement('input');
-        selectInput.type = 'checkbox';
-        selectInput.checked = Boolean(state.selections[key]);
-        selectInput.addEventListener('change', () => {
-          state.selections[key] = selectInput.checked;
-          persistState();
-          const sectionEl = row.closest('section');
-          const sectionEntries = state.currentEntriesBySection.get(category) || [];
-          if (sectionEl) {
-            updateSectionHeaderControls(sectionEl, sectionEntries);
-          }
-        });
-        selectCell.appendChild(selectInput);
-        row.appendChild(selectCell);
-        const orderCell = document.createElement('td');
-        orderCell.textContent = safeText(index + 1);
-        orderCell.className = 'hidden-col';
-        row.appendChild(orderCell);
-
-        columns.forEach((column) => {
-          const value = column.getValue
-            ? column.getValue(item, category, sectionName)
-            : item[column.key];
-          const cell = document.createElement('td');
-          cell.textContent = formatValue(value);
-          if (column.hidden) cell.classList.add('hidden-col');
-          row.appendChild(cell);
-        });
-
-        const raw = getRawText(item);
-        const rawCell = document.createElement('td');
-        rawCell.className = 'hidden-col';
-        const rawWrap = document.createElement('div');
-        rawWrap.className = 'raw-flyout';
-        const rawLink = document.createElement('span');
-        rawLink.className = 'raw-link';
-        rawLink.textContent = 'raw';
-        rawLink.tabIndex = 0;
-        const rawTip = document.createElement('div');
-        rawTip.className = 'raw-tooltip';
-        rawTip.textContent = safeText(raw);
-        rawWrap.appendChild(rawLink);
-        rawWrap.appendChild(rawTip);
-        rawCell.appendChild(rawWrap);
-        row.appendChild(rawCell);
-
-        const actionCell = document.createElement('td');
-        actionCell.className = 'hidden-col';
-        const editBtn = document.createElement('button');
-        editBtn.type = 'button';
-        editBtn.className = 'action-btn';
-        editBtn.textContent = 'Editar';
-        editBtn.addEventListener('click', () => openEditModal(item, key, index));
-        actionCell.appendChild(editBtn);
-        row.appendChild(actionCell);
-
-        tbody.appendChild(row);
-      });
-      table.appendChild(tbody);
-      return table;
+      renderTables(filtered);
     };
 
-    const renderGroupedTables = (entries) => {
-      elements.productionsContainer.innerHTML = '';
-      state.currentEntriesBySection = new Map();
-      const groups = new Map();
-      const order = [];
-
-      for (const entry of entries) {
-        const key = entry.category;
-        if (!groups.has(key)) {
-          groups.set(key, []);
-          order.push(key);
-        }
-        groups.get(key).push(entry);
-      }
-
-      order.forEach((category) => {
-        const items = groups.get(category) || [];
-        state.currentEntriesBySection.set(category, items);
+    const renderTables = (items) => {
+      const cont = document.getElementById('productions-container');
+      cont.innerHTML = '';
+      state.sectionsAll.forEach(cat => {
+        const secItems = items.filter(i => (i.production_type || i.section || 'Outros') === cat);
+        if (secItems.length === 0) return;
+        const secId = `sec-${cat.toLowerCase().replace(/\s+/g, '-')}`;
         const section = document.createElement('section');
-        section.className = 'secao';
-
-        const sectionId = getSectionId(category);
-        const headingWrap = document.createElement('div');
-        headingWrap.className = 'section-header';
-
-        const heading = document.createElement('h2');
-        heading.id = sectionId;
-        heading.tabIndex = -1;
-        heading.textContent = `${category} (${items.length})`;
-        headingWrap.appendChild(heading);
-
-        const controls = document.createElement('div');
-        controls.className = 'section-controls';
-
-        const selectLabel = document.createElement('label');
-        const selectAll = document.createElement('input');
-        selectAll.type = 'checkbox';
-        selectAll.className = 'section-select-all';
-        selectAll.addEventListener('change', () => {
-          const checked = selectAll.checked;
-          const sectionEntries = state.currentEntriesBySection.get(category) || [];
-          sectionEntries.forEach((entry) => {
-            const key = getItemKey(entry.item, entry.category, entry.index);
-            state.selections[key] = checked;
-          });
-          const rowCheckboxes = section.querySelectorAll('tbody input[type="checkbox"]');
-          rowCheckboxes.forEach((input) => {
-            input.checked = checked;
-          });
-          persistState();
-          updateSectionHeaderControls(section, sectionEntries);
+        section.innerHTML = `
+          <div class="section-header" id="${secId}">
+            <h2>${cat} (${secItems.length})</h2>
+            <div class="section-controls">
+              <label><input type="checkbox" checked onchange="toggleSection('${cat}', this.checked)"> Selecionar tudo</label>
+              <button class="add-to-section-btn" onclick="openAddModal('${cat}')">+ Adicionar nesta seção</button>
+            </div>
+          </div>
+          <table>
+            <thead><tr><th>INCT?</th><th>Ano</th><th>Título</th><th>Veículo</th><th>Autores</th><th class="hidden-col">DOI</th><th class="hidden-col">Ações</th></tr></thead>
+            <tbody></tbody>
+          </table>`;
+        const tbody = section.querySelector('tbody');
+        secItems.forEach((item, idx) => {
+          const key = item.fingerprint_sha1 || `${cat}::${idx}`;
+          const displayItem = state.edits[key] ? { ...item, ...state.edits[key] } : item;
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><input type="checkbox" ${state.selections[key]?'checked':''} onchange="state.selections['${key}']=this.checked; persistState()"></td>
+            <td>${displayItem.ano || displayItem.year || ''}</td>
+            <td><strong>${displayItem.titulo || ''}</strong></td>
+            <td>${displayItem.veiculo || displayItem.journal || ''}</td>
+            <td>${displayItem.autores || ''}</td>
+            <td class="hidden-col">${displayItem.doi || ''}</td>
+            <td class="hidden-col"><button onclick="openEditModal('${key}')">Editar</button></td>`;
+          tbody.appendChild(tr);
         });
-        selectLabel.appendChild(selectAll);
-        selectLabel.appendChild(document.createTextNode('Selecionar tudo'));
-        controls.appendChild(selectLabel);
-
-        const countSpan = document.createElement('span');
-        countSpan.className = 'selection-count';
-        controls.appendChild(countSpan);
-        headingWrap.appendChild(controls);
-
-        section.appendChild(headingWrap);
-        section.appendChild(buildTable(items, category));
-        elements.productionsContainer.appendChild(section);
-        updateSectionHeaderControls(section, items);
+        cont.appendChild(section);
       });
     };
 
-    const renderHeader = (data) => {
-      const researcher = data.researcher || {};
-      const metadata = data.metadata || {};
-      state.researcher = researcher;
-      state.schemaVersion = data.schema_version || metadata.schema_version || null;
-
-      elements.researcherName.textContent = researcher.full_name || researcher.nome || data.pesquisador || '--';
-      elements.researcherId.textContent = researcher.lattes_id || metadata.lattes_id || (data.productions?.[0]?.source?.lattes_id || '--');
-      elements.extractedAt.textContent = metadata.extracted_at || researcher.last_update || data.generated_at || '--';
-      const total = metadata.total_productions ?? (Array.isArray(data.productions) ? data.productions.length : '--');
-      elements.totalProductions.textContent = String(total ?? '--');
-
-      elements.sourceLine.textContent = `Fonte: ${state.sourceUrl}`;
-      elements.downloadJson.href = state.sourceUrl;
-      state.storageKey = `inct_validacao::${researcher.lattes_id || state.prefillParam || 'unknown'}`;
+    const persistState = () => localStorage.setItem(state.storageKey, JSON.stringify({selections: state.selections, edits: state.edits}));
+    
+    window.openAddModal = (type = "Artigos completos em periódicos") => {
+      document.getElementById('add-tipo').value = type;
+      document.getElementById('add-titulo').value = '';
+      document.getElementById('add-veiculo').value = '';
+      document.getElementById('add-ano').value = new Date().getFullYear();
+      document.getElementById('add-doi').value = '';
+      document.getElementById('add-autores').value = '';
+      document.getElementById('add-modal').style.display = 'grid';
     };
 
-    const applyEditsToProductions = () => {
-      state.productions = state.productionsRaw.map((item, index) => applyEditsToItem(item, index));
+    window.saveManualProduction = () => {
+      const type = document.getElementById('add-tipo').value;
+      const newItem = {
+        production_type: type, titulo: document.getElementById('add-titulo').value,
+        veiculo: document.getElementById('add-veiculo').value, ano: document.getElementById('add-ano').value,
+        doi: document.getElementById('add-doi').value, autores: document.getElementById('add-autores').value,
+        fingerprint_sha1: 'manual-' + Date.now()
+      };
+      state.productionsRaw.unshift(newItem);
+      state.selections[newItem.fingerprint_sha1] = true;
+      persistState();
+      document.getElementById('add-modal').style.display = 'none';
+      applyFilters();
     };
 
-    const openEditModal = (item, key, index) => {
+    window.openEditModal = (key) => {
       state.editingKey = key;
-      state.editingIndex = index;
-      elements.editTitulo.value = safeText(item.titulo ?? item.title ?? '');
-      elements.editVeiculo.value = safeText(item.veiculo ?? item.vehicle ?? '');
-      elements.editAno.value = safeText(getYear(item) ?? '');
-      elements.editDoi.value = safeText(item.doi ?? '');
-      elements.editAutores.value = safeText(item.autores ?? item.authors ?? '');
-      elements.editModal.hidden = false;
-      elements.editTitulo.focus();
+      const item = state.productionsRaw.find(i => (i.fingerprint_sha1 || i) === key) || state.edits[key] || {};
+      document.getElementById('edit-titulo').value = item.titulo || '';
+      document.getElementById('edit-veiculo').value = item.veiculo || '';
+      document.getElementById('edit-ano').value = item.ano || '';
+      document.getElementById('edit-doi').value = item.doi || '';
+      document.getElementById('edit-autores').value = item.autores || '';
+      document.getElementById('edit-modal').style.display = 'grid';
     };
 
-    const closeEditModal = () => {
-      elements.editModal.hidden = true;
-      state.editingKey = null;
-      state.editingIndex = null;
-    };
-
-    const applyEditChanges = (edits) => {
-      if (!state.editingKey || state.editingIndex === null) return;
-      state.edits[state.editingKey] = edits;
-      state.productions[state.editingIndex] = {
-        ...state.productionsRaw[state.editingIndex],
-        ...edits,
+    window.saveEdit = () => {
+      state.edits[state.editingKey] = {
+        titulo: document.getElementById('edit-titulo').value,
+        veiculo: document.getElementById('edit-veiculo').value,
+        ano: document.getElementById('edit-ano').value,
+        doi: document.getElementById('edit-doi').value,
+        autores: document.getElementById('edit-autores').value
       };
       persistState();
-      closeEditModal();
+      document.getElementById('edit-modal').style.display = 'none';
       applyFilters();
     };
 
-    const clearEditChanges = () => {
-      if (!state.editingKey || state.editingIndex === null) return;
-      delete state.edits[state.editingKey];
-      state.productions[state.editingIndex] = {
-        ...state.productionsRaw[state.editingIndex],
-      };
-      persistState();
-      closeEditModal();
-      applyFilters();
-    };
-
-    const loadData = async () => {
-      try {
-        state.sourceUrl = await resolveSourceUrl();
-        const response = await fetch(state.sourceUrl, { cache: 'no-store' });
-        if (!response.ok) {
-          throw new Error(`Falha ao carregar JSON (${response.status}): ${state.sourceUrl}`);
-        }
-        const data = await response.json();
-        if (!Array.isArray(data.productions)) {
-          throw new Error('JSON invalido: campo productions nao encontrado ou nao e um array.');
-        }
-
-        state.productionsRaw = data.productions;
-        state.metadataSections = data.metadata?.sections || [];
-
-        renderHeader(data);
-        loadStoredState();
-        applyEditsToProductions();
-        state.sectionsAll = computeSectionOrder(state.productions, state.metadataSections);
-
-        renderSummary(state.productions, state.sectionsAll);
-        renderFilters();
-        elements.totalCount.textContent = String(state.productions.length);
-        applyFilters();
-      } catch (err) {
-        const details = err && err.stack ? err.stack : String(err);
-        showError('Erro ao carregar dados.', `${details}\n\nURL usada: ${state.sourceUrl || 'N/A'}`);
-      }
-    };
-
-    const buildExportPayload = () => {
-      const summary = [];
-      const counts = new Map();
-      const selectedCounts = new Map();
-
-      state.productions.forEach((item, index) => {
-        const category = getCategory(item);
-        counts.set(category, (counts.get(category) || 0) + 1);
-        const key = getItemKey(item, category, index);
-        if (state.selections[key]) {
-          selectedCounts.set(category, (selectedCounts.get(category) || 0) + 1);
-        }
+    window.toggleSection = (cat, checked) => {
+      state.productionsRaw.filter(i => (i.production_type || i.section || 'Outros') === cat).forEach(i => {
+        state.selections[i.fingerprint_sha1 || i] = checked;
       });
-
-      for (const category of state.sectionsAll) {
-        const total = counts.get(category) || 0;
-        if (!total) continue;
-        const markedInct = selectedCounts.get(category) || 0;
-        summary.push({
-          section: category,
-          total,
-          selected: markedInct,
-          marked_inct: markedInct,
-          unmarked: total - markedInct,
-        });
-      }
-
-      const items = state.productions.map((item, index) => {
-        const category = getCategory(item);
-        const key = getItemKey(item, category, index);
-        const selected = Boolean(state.selections[key]);
-        return {
-          fingerprint_sha1: item.fingerprint_sha1 || null,
-          selected,
-          pertence_inct: selected,
-          production_type: category,
-          titulo: item.titulo ?? item.title ?? null,
-          ano: getYear(item) ?? null,
-          doi: item.doi ?? null,
-          veiculo: item.veiculo ?? item.vehicle ?? null,
-          observacao: state.observations[key] || null,
-          edits: state.edits[key] || null,
-        };
-      });
-
-      return {
-        schema_version: state.schemaVersion,
-        schema_version_validacao: "1.0.0",
-        researcher: state.researcher || null,
-        prefill_source: state.prefillSource,
-        exported_at: new Date().toISOString(),
-        summary,
-        items,
-      };
+      persistState(); applyFilters();
     };
 
-    const downloadValidationJson = () => {
-      const payload = buildExportPayload();
-      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    window.downloadValidationJson = () => {
+      const items = state.productionsRaw.map(i => ({
+        fingerprint_sha1: i.fingerprint_sha1,
+        selected: !!state.selections[i.fingerprint_sha1 || i],
+        titulo: i.titulo, ano: i.ano, edits: state.edits[i.fingerprint_sha1] || null
+      }));
+      const blob = new Blob([JSON.stringify({ researcher: state.researcher, items }, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      const baseId = state.researcher?.lattes_id || state.prefillParam || 'prefill';
-      const stamp = new Date().toISOString().replace(/[-:]/g, '').replace('T', '-').slice(0, 15);
-      link.download = `${baseId}__validacao_${stamp}.json`;
-      link.href = url;
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      URL.revokeObjectURL(url);
+      const a = document.createElement('a');
+      a.href = url; a.download = `validacao_${state.researcher.lattes_id}.json`;
+      a.click();
     };
 
-    elements.searchInput.addEventListener('input', applyFilters);
-    elements.printBtn.addEventListener('click', () => window.print());
-    elements.exportValidation.addEventListener('click', downloadValidationJson);
-    elements.summaryList.addEventListener('click', (event) => {
-      const link = event.target.closest('a[href^="#"]');
-      if (!link) return;
-      event.preventDefault();
-      const sectionId = link.getAttribute('href').slice(1);
-      history.replaceState(null, '', `#${sectionId}`);
-      flashAndScrollToSection(sectionId);
-    });
+    document.getElementById('bd-trigger').onclick = () => {
+      if (localStorage.getItem(BD_KEY) === 'true') document.body.classList.toggle('reveal-all');
+      else document.getElementById('auth-modal').style.display = 'grid';
+    };
 
-    elements.editSave.addEventListener('click', () => {
-      const titulo = normalizeWhitespace(elements.editTitulo.value);
-      const veiculo = normalizeWhitespace(elements.editVeiculo.value);
-      const doi = normalizeWhitespace(elements.editDoi.value);
-      const autores = normalizeWhitespace(elements.editAutores.value);
-      const anoRaw = elements.editAno.value.trim();
-      const anoNumber = anoRaw === '' ? '' : Number(anoRaw);
-      const ano = Number.isNaN(anoNumber) ? '' : anoNumber;
+    document.getElementById('auth-submit').onclick = () => {
+      if (document.getElementById('auth-pass').value === BD_PASS) {
+        localStorage.setItem(BD_KEY, 'true'); document.body.classList.add('reveal-all');
+        document.getElementById('auth-modal').style.display = 'none';
+      } else alert('Negado');
+    };
 
-      applyEditChanges({
-        titulo,
-        veiculo,
-        ano,
-        doi,
-        autores,
-      });
-    });
-    elements.editCancel.addEventListener('click', closeEditModal);
-    elements.editClear.addEventListener('click', clearEditChanges);
-    elements.editModal.addEventListener('click', (event) => {
-      if (event.target === elements.editModal) {
-        closeEditModal();
-      }
-    });
-    document.addEventListener('keydown', (event) => {
-      if (event.key === 'Escape' && !elements.editModal.hidden) {
-        closeEditModal();
-      }
-    });
+    const eye = document.getElementById('auth-eye');
+    eye.onmousedown = () => document.getElementById('auth-pass').type = 'text';
+    eye.onmouseup = eye.onmouseleave = () => document.getElementById('auth-pass').type = 'password';
 
     loadData();
   </script>
