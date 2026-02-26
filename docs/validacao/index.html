@@ -53,9 +53,10 @@
     table { width: 100%; border-collapse: collapse; margin-top: 16px; background: rgba(255, 255, 255, 0.02); }
     th, td { border: 1px solid var(--border); padding: 10px 12px; vertical-align: top; font-size: 13px; }
     th { background: var(--panel); color: var(--ink); text-transform: uppercase; font-size: 10px; letter-spacing: 0.05em; text-align: left; position: sticky; top: 132px; z-index: 1; }
+    tbody tr { cursor: pointer; }
     tbody tr:nth-child(even) { background: var(--table-row-even); }
     tbody tr:hover { background: var(--table-hover); }
-
+    
     .section-header { display: flex; align-items: center; justify-content: space-between; margin-top: 40px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
     .add-to-section-btn { display: none !important; background: var(--accent); color: var(--bg); border: none; padding: 4px 8px; border-radius: 4px; cursor: pointer; font-size: 10px; font-weight: bold; text-transform: uppercase; }
     .reveal-all .add-to-section-btn { display: inline-block !important; }
@@ -102,7 +103,7 @@
       document.getElementById('source-line').textContent = `Fonte: ${p}`;
       const saved = localStorage.getItem(state.key);
       if(saved) { const parsed = JSON.parse(saved); state.selections = parsed.s||{}; state.edits = parsed.e||{}; }
-      else { state.raw.forEach((i, idx) => state.selections[i.fingerprint_sha1 || `\${i.production_type || 'Outros'}::\${idx}`] = true); }
+      else { state.raw.forEach((i, idx) => state.selections[i.fingerprint_sha1 || `${i.production_type || 'Outros'}::${idx}`] = true); }
       state.sections = [...new Set(state.raw.map(i => i.production_type || i.section || 'Outros'))];
       renderSummary(); renderYears(); applyFilters();
     };
@@ -136,35 +137,43 @@
     };
 
     const renderTables = (items) => {
-      const c = document.getElementById('productions-container'); c.innerHTML = '';
+      const cont = document.getElementById('productions-container'); cont.innerHTML = '';
       state.sections.forEach(cat => {
         const si = items.filter(i => (i.production_type||i.section||'Outros') === cat); if(!si.length) return;
         const id = `sec-${cat.toLowerCase().replace(/\s+/g,'-')}`; const s = document.createElement('section');
         
-        const allChecked = si.every((i, idx) => state.selections[i.fingerprint_sha1 || `\${cat}::\${state.raw.indexOf(i)}`]);
+        const allChecked = si.every((i) => state.selections[i.fingerprint_sha1 || `${cat}::${state.raw.indexOf(i)}`]);
 
         s.innerHTML = `<div class="section-header" id="${id}"><h2>${cat} (${si.length})</h2><div class="section-controls"><label><input type="checkbox" ${allChecked?'checked':''} onchange="toggleSec('${cat}', this.checked)"> Selecionar tudo</label><button class="add-to-section-btn" onclick="openAddModal('${cat}')">+ Adicionar</button></div></div>
         <table><thead><tr><th>INCT?</th><th>Ano</th><th>Título</th><th>Veículo</th><th>Autores</th><th class="hidden-col">DOI</th><th class="hidden-col">Fingerprint</th><th class="hidden-col">Ações</th></tr></thead><tbody></tbody></table>`;
         const b = s.querySelector('tbody');
         si.forEach(i => {
-          const k = i.fingerprint_sha1 || `\${cat}::\${state.raw.indexOf(i)}`; const d = state.edits[k] ? {...i, ...state.edits[k]} : i;
+          const k = i.fingerprint_sha1 || `${cat}::${state.raw.indexOf(i)}`; const d = state.edits[k] ? {...i, ...state.edits[k]} : i;
           const r = document.createElement('tr');
+          r.onclick = (e) => {
+            if (e.target.tagName === 'BUTTON' || e.target.tagName === 'A' || e.target.type === 'checkbox') return;
+            state.selections[k] = !state.selections[k]; save(); applyFilters();
+          };
           r.innerHTML = `<td><input type="checkbox" ${state.selections[k]?'checked':''} onchange="state.selections['${k}']=this.checked; save(); applyFilters();"></td><td>${d.ano||d.year||''}</td><td><strong>${d.titulo}</strong></td><td>${d.veiculo||d.journal||''}</td><td>${d.autores||''}</td><td class="hidden-col">${d.doi||''}</td><td class="hidden-col"><code style="font-size:10px">${i.fingerprint_sha1||'N/A'}</code></td><td class="hidden-col"><button onclick="openEdit('${k}')">Editar</button></td>`;
           b.appendChild(r);
         });
-        c.appendChild(s);
+        cont.appendChild(s);
       });
     };
 
     const save = () => localStorage.setItem(state.key, JSON.stringify({s: state.selections, e: state.edits}));
-    window.toggleSec = (c, v) => { state.raw.forEach((i, idx) => { if((i.production_type||i.section||'Outros')===c) state.selections[i.fingerprint_sha1 || `\${c}::\${idx}`]=v; }); save(); applyFilters(); };
+    window.toggleSec = (c, v) => { state.raw.forEach((i, idx) => { if((i.production_type||i.section||'Outros')===c) state.selections[i.fingerprint_sha1 || `${c}::${idx}`]=v; }); save(); applyFilters(); };
     window.openAddModal = (t) => { document.getElementById('add-tipo').value = t||'Artigos'; document.getElementById('add-modal').style.display='grid'; };
     window.saveManual = () => { const k = 'man-'+Date.now(); state.raw.unshift({production_type: document.getElementById('add-tipo').value, titulo: document.getElementById('add-titulo').value, ano: document.getElementById('add-ano').value, fingerprint_sha1: k}); state.selections[k]=true; save(); document.getElementById('add-modal').style.display='none'; applyFilters(); };
-    window.openEdit = (k) => { state.ek = k; const i = state.raw.find(x=>(x.fingerprint_sha1||`\${x.production_type || 'Outros'}::\${state.raw.indexOf(x)}`)===k)||state.edits[k]||{}; document.getElementById('edit-titulo').value=i.titulo||''; document.getElementById('edit-modal').style.display='grid'; };
+    window.openEdit = (k) => { state.ek = k; const i = state.raw.find(x=>(x.fingerprint_sha1||`${x.production_type || 'Outros'}::${state.raw.indexOf(x)}`)===k)||state.edits[k]||{}; document.getElementById('edit-titulo').value=i.titulo||''; document.getElementById('edit-veiculo').value=item.veiculo||''; document.getElementById('edit-ano').value=item.ano||''; document.getElementById('edit-doi').value=item.doi||''; document.getElementById('edit-autores').value=item.autores||''; document.getElementById('edit-modal').style.display='grid'; };
     window.saveEdit = () => { state.edits[state.ek] = { titulo: document.getElementById('edit-titulo').value, veiculo: document.getElementById('edit-veiculo').value, ano: document.getElementById('edit-ano').value, doi: document.getElementById('edit-doi').value, autores: document.getElementById('edit-autores').value }; save(); document.getElementById('edit-modal').style.display='none'; applyFilters(); };
     window.downloadValidationJson = () => { 
-        const items = state.raw.map((i, idx) => { const k = i.fingerprint_sha1 || `\${i.production_type || 'Outros'}::\${idx}`; return { fingerprint_sha1: i.fingerprint_sha1, selected: !!state.selections[k], titulo: i.titulo, ano: i.ano, edits: state.edits[k]||null }; });
-        const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify({researcher: state.researcher, items}, null, 2)], {type:'application/json'})); a.download='val.json'; a.click();
+        const items = state.raw.map((i, idx) => { const k = i.fingerprint_sha1 || `${i.production_type || 'Outros'}::${idx}`; return { fingerprint_sha1: i.fingerprint_sha1, selected: !!state.selections[k], titulo: i.titulo, ano: i.ano, edits: state.edits[k]||null }; });
+        const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify({researcher: state.researcher, items}, null, 2)], {type:'application/json'})); 
+        const namePart = (state.researcher.full_name || 'export').toLowerCase().replace(/\s+/g, '-');
+        const lattesId = state.researcher.lattes_id || '0000000000000000';
+        a.download = `${lattesId}__${namePart}__validado.json`; 
+        a.click();
     };
     document.getElementById('bd-trigger').onclick = () => { if(localStorage.getItem(BD_KEY)==='true') document.body.classList.toggle('reveal-all'); else document.getElementById('auth-modal').style.display='grid'; };
     document.getElementById('auth-submit').onclick = () => { if(document.getElementById('auth-pass').value===BD_PASS){ localStorage.setItem(BD_KEY,'true'); document.body.classList.add('reveal-all'); document.getElementById('auth-modal').style.display='none'; } else alert('Erro'); };
