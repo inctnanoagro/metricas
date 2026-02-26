@@ -118,8 +118,36 @@
     };
 
     const showBTT = () => {
-      let b = document.getElementById('ephemeral-btt'); if(!b){ b=document.createElement('div'); b.id='ephemeral-btt'; b.className='back-to-top-btn'; b.innerHTML='<span>⬆️</span> VOLTAR AO SUMÁRIO'; document.body.appendChild(b); b.onclick=()=>{window.scrollTo({top:document.getElementById('summary-panel').offsetTop-132, behavior:'auto'}); b.style.display='none';}; }
-      b.style.display='flex'; setTimeout(()=>window.onscroll=()=>{if(window.scrollY<200){b.style.display='none'; window.onscroll=null;}}, 1000);
+      let b = document.getElementById('ephemeral-btt');
+      if (!b) {
+        b = document.createElement('div');
+        b.id = 'ephemeral-btt';
+        b.className = 'back-to-top-btn';
+        b.innerHTML = '<span>⬆️</span> VOLTAR AO SUMÁRIO';
+        document.body.appendChild(b);
+        b.onclick = () => {
+          const summaryPanel = document.getElementById('summary-panel');
+          window.scrollTo({ top: summaryPanel.offsetTop - 132, behavior: 'auto' });
+          b.style.display = 'none';
+        };
+      }
+      
+      // Limpa qualquer monitoramento de scroll anterior
+      if (state.scrollTimeout) clearTimeout(state.scrollTimeout);
+      window.onscroll = null;
+
+      // Mostra o botão imediatamente
+      b.style.display = 'flex';
+      
+      // Delay de 1s para ignorar o scroll do salto inicial e então começar a monitorar o sumiço
+      state.scrollTimeout = setTimeout(() => {
+        window.onscroll = () => {
+          if (window.scrollY < 200) {
+            b.style.display = 'none';
+            window.onscroll = null;
+          }
+        };
+      }, 1000);
     };
 
     const renderYears = () => {
