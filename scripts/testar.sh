@@ -8,13 +8,13 @@ Uso: ./scripts/testar.sh [--in <dir_html>] [--out <dir_outputs_base>] [--schema 
 Defaults:
   --in     data/full_profiles_20250114
   --out    outputs
-  --schema schema/producoes.schema.json
+  --schema schema/researcher_output.schema.json
 EOF
 }
 
 INPUT_DIR="data/full_profiles_20250114"
 OUTPUT_BASE="outputs"
-SCHEMA_PATH="schema/producoes.schema.json"
+SCHEMA_PATH="schema/researcher_output.schema.json"
 DRY_RUN=false
 
 while [[ $# -gt 0 ]]; do

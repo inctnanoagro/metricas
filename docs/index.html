@@ -1,251 +1,31 @@
 <!doctype html>
-<html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8" />
-        <title>INCT NanoAgro — Validação de Produções Científicas</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-        <style>
-            body {
-                font-family: Arial, Helvetica, sans-serif;
-                margin: 2rem;
-                max-width: 900px;
-            }
-
-            h1 {
-                margin-bottom: 0.2rem;
-            }
-
-            .subtitulo {
-                color: #555;
-                margin-bottom: 1.5rem;
-            }
-
-            label {
-                display: block;
-                margin-top: 1rem;
-                font-weight: bold;
-            }
-
-            input,
-            select {
-                width: 100%;
-                padding: 0.5rem;
-                margin-top: 0.3rem;
-            }
-
-            button {
-                margin-top: 1.5rem;
-                padding: 0.6rem 1rem;
-                font-size: 1rem;
-                cursor: pointer;
-            }
-
-            #btnDownload {
-                margin-left: 1rem;
-            }
-
-            #saida {
-                margin-top: 2rem;
-                background: #f4f4f4;
-                padding: 1rem;
-                white-space: pre-wrap;
-                font-family: monospace;
-                font-size: 0.9rem;
-            }
-
-            #aviso-prefill {
-                background: #eef5ff;
-                border-left: 4px solid #3366cc;
-                padding: 1rem;
-                margin-bottom: 1.5rem;
-                display: none;
-            }
-        </style>
-    </head>
-
-    <body>
-        <h1>Validação de Produções Científicas</h1>
-        <div class="subtitulo">
-            INCT NanoAgro — Ferramenta institucional de validação
-        </div>
-
-        <div id="aviso-prefill">
-            Produções carregadas automaticamente para validação. Revise as
-            informações e confirme antes de gerar o arquivo final.
-        </div>
-
-        <form id="producaoForm">
-            <label for="titulo">Título da produção</label>
-            <input type="text" id="titulo" required />
-
-            <label for="ano">Ano</label>
-            <input type="number" id="ano" min="1900" max="2100" required />
-
-            <label for="idioma">Idioma</label>
-            <select id="idioma">
-                <option value="pt">Português</option>
-                <option value="en">Inglês</option>
-                <option value="es">Espanhol</option>
-            </select>
-
-            <label for="tipo_producao">Tipo de produção</label>
-            <select id="tipo_producao" required>
-                <option value="">Selecione</option>
-                <option value="artigo">Artigo em periódico</option>
-                <option value="capitulo_livro">Capítulo de livro</option>
-                <option value="livro">Livro</option>
-                <option value="trabalho_evento">Trabalho em evento</option>
-                <option value="outro">Outro</option>
-            </select>
-
-            <label>
-                <input type="checkbox" id="associavel_inct" />
-                Produção associável ao INCT NanoAgro
-            </label>
-
-            <button type="submit">Validar / Gerar JSON</button>
-            <button type="button" id="btnDownload" disabled>
-                ⬇️ Baixar JSON validado
-            </button>
-        </form>
-
-        <pre id="saida"></pre>
-
-        <script>
-            document.addEventListener("DOMContentLoaded", () => {
-                const form = document.getElementById("producaoForm");
-                const saida = document.getElementById("saida");
-                const btnDownload = document.getElementById("btnDownload");
-                const avisoPrefill = document.getElementById("aviso-prefill");
-
-                let ultimoJSONGerado = null;
-
-                // ============================
-                // PREFILL VIA ?source=
-                // ============================
-                const params = new URLSearchParams(window.location.search);
-                const source = params.get("source");
-
-                if (source) {
-                    fetch(source)
-                        .then((res) => {
-                            if (!res.ok) {
-                                throw new Error(
-                                    "Erro ao carregar dados pré-preenchidos.",
-                                );
-                            }
-                            return res.json();
-                        })
-                        .then((data) => {
-                            preencherFormulario(data);
-                            avisoPrefill.style.display = "block";
-                        })
-                        .catch((err) => {
-                            alert(err.message);
-                        });
-                }
-
-                function preencherFormulario(data) {
-                    if (data.identificacao) {
-                        document.getElementById("titulo").value =
-                            data.identificacao.titulo || "";
-                        document.getElementById("ano").value =
-                            data.identificacao.ano || "";
-                        document.getElementById("idioma").value =
-                            data.identificacao.idioma || "pt";
-                    }
-
-                    if (data.tipo_producao) {
-                        document.getElementById("tipo_producao").value =
-                            data.tipo_producao;
-                    }
-
-                    if (data.vinculo_institucional) {
-                        document.getElementById("associavel_inct").checked =
-                            !!data.vinculo_institucional.associavel_inct;
-                    }
-                }
-
-                // ============================
-                // SUBMIT
-                // ============================
-                form.addEventListener("submit", (e) => {
-                    e.preventDefault();
-
-                    const json = montarJSON();
-                    ultimoJSONGerado = json;
-
-                    saida.textContent = JSON.stringify(json, null, 2);
-                    btnDownload.disabled = false;
-                });
-
-                // ============================
-                // DOWNLOAD
-                // ============================
-                btnDownload.addEventListener("click", baixarJSON);
-
-                function baixarJSON() {
-                    if (!ultimoJSONGerado) {
-                        alert("Nenhum JSON gerado.");
-                        return;
-                    }
-
-                    const conteudo = JSON.stringify(ultimoJSONGerado, null, 2);
-                    const blob = new Blob([conteudo], {
-                        type: "application/json",
-                    });
-                    const url = URL.createObjectURL(blob);
-
-                    const a = document.createElement("a");
-                    a.href = url;
-                    a.download = gerarNomeArquivo();
-                    document.body.appendChild(a);
-                    a.click();
-
-                    document.body.removeChild(a);
-                    URL.revokeObjectURL(url);
-                }
-
-                function gerarNomeArquivo() {
-                    const titulo = document
-                        .getElementById("titulo")
-                        .value.toLowerCase()
-                        .replace(/[^a-z0-9]+/g, "_")
-                        .substring(0, 40);
-
-                    const data = new Date().toISOString().split("T")[0];
-                    return `producao_INCT_${titulo}_${data}.json`;
-                }
-
-                // ============================
-                // JSON FINAL
-                // ============================
-                function montarJSON() {
-                    return {
-                        identificacao: {
-                            titulo: document.getElementById("titulo").value,
-                            ano: Number(document.getElementById("ano").value),
-                            idioma: document.getElementById("idioma").value,
-                        },
-                        autores: [{ nome_completo: "AUTOR NÃO INFORMADO" }],
-                        tipo_producao:
-                            document.getElementById("tipo_producao").value,
-                        dados_bibliograficos: {},
-                        vinculo_institucional: {
-                            associavel_inct:
-                                document.getElementById("associavel_inct")
-                                    .checked,
-                        },
-                        metadados_coleta: {
-                            fonte: "curriculo_lattes",
-                            data_registro: new Date()
-                                .toISOString()
-                                .split("T")[0],
-                        },
-                    };
-                }
-            });
-        </script>
-    </body>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Redirecionando para validação</title>
+</head>
+<body>
+  <p>Redirecionando para a validação…</p>
+  <noscript>
+    <p>JavaScript desativado. Acesse manualmente:</p>
+    <ul>
+      <li><a href="validacao/lista.html">Lista de validação</a></li>
+    </ul>
+  </noscript>
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const prefill = params.get('prefill');
+      const basePath = window.location.pathname.replace(/\/index\.html?$/, '/');
+      if (prefill) {
+        const target = `${basePath}validacao/?prefill=${encodeURIComponent(prefill)}`;
+        window.location.replace(target);
+      } else {
+        const target = `${basePath}validacao/lista.html`;
+        window.location.replace(target);
+      }
+    })();
+  </script>
+</body>
 </html>

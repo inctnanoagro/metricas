@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Produtos Tecnológicos",
+  "source_file": "Produtos Tecnológicos.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.773011Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "Rosa, André H. ; MELO, CAMILA DE A. ; FRACETO, L. F. . COMPOSTOS POLIMÉRICOS CONTENDO TURFAS E SUBSTÂNCIAS HÚMICAS, PROCESSO PARA O PREPARO DOS MESMOS E SEU USO. 2014.",
+      "autores": "Rosa, André H.; MELO, CAMILA DE A.; FRACETO, L. F.",
+      "titulo": "COMPOSTOS POLIMÉRICOS CONTENDO TURFAS E SUBSTÂNCIAS HÚMICAS, PROCESSO PARA O PREPARO DOS MESMOS E SEU USO",
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "89a4bdd8fb552aa4ed23ca2cdb7dc18335c64ade",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"2381\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Rosa, André H.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5608507451022441\" tabindex=\"2382\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MELO, CAMILA DE A.</a> ; <b>FRACETO, L. F.</b> . COMPOSTOS POLIMÉRICOS CONTENDO TURFAS E SUBSTÂNCIAS HÚMICAS, PROCESSO PARA O PREPARO D"
+    },
+    {
+      "numero_item": 2,
+      "raw": "Napimoga, Marcelo H. ; Clemente-Napimoga, Juliana T. ; Araújo, Daniele R. ; FRACETO, L. F. . PHARMACEUTICAL COMPOSITION OF 15-DEOXY-DELTA-12,14- PROSTAGLANDIN J2 IN A POLOXAMER-BASED MICELLAR SYSTEM AND ITS USE FOR TREATMENT OF INFLAMMATORY CONDITIONS. 2014.",
+      "autores": "Napimoga, Marcelo H.; Clemente-Napimoga, Juliana T.; Araújo, Daniele R.; FRACETO, L. F.",
+      "titulo": "PHARMACEUTICAL COMPOSITION OF 15-DEOXY-DELTA-12,14- PROSTAGLANDIN J2 IN A POLOXAMER-BASED MICELLAR SYSTEM AND ITS USE FOR TREATMENT OF INFLAMMATORY CONDITIONS",
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "150bcb81ea72dab25625fdc3d54c93cb6ee190bd",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/7271322598023267\" tabindex=\"2383\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Napimoga, Marcelo H.</a> ; Clemente-Napimoga, Juliana T. ; Araújo, Daniele R. ; <b>FRACETO, L. F.</b> . PHARMACEUTICAL COMPOSITION OF 15-DEOXY-DELTA-12,14- PROSTAGLANDIN J2 IN A POLOXAMER-BASED MICELLAR SYSTEM AND ITS USE FOR TREATMENT OF INFLAMMATORY CONDITIONS. 2014. </span></div>"
+    },
+    {
+      "numero_item": 3,
+      "raw": "FRACETO, L. F. ; Rosa, André H. ; GRILLO, Renato ; Melo, Nathalie F. S. ; PEREIRA, A. E. . PROCESSO DE PRODUÇÃO DE SISTEMA DE LIBERAÇÃO SUSTENTADA DE HERBICIDAS BIOATIVOS; NANOPARTÍCULAS POLIMÉRICAS E USO DO SISTEMA DE LIBERAÇÃO SUSTENTADA DE HERBICIDAS BIOATIVOS - BR 10 2013 022912-1. 2013.",
+      "autores": "FRACETO, L. F.; Rosa, André H.; GRILLO, Renato; Melo, Nathalie F. S.; PEREIRA, A. E.",
+      "titulo": "PROCESSO DE PRODUÇÃO DE SISTEMA DE LIBERAÇÃO SUSTENTADA DE HERBICIDAS BIOATIVOS; NANOPARTÍCULAS POLIMÉRICAS E USO DO SISTEMA DE LIBERAÇÃO SUSTENTADA DE HERBICIDAS BIOATIVOS - BR 10 2013 022912-1",
+      "ano": 2013,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3897903e83c8e859a7cd72e9854e148eb2c92e14",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"2384\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Rosa, André H.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2188736885721242\" tabindex=\"2385\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GRILLO, Renato</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9175058122742496\" tabindex=\"2386\" target=\"_b"
+    },
+    {
+      "numero_item": 4,
+      "raw": "SANCHEZ, E. S. ; LOPEZ, M. C. ; FONTENLA, J. A. ; ESPINAR, F. O. ; LABANDEIRA, J. J. T. ; GRILLO, Renato ; FRACETO, L. F. . Nanocápsulas de oxoisoaporfinas para el tratamiento de la depressión. 2011.",
+      "autores": "SANCHEZ, E. S.; LOPEZ, M. C.; FONTENLA, J. A.; ESPINAR, F. O.; LABANDEIRA, J. J. T.; GRILLO, Renato; FRACETO, L. F.",
+      "titulo": "Nanocápsulas de oxoisoaporfinas para el tratamiento de la depressión",
+      "ano": 2011,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a3d7f7910b15c8ff37030e79235cf90a04228b87",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANCHEZ, E. S. ; LOPEZ, M. C. ; FONTENLA, J. A. ; ESPINAR, F. O. ; LABANDEIRA, J. J. T. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2188736885721242\" tabindex=\"2388\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GRILLO, Renato</a> ; <b>FRACETO, L. F.</b> . Nanocápsulas de oxoisoaporfinas para el tratamiento de la depressión. 2011. </span></div>"
+    },
+    {
+      "numero_item": 5,
+      "raw": "SILVA, André Luis Rotolo ; MONTAN, M. ; GROPPO, F. C. ; VOLPATO, M. C. ; RANALI, Jose ; FRACETO, L. F. ; PAULA, Eneida de . COMPOSIÇÃO FARMACÊUTICA, PROCESSO DE OBTENÇÂO DA COMPOSIÇÃO FARMACÊUTICA, USO DE UMA QUANTIDADE FARMACEUTICAMENTE EFICAZ DE ANESTÉSICO E AGENTE GELIFICANTE, PRODUTO E MÉTODO DE TRATAMENTO. 2007.",
+      "autores": "SILVA, André Luis Rotolo; MONTAN, M.; GROPPO, F. C.; VOLPATO, M. C.; RANALI, Jose; FRACETO, L. F.; PAULA, Eneida de",
+      "titulo": "COMPOSIÇÃO FARMACÊUTICA, PROCESSO DE OBTENÇÂO DA COMPOSIÇÃO FARMACÊUTICA, USO DE UMA QUANTIDADE FARMACEUTICAMENTE EFICAZ DE ANESTÉSICO E AGENTE GELIFICANTE, PRODUTO E MÉTODO DE TRATAMENTO",
+      "ano": 2007,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3e0454a61e4a4eaee17cc79f83f6f3c99d98b9fb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SILVA, André Luis Rotolo ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5707058917836183\" tabindex=\"2389\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MONTAN, M.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9354580229064362\" tabindex=\"2390\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GROPPO, F. C.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0011249743728949\" tabindex=\"2391\" target=\"_bl"
+    },
+    {
+      "numero_item": 6,
+      "raw": "ARAUJO, Daniele Ribeiro ; PINTO, Luciana Matos Alves ; CEREDA, Cintia Maria Saia ; BRUNETTO, Giovana B ; FRACETO, L. F. ; VANINI, Rafael ; PAULA, Eneida de . Anestésicos locais encapsulados em lipossomas para formulações de liberação controlada. 2004.",
+      "autores": "ARAUJO, Daniele Ribeiro; PINTO, Luciana Matos Alves; CEREDA, Cintia Maria Saia; BRUNETTO, Giovana B; FRACETO, L. F.; VANINI, Rafael; PAULA, Eneida de",
+      "titulo": "Anestésicos locais encapsulados em lipossomas para formulações de liberação controlada",
+      "ano": 2004,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "076a2730cd4ca6e6b82edb0ce9397077e191b2ee",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/6434758592103771\" tabindex=\"2394\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ARAUJO, Daniele Ribeiro</a> ; PINTO, Luciana Matos Alves ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0747733860121229\" tabindex=\"2395\" target=\"_blank\" title=\"Clique para visualizar o currículo\">CEREDA, Cintia Maria Saia</a> ; BRUNETTO, Giovana B ; <b>FRACETO, L. F.</b> ; VANINI, Rafael ; <a"
+    },
+    {
+      "numero_item": 7,
+      "raw": "JESUS, Marcelo Bispo de ; LINO, Antonio Carlos Senges ; PINTO, Luciana de Matos Alves ; FRACETO, L. F. ; TAKAHATA, Yuji ; PAULA, Eneida de . Composto de inclusao entre beta-ciclodextrina e praziquantel para tratamento de esquistossomose. 2004.",
+      "autores": "JESUS, Marcelo Bispo de; LINO, Antonio Carlos Senges; PINTO, Luciana de Matos Alves; FRACETO, L. F.; TAKAHATA, Yuji; PAULA, Eneida de",
+      "titulo": "Composto de inclusao entre beta-ciclodextrina e praziquantel para tratamento de esquistossomose",
+      "ano": 2004,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e1a3aa49e2de75bc576fcdeca233126c07a4bc9a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9611381402490228\" tabindex=\"2397\" target=\"_blank\" title=\"Clique para visualizar o currículo\">JESUS, Marcelo Bispo de</a> ; LINO, Antonio Carlos Senges ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4269462940112721\" tabindex=\"2398\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PINTO, Luciana de Matos Alves</a> ; <b>FRACETO, L. F.</b> ; TAKAHATA, Yuji ; <a class=\"tooltip\" "
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 7,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

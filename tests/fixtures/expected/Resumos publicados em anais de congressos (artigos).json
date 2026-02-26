@@ -1,0 +1,113 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Resumos publicados em anais de congressos (artigos)",
+  "source_file": "Resumos publicados em anais de congressos (artigos).html",
+  "extraction_timestamp": "2026-01-26T16:56:13.810084Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "CEREDA, Cintia Ms 2006 CEREDA, Cintia Ms ; TOFOLI, Giovana R ; FRACETO, L. F. ; PASCHOAL, Marcio A ; ARAUJO, Daniele Ribeiro de ; PAULA, Eneida de . Liposomal prilocaine formulation: sterility, stability, and local toxicity evaluation. Journal Of Pharmacy And Pharmaceutical Science , Canadá, v. 9, n.2, p. 209-209, 2006.",
+      "autores": "CEREDA, Cintia Ms CEREDA, Cintia Ms; TOFOLI, Giovana R; FRACETO, L. F.; PASCHOAL, Marcio A; ARAUJO, Daniele Ribeiro de; PAULA, Eneida de",
+      "titulo": "Liposomal prilocaine formulation: sterility, stability, and local toxicity evaluation",
+      "ano": 2006,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "510121a03702158f3e93dab14e0528ccf5b9aed1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">CEREDA, Cintia Ms</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2006</span>CEREDA, Cintia Ms ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0796028909075462\" original-title=\"Clique para visualizar o currículo\" tabindex=\"2314\" target=\"_blank\">TOFOLI, Giovana R</a> ; <b>FRACETO, L. F."
+    },
+    {
+      "numero_item": 2,
+      "raw": "MORAES, Carolina Morales 2005 MORAES, Carolina Morales ; ABRAMI, Priscila ; PAULA, Eneida de ; FRACETO, L. F. . Studying the interaction of S(-)Bupivacaine and beta-cyclodextrin by HPLC. Revista Brasileira de Ciências Farmacêuticas , brasil, v. 41, n.supl.1, p. 116-116, 2005.",
+      "autores": "MORAES, Carolina Morales MORAES, Carolina Morales; ABRAMI, Priscila; PAULA, Eneida de; FRACETO, L. F.",
+      "titulo": "Studying the interaction of S(-)Bupivacaine and beta-cyclodextrin by HPLC",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "15aeb9810578a237bba67e26f4d2c869ec7df280",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">MORAES, Carolina Morales</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2005</span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9095301894112529\" tabindex=\"2317\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MORAES, Carolina Morales</a> ; ABRAMI, Priscila ; <a class=\"too"
+    },
+    {
+      "numero_item": 3,
+      "raw": "ABRAMI, Priscila 2005 ABRAMI, Priscila ; MORAES, C Arolina Morales ; PAULA, Eneida de ; FRACETO, L. F. . Differential interaction between two clinically used local anesthetics and cyclodextrin. Revista Brasileira de Ciências Farmacêuticas , brasil, v. 41, n.supl. 1, p. 116-116, 2005.",
+      "autores": "ABRAMI, Priscila ABRAMI, Priscila; MORAES, C Arolina Morales; PAULA, Eneida de; FRACETO, L. F.",
+      "titulo": "Differential interaction between two clinically used local anesthetics and cyclodextrin",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "26a6fa7095a857b81064a475f30f70ec1a392d7f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">ABRAMI, Priscila</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2005</span>ABRAMI, Priscila ; MORAES, C Arolina Morales ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5343212477106568\" original-title=\"Clique para visualizar o currículo\" tabindex=\"2319\" target=\"_blank\">PAULA, Eneida d"
+    },
+    {
+      "numero_item": 4,
+      "raw": "FERREIRA, Filipe Galvão 2005 FERREIRA, Filipe Galvão ; LIMA, Silvio Luis Toledo de ; ANDREO FILHO, Newton ; FRACETO, L. F. . Improving the professional perception on waste disposal. Revista Brasileira de Ciências Farmacêuticas , Brasil, v. 41, n.supl. 1, p. 374-374, 2005.",
+      "autores": "FERREIRA, Filipe Galvão FERREIRA, Filipe Galvão; LIMA, Silvio Luis Toledo de; ANDREO FILHO, Newton; FRACETO, L. F.",
+      "titulo": "Improving the professional perception on waste disposal",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0d820c13cbe73c369d6da4748d07edf3aba0725c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FERREIRA, Filipe Galvão</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2005</span>FERREIRA, Filipe Galvão ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5151225751686350\" tabindex=\"2320\" target=\"_blank\" title=\"Clique para visualizar o currículo\">LIMA, Silvio Luis Toledo de</a> ; <a c"
+    },
+    {
+      "numero_item": 5,
+      "raw": "FRACETO, L. F. 2005 FRACETO, L. F. ; ARAUJO, Daniele Ribeiro de ; CARVALHO, Fernanda ; PAULA, Eneida de . Characterization of a Ropivacaine:beta-Cyclodextrin inclusion complex. Revista Brasileira de Ciências Farmacêuticas , Brasil, v. 41, n.supl.1, p. 385-385, 2005. Citações: 3",
+      "autores": "FRACETO, L. F. FRACETO, L. F.; ARAUJO, Daniele Ribeiro de; CARVALHO, Fernanda; PAULA, Eneida de",
+      "titulo": "Characterization of a Ropivacaine:beta-Cyclodextrin inclusion complex",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "32dd78a5328918c539dde4b1590c4dd6614e6d6e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FRACETO, L. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2005</span><b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6434758592103771\" tabindex=\"2322\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ARAUJO, Daniele Ribeiro de</a> ; <a class=\"tooltip"
+    },
+    {
+      "numero_item": 6,
+      "raw": "JESUS, Marcelo Bispo de 2003 JESUS, Marcelo Bispo de ; FRACETO, L. F. ; PINTO, Luciana de Matos Alves ; LINO, Antonio Carlos Senge ; PERTINHEZ, Thelma Aguiar ; PAULA, Eneida de . Characterization of the cyclodextrin/praziquantel complex by nuclear magnetic resonance and molecular modeling. Revista Brasileira de Ciências Farmacêuticas , v. 39, n.2, p. 254, 2003.",
+      "autores": "JESUS, Marcelo Bispo de JESUS, Marcelo Bispo de; FRACETO, L. F.; PINTO, Luciana de Matos Alves; LINO, Antonio Carlos Senge; PERTINHEZ, Thelma Aguiar; PAULA, Eneida de",
+      "titulo": "Characterization of the cyclodextrin/praziquantel complex by nuclear magnetic resonance and molecular modeling",
+      "ano": 2003,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8bcbf20ce61c2de641a18bf3964595f0abebf34d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">JESUS, Marcelo Bispo de</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2003</span><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9611381402490228\" tabindex=\"2325\" target=\"_blank\" title=\"Clique para visualizar o currículo\">JESUS, Marcelo Bispo de</a> ; <b>FRACETO, L. F.</b> ; <a class=\""
+    },
+    {
+      "numero_item": 7,
+      "raw": "FRACETO, L. F. 2003 FRACETO, L. F. ; NAKAIE, Clovis R ; SPISNI, Alberto ; PAULA, Eneida de ; PERTINHEZ, Thelma Aguiar . Selective interaction of local anesthetic with a peptide derived from the voltage gated sodium channel. Activity Report , Brasil, v. 1, p. 349-350, 2003.",
+      "autores": "FRACETO, L. F. FRACETO, L. F.; NAKAIE, Clovis R; SPISNI, Alberto; PAULA, Eneida de; PERTINHEZ, Thelma Aguiar",
+      "titulo": "Selective interaction of local anesthetic with a peptide derived from the voltage gated sodium channel",
+      "ano": 2003,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8489d4c45b8e0e49a1a361274ba881c8504f1326",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FRACETO, L. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">2003</span><b>FRACETO, L. F.</b>; NAKAIE, Clovis R ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1822365467135209\" tabindex=\"2328\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SPISNI, Alberto</a> ; <a class="
+    },
+    {
+      "numero_item": 8,
+      "raw": "FRACETO, L. F. 1999 FRACETO, L. F. ; SCHREIER, Shirley ; SPISNI, Alberto ; PAULA, Eneida de . Evidences for the different location of aminoamide local anesthetic in phosphatidylcholine vesicles. Journal of Biosciences , v. 24, n.1, p. 113, 1999.",
+      "autores": "FRACETO, L. F. FRACETO, L. F.; SCHREIER, Shirley; SPISNI, Alberto; PAULA, Eneida de",
+      "titulo": "Evidences for the different location of aminoamide local anesthetic in phosphatidylcholine vesicles",
+      "ano": 1999,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a4dff22f6d446ca05542e53e63633010c44f3413",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"informacao-artigo\" data-tipo-ordenacao=\"importancia\"></span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"autor\">FRACETO, L. F.</span><span class=\"informacao-artigo\" data-tipo-ordenacao=\"ano\">1999</span><b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5651324326989096\" tabindex=\"2330\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SCHREIER, Shirley</a> ; <a class=\"tooltip\" href=\"h"
+    },
+    {
+      "numero_item": 9,
+      "raw": "TERRA, M. C. ; CAMPOS, E. V. ; PREISLER, A. C. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, L. F. . From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture. ACS Omega , 2026.",
+      "autores": "TERRA, M. C.; CAMPOS, E. V.; PREISLER, A. C.; PEREIRA, A. E. S.; OLIVEIRA, J. L.; FRACETO, L. F.",
+      "titulo": "From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture",
+      "ano": 2026,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2bc1620a0201d1e6cfb7c9b330ad9d38b01c60f4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TERRA, M. C. ; CAMPOS, E. V. ; PREISLER, A. C. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; <b>FRACETO, L. F.</b> . From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture. ACS Omega<sup><img class=\"ajaxJCR jcrTip\" data-issn=\"24701343\" id=\"24701343_1\" original-title=\"Acs Omega (2470-1343)&lt;br /&gt;Fator de impacto (JCR 2024): 4.3\" src=\"/buscatextual/images/curriculo/jcr.gif\"/></sup>, 2026. </s"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 9,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

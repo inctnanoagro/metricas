@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Trabalhos técnicos",
+  "source_file": "Trabalhos técnicos.html",
+  "extraction_timestamp": "2026-01-26T16:56:14.276833Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "FRACETO, LEONARDO F . Avaliação de 7 resumos submetidos para apresentação na 36ª RASBQ - Divisão de Química Ambiental. 2013.",
+      "autores": "FRACETO, LEONARDO F",
+      "titulo": "Avaliação de 7 resumos submetidos para apresentação na 36ª RASBQ - Divisão de Química Ambiental",
+      "ano": 2013,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "4da2c500d2328939db1a6ef3f410952d933c1972",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, LEONARDO F</b>. Avaliação de 7 resumos submetidos para apresentação na 36ª RASBQ - Divisão de Química Ambiental. 2013. </span></div>"
+    },
+    {
+      "numero_item": 2,
+      "raw": "FRACETO, L. F. . Assessor Ad-hoc da FAPESP, para emissão de parecer - Bolsa Doutorado.. 2012.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Assessor Ad-hoc da FAPESP, para emissão de parecer - Bolsa Doutorado",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "7856c2fecf92f55185ed6577f10d2ed3f37f3c55",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Assessor Ad-hoc da FAPESP, para emissão de parecer - Bolsa Doutorado.. 2012. </span></div>"
+    },
+    {
+      "numero_item": 3,
+      "raw": "FRACETO, L. F. . Parecerista de três trabalhos completos do XXIII ENENGRAD. 2012.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Parecerista de três trabalhos completos do XXIII ENENGRAD",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "092ee26b4fbe0b0cce0f95d46f6d0c9b5d631ee5",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Parecerista de três trabalhos completos do XXIII ENENGRAD. 2012. </span></div>"
+    },
+    {
+      "numero_item": 4,
+      "raw": "FRACETO, L. F. . Parecer junto ao programa de pós-graduaçao do IFGW/UNICAMP sobre pedido de Bolsa do Programa PDSE-CAPES. 2012.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Parecer junto ao programa de pós-graduaçao do IFGW/UNICAMP sobre pedido de Bolsa do Programa PDSE-CAPES",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8b90d8a7217c154c585af2430cf4d79915fd778b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Parecer junto ao programa de pós-graduaçao do IFGW/UNICAMP sobre pedido de Bolsa do Programa PDSE-CAPES. 2012. </span></div>"
+    },
+    {
+      "numero_item": 5,
+      "raw": "FRACETO, L. F. . Emissão de 2 pareceres de relatórios finais dos processos PIBIC do período de 08/2010 a 07/2011. 2011.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Emissão de 2 pareceres de relatórios finais dos processos PIBIC do período de 08/2010 a 07/2011",
+      "ano": 2011,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0dc6c66ebab3488061baa3f8ad6e341952c3f8be",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Emissão de 2 pareceres de relatórios finais dos processos PIBIC do período de 08/2010 a 07/2011. 2011. </span></div>"
+    },
+    {
+      "numero_item": 6,
+      "raw": "FRACETO, L. F. . Emissão de 5 pareceres no Programa Institucional de Bolsas de Iniciação Científica. 2011.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Emissão de 5 pareceres no Programa Institucional de Bolsas de Iniciação Científica",
+      "ano": 2011,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5990983b7f68dba12fc9c172646b8446290dba40",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Emissão de 5 pareceres no Programa Institucional de Bolsas de Iniciação Científica. 2011. </span></div>"
+    },
+    {
+      "numero_item": 7,
+      "raw": "FRACETO, L. F. . Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP. 2009.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP",
+      "ano": 2009,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bf648c5ea87aa272ffd8b90342032414c57c9a5e",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP. 2009. </span></div>"
+    },
+    {
+      "numero_item": 8,
+      "raw": "FRACETO, L. F. . Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP. 2008.",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP",
+      "ano": 2008,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "bf999f57ce59cb2ea810585753eaa97257f86030",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Parecer de relatório anual de acompanhamento de aluno do Programa de Pós Graduação em Química da FFCLRP/USP. 2008. </span></div>"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 8,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

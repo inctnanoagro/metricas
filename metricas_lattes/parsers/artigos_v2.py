@@ -238,8 +238,8 @@ class ArtigoParser:
 
     def _extract_autores(self, texto: str) -> Optional[str]:
         """Extract authors from beginning of text"""
-        # Authors are before first " . " followed by uppercase
-        match = re.search(r'^(.+?)\s+\.\s+[A-ZÀ-Ú]', texto)
+        # Authors are before first " . " followed by any non-space (title start)
+        match = re.search(r'^(.+?)\s+\.\s+\S', texto)
         if not match or match.start() < 0:
             return None
 

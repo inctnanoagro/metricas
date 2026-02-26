@@ -22,13 +22,18 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 repo_root="$(cd "$script_dir/.." && pwd)"
 cd "$repo_root"
 
-if [[ ! -f "venv/bin/activate" ]]; then
-  echo "Erro: venv/bin/activate nao encontrado. Crie o venv em ./venv primeiro." >&2
+venv_path=""
+if [[ -f ".venv/bin/activate" ]]; then
+  venv_path=".venv"
+elif [[ -f "venv/bin/activate" ]]; then
+  venv_path="venv"
+else
+  echo "Erro: venv/bin/activate nao encontrado. Crie o venv em ./.venv (padrao) ou ./venv." >&2
   exit 1
 fi
 
 # shellcheck disable=SC1091
-source venv/bin/activate
+source "${venv_path}/bin/activate"
 
 input_dir=""
 years=""
@@ -89,7 +94,7 @@ output_dry="outputs/dry_run_${stamp}"
 researchers_dir="$output_dry/researchers"
 
 log "Batch: $input_dir -> $output_dry"
-cmd=(python3 -m metricas_lattes.batch_full_profile --in "$input_dir" --out "$output_dry" --schema "schema/producoes.schema.json")
+cmd=(python3 -m metricas_lattes.batch_full_profile --in "$input_dir" --out "$output_dry" --schema "schema/researcher_output.schema.json")
 if [[ -n "$years" ]]; then
   cmd+=(--years "$years")
 fi

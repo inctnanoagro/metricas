@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Demais trabalhos",
+  "source_file": "Demais trabalhos.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.614813Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "FRACETO, L. F. . Consultor de Projetos de Pesquisa da Univille. 2005 (Consultor de Projetos de Pesquisa) .",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Consultor de Projetos de Pesquisa da Univille",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b6d43814e37be57b9077fd68abe19ba739e34814",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Consultor de Projetos de Pesquisa da Univille. 2005 (Consultor de Projetos de Pesquisa) . </span></div>"
+    },
+    {
+      "numero_item": 2,
+      "raw": "FRACETO, L. F. . Consultor para projetos de pesquisa da Univille. 2004 (Consultor de Projetos de Pesquisa) .",
+      "autores": "FRACETO, L. F.",
+      "titulo": "Consultor para projetos de pesquisa da Univille",
+      "ano": 2004,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9fb02a01ef8bc5dd86f44fa844a842edc8a7bb0a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>. Consultor para projetos de pesquisa da Univille. 2004 (Consultor de Projetos de Pesquisa) . </span></div>"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 2,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

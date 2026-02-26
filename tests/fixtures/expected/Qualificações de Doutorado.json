@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Qualificações de Doutorado",
+  "source_file": "Qualificações de Doutorado.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.779904Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "MELO, A. A.; POLANCZYK, R. A.; FRACETO, L. F. . Participação em banca de MARTA SIMÃO KFOURI GOMES. Desenvolvimento de formulação adjuvante com protetor UV para calda de pulverização contendo organismos de controle biológico. 2025. Exame de qualificação (Doutorando em Ciência e Tecnologia de Materiais) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "MELO, A. A.; POLANCZYK, R. A.; FRACETO, L. F.",
+      "titulo": "Participação em banca de MARTA SIMÃO KFOURI GOMES",
+      "ano": 2025,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1a2ccf72179b9f861b6e6100c9372246ec00f8b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">MELO, A. A.; POLANCZYK, R. A.; <b>FRACETO, L. F.</b>.  Participação em banca de MARTA SIMÃO KFOURI GOMES. Desenvolvimento de formulação adjuvante com protetor UV para calda de pulverização contendo organismos de controle biológico. 2025. Exame de qualificação (Doutorando em Ciência e Tecnologia de Materiais)  - Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>"
+    },
+    {
+      "numero_item": 2,
+      "raw": "FRACETO, L F ; MONTENEGRO-RUIZ, L. C.; MENOSSI, M.. Participação em banca de Ivan Alberto Sandoval Salazar. Potencial da nanobiotecnologia na regulação pós-transcricional e metabólica. 2024. Exame de qualificação (Doutorando em BIOENERGIA USP, UNICAMP E UNESP) - Universidade de São Paulo.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2024,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "baffd7db46fff488d5578900e4f1541a90f7c93f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; MONTENEGRO-RUIZ, L. C.; MENOSSI, M..  Participação em banca de Ivan Alberto Sandoval Salazar. Potencial da nanobiotecnologia na regulação pós-transcricional e metabólica. 2024. Exame de qualificação (Doutorando em BIOENERGIA USP, UNICAMP E UNESP)  - Universidade de São Paulo. </span></div>"
+    },
+    {
+      "numero_item": 3,
+      "raw": "FRACETO, L F ; SILVA, T. A. L. E.; TAMBOURGI, E. B.. Participação em banca de Marcelo José Duarte. \"EFICÁCIA DO OLEO ESSENCIAL ?GERANIOL? MICROENCAPSULADO, APLICADO EM CULTURA DEPENDENTE DE POLINIZAÇÃO PARA O AUMENTO DA PRODITIVIDADE E MELHORA DA QUALIDADE DOS FRUTOS. 2023. Exame de qualificação (Doutorando em Engenharia Química) - Universidade Estadual de Campinas.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2023,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "a2d80f90e675b2a2672f2c7db061d60d9fadec43",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; SILVA, T. A. L. E.; TAMBOURGI, E. B..  Participação em banca de Marcelo José Duarte. \"EFICÁCIA DO OLEO ESSENCIAL ?GERANIOL? MICROENCAPSULADO, APLICADO EM CULTURA DEPENDENTE DE POLINIZAÇÃO PARA O AUMENTO DA PRODITIVIDADE E MELHORA DA QUALIDADE DOS FRUTOS. 2023. Exame de qualificação (Doutorando em Engenharia Química)  - Universidade Estadual de Campinas. </span></div>"
+    },
+    {
+      "numero_item": 4,
+      "raw": "FRACETO, L. F. ; BATISTA, B. L.; BORGES, D. L. G.. Participação em banca de BRUNA MOREIRA FREIRE. Avaliação do uso de nanopartículas de selênio para biofortificação de grãos de arroz. 2022. Exame de qualificação (Doutorando em Ciência e Tecnologia) - Universidade Federal do ABC.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2022,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "50b8f623f241db76bd5d8a316af090200bc8233d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; BATISTA, B. L.; BORGES, D. L. G..  Participação em banca de BRUNA MOREIRA FREIRE. Avaliação do uso de nanopartículas de selênio para biofortificação de grãos de arroz. 2022. Exame de qualificação (Doutorando em Ciência e Tecnologia)  - Universidade Federal do ABC. </span></div>"
+    },
+    {
+      "numero_item": 5,
+      "raw": "PERTINHEZ, Thelma de Aguiar ; TAMBELI, C. H.; Fraceto, Leonardo F. . Participação em banca de Gustavo Henrique Rodrigues da Silva. ARTICAÍNA: DESENVOLVIMENTO DE NANOPARTÍCULAS LIPÍDICAS PARA O AUMENTO DA POTÊNCIA ANESTÉSICA EM TECIDOS INFLAMADOS E ESTUDO METABOLÔMICO IN VITRO. 2021. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": "PERTINHEZ, Thelma de Aguiar; TAMBELI, C. H.; Fraceto, Leonardo F.",
+      "titulo": "Participação em banca de Gustavo Henrique Rodrigues da Silva",
+      "ano": 2021,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "467b4e2fdf9570a06491cbc13a0429c886c0cb49",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/1179525448575089\" tabindex=\"2567\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PERTINHEZ, Thelma de Aguiar</a>; TAMBELI, C. H.; <b>Fraceto, Leonardo F.</b>.  Participação em banca de Gustavo Henrique Rodrigues da Silva. ARTICAÍNA: DESENVOLVIMENTO DE NANOPARTÍCULAS LIPÍDICAS PARA O AUMENTO DA POTÊNCIA ANESTÉSICA EM TECIDOS INFLAMADOS E ESTUDO METABOLÔMICO IN VITRO. 2021. Ex"
+    },
+    {
+      "numero_item": 6,
+      "raw": "FRACETO, L F ; MEDEIROS, G. A. ; ARAUJO, Daniele Ribeiro . Participação em banca de Angelica Irasema Sibaja Luis. Nanotecnologia aplicada à aquicultura: desenvolvimento de sistemas para a formulação de dietas em peixes baseados em nanopartículas de quitosana contendo ácido ascórbico. 2021. Exame de qualificação (Doutorando em Ciências Ambientais (Unesp-Sorocaba)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "FRACETO, L F; MEDEIROS, G. A.; ARAUJO, Daniele Ribeiro",
+      "titulo": "Participação em banca de Angelica Irasema Sibaja Luis",
+      "ano": 2021,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "74af3c6936778460bd5db947c413e35f40e47b55",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"2568\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6434758592103771\" tabindex=\"2569\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ARAUJO, Daniele Ribeiro</a>.  Participação em banca de Angelica Irasema Sibaja Luis. Nanotecnologia aplicada à aqu"
+    },
+    {
+      "numero_item": 7,
+      "raw": "FRACETO, L F ; NUNES, L.; SEVERINO, P.. Participação em banca de Daniele Carvalho Abrantes. REPELENTES DE LONGA DURAÇÃO CONTENDO MISTURAS DE ATIVOS EM ASSOCIAÇÃO COM CARREADORES LIPÍDICOS NANOESTRUTURADOS PARA COMBATE À PROPAGAÇÃO DE ARBOVIROSES. 2021. Exame de qualificação (Doutorando em Ciências Ambientais) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2021,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "6d7ce6ffca350b8337fad4377652c8e4159cae2d",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; NUNES, L.; SEVERINO, P..  Participação em banca de Daniele Carvalho Abrantes. REPELENTES DE LONGA DURAÇÃO CONTENDO MISTURAS DE ATIVOS EM ASSOCIAÇÃO COM CARREADORES LIPÍDICOS NANOESTRUTURADOS PARA  COMBATE À PROPAGAÇÃO DE ARBOVIROSES. 2021. Exame de qualificação (Doutorando em Ciências Ambientais)  - Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>"
+    },
+    {
+      "numero_item": 8,
+      "raw": "FRACETO, L F ; MEDEIROS, G. A. ; PEREIRA, A. E. . Participação em banca de Monica Pascoli. Nanoparticulas a base de zeina contendo o biocida azadiractiona (óleo de neem): preparo, caracterizaçao e avaliação dos potenciais efeitos tóxicos em organismo alvo e não alvo.. 2018. Exame de qualificação (Doutorando em Ciências Ambientais (Unesp-Sorocaba)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "FRACETO, L F; MEDEIROS, G. A.; PEREIRA, A. E.",
+      "titulo": "Participação em banca de Monica Pascoli",
+      "ano": 2018,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eb732d4bb2a9c1fbb732ee39e02e16761f7bb485",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"2570\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1518112916627866\" tabindex=\"2571\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PEREIRA, A. E.</a>.  Participação em banca de Monica Pascoli. Nanoparticulas a base de zeina contendo o biocida az"
+    },
+    {
+      "numero_item": 9,
+      "raw": "FRACETO, L F ; MEDEIROS, G. A. ; MELO, Nathalie Ferreira Silva de . Participação em banca de Cintia Rodrigues Maruyama. Micropartículas poliméricas como sistema carreador do fungo Trichoderma harzianum visando aplicações em agricultura. 2018. Exame de qualificação (Doutorando em Ciências Ambientais (Unesp-Sorocaba)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "FRACETO, L F; MEDEIROS, G. A.; MELO, Nathalie Ferreira Silva de",
+      "titulo": "Participação em banca de Cintia Rodrigues Maruyama",
+      "ano": 2018,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e2794821dc8e4836f7512b14338dcc8849393bef",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"2572\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9175058122742496\" tabindex=\"2573\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MELO, Nathalie Ferreira Silva de</a>.  Participação em banca de Cintia Rodrigues Maruyama. Micropartículas polimér"
+    },
+    {
+      "numero_item": 10,
+      "raw": "FRACETO, L F ; MEDEIROS, G. A. ; Pereira, Anderson do Espirito Santo . Participação em banca de Jhones Luiz de Oliveira. Desenvolvimento de sistemas de liberaçao modificada a base de zeína e quitosana para repelentes botânicos visando o controle de mosca-branca (Bemisia tabaci) em diferentes culturas. 2017. Exame de qualificação (Doutorando em Ciências Ambientais (Unesp-Sorocaba)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "FRACETO, L F; MEDEIROS, G. A.; Pereira, Anderson do Espirito Santo",
+      "titulo": "Participação em banca de Jhones Luiz de Oliveira",
+      "ano": 2017,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "2dbe22179f1573519393dbd91f9f956f07f38713",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"2574\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1518112916627866\" tabindex=\"2575\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Pereira, Anderson do Espirito Santo</a>.  Participação em banca de Jhones Luiz de Oliveira. Desenvolvimento de sis"
+    },
+    {
+      "numero_item": 11,
+      "raw": "FRACETO, L F ; PINTO, Luciana de Matos Alves ; THOMASI, S. S.; GUIMARAES, I. R.. Participação em banca de Lucas Bragança de Carvalho. Funcionalização e estudos teóricos da silica com ciclodextrinas e sua aplicação da liberação modificada e adsorção de 15 alpha-metiltestosterona. 2016. Exame de qualificação (Doutorando em Agroquímica) - Universidade Federal de Lavras.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2016,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d7099ec20cc6a31e0c63b483c29024ec74d11213",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4269462940112721\" tabindex=\"2576\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PINTO, Luciana de Matos Alves</a>; THOMASI, S. S.; GUIMARAES, I. R..  Participação em banca de Lucas Bragança de Carvalho. Funcionalização e estudos teóricos da silica com ciclodextrinas e sua aplicação da liberação modificada e adsorção de 15 alpha-metiltestosterona. 2016. "
+    },
+    {
+      "numero_item": 12,
+      "raw": "FRACETO, LEONARDO F ; RIBEIRO, A. I.; MEDEIROS, G. A. . Participação em banca de Afonso Peche Filho. Aplicação da análise de variabilidade morfométrica de agregados em estudos de recuperação e manejo do solo. 2016. Exame de qualificação (Doutorando em Ciências Ambientais) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": "FRACETO, LEONARDO F; RIBEIRO, A. I.; MEDEIROS, G. A.",
+      "titulo": "Participação em banca de Afonso Peche Filho",
+      "ano": 2016,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ff7dba59af8815818b07da9a339ca7112443708b",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, LEONARDO F</b>; RIBEIRO, A. I.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"2577\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a>.  Participação em banca de Afonso Peche Filho. Aplicação da análise de variabilidade morfométrica de agregados em estudos de recuperação e manejo do solo. 2016. Exame de qualificação (Doutorando em Ciências Ambientais)  - Universida"
+    },
+    {
+      "numero_item": 13,
+      "raw": "FRACETO, LEONARDO F ; FERREIRA, M.; SAEKI, M. J.. Participação em banca de Paula Pereira Campos. Filmes nanostruturados layer-by-layer com ação antibacteriana para aplicações em curativos. 2016. Exame de qualificação (Doutorando em Ciência e Tecnologia de Materiais) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2016,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9699ad1ca42b89c7a64c5f9bb6ae142734801cb9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, LEONARDO F</b>; FERREIRA, M.; SAEKI, M. J..  Participação em banca de Paula Pereira Campos. Filmes nanostruturados layer-by-layer com ação antibacteriana para aplicações em curativos. 2016. Exame de qualificação (Doutorando em Ciência e Tecnologia de Materiais)  - Universidade Estadual Paulista Júlio de Mesquita Filho. </span></div>"
+    },
+    {
+      "numero_item": 14,
+      "raw": "FRACETO, LEONARDO F ; Tofoli, Giovana Radomille ; NASCIMENTO, L. O.. Participação em banca de Camila Morais Gonçalves da Silva. Encapsulação de ropivacaína em lipossomas por carregamento remoto em função de gradiente iônico. 2014. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c9c54a49785f0cf72eae7d9d5ff91b1161bf42be",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, LEONARDO F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0796028909075462\" tabindex=\"2578\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Tofoli, Giovana Radomille</a>; NASCIMENTO, L. O..  Participação em banca de Camila Morais Gonçalves da Silva. Encapsulação de ropivacaína em lipossomas por carregamento remoto em função de gradiente iônico. 2014. Exame de qualificação (Doutorando em Biologia Funcional"
+    },
+    {
+      "numero_item": 15,
+      "raw": "ROSA, A. H. ; FRACETO, L. F. ; MORAES, M.. Participação em banca de Fabiana Aparecida Lobo. Desenvolvimento de métodos analíticos para determinação de Cu, Pb, Ni e Cd em biodiesel por espectrometria de absorção atômica em forno de grafite. 2008. Exame de qualificação (Doutorando em Quimica Analitica (Arar.)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2008,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5d1003e69e3a8ba94a9ce2f7bf5794b76ad7f7e1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"2579\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a>; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2580\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; MORAES, M..  Participação em banca de Fabiana Aparecida Lobo. Desenvolvimento de métodos analíticos para determi"
+    },
+    {
+      "numero_item": 16,
+      "raw": "ROSA, A. H. ; FRACETO, L. F. ; SANTOS, A.. Participação em banca de Paulo Sérgio Tonello. Uso de técnicas de gradiente de difusão em filmes finos e ultrafiltração com fluxo tangencial no estudo da labilidade de Al (III) e Cu (II) em sistemas aquáticos. 2008. Exame de qualificação (Doutorando em Quimica Analitica (Arar.)) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2008,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "319248c47bea4438d1382385126ffc6a39188372",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"2581\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a>; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2582\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; SANTOS, A..  Participação em banca de Paulo Sérgio Tonello. Uso de técnicas de gradiente de difusão em filmes fi"
+    },
+    {
+      "numero_item": 17,
+      "raw": "FRACETO, L. F. ; MATTOSO, L. H. C. ; SALES, L. H. M.. Participação em banca de Márcia Regina de Moura Aouada. Síntese e Caracterização de Nanopartículas de Polímeros Biodegradáveis Naturais para Aplicação em Embalagens Comestíveis. 2008. Exame de qualificação (Doutorando em Programa de Pós Graduação em Química-UFSCar) - Universidade Federal de São Carlos.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2008,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "df11e5165914591474a610a8df7dbbb52d884315",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2583\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5839043594908917\" tabindex=\"2584\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MATTOSO, L. H. C.</a>; SALES, L. H. M..  Participação em banca de Márcia Regina de Moura Aouada. Síntese e Caracterização de Nano"
+    },
+    {
+      "numero_item": 18,
+      "raw": "FRACETO, L. F. ; NOVELLO, J. C.; JONSSON, C. M. . Participação em banca de Thelma Lopes da Silva. 7,8-dimethyl-10-(formylmethyl)isoalloxazine causes cell death of resistant eritroblastic leukaemia via modulation of protein tyrosine phosphatases. 2007. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": "FRACETO, L. F.; NOVELLO, J. C.; JONSSON, C. M.",
+      "titulo": "Participação em banca de Thelma Lopes da Silva",
+      "ano": 2007,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b8f0796eb7b0ecac7a309bf4cf17807e3855300a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2585\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; NOVELLO, J. C.; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7690621646529937\" tabindex=\"2586\" target=\"_blank\" title=\"Clique para visualizar o currículo\">JONSSON, C. M.</a>.  Participação em banca de Thelma Lopes da Silva. 7,8-dimethyl-10-(formylmethyl)isoalloxazine "
+    },
+    {
+      "numero_item": 19,
+      "raw": "FRACETO, L. F. ; FERREIRA, Carmem Verissima; POTÉRIO, Gloria Maria Braga. Participação em banca de Daniele Ribeiro de Araújo. Encapsulation of mepivacaine prolongs the analgesia provided by sciatic nerve blockade in mice. 2005. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "9b1b6ae17ca8e9d3f8fcc97f640d92f7ebc0a1c3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2587\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; FERREIRA, Carmem Verissima; POTÉRIO, Gloria Maria Braga.  Participação em banca de Daniele Ribeiro de Araújo. Encapsulation of mepivacaine prolongs the analgesia provided by sciatic nerve blockade in mice. 2005. Exame de qualificação (Doutorando em Biologia Funcional e"
+    },
+    {
+      "numero_item": 20,
+      "raw": "FRACETO, L. F. ; GALEMBECK, Eduardo ; PERTINHEZ, Thelma de Aguiar ; PINTO, Luciana de Matos Alves ; FERREIRA, Carmem Verissima. Participação em banca de Paulo Castilho Preté. Multiple stages of detergent-erythrocyte membrane interaction - A spin label study. 2005. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": null,
+      "titulo": null,
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "d24fc1ed2a63958fec5dfc01ab6dce321958c2d6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2588\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2672736578186109\" tabindex=\"2589\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GALEMBECK, Eduardo</a>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1179525448575089\" tabindex=\"2590\" target=\"_blank\" title=\"C"
+    },
+    {
+      "numero_item": 21,
+      "raw": "AOAYAMA, Hiroshi; GALEMBECK, Eduardo ; GRANJEIRO, Paulo Afonso; EBERLIN, Marcos Nogueira; FRACETO, L. F. . Participação em banca de José Antonio da Silva. Galactoside binding lectin from Bauhinia variegata candida: isolation and biochemical characterization. 2004. Exame de qualificação (Doutorando em Biologia Funcional e Molecular) - Universidade Estadual de Campinas.",
+      "autores": "AOAYAMA, Hiroshi; GALEMBECK, Eduardo; GRANJEIRO, Paulo Afonso; EBERLIN, Marcos Nogueira; FRACETO, L. F.",
+      "titulo": "Participação em banca de José Antonio da Silva",
+      "ano": 2004,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "83449b6efeb0e38a04aa8680836031ee6a3856c4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">AOAYAMA, Hiroshi; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2672736578186109\" tabindex=\"2592\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GALEMBECK, Eduardo</a>; GRANJEIRO, Paulo Afonso; EBERLIN, Marcos Nogueira; <b><a class=\"tooltip\" href=\"http://lattes.cnpq.br/4741480538883395\" tabindex=\"2593\" target=\"_blank\" title=\"Clique para visualizar o currículo\">FRACETO, L. F.</a></b>.  Participação em banca de José Anton"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 21,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

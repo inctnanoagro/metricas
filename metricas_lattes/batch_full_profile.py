@@ -16,6 +16,7 @@ import argparse
 import json
 import sys
 import re
+import html as html_lib
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, Any, List, Optional, Iterable
@@ -28,6 +29,141 @@ from metricas_lattes.parser_router import parse_fixture, PARSER_REGISTRY
 from metricas_lattes.parsers.utils import split_citacao
 
 DEFAULT_ALLOWED_YEARS = [2024, 2025]
+_MOJIBAKE_MARKERS = ('Ã', 'Â', 'â€', 'â€œ', 'â€', 'â€™', 'â€“', 'â€”', 'ðŸ', 'ï¿½')
+
+
+def _count_mojibake_markers(text: str) -> int:
+    return sum(text.count(marker) for marker in _MOJIBAKE_MARKERS)
+
+
+def _maybe_fix_mojibake(text: str, codec: str, strict: bool) -> Optional[str]:
+    try:
+        return text.encode(codec, errors='strict' if strict else 'ignore').decode('utf-8', errors='strict' if strict else 'ignore')
+    except UnicodeError:
+        return None
+
+
+def normalize_text(value: Any, *, unescape_html: bool = True) -> Any:
+    """
+    Normalize mixed-encoding text (mojibake + HTML entities) to clean UTF-8.
+    Accepts str or bytes; other types are returned unchanged.
+    """
+    if isinstance(value, bytes):
+        text = value.decode('utf-8', errors='surrogateescape')
+        if any(0xDC80 <= ord(ch) <= 0xDCFF for ch in text):
+            chars = []
+            for ch in text:
+                code = ord(ch)
+                if 0xDC80 <= code <= 0xDCFF:
+                    chars.append(chr(code - 0xDC00))
+                else:
+                    chars.append(ch)
+            text = ''.join(chars)
+    elif isinstance(value, str):
+        text = value
+    else:
+        return value
+
+    if unescape_html:
+        text = html_lib.unescape(text)
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+
+    for _ in range(2):
+        if not any(marker in text for marker in _MOJIBAKE_MARKERS):
+            break
+        current_score = _count_mojibake_markers(text)
+        candidate = (
+            _maybe_fix_mojibake(text, 'latin-1', strict=True)
+            or _maybe_fix_mojibake(text, 'cp1252', strict=True)
+        )
+        if candidate is None or _count_mojibake_markers(candidate) >= current_score:
+            candidate = (
+                _maybe_fix_mojibake(text, 'latin-1', strict=False)
+                or _maybe_fix_mojibake(text, 'cp1252', strict=False)
+            )
+        if candidate is None or _count_mojibake_markers(candidate) >= current_score:
+            break
+        text = candidate
+
+    return text
+
+
+def normalize_html_text(raw_bytes: bytes) -> str:
+    """
+    Normalize mixed-encoding HTML bytes to clean UTF-8 text.
+    """
+    text = raw_bytes.decode('utf-8', errors='surrogateescape')
+    if any(0xDC80 <= ord(ch) <= 0xDCFF for ch in text):
+        chars = []
+        for ch in text:
+            code = ord(ch)
+            if 0xDC80 <= code <= 0xDCFF:
+                chars.append(chr(code - 0xDC00))
+            else:
+                chars.append(ch)
+        text = ''.join(chars)
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+
+    # Force charset to UTF-8 to prevent BeautifulSoup/lxml from re-encoding
+    # based on incorrect meta tags (Lattes often claims ISO-8859-1 but is UTF-8)
+    text = re.sub(
+        r'<meta[^>]+charset=[^>]+>',
+        '<meta charset="utf-8">',
+        text,
+        flags=re.IGNORECASE
+    )
+    return text
+
+
+def normalize_nested_text(value: Any, *, exclude_keys: Optional[set] = None) -> Any:
+    if isinstance(value, dict):
+        normalized = {}
+        for key, item in value.items():
+            if exclude_keys and key in exclude_keys:
+                normalized[key] = item
+            else:
+                normalized[key] = normalize_nested_text(item, exclude_keys=exclude_keys)
+        return normalized
+    if isinstance(value, list):
+        return [normalize_nested_text(item, exclude_keys=exclude_keys) for item in value]
+    if isinstance(value, str):
+        return normalize_text(value, unescape_html=True)
+    return value
+
+
+def _basic_schema_validation(data: Dict[str, Any], schema: Dict[str, Any]) -> List[str]:
+    errors: List[str] = []
+    for key in schema.get('required', []):
+        if key not in data:
+            errors.append(f"Missing required field: {key}")
+
+    schema_version = data.get('schema_version')
+    expected_version = (
+        schema.get('properties', {})
+        .get('schema_version', {})
+        .get('const')
+    )
+    if expected_version is not None and schema_version != expected_version:
+        errors.append(f"Invalid schema_version: {schema_version}")
+
+    return errors
+
+
+def validate_against_schema(data: Dict[str, Any], schema: Dict[str, Any]) -> List[str]:
+    try:
+        from jsonschema import Draft202012Validator
+    except ImportError:
+        return _basic_schema_validation(data, schema)
+
+    validator = Draft202012Validator(schema)
+    errors: List[str] = []
+    for error in sorted(validator.iter_errors(data), key=lambda err: list(err.path)):
+        path = '.'.join(str(part) for part in error.path)
+        if path:
+            errors.append(f"{path}: {error.message}")
+        else:
+            errors.append(error.message)
+    return errors
 
 
 def slugify(text: str) -> str:
@@ -78,8 +214,9 @@ def extract_researcher_metadata_from_html(html_path: Path) -> Dict[str, Any]:
 
     Returns dict with metadata.
     """
-    with open(html_path, 'r', encoding='utf-8') as f:
-        html = f.read()
+    with open(html_path, 'rb') as f:
+        raw_bytes = f.read()
+    html = normalize_html_text(raw_bytes)
 
     soup = BeautifulSoup(html, 'lxml')
 
@@ -123,8 +260,9 @@ def extract_production_sections_from_html(html_path: Path) -> List[Dict[str, Any
     - html_content: HTML content of section
     - item_count: Number of items found
     """
-    with open(html_path, 'r', encoding='utf-8') as f:
-        html = f.read()
+    with open(html_path, 'rb') as f:
+        raw_bytes = f.read()
+    html = normalize_html_text(raw_bytes)
 
     soup = BeautifulSoup(html, 'lxml')
     sections = []
@@ -164,7 +302,7 @@ def extract_production_sections_from_html(html_path: Path) -> List[Dict[str, Any
                     header_div = child.find('div', class_='cita-artigos')
             if header_div is not None:
                 flush()
-                current_label = header_div.get_text(' ', strip=True)
+                current_label = normalize_text(header_div.get_text(' ', strip=True))
                 current_nodes = [child]
             else:
                 if current_label is not None:
@@ -181,7 +319,7 @@ def extract_production_sections_from_html(html_path: Path) -> List[Dict[str, Any
         if not title_tag:
             continue
 
-        section_title = title_tag.get_text(strip=True)
+        section_title = normalize_text(title_tag.get_text(strip=True))
 
         # Skip non-production sections
         skip_sections = [
@@ -521,6 +659,17 @@ def process_researcher_file(
             'productions': all_productions
         }
 
+        # HTML do Lattes pode conter encoding misto; normalizamos campos textuais
+        # preservando o raw para evitar efeitos em fingerprints/forense.
+        researcher_json = normalize_nested_text(
+            researcher_json,
+            exclude_keys={'raw', 'raw_text'}
+        )
+
+        schema_errors: List[str] = []
+        if schema is not None:
+            schema_errors = validate_against_schema(researcher_json, schema)
+
         # Step 5: Save researcher JSON
         json_filename = f"{result['lattes_id']}__{result['slug']}.json"
         json_path = output_dir / 'researchers' / json_filename
@@ -529,9 +678,15 @@ def process_researcher_file(
             json.dump(researcher_json, f, indent=2, ensure_ascii=False)
 
         result['output_json'] = str(json_path)
-        result['success'] = True
+        result['schema_errors'] = schema_errors
 
-        print(f"✓ OK ({result['lattes_id']}, {result['total_items']} items)")
+        if schema_errors:
+            result['success'] = False
+            result['error'] = f"Schema validation failed ({len(schema_errors)} errors)"
+            print(f"✗ Schema validation failed ({len(schema_errors)} errors)")
+        else:
+            result['success'] = True
+            print(f"✓ OK ({result['lattes_id']}, {result['total_items']} items)")
 
     except Exception as e:
         result['error'] = str(e)
@@ -615,8 +770,8 @@ def main():
     )
     parser.add_argument(
         '--schema', dest='schema_path',
-        default='schema/producoes.schema.json',
-        help='Path to JSON Schema (default: schema/producoes.schema.json)'
+        default='schema/researcher_output.schema.json',
+        help='Path to JSON Schema (default: schema/researcher_output.schema.json)'
     )
     parser.add_argument(
         '--years', dest='years',

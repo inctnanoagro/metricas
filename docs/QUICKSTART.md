@@ -96,7 +96,7 @@ python3 -m metricas_lattes.batch_full_profile \
 python3 -m metricas_lattes.batch_full_profile \
   --in data/pesquisadores \
   --out outputs/batch_real \
-  --schema schema/producoes.schema.json
+  --schema schema/researcher_output.schema.json
 ```
 
 ### Escopo oficial (2024–2025)
@@ -178,6 +178,15 @@ out/
   ]
 }
 ```
+
+### Schemas (itens vs. pesquisador)
+
+- **Schema de items/fixtures**: `schema/producoes.schema.json` (saida do `parse_fixture` e do `scripts/validate_folder.py`).
+- **Schema de output por pesquisador**: `schema/researcher_output.schema.json` (saida do `batch_full_profile`).
+
+Defaults:
+- `batch_full_profile` usa `schema/researcher_output.schema.json` por padrao.
+- `scripts/validate_folder.py` usa `schema/producoes.schema.json` por padrao.
 
 ### Proveniência
 
@@ -362,7 +371,8 @@ metricas/
 │       ├── textos_jornais.py
 │       └── generic_parser.py
 ├── schema/
-│   └── producoes.schema.json         ← Schema canônico v2.0.0
+│   ├── producoes.schema.json         ← Schema de items/fixtures (parse_fixture)
+│   └── researcher_output.schema.json ← Schema de output por pesquisador (batch)
 ├── tests/
 │   ├── test_parse_fixtures.py        ← Suite principal (165 tests)
 │   ├── test_golden_assertions.py     ← Testes golden (18 tests)

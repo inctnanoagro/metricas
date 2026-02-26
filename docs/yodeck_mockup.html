@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yodeck Dashboard - INCT NanoAgro</title>
+    <style>
+        body { margin: 0; font-family: 'Segoe UI', sans-serif; background: #f4f6f8; display: flex; height: 100vh; }
+        .sidebar { width: 240px; background: #1a1f2c; color: #fff; padding: 20px; }
+        .sidebar h2 { color: #00d2ff; margin-bottom: 30px; font-weight: 800; }
+        .menu-item { padding: 12px; margin: 5px 0; color: #a0aec0; cursor: pointer; display: flex; align-items: center; }
+        .menu-item.active { background: #2d3748; color: #fff; border-left: 4px solid #00d2ff; }
+        .menu-icon { margin-right: 10px; }
+        .main { flex: 1; padding: 30px; }
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+        .header h1 { color: #2d3748; font-size: 24px; }
+        .status-badge { background: #48bb78; color: white; padding: 5px 12px; border-radius: 20px; font-size: 14px; font-weight: bold; }
+        .card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .monitor-card { border-top: 4px solid #48bb78; }
+        .monitor-title { font-size: 18px; font-weight: 600; color: #2d3748; }
+        .monitor-preview { height: 120px; background: #2d3748; margin: 15px 0; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #718096; }
+        .metric { font-size: 28px; font-weight: 700; color: #2d3748; margin: 10px 0; }
+        .metric-label { color: #718096; font-size: 14px; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>yodeck</h2>
+        <div class="menu-item active">Dashboard</div>
+        <div class="menu-item">Monitors (1)</div>
+        <div class="menu-item">Media</div>
+        <div class="menu-item">Playlists</div>
+        <div class="menu-item">Schedules</div>
+    </div>
+    <div class="main">
+        <div class="header">
+            <h1>Dashboard / INCT NanoAgro</h1>
+            <div class="user-profile">Bruno Perez ▼</div>
+        </div>
+        
+        <div class="card-grid">
+            <div class="card monitor-card">
+                <div style="display:flex; justify-content:space-between;">
+                    <div class="monitor-title">TV Lab Nanotecnologia</div>
+                    <span class="status-badge">ONLINE</span>
+                </div>
+                <div class="monitor-preview">
+                    <img src="https://via.placeholder.com/200x100/000000/FFFFFF?text=INCT+News" style="opacity:0.5">
+                </div>
+                <div style="font-size:13px; color:#718096;">Last seen: Just now</div>
+            </div>
+
+            <div class="card">
+                <div class="metric-label">Player Uptime</div>
+                <div class="metric">99.8%</div>
+                <div style="height:4px; background:#e2e8f0; border-radius:2px; overflow:hidden;">
+                    <div style="width:99%; height:100%; background:#48bb78;"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="metric-label">Storage Usage</div>
+                <div class="metric">1.2 GB</div>
+                <div style="font-size:12px; color:#ed8936;">Space available: 2.8 GB</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

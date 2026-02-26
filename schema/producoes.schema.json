@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://inct-nanoagro.example/schemas/producoes_v2.schema.json",
   "title": "Lattes Productions Collection Schema (INCT NanoAgro) - v2",
-  "description": "Schema for validating parsed Lattes production records by type",
+  "description": "Schema for validating parsed Lattes production items/fixtures by type (parse_fixture output)",
   "type": "object",
   "additionalProperties": false,
   "required": [

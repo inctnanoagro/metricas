@@ -83,10 +83,10 @@ class TextoJornalParser:
             return None
 
         # ROBUST PARSING STRATEGY:
-        # Split on literal " . " (space-dot-space) to avoid author initials confusion
-        parts = raw_text.split(' . ', 1)
-
-        if len(parts) < 2:
+        # Prefer " . " (space-dot-space) to avoid author initials confusion.
+        # Fallback to ". " when the prefix looks like a valid author block.
+        autores_raw, remainder = self._split_authors_and_remainder(raw_text)
+        if not autores_raw or not remainder:
             # Malformed: no separator found
             # Extract what we can
             ano, mes = self._extract_data(raw_text)
@@ -105,10 +105,6 @@ class TextoJornalParser:
                 'fingerprint_sha1': fingerprint,
                 'html_snippet': str(parent_div)[:500]
             }
-
-        # Split successful
-        autores_raw = parts[0].strip()
-        remainder = parts[1].strip()
 
         # Extract autores
         autores = self._normalize_autores(autores_raw)
@@ -140,6 +136,28 @@ class TextoJornalParser:
             'fingerprint_sha1': fingerprint,
             'html_snippet': str(parent_div)[:500]
         }
+
+    def _split_authors_and_remainder(self, raw_text: str) -> tuple:
+        if ' . ' in raw_text:
+            parts = raw_text.split(' . ', 1)
+            return parts[0].strip(), parts[1].strip()
+
+        match = re.search(r'^(.+?)\.\s+(.+)$', raw_text)
+        if match:
+            autores_raw = self.clean_text(match.group(1))
+            remainder = self.clean_text(match.group(2))
+            if self._looks_like_author_block(autores_raw):
+                return autores_raw, remainder
+
+        return None, None
+
+    @staticmethod
+    def _looks_like_author_block(text: str) -> bool:
+        if not text:
+            return False
+        if ';' in text:
+            return True
+        return re.search(r'\b[A-ZÀ-Ú]{2,},\s*[A-Z]', text) is not None
 
     def _normalize_autores(self, autores_raw: str) -> Optional[str]:
         """Normalize author names"""

@@ -1,0 +1,212 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Livros publicados_organizados ou edições",
+  "source_file": "Livros publicados_organizados ou edições.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.644465Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "RAKSHIT, A. (Org.) ; MEENA, V. (Org.) ; FRACETO, L F (Org.) ; PARIHAR, M. (Org.) ; BENAVIDES-MENDONZA, A. (Org.) ; SINGH, H. B. (Org.) . Bio-inoculants in Horticultural Crops - Advances in Bio-inoculant Sciences, Volume 3. 1. ed. Elsevier, 2024. v. 1. 425p .",
+      "autores": "RAKSHIT, A. (Org.); MEENA, V. (Org.); FRACETO, L F (Org.); PARIHAR, M. (Org.); BENAVIDES-MENDONZA, A. (Org.); SINGH, H. B. (Org.)",
+      "titulo": "Bio-inoculants in Horticultural Crops - Advances in Bio-inoculant Sciences, Volume 3",
+      "ano": 2024,
+      "mes": null,
+      "doi": "10.1016/C2021-0-02494-9",
+      "fingerprint_sha1": "ad4136dae1cb1365c98b851fcf9d0e6c459e0023",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1016/C2021-0-02494-9\" tabindex=\"1231\" target=\"_blank\"></a>RAKSHIT, A. (Org.) ; MEENA, V. (Org.) ; <b>FRACETO, L F</b> (Org.) ; PARIHAR, M. (Org.) ; BENAVIDES-MENDONZA, A. (Org.) ; SINGH, H. B. (Org.) . Bio-inoculants in Horticultural Crops - Advances in Bio-inoculant Sciences, Volume 3. 1. ed. Elsevier, 2024. v. 1. 425p . </span></div>"
+    },
+    {
+      "numero_item": 2,
+      "raw": "FRACETO, LEONARDO F ; CARVALHO, H. W. (Org.) ; LIMA, Renata de (Org.) ; GHOSHAL, S. (Org.) ; SANTAELLA, C. (Org.) . Inorganic nanopesticides and nanofertilizers - A view from the mechanisms of action to field applications. 1. ed. Cham: Springer, 2022. v. 1. 390p .",
+      "autores": "FRACETO, LEONARDO F; CARVALHO, H. W. (Org.); LIMA, Renata de (Org.); GHOSHAL, S. (Org.); SANTAELLA, C. (Org.)",
+      "titulo": "Inorganic nanopesticides and nanofertilizers - A view from the mechanisms of action to field applications",
+      "ano": 2022,
+      "mes": null,
+      "doi": "10.1007/978-3-030-94155-0",
+      "fingerprint_sha1": "c440db2a0778ef5e2c3f965ce2af72239d6a1a16",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.1007/978-3-030-94155-0\" tabindex=\"1232\" target=\"_blank\"></a><b>FRACETO, LEONARDO F</b>; CARVALHO, H. W. (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9121907190104646\" tabindex=\"1233\" target=\"_blank\" title=\"Clique para visualizar o currículo\">LIMA, Renata de</a> (Org.) ; GHOSHAL, S. (Org.) ; SANTAELLA, C. (Org.) . Inorganic nanopesticides and nanofertilizers - "
+    },
+    {
+      "numero_item": 3,
+      "raw": "RAKSHIT, A. ; PARIHAR, M. ; SARKAR, B. ; SINGH, H. B. ; FRACETO, L. F. . Bioremediation Science: From Theory to Practice. 1. ed. Boca Raton: CRC, 2021. v. 1. 360p .",
+      "autores": "RAKSHIT, A.; PARIHAR, M.; SARKAR, B.; SINGH, H. B.; FRACETO, L. F.",
+      "titulo": "Bioremediation Science: From Theory to Practice",
+      "ano": 2021,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "0efc143e097e46590ed3eab05dc252a78f0c824f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RAKSHIT, A. ; PARIHAR, M. ; SARKAR, B. ; SINGH, H. B. ; <b>FRACETO, L. F.</b> . Bioremediation Science: From Theory to Practice. 1. ed. Boca Raton: CRC, 2021. v. 1. 360p . </span></div>"
+    },
+    {
+      "numero_item": 4,
+      "raw": "RAKSHIT, A. (Org.) ; MEENA, V. S. (Org.) ; ABHILASH, P. C. (Org.) ; SARMA, B. (Org.) ; SINGH, H. B. (Org.) ; FRACETO, L. F. (Org.) ; PARIHAR, M. (Org.) ; SINGH, A. K. (Org.) . Biopesticides - Volume 2: Advances in Bio-inoculants. 1. ed. Cambridge: Elsevier, 2021. v. 1. 448p .",
+      "autores": "RAKSHIT, A. (Org.); MEENA, V. S. (Org.); ABHILASH, P. C. (Org.); SARMA, B. (Org.); SINGH, H. B. (Org.); FRACETO, L. F. (Org.); PARIHAR, M. (Org.); SINGH, A. K. (Org.)",
+      "titulo": "Biopesticides - Volume 2: Advances in Bio-inoculants",
+      "ano": 2021,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "21cfc2e1f729dcc52b2215e07b268edd0e2615f6",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RAKSHIT, A. (Org.) ; MEENA, V. S. (Org.) ; ABHILASH, P. C. (Org.) ; SARMA, B. (Org.) ; SINGH, H. B. (Org.) ; <b>FRACETO, L. F.</b> (Org.) ; PARIHAR, M. (Org.) ; SINGH, A. K. (Org.) . Biopesticides - Volume 2: Advances in Bio-inoculants. 1. ed. Cambridge: Elsevier, 2021. v. 1. 448p . </span></div>"
+    },
+    {
+      "numero_item": 5,
+      "raw": "RAKSHIT, A. (Org.) ; SINGH, H. B. (Org.) ; SINGH, A. K. (Org.) ; SINGH, U. S. (Org.) ; FRACETO, LEONARDO F (Org.) . New Frontiers in Stress Management for Durable Agriculture. 1. ed. Madrid: Springer, 2020. v. 1. 668p .",
+      "autores": "RAKSHIT, A. (Org.); SINGH, H. B. (Org.); SINGH, A. K. (Org.); SINGH, U. S. (Org.); FRACETO, LEONARDO F (Org.)",
+      "titulo": "New Frontiers in Stress Management for Durable Agriculture",
+      "ano": 2020,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "f834c130f02a4fbfffb0576f96a5133454f3e6b3",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RAKSHIT, A. (Org.) ; SINGH, H. B. (Org.) ; SINGH, A. K. (Org.) ; SINGH, U. S. (Org.) ; <b>FRACETO, LEONARDO F</b> (Org.) . New Frontiers in Stress Management for Durable Agriculture. 1. ed. Madrid: Springer, 2020. v. 1. 668p . </span></div>"
+    },
+    {
+      "numero_item": 6,
+      "raw": "PATRA, JAYANTA KUMAR (Org.) ; Fraceto, Leonardo F. (Org.) ; DAS, G. (Org.) ; CAMPOS, ESTEFÂNIA VR (Org.) . Green Nanoparticles: Synthesis and Biomedical Applications. 1. ed. Zurich: Springer, 2020. v. 1. 414p .",
+      "autores": "PATRA, JAYANTA KUMAR (Org.); Fraceto, Leonardo F. (Org.); DAS, G. (Org.); CAMPOS, ESTEFÂNIA VR (Org.)",
+      "titulo": "Green Nanoparticles: Synthesis and Biomedical Applications",
+      "ano": 2020,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "c3335870daaba4d9e8b1d62c5e959c9eb4447ca1",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PATRA, JAYANTA KUMAR (Org.) ; <b>Fraceto, Leonardo F.</b> (Org.) ; DAS, G. (Org.) ; CAMPOS, ESTEFÂNIA VR (Org.) . Green Nanoparticles: Synthesis and Biomedical Applications. 1. ed. Zurich: Springer, 2020. v. 1. 414p . </span></div>"
+    },
+    {
+      "numero_item": 7,
+      "raw": "FRACETO, L F ; CASTRO, V. L. S. S. (Org.) ; AVILA, D. S. (Org.) ; GRILO, Renato (Org.) ; OLIVEIRA, H. C. (Org.) ; LIMA, Renata de (Org.) . Nanopesticides: From Research And Development To Mechanisms Of Action And Sustainable Use In Agriculture. 1. ed. Springer International Publishing, 2020. v. 1. 353p .",
+      "autores": "FRACETO, L F; CASTRO, V. L. S. S. (Org.); AVILA, D. S. (Org.); GRILO, Renato (Org.); OLIVEIRA, H. C. (Org.); LIMA, Renata de (Org.)",
+      "titulo": "Nanopesticides: From Research And Development To Mechanisms Of Action And Sustainable Use In Agriculture",
+      "ano": 2020,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ab1b998844de332271ad65f46b80391d7e21b801",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4319016464569901\" tabindex=\"1234\" target=\"_blank\" title=\"Clique para visualizar o currículo\">CASTRO, V. L. S. S.</a> (Org.) ; AVILA, D. S. (Org.) ; GRILO, Renato (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/7663463280386141\" tabindex=\"1235\" target=\"_blank\" title=\"Clique para visualizar o currículo\">OLIVEIRA, H. C.</a> (Org.) ; <a class=\"tooltip\" href=\"htt"
+    },
+    {
+      "numero_item": 8,
+      "raw": "JOGAIAH, S. (Org.) ; SINGH, H. B. (Org.) ; FRACETO, L. F. (Org.) ; Lima, Renata (Org.) . Advances in Nano-Fertilizers and Nano-Pesticides in Agriculture. 1. ed. New Delhi: Elsevier, 2020. v. 1. 668p .",
+      "autores": "JOGAIAH, S. (Org.); SINGH, H. B. (Org.); FRACETO, L. F. (Org.); Lima, Renata (Org.)",
+      "titulo": "Advances in Nano-Fertilizers and Nano-Pesticides in Agriculture",
+      "ano": 2020,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "eb9c6a4f613c1fd487c0e797ed8160326c1e22a9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">JOGAIAH, S. (Org.) ; SINGH, H. B. (Org.) ; <b>FRACETO, L. F.</b> (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9121907190104646\" tabindex=\"1237\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Lima, Renata</a> (Org.) . Advances in Nano-Fertilizers and Nano-Pesticides in Agriculture. 1. ed. New Delhi: Elsevier, 2020. v. 1. 668p . </span></div>"
+    },
+    {
+      "numero_item": 9,
+      "raw": "SINGH, H. B. (Org.) ; MISHRA, S. (Org.) ; FRACETO, L F (Org.) ; Lima, Renata (Org.) . Emerging Trends in Agri-Nanotechnology: Fundamental and Applied Aspects. 1. ed. London: CABI-UK, 2018. v. 1. 312p .",
+      "autores": "SINGH, H. B. (Org.); MISHRA, S. (Org.); FRACETO, L F (Org.); Lima, Renata (Org.)",
+      "titulo": "Emerging Trends in Agri-Nanotechnology: Fundamental and Applied Aspects",
+      "ano": 2018,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "af045aa1bd9ba7936a6f694dc36f97ac5616000c",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SINGH, H. B. (Org.) ; MISHRA, S. (Org.) ; <b>FRACETO, L F</b> (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9121907190104646\" tabindex=\"1238\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Lima, Renata</a> (Org.) . Emerging Trends in Agri-Nanotechnology: Fundamental and Applied Aspects. 1. ed. London: CABI-UK, 2018. v. 1. 312p . </span></div>"
+    },
+    {
+      "numero_item": 10,
+      "raw": "FRACETO, L F ; MEDEIROS, G. A. ; MACHADO, F. H. ; BUENO, C. C. ; RIBEIRO, A. I. . Livro de Resumos da 3a Mostra de Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade. 1. ed. Sorocaba: ICTS Sorocaba, 2015. v. 1. 44p .",
+      "autores": "FRACETO, L F; MEDEIROS, G. A.; MACHADO, F. H.; BUENO, C. C.; RIBEIRO, A. I.",
+      "titulo": "Livro de Resumos da 3a Mostra de Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade",
+      "ano": 2015,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "8fb531161cc6b2c6ae6fa0a0868a05559ffc87de",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L F</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1239\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> ; MACHADO, F. H. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0360648402108277\" tabindex=\"1240\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, C. C.</a> ; RIBEIRO, A. I. . Livro de Resumos da 3a Mostra de Científica para Jovens Tale"
+    },
+    {
+      "numero_item": 11,
+      "raw": "FRACETO, L. F. ; ARAUJO, Daniele R de (Org.) . Microspheres: technologies, applications and role in drug delivery systems. 1. ed. New York: Nova Science Publishers Inc, 2014. v. 1. 281p .",
+      "autores": "FRACETO, L. F.; ARAUJO, Daniele R de (Org.)",
+      "titulo": "Microspheres: technologies, applications and role in drug delivery systems",
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fd19f8b3be0aeeccc221788dc6a55c7d06ef5f65",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6434758592103771\" tabindex=\"1241\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ARAUJO, Daniele R de</a> (Org.) . Microspheres: technologies, applications and role in drug delivery systems. 1. ed. New York: Nova Science Publishers Inc, 2014. v. 1. 281p . </span></div>"
+    },
+    {
+      "numero_item": 12,
+      "raw": "FRACETO, L. F. ; RIBEIRO, A. I. (Org.) ; MEDEIROS, G. A. (Org.) ; BRESSANE, A. (Org.) ; MAIA, A. A. D. (Org.) ; BUENO, C. C. (Org.) ; WATANABE, C. H. (Org.) ; FRASCARELI, D. (Org.) ; ANDRADE, F. M. (Org.) ; MACHADO, F. H. (Org.) ; OLIVEIRA, J. L. (Org.) ; FRANCA, L. V. G. (Org.) ; MERIDES, M. (Org.) ; SANTOS, L. G. (Org.) . Livro de Resumos da 2a Mostra de Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade. 1. ed. Sorocaba: Unesp, 2014. 39p .",
+      "autores": "FRACETO, L. F.; RIBEIRO, A. I. (Org.); MEDEIROS, G. A. (Org.); BRESSANE, A. (Org.); MAIA, A. A. D. (Org.); BUENO, C. C. (Org.); WATANABE, C. H. (Org.); FRASCARELI, D. (Org.); ANDRADE, F. M. (Org.); MACHADO, F. H. (Org.); OLIVEIRA, J. L. (Org.); FRANCA, L. V. G. (Org.); MERIDES, M. (Org.); SANTOS, L. G. (Org.)",
+      "titulo": "Livro de Resumos da 2a Mostra de Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade",
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "1ede31cf152427152cb1265385462b4d34518d2a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; RIBEIRO, A. I. (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1242\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> (Org.) ; BRESSANE, A. (Org.) ; MAIA, A. A. D. (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0360648402108277\" tabindex=\"1243\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BUENO, C. C.</a> (Org.) ; <a class"
+    },
+    {
+      "numero_item": 13,
+      "raw": "FRACETO, L. F. ; MEDEIROS, G. A. (Org.) ; ZACARIN, E. C. M. S. (Org.) ; CHAUD, M. V. (Org.) . Livro de Resumos do 1o Simposio em Tecnologia, Inovação e Sustentabilidade Ambiental. 1. ed. sorocaba: Unesp, 2014. 163p .",
+      "autores": "FRACETO, L. F.; MEDEIROS, G. A. (Org.); ZACARIN, E. C. M. S. (Org.); CHAUD, M. V. (Org.)",
+      "titulo": "Livro de Resumos do 1o Simposio em Tecnologia, Inovação e Sustentabilidade Ambiental",
+      "ano": 2014,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "de150680f943da70569eca7f8a50905833bbdee7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1246\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> (Org.) ; ZACARIN, E. C. M. S. (Org.) ; CHAUD, M. V. (Org.) . Livro de Resumos do 1o Simposio em Tecnologia, Inovação e Sustentabilidade Ambiental. 1. ed. sorocaba: Unesp, 2014. 163p . </span></div>"
+    },
+    {
+      "numero_item": 14,
+      "raw": "FRACETO, L. F. ; RIBEIRO, A. I. (Org.) ; MEDEIROS, G. A. (Org.) . Livro de Resumos da 1ª. Mostra Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade. 1. ed. Sorocaba: Unesp, 2013. v. 1. 23p .",
+      "autores": "FRACETO, L. F.; RIBEIRO, A. I. (Org.); MEDEIROS, G. A. (Org.)",
+      "titulo": "Livro de Resumos da 1ª",
+      "ano": 2013,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "32537b7efa00b263871cd1245ecffcf174798674",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>FRACETO, L. F.</b>; RIBEIRO, A. I. (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1247\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> (Org.) . Livro de Resumos da 1ª. Mostra Científica para Jovens Talentos de Sorocaba - Meio Ambiente e Sustentabilidade. 1. ed. Sorocaba: Unesp, 2013. v. 1. 23p . </span></div>"
+    },
+    {
+      "numero_item": 15,
+      "raw": "ROSA, A. H. (Org.) ; FRACETO, L. F. (Org.) ; CARLOS, V. M. (Org.) . Meio Ambiente e Sustentabilidade. 1. ed. Porto Alegre: Bookman, 2012. v. 1. 412p .",
+      "autores": "ROSA, A. H. (Org.); FRACETO, L. F. (Org.); CARLOS, V. M. (Org.)",
+      "titulo": "Meio Ambiente e Sustentabilidade",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "aebeb72cb7d7976775cf965517b81d8a19fd8332",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1248\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a> (Org.) ; <b>FRACETO, L. F.</b> (Org.) ; CARLOS, V. M. (Org.) . Meio Ambiente e Sustentabilidade. 1. ed. Porto Alegre: Bookman, 2012. v. 1. 412p . </span></div>"
+    },
+    {
+      "numero_item": 16,
+      "raw": "ROSA, A. H. (Org.) ; MARTINS, A. C. G. (Org.) ; FRACETO, L. F. (Org.) ; Tonello, Paulo Sergio (Org.) . Projetos de Extensão Universitária do Campus Sorocaba da Unesp: Integrando ensino e pesquisa em benefício da sociedade. 1. ed. Sorocaba: Campus Experimental de Sorocaba, 2012. v. 1. 25p .",
+      "autores": "ROSA, A. H. (Org.); MARTINS, A. C. G. (Org.); FRACETO, L. F. (Org.); Tonello, Paulo Sergio (Org.)",
+      "titulo": "Projetos de Extensão Universitária do Campus Sorocaba da Unesp: Integrando ensino e pesquisa em benefício da sociedade",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "fbcd8bb70e314010b20a684a993cd0680d0f4c5a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1249\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a> (Org.) ; MARTINS, A. C. G. (Org.) ; <b>FRACETO, L. F.</b> (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6348835539744984\" tabindex=\"1250\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Tonello, Paulo Sergio</a> (Org.) . Projetos de Extensão Universitária do "
+    },
+    {
+      "numero_item": 17,
+      "raw": "Fraceto, Leonardo F. ; MEDEIROS, G. A. (Org.) ; Rosa, André H. (Org.) . Livro de resumos do 2o Fórum de Extensão Universitária do Campus Sorocaba/Unesp. 1. ed. Sorocaba: Campus Experimental de Sorocaba, 2012. v. 1. 50p .",
+      "autores": "Fraceto, Leonardo F.; MEDEIROS, G. A. (Org.); Rosa, André H. (Org.)",
+      "titulo": "Livro de resumos do 2o Fórum de Extensão Universitária do Campus Sorocaba/Unesp",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5a6d9f2c42d0719624e384ba71867d563059ab21",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Fraceto, Leonardo F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1251\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> (Org.) ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1252\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Rosa, André H.</a> (Org.) . Livro de resumos do 2o Fórum de Extensão Universitária do Campus Soroc"
+    },
+    {
+      "numero_item": 18,
+      "raw": "ROSA, A. H. (Org.) ; FRACETO, L. F. (Org.) . Livro de resumos do 1o Fórum de Extensão Universitária do Campus Sorocaba/Unesp: a Extensão universitária na busca de inovação tecnológica para soluções de problemas sócio-econômicos. 1. ed. Sorocaba: Campus Experimental de Sorocaba, 2011. v. 1.",
+      "autores": "ROSA, A. H. (Org.); FRACETO, L. F. (Org.)",
+      "titulo": "Livro de resumos do 1o Fórum de Extensão Universitária do Campus Sorocaba/Unesp: a Extensão universitária na busca de inovação tecnológica para soluções de problemas sócio-econômicos",
+      "ano": 2011,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "dd51f33cdb0c26d3d8887acde06828c78443a246",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1253\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a> (Org.) ; <b>FRACETO, L. F.</b> (Org.) . Livro de resumos do 1o Fórum de Extensão Universitária do Campus Sorocaba/Unesp: a Extensão universitária na busca de inovação tecnológica para soluções de problemas sócio-econômicos. 1. ed. Sorocaba: Campus Experimental de Sorocaba, 2011. "
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 18,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Artigos aceitos para publicação",
+  "source_file": "Artigos aceitos para publicação.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.385193Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "TERRA, M. C. ; CAMPOS, E. V. ; PREISLER, A. C. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; FRACETO, L. F. . From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture. ACS Omega , 2026.",
+      "autores": "TERRA, M. C.; CAMPOS, E. V.; PREISLER, A. C.; PEREIRA, A. E. S.; OLIVEIRA, J. L.; FRACETO, L. F.",
+      "titulo": "From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture",
+      "ano": 2026,
+      "veiculo": "CS Omega",
+      "volume": null,
+      "paginas": null,
+      "doi": null,
+      "fingerprint_sha1": "2bc1620a0201d1e6cfb7c9b330ad9d38b01c60f4",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">TERRA, M. C. ; CAMPOS, E. V. ; PREISLER, A. C. ; PEREIRA, A. E. S. ; OLIVEIRA, J. L. ; <b>FRACETO, L. F.</b> . From Nature to Nanotech: Customizing Essential Oil Delivery for a Reduced Fungicide in Agriculture. ACS Omega<sup><img class=\"ajaxJCR jcrTip\" data-issn=\"24701343\" id=\"24701343_1\" original-title=\"Acs Omega (2470-1343)&lt;br /&gt;Fator de impacto (JCR 2024): 4.3\" src=\"/buscatextual/images/curriculo/jcr.gif\"/></sup>, 2026. </s"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 1,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

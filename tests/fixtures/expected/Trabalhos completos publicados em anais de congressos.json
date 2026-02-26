@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Trabalhos completos publicados em anais de congressos",
+  "source_file": "Trabalhos completos publicados em anais de congressos.html",
+  "extraction_timestamp": "2026-01-26T16:56:14.251120Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "PEGORATO, M. S. ; MEDEIROS, G. A. ; FRACETO, L. F. ; MANCINI, S. D. . Inclusão dos objetivos do desenvolvimento sustentável no escopo do índice de sustentabilidade da Brasil bolsa balcão (B3) e a aderência empresarial. In: X Congresso Brasileiro de Gestão Ambiental, 2019, Fortaleza. Anais do X Congresso Brasileiro de Gestão Ambiental. Bauru: IBEAS, 2019. v. 10. p. 1-8.",
+      "autores": "PEGORATO, M. S.; MEDEIROS, G. A.; FRACETO, L. F.; MANCINI, S. D.",
+      "titulo": "Inclusão dos objetivos do desenvolvimento sustentável no escopo do índice de sustentabilidade da Brasil bolsa balcão (B3) e a aderência empresarial",
+      "ano": 2019,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "10a040d84677d5868a62458e2ae5c07b181c5abb",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">PEGORATO, M. S. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1322\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> ; <b>FRACETO, L. F.</b> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5091149098462301\" tabindex=\"1323\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MANCINI, S. D.</a> . Inclusão dos objetivos do desenvolvimento sustentável no escopo do índi"
+    },
+    {
+      "numero_item": 2,
+      "raw": "RIBEIRO, A. I. ; LONGO, R. M. ; Carlos, Viviane M. ; MEDEIROS, G. A. ; FRACETO, L. F. . Índice de variáveis mínimas para a preservação da vida aquática na área de abrangência da Floresta Nacional do Jamari-RO. In: XX Simpósio Brasileiro de Recursos Hídricos, 2013, Bento Gonçalves-RS. Anais do XX Simpósio Brasileiro de Recursos Hídricos. Porto Alegre: ABRH, 2013. v. 1. p. 1-8.",
+      "autores": "RIBEIRO, A. I.; LONGO, R. M.; Carlos, Viviane M.; MEDEIROS, G. A.; FRACETO, L. F.",
+      "titulo": "Índice de variáveis mínimas para a preservação da vida aquática na área de abrangência da Floresta Nacional do Jamari-RO",
+      "ano": 2013,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "693a17258d23b6ca7215c2fa687471bb25596a31",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">RIBEIRO, A. I. ; LONGO, R. M. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4495540651580053\" tabindex=\"1324\" target=\"_blank\" title=\"Clique para visualizar o currículo\">Carlos, Viviane M.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/8657413561406750\" tabindex=\"1325\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MEDEIROS, G. A.</a> ; <b>FRACETO, L. F.</b> . Índice de variáveis mínimas para a preservação da vid"
+    },
+    {
+      "numero_item": 3,
+      "raw": "GRILLO, Renato ; GUIZI, R. M. ; FRANGUELLI, F. P. ; MORAIS, L. C. ; CAMPOS, V. ; ROSA, A. H. ; FRACETO, L. F. . Micropartículas poliméricas de poli-hidroxibutirato contendo herbicida atrazina: caracterização por microscopia ótica, infravermelho e calorimetria exploratória diferencial. In: VIII Congresso Brasileiro de Análise Térmica e Calorimetria e III Congresso Pan - Americano de Análise Térmica, 2012, Campos do Jordão. Anais do VIII Congresso Brasileiro de Análise Térmica e Calorimetria e III Congresso Pan - Americano de Análise Térmica. São Paulo: ABRATEC, 2012. v. 1. p. 1-5.",
+      "autores": "GRILLO, Renato; GUIZI, R. M.; FRANGUELLI, F. P.; MORAIS, L. C.; CAMPOS, V.; ROSA, A. H.; FRACETO, L. F.",
+      "titulo": "Micropartículas poliméricas de poli-hidroxibutirato contendo herbicida atrazina: caracterização por microscopia ótica, infravermelho e calorimetria exploratória diferencial",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "ef8bc8f5ca1dd61c9bec353da4454811dc5f8087",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2188736885721242\" tabindex=\"1326\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GRILLO, Renato</a> ; GUIZI, R. M. ; FRANGUELLI, F. P. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9900570420098740\" tabindex=\"1327\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MORAIS, L. C.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0061972656195816\" tabindex=\"1328\""
+    },
+    {
+      "numero_item": 4,
+      "raw": "MORAIS, L. C. ; DWECK, J. ; ROSA, A. H. ; FRACETO, L. F. ; BOCHICHI, D. C. ; CAMPOS, V. . Análise da casca de Laranja e de produtos de sua pirólise por análise térmica. In: VIII Congresso Brasileiro de Análise Térmica e Calorimetria e III Congresso Pan - Americano de Análise Térmica, 2012, Campos do Jordão. Anais do VIII Congresso Brasileiro de Análise Térmica e Calorimetria e III Congresso Pan - Americano de Análise Térmica. São Paulo: ABRATEC, 2012. v. 1. p. 1-4.",
+      "autores": "MORAIS, L. C.; DWECK, J.; ROSA, A. H.; FRACETO, L. F.; BOCHICHI, D. C.; CAMPOS, V.",
+      "titulo": "Análise da casca de Laranja e de produtos de sua pirólise por análise térmica",
+      "ano": 2012,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "196fc6262815a113bf78d3cb7838622af74fa0d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9900570420098740\" tabindex=\"1330\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MORAIS, L. C.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0894293308905127\" tabindex=\"1331\" target=\"_blank\" title=\"Clique para visualizar o currículo\">DWECK, J.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1332\" target=\"_blank\" title=\"Clique para visu"
+    },
+    {
+      "numero_item": 5,
+      "raw": "COCENZA, D. S. ; MORAES, M. A. ; BEPPU, M. M. ; FRACETO, L. F. . Use of biopolymers membranes for sorption of herbicides. In: XII International Macromolecular Colloquium, 2010, Gramado. Anais do XII International Macromolecular Colloquium, 2010. v. 1. p. 283-287.",
+      "autores": "COCENZA, D. S.; MORAES, M. A.; BEPPU, M. M.; FRACETO, L. F.",
+      "titulo": "Use of biopolymers membranes for sorption of herbicides",
+      "ano": 2010,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "5415271b9229de9d465e4e9ce7d771808bf5f06f",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">COCENZA, D. S. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/0644374691728856\" tabindex=\"1334\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MORAES, M. A.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1691882914063691\" tabindex=\"1335\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BEPPU, M. M.</a> ; <b>FRACETO, L. F.</b> . Use of biopolymers membranes for sorption of herbicides. In: XII Internation"
+    },
+    {
+      "numero_item": 6,
+      "raw": "MOURA, M. R. ; LIMA, Renata de ; FEITOSA, L. ; AOUADA, F. A. ; FRACETO, L. F. ; MATTOSO, L. H. C. . Análise Genotóxica de nanopartículas poliméricas de quitosana/ácido polimetacrílico com diferentes tamanhos. In: V Workshop da Rede de Nanotecnologia aplicada ao Agronegócio, 2009, São Carlos. Anais do ... Workshop da Rede de Nanotecnologia Aplicada ao Agronegócio. São Carlos: Editora da Embrapa, 2009. v. 1. p. 207-209.",
+      "autores": "MOURA, M. R.; LIMA, Renata de; FEITOSA, L.; AOUADA, F. A.; FRACETO, L. F.; MATTOSO, L. H. C.",
+      "titulo": "Análise Genotóxica de nanopartículas poliméricas de quitosana/ácido polimetacrílico com diferentes tamanhos",
+      "ano": 2009,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "b7511e13ae978c87ad9fe9a21e11914429ea9d71",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/2870655742911951\" tabindex=\"1336\" target=\"_blank\" title=\"Clique para visualizar o currículo\">MOURA, M. R.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9121907190104646\" tabindex=\"1337\" target=\"_blank\" title=\"Clique para visualizar o currículo\">LIMA, Renata de</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/6526581128755737\" tabindex=\"1338\" target=\"_blank\" title=\"Clique para"
+    },
+    {
+      "numero_item": 7,
+      "raw": "LIMA, Renata de ; FRACETO, L. F. . Ensaios utilizados para avaliação de cito e genotoxicidade de nanopartículas poliméricas. In: V Workshop da Rede de Nanotecnologia aplicada ao Agronegócio, 2009, São Carlos. Anais do ... Workshop da Rede de Nanotecnologia Aplicada ao Agronegócio. São Carlos: Editora da Embrapa, 2009. v. 1. p. 233-236.",
+      "autores": "LIMA, Renata de; FRACETO, L. F.",
+      "titulo": "Ensaios utilizados para avaliação de cito e genotoxicidade de nanopartículas poliméricas",
+      "ano": 2009,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3409e64bc6cd69c99ba61b61c79881a53cee9078",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/9121907190104646\" tabindex=\"1341\" target=\"_blank\" title=\"Clique para visualizar o currículo\">LIMA, Renata de</a> ; <b>FRACETO, L. F.</b> . Ensaios utilizados para avaliação de cito e genotoxicidade de nanopartículas poliméricas. In: V Workshop da Rede de Nanotecnologia aplicada ao Agronegócio, 2009, São Carlos. Anais do ... Workshop da Rede de Nanotecnologia Aplicada ao Agronegócio. São"
+    },
+    {
+      "numero_item": 8,
+      "raw": "ROSA, A. H. ; GOUVEIA, D. ; BELLIN, I. ; LOBO, F. ; FRACETO, L. F. ; ROVEDA, S. R. M. M. ; LOURENCO, R. W. ; ROMAO, L. . In situ application of cellulose bag and ion exchanger for differentiation of labile and inert metal species in aquatic systems. In: Indo-Korean joint international symposium on Geoscience & Technology, 2008, Kharagpur. Proceedings of Indo-Korean joint international symposium on Geoscience & Technology. Kolkata: Cygnus, 2008. v. 1. p. 70-76.",
+      "autores": "ROSA, A. H.; GOUVEIA, D.; BELLIN, I.; LOBO, F.; FRACETO, L. F.; ROVEDA, S. R. M. M.; LOURENCO, R. W.; ROMAO, L.",
+      "titulo": "In situ application of cellulose bag and ion exchanger for differentiation of labile and inert metal species in aquatic systems",
+      "ano": 2008,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e4c1bee2154dad04437e30c7ca205ea1f97526a9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5228846314663888\" tabindex=\"1342\" target=\"_blank\" title=\"Clique para visualizar o currículo\">ROSA, A. H.</a> ; GOUVEIA, D. ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/9654824111386413\" tabindex=\"1343\" target=\"_blank\" title=\"Clique para visualizar o currículo\">BELLIN, I.</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1558911369265865\" tabindex=\"1344\" target=\"_blank\" title=\"Cli"
+    },
+    {
+      "numero_item": 9,
+      "raw": "LIMA, Silvio Luís Toledo de ; FRACETO, L. F. . Aprimoramento de Metodologias de Ensino de Química para formação continuada de professores do Programa Teia do Saber. In: II Congresso de Educação, 2005, Sorocaba, 2005.",
+      "autores": "LIMA, Silvio Luís Toledo de; FRACETO, L. F.",
+      "titulo": "Aprimoramento de Metodologias de Ensino de Química para formação continuada de professores do Programa Teia do Saber",
+      "ano": 2005,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "af567e52a3e373242e36b5252bdf3a804f7f2c84",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"tooltip\" href=\"http://lattes.cnpq.br/5151225751686350\" tabindex=\"1348\" target=\"_blank\" title=\"Clique para visualizar o currículo\">LIMA, Silvio Luís Toledo de</a> ; <b>FRACETO, L. F.</b> . Aprimoramento de Metodologias de Ensino de Química para formação continuada de professores do Programa Teia do Saber. In: II Congresso de Educação, 2005, Sorocaba, 2005. </span></div>"
+    },
+    {
+      "numero_item": 10,
+      "raw": "FRACETO, L. F. ; PINTO, Luciana de Matos Alves ; FRANZONI, Lorella ; SPISNI, Alberto ; PAULA, Eneida de . 1HNMR relaxation times studies in membrane: Anesthetic systems. In: VI Encontro de Usuários de Ressonância Magnética Nuclear, 1997, Angra dos Reis. Anais do VI Encontro de RMN, 1997. v. 1. p. 187-193.",
+      "autores": null,
+      "titulo": "1HNMR relaxation times studies in membrane: Anesthetic systems",
+      "ano": 1997,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "3acb4924008813fb2ff14640860f62c5a949427a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/4269462940112721\" tabindex=\"1349\" target=\"_blank\" title=\"Clique para visualizar o currículo\">PINTO, Luciana de Matos Alves</a> ; FRANZONI, Lorella ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/1822365467135209\" tabindex=\"1350\" target=\"_blank\" title=\"Clique para visualizar o currículo\">SPI"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 10,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

@@ -1,4 +1,4 @@
-# INCT NanoAgro — Base Institucional de Produções Científicas
+# Métricas INCT
 
 ## O que é o projeto
 Este repositório reúne a base institucional de dados sobre as produções científicas dos pesquisadores vinculados ao INCT NanoAgro.

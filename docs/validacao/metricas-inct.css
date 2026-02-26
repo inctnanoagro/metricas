@@ -1,0 +1,193 @@
+:root {
+  /* DNA Visual INCT NanoAgro */
+  --inct-green-light: #32a826;
+  --inct-green-dark: #284c23;
+  --inct-gray-dark: #1e1b16;
+  --inct-gray-muted: #6a635c;
+  --inct-gray-light: #f4f1ea;
+  --inct-white: #ffffff;
+  --inct-border: #d9d0c7;
+  --inct-danger: #8a1f17;
+
+  /* Fonts */
+  --font-tech: "Rajdhani", sans-serif;
+  --font-body: "Helvetica Now", "Helvetica", Arial, sans-serif;
+}
+
+/* Import Rajdhani do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 40px 20px;
+  font-family: var(--font-body);
+  background-color: var(--inct-gray-light);
+  color: var(--inct-gray-dark);
+  line-height: 1.5;
+}
+
+/* Typography */
+h1, h2, h3 {
+  font-family: var(--font-tech);
+  text-transform: uppercase;
+  margin: 0 0 16px;
+  letter-spacing: 0.05em;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: var(--inct-green-dark);
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--inct-green-light);
+  border-bottom: 2px solid var(--inct-green-light);
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+
+/* Layout Panels */
+.panel {
+  background: var(--inct-white);
+  border: 1px solid var(--inct-border);
+  border-radius: 4px; /* Vértices marcados conforme manual */
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Page Header Customization */
+.page-header {
+  background: var(--inct-green-dark);
+  color: var(--inct-white);
+  padding: 32px;
+  border: none;
+  margin-bottom: 32px;
+}
+
+.page-header h1 {
+  color: var(--inct-white);
+}
+
+.page-header .muted {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Meta Cards */
+.meta-card {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--inct-white);
+}
+
+.meta-card span {
+  color: var(--inct-green-light);
+  font-family: var(--font-tech);
+  font-weight: 600;
+}
+
+/* Table Design */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  background: var(--inct-white);
+}
+
+th {
+  background-color: var(--inct-green-dark);
+  color: var(--inct-white);
+  font-family: var(--font-tech);
+  font-weight: 500;
+  padding: 12px;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+td {
+  padding: 12px;
+  border: 1px solid var(--inct-border);
+  font-size: 0.95rem;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9fbf9; /* Leve toque esverdeado no fundo */
+}
+
+tbody tr:hover {
+  background-color: #f1f7f1;
+}
+
+/* Action Buttons */
+.action-btn, 
+.actions button, 
+.actions a {
+  font-family: var(--font-tech);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 10px 20px;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+  border: 2px solid var(--inct-green-light);
+  background: transparent;
+  color: var(--inct-green-light);
+  cursor: pointer;
+}
+
+.action-btn:hover, 
+.actions button:hover, 
+.actions a:hover {
+  background: var(--inct-green-light);
+  color: var(--inct-white);
+  text-decoration: none;
+}
+
+/* Checkboxes */
+input[type="checkbox"] {
+  accent-color: var(--inct-green-light);
+  transform: scale(1.2);
+}
+
+/* Filters */
+.filter-title {
+  font-family: var(--font-tech);
+  color: var(--inct-green-dark);
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+input[type="search"] {
+  border: 2px solid var(--inct-border);
+  border-radius: 0;
+  padding: 10px;
+}
+
+input[type="search"]:focus {
+  outline: none;
+  border-color: var(--inct-green-light);
+}
+
+/* Modal */
+.modal-card {
+  border-top: 4px solid var(--inct-green-light);
+  border-radius: 0;
+}
+
+.modal-card h3 {
+  color: var(--inct-green-dark);
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+  .page-header {
+    padding: 20px;
+  }
+}

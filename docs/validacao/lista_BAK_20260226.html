@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Índice de Validação</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      
+      /* MODO CLARO (Padrão) */
+      --bg: #f0f7ef; /* Verde bem clarinho */
+      --panel: #ffffff;
+      --ink: #1a2e18;
+      --muted: #557052;
+      --accent: #284C23;
+      --border: #d1e0d0;
+      --table-row-even: rgba(40, 76, 35, 0.04);
+      --table-hover: rgba(40, 76, 35, 0.07);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        /* MODO ESCURO */
+        --bg: #284C23;
+        --panel: #345c2e;
+        --ink: #f6f3ea;
+        --muted: #d9d0c7;
+        --accent: #f6f3ea;
+        --danger: #ff8a80;
+        --border: #466e40;
+        --table-row-even: rgba(255, 255, 255, 0.05);
+        --table-hover: rgba(255, 255, 255, 0.08);
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: "Helvetica", "Arial", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+    }
+
+    .page-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 16px 20px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--ink);
+      margin-top: 16px;
+    }
+
+    .logo-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 60px;
+      width: auto;
+      max-width: 200px;
+    }
+
+    .logo-container img {
+      height: 130%;
+      width: auto;
+      object-fit: contain;
+      display: block;
+    }
+
+    h1 {
+      color: var(--ink) !important;
+      margin: 0 !important;
+      font-size: 24px;
+    }
+
+    .panel {
+      padding: 16px 20px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      margin-top: 16px;
+      color: var(--ink);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px 12px;
+      text-align: left;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    th {
+      background: var(--panel);
+      color: var(--ink);
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 0.05em;
+    }
+
+    tbody tr:nth-child(even) {
+      background: var(--table-row-even);
+    }
+
+    tbody tr {
+      cursor: pointer;
+    }
+
+    tbody tr:hover {
+      background: var(--table-hover);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <header class="page-header">
+    <div class="logo-container">
+      <img src="../assets/logo-nanoagro.png" alt="Logo INCT NanoAgro">
+    </div>
+    <div>
+      <h1>Índice de validação</h1>
+      <p class="muted" style="margin: 4px 0 0 0;">Lista gerada a partir de docs/prefill/manifest.json.</p>
+    </div>
+  </header>
+
+  <section class="panel" style="display: none;">
+    <h1>Índice de validação</h1>
+    <p class="muted">Lista gerada a partir de docs/prefill/manifest.json.</p>
+  </section>
+
+  <section class="panel">
+    <table>
+      <thead>
+        <tr>
+          <th>Lattes ID</th>
+          <th>Nome</th>
+          <th>Arquivo</th>
+          <th>Abrir</th>
+        </tr>
+      </thead>
+      <tbody id="list-body"></tbody>
+    </table>
+  </section>
+
+  <section id="error" class="panel" hidden>
+    <h2>Erro</h2>
+    <pre id="error-details"></pre>
+  </section>
+
+  <script>
+    const listBody = document.getElementById('list-body');
+    const errorPanel = document.getElementById('error');
+    const errorDetails = document.getElementById('error-details');
+
+    const showError = (message) => {
+      errorPanel.hidden = false;
+      errorDetails.textContent = message;
+    };
+
+    const loadManifest = async () => {
+      try {
+        const manifestUrl = new URL('../prefill/manifest.json', window.location.href).href;
+        const response = await fetch(manifestUrl, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`Falha ao carregar manifest: ${manifestUrl}`);
+        }
+        const manifest = await response.json();
+        const entries = manifest.by_lattes_id || {};
+        
+        // Converte o objeto em array de objetos com dados processados para ordenação
+        const researchers = Object.keys(entries).map(lattesId => {
+          const filename = entries[lattesId];
+          const namePart = filename.split('__')[1] || '';
+          const nameClean = namePart.replace('.json', '').replace(/-/g, ' ');
+          const nameFormatted = nameClean.replace(/\b\w/g, l => l.toUpperCase());
+          return { lattesId, filename, nameFormatted };
+        });
+
+        // Ordena o array por nome alfabético
+        researchers.sort((a, b) => a.nameFormatted.localeCompare(b.nameFormatted));
+
+        if (researchers.length === 0) {
+          showError('Manifest vazio. Execute o script de sincronizacao.');
+          return;
+        }
+
+        for (const res of researchers) {
+          const { lattesId, filename, nameFormatted } = res;
+          const targetUrl = `index.html?prefill=${encodeURIComponent(filename)}`;
+          const row = document.createElement('tr');
+          
+          row.addEventListener('click', () => {
+            window.location.href = targetUrl;
+          });
+
+          const idCell = document.createElement('td');
+          idCell.textContent = lattesId;
+          row.appendChild(idCell);
+
+          const nameCell = document.createElement('td');
+          nameCell.textContent = nameFormatted;
+          row.appendChild(nameCell);
+
+          const fileCell = document.createElement('td');
+          fileCell.textContent = filename;
+          row.appendChild(fileCell);
+
+          const linkCell = document.createElement('td');
+          const link = document.createElement('a');
+          link.href = targetUrl;
+          link.textContent = 'Abrir';
+          link.addEventListener('click', (e) => e.stopPropagation());
+          linkCell.appendChild(link);
+          row.appendChild(linkCell);
+
+          listBody.appendChild(row);
+        }
+      } catch (err) {
+        showError(err && err.stack ? err.stack : String(err));
+      }
+    };
+
+    loadManifest();
+  </script>
+</body>
+</html>

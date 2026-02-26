@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Validação de Produções - INCT NanoAgro</title>
+  <link rel="stylesheet" href="metricas-inct.css">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f0f7ef; --panel: #ffffff; --ink: #1a2e18; --muted: #557052;
+      --accent: #284C23; --danger: #8a1f17; --border: #d1e0d0;
+      --table-row-even: rgba(40, 76, 35, 0.04); --table-hover: rgba(40, 76, 35, 0.07); --meta-bg: #f9fff8;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #112210; --panel: #1a2e18; --ink: #d1d9d0; --muted: #7a9477;
+        --accent: #4caf50; --danger: #ff8a80; --border: #2c422a;
+        --table-row-even: rgba(255, 255, 255, 0.03); --table-hover: rgba(255, 255, 255, 0.06); --meta-bg: var(--panel);
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; font-family: "Helvetica", "Arial", sans-serif; background: var(--bg); color: var(--ink); line-height: 1.5; }
+    h1 { color: var(--ink) !important; font-weight: 600; margin: 0 0 8px; }
+    h2, h3 { color: var(--ink); font-weight: 600; margin: 0 0 8px; }
+    .muted, #source-line { color: var(--muted); font-size: 13px; }
+    a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    a:hover { text-decoration: underline; }
+
+    /* Header & Branding */
+    .page-header { display: flex; align-items: center; gap: 20px; padding: 16px 20px; border: 1px solid var(--border); background: var(--panel); color: var(--ink); }
+    .logo-container { display: flex; align-items: center; justify-content: center; height: 80px; width: auto; max-width: 250px; overflow: hidden; }
+    .logo-container img { height: 140%; width: auto; object-fit: contain; }
+
+    /* Sticky Dashboard */
+    .sticky-header { position: sticky; top: 0; z-index: 100; background: var(--panel); border-bottom: 2px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 12px 20px; margin: 0 -24px 12px -24px; }
+    .meta-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+    .meta-card { padding: 10px 12px; border: 1px solid var(--border); background: var(--meta-bg); }
+    .meta-card span { display: block; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .meta-card strong { display: block; font-size: 15px; color: var(--ink); }
+
+    /* Actions */
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+    .actions button, .actions a { padding: 8px 16px; font-size: 13px; cursor: pointer; border: 1px solid var(--accent); background: transparent; color: var(--accent); border-radius: 4px; font-weight: 600; }
+    #export-validation { background: var(--accent); color: var(--bg); border: none; }
+    #add-production-btn { background: var(--muted); color: var(--bg); border: none; display: none !important; }
+    #download-json, #print-btn, #list-link { display: none !important; }
+
+    /* Tables */
+    .panel { margin-top: 20px; padding: 16px 20px; border: 1px solid var(--border); background: var(--panel); }
+    .filters { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+    .filter-group { display: grid; gap: 6px; }
+    .filter-title { font-size: 11px; text-transform: uppercase; color: var(--muted); font-weight: bold; }
+    input[type="search"], input[type="text"], input[type="number"], textarea, select { padding: 8px 10px; border: 1px solid var(--border); font-size: 14px; background: var(--bg); color: var(--ink); width: 100%; border-radius: 4px; }
+    
+    table { width: 100%; border-collapse: collapse; margin-top: 16px; background: rgba(255, 255, 255, 0.02); }
+    th, td { border: 1px solid var(--border); padding: 10px 12px; vertical-align: top; font-size: 13px; }
+    th { background: var(--panel); color: var(--ink); text-transform: uppercase; font-size: 10px; letter-spacing: 0.05em; text-align: left; position: sticky; top: 132px; z-index: 1; }
+    tbody tr:nth-child(even) { background: var(--table-row-even); }
+    tbody tr:hover { background: var(--table-hover); }
+
+    /* Section Control */
+    .section-header { display: flex; align-items: center; justify-content: space-between; margin-top: 40px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+    .section-controls { display: flex; align-items: center; gap: 15px; font-size: 12px; }
+    .add-to-section-btn { display: none !important; background: var(--accent); color: var(--bg); border: none; padding: 4px 8px; border-radius: 4px; cursor: pointer; font-size: 10px; font-weight: bold; text-transform: uppercase; }
+
+    /* Backdoor & Admin Reveal */
+    .reveal-all #download-json, .reveal-all #print-btn, .reveal-all #list-link, .reveal-all #add-production-btn, .reveal-all .add-to-section-btn, .reveal-all .hidden-col { display: inline-block !important; }
+    .reveal-all th.hidden-col, .reveal-all td.hidden-col { display: table-cell !important; }
+    .hidden-col { display: none !important; }
+    .backdoor-dot { position: fixed; bottom: 10px; right: 10px; cursor: pointer; z-index: 9999; font-size: 20px; opacity: 0.8; }
+
+    /* Modals */
+    .modal { position: fixed; inset: 0; background: rgba(0,0,0,0.7); display: none; place-items: center; z-index: 20000; padding: 20px; }
+    .modal-card { background: var(--panel); padding: 24px; border: 1px solid var(--border); border-radius: 8px; width: 100%; max-width: 600px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); }
+    .modal-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+    .modal-field { display: grid; gap: 6px; font-size: 12px; color: var(--muted); }
+    .auth-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 20px; }
+    .auth-input-group { position: relative; display: flex; align-items: center; }
+    .auth-toggle-eye { position: absolute; right: 12px; cursor: pointer; font-size: 18px; }
+
+    /* Back to Top */
+    .back-to-top-btn { position: fixed; bottom: 40px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 12px 24px; border-radius: 40px; cursor: pointer; z-index: 10000; box-shadow: 0 8px 32px rgba(0,0,0,0.4); display: none; align-items: center; gap: 10px; font-weight: bold; }
+    .flash { animation: flash-bg 0.8s ease; }
+    @keyframes flash-bg { 0% { background: rgba(40, 76, 35, 0.3); } 100% { background: transparent; } }
+
+    footer { margin-top: 120px; padding: 60px 24px; background: var(--panel); border-top: 1px solid var(--border); display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center; }
+    .footer-logo img { height: 70px; opacity: 0.8; }
+  </style>
+</head>
+<body>
+  <!-- Auth Modal -->
+  <div id="auth-modal" class="modal">
+    <div class="modal-card" style="max-width: 320px;">
+      <h4>Acesso Administrativo</h4>
+      <div class="auth-input-group">
+        <input type="password" id="auth-pass" placeholder="Chave de acesso">
+        <span id="auth-eye" class="auth-toggle-eye">👁️</span>
+      </div>
+      <div class="auth-actions">
+        <button onclick="document.getElementById('auth-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button id="auth-submit" class="actions button" style="background:var(--accent);color:var(--bg)">Entrar</button>
+      </div>
+    </div>
+  </div>
+
+  <header class="page-header">
+    <div class="logo-container"><img src="../assets/logo-nanoagro.png"></div>
+    <div class="header-title">
+      <h1>Validação de Produções</h1>
+      <div id="source-line" class="muted"></div>
+    </div>
+  </header>
+
+  <div class="sticky-header">
+    <div class="meta-grid">
+      <div class="meta-card"><span>Pesquisador</span><strong id="researcher-name">--</strong></div>
+      <div class="meta-card"><span>Lattes ID</span><strong id="researcher-id">--</strong></div>
+      <div class="meta-card"><span>Extração</span><strong id="extracted-at">--</strong></div>
+      <div class="meta-card"><span>Total</span><strong id="total-productions">--</strong></div>
+    </div>
+    <div class="actions">
+      <button id="add-production-btn" onclick="openAddModal()">+ Adicionar Produção</button>
+      <button id="export-validation" onclick="downloadValidationJson()">Baixar validação (JSON)</button>
+      <a id="download-json" href="#" target="_blank">Baixar JSON original</a>
+      <button id="print-btn" onclick="window.print()">Exportar HTML (print)</button>
+      <a id="list-link" href="lista.html">Índice</a>
+    </div>
+  </div>
+
+  <section id="filters-panel" class="panel">
+    <div class="filters">
+      <div class="filter-group"><span class="filter-title">Ano</span><div id="year-filters" class="filter-options"></div></div>
+      <div class="filter-group"><span class="filter-title">Busca</span><input id="search-input" type="search" placeholder="Título, veículo, autores..." oninput="applyFilters()" /></div>
+    </div>
+  </section>
+
+  <section id="summary-panel" class="panel">
+    <h2>Sumário por seção</h2>
+    <ul id="summary-list"></ul>
+  </section>
+
+  <div id="productions-container"></div>
+
+  <footer>
+    <div class="footer-logo"><img src="../assets/logo-nanoagro.png"></div>
+    <div class="footer-info">
+      <strong>INCT NanoAgro</strong><br>
+      UNESP - Campus Sorocaba | Avenida Três de Março, 511 - Sorocaba/SP<br>
+      &copy; 2026 INCT NanoAgro. Todos os direitos reservados.
+    </div>
+  </footer>
+
+  <!-- Modals -->
+  <div id="add-modal" class="modal">
+    <div class="modal-card">
+      <h3>Injetar Nova Produção</h3>
+      <div class="modal-grid">
+        <div class="modal-field">Seção<input id="add-tipo" type="text" readonly></div>
+        <div class="modal-field">Título<input id="add-titulo" type="text"></div>
+        <div class="modal-field">Veículo<input id="add-veiculo" type="text"></div>
+        <div class="modal-field">Ano<input id="add-ano" type="number"></div>
+        <div class="modal-field">DOI<input id="add-doi" type="text"></div>
+      </div>
+      <div class="modal-field" style="margin-top:12px;">Autores<textarea id="add-autores" rows="3"></textarea></div>
+      <div class="auth-actions">
+        <button onclick="document.getElementById('add-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button onclick="saveManualProduction()" class="actions button" style="background:var(--accent);color:var(--bg)">Injetar na Lista</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="edit-modal" class="modal">
+    <div class="modal-card">
+      <h3>Edição rápida</h3>
+      <div class="modal-grid">
+        <div class="modal-field">Título<input id="edit-titulo" type="text"></div>
+        <div class="modal-field">Veículo<input id="edit-veiculo" type="text"></div>
+        <div class="modal-field">Ano<input id="edit-ano" type="number"></div>
+        <div class="modal-field">DOI<input id="edit-doi" type="text"></div>
+      </div>
+      <div class="modal-field" style="margin-top:12px;">Autores<textarea id="edit-autores" rows="3"></textarea></div>
+      <div class="auth-actions">
+        <button onclick="clearEdits()" class="actions button">Limpar</button>
+        <button onclick="document.getElementById('edit-modal').style.display='none'" class="actions button">Cancelar</button>
+        <button onclick="saveEdit()" class="actions button" style="background:var(--accent);color:var(--bg)">Salvar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="bd-trigger" class="backdoor-dot">⚙️</div>
+
+  <script>
+    const state = { productionsRaw: [], selections: {}, edits: {}, storageKey: null, sectionsAll: [], editingKey: null };
+    const BD_KEY = 'inct_admin_authorized';
+    const BD_PASS = 'nanoagro2026';
+
+    const loadData = async () => {
+      const p = new URLSearchParams(window.location.search).get('prefill');
+      if (!p) return;
+      const res = await fetch(`../prefill/${p}`);
+      const data = await res.json();
+      state.productionsRaw = data.productions;
+      const r = data.researcher || {};
+      state.storageKey = `inct_v3::${r.lattes_id || p}`;
+
+      document.getElementById('researcher-name').textContent = r.full_name || '--';
+      document.getElementById('researcher-id').textContent = r.lattes_id || '--';
+      document.getElementById('extracted-at').textContent = data.metadata?.extracted_at || '--';
+      document.getElementById('total-productions').textContent = data.productions.length;
+      document.getElementById('source-line').textContent = `Fonte: localhost:8000/docs/prefill/${p}`;
+
+      const saved = localStorage.getItem(state.storageKey);
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        state.selections = parsed.selections || {};
+        state.edits = parsed.edits || {};
+      } else {
+        state.productionsRaw.forEach((item, i) => { state.selections[item.fingerprint_sha1 || i] = true; });
+      }
+
+      state.sectionsAll = [...new Set(state.productionsRaw.map(i => i.production_type || i.section || 'Outros'))];
+      renderSummary();
+      renderYearFilters();
+      applyFilters();
+    };
+
+    const renderSummary = () => {
+      const list = document.getElementById('summary-list');
+      list.innerHTML = '';
+      state.sectionsAll.forEach(s => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.textContent = s; a.href = '#';
+        a.onclick = (e) => {
+          e.preventDefault();
+          const target = document.getElementById(`sec-${s.toLowerCase().replace(/\s+/g, '-')}`);
+          window.scrollTo({ top: target.getBoundingClientRect().top + window.pageYOffset - 132, behavior: 'auto' });
+          showBackToTop();
+        };
+        li.appendChild(a); list.appendChild(li);
+      });
+    };
+
+    const showBackToTop = () => {
+      let btt = document.getElementById('ephemeral-btt');
+      if (!btt) {
+        btt = document.createElement('div'); btt.id = 'ephemeral-btt'; btt.className = 'back-to-top-btn';
+        btt.innerHTML = '<span>⬆️</span> VOLTAR AO SUMÁRIO'; document.body.appendChild(btt);
+        btt.onclick = () => {
+          window.scrollTo({ top: document.getElementById('summary-panel').offsetTop - 132, behavior: 'auto' });
+          btt.style.display = 'none';
+        };
+      }
+      btt.style.display = 'flex';
+      setTimeout(() => { window.onscroll = () => { if (window.scrollY < 200) { btt.style.display = 'none'; window.onscroll = null; } }; }, 1000);
+    };
+
+    const renderYearFilters = () => {
+      const yCont = document.getElementById('year-filters');
+      const years = [...new Set(state.productionsRaw.map(i => i.ano || i.year))].filter(Boolean).sort();
+      years.forEach(y => {
+        const l = document.createElement('label');
+        l.innerHTML = `<input type="checkbox" value="${y}" checked onchange="applyFilters()"> ${y}`;
+        yCont.appendChild(l);
+      });
+    };
+
+    const applyFilters = () => {
+      const q = document.getElementById('search-input').value.toLowerCase();
+      const selectedYears = new Set(Array.from(document.querySelectorAll('#year-filters input:checked')).map(i => i.value));
+      const filtered = state.productionsRaw.filter(i => {
+        const yearMatch = selectedYears.has(String(i.ano || i.year));
+        const textMatch = !q || `${i.titulo} ${i.veiculo} ${i.autores}`.toLowerCase().includes(q);
+        return yearMatch && textMatch;
+      });
+      renderTables(filtered);
+    };
+
+    const renderTables = (items) => {
+      const cont = document.getElementById('productions-container');
+      cont.innerHTML = '';
+      state.sectionsAll.forEach(cat => {
+        const secItems = items.filter(i => (i.production_type || i.section || 'Outros') === cat);
+        if (secItems.length === 0) return;
+        const secId = `sec-${cat.toLowerCase().replace(/\s+/g, '-')}`;
+        const section = document.createElement('section');
+        section.innerHTML = `
+          <div class="section-header" id="${secId}">
+            <h2>${cat} (${secItems.length})</h2>
+            <div class="section-controls">
+              <label><input type="checkbox" checked onchange="toggleSection('${cat}', this.checked)"> Selecionar tudo</label>
+              <button class="add-to-section-btn" onclick="openAddModal('${cat}')">+ Adicionar nesta seção</button>
+            </div>
+          </div>
+          <table>
+            <thead><tr><th>INCT?</th><th>Ano</th><th>Título</th><th>Veículo</th><th>Autores</th><th class="hidden-col">DOI</th><th class="hidden-col">Ações</th></tr></thead>
+            <tbody></tbody>
+          </table>`;
+        const tbody = section.querySelector('tbody');
+        secItems.forEach((item, idx) => {
+          const key = item.fingerprint_sha1 || `${cat}::${idx}`;
+          const displayItem = state.edits[key] ? { ...item, ...state.edits[key] } : item;
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><input type="checkbox" ${state.selections[key]?'checked':''} onchange="state.selections['${key}']=this.checked; persistState()"></td>
+            <td>${displayItem.ano || displayItem.year || ''}</td>
+            <td><strong>${displayItem.titulo || ''}</strong></td>
+            <td>${displayItem.veiculo || displayItem.journal || ''}</td>
+            <td>${displayItem.autores || ''}</td>
+            <td class="hidden-col">${displayItem.doi || ''}</td>
+            <td class="hidden-col"><button onclick="openEditModal('${key}')">Editar</button></td>`;
+          tbody.appendChild(tr);
+        });
+        cont.appendChild(section);
+      });
+    };
+
+    const persistState = () => localStorage.setItem(state.storageKey, JSON.stringify({selections: state.selections, edits: state.edits}));
+    
+    window.openAddModal = (type = "Artigos completos em periódicos") => {
+      document.getElementById('add-tipo').value = type;
+      document.getElementById('add-titulo').value = '';
+      document.getElementById('add-veiculo').value = '';
+      document.getElementById('add-ano').value = new Date().getFullYear();
+      document.getElementById('add-doi').value = '';
+      document.getElementById('add-autores').value = '';
+      document.getElementById('add-modal').style.display = 'grid';
+    };
+
+    window.saveManualProduction = () => {
+      const type = document.getElementById('add-tipo').value;
+      const newItem = {
+        production_type: type, titulo: document.getElementById('add-titulo').value,
+        veiculo: document.getElementById('add-veiculo').value, ano: document.getElementById('add-ano').value,
+        doi: document.getElementById('add-doi').value, autores: document.getElementById('add-autores').value,
+        fingerprint_sha1: 'manual-' + Date.now()
+      };
+      state.productionsRaw.unshift(newItem);
+      state.selections[newItem.fingerprint_sha1] = true;
+      persistState();
+      document.getElementById('add-modal').style.display = 'none';
+      applyFilters();
+    };
+
+    window.openEditModal = (key) => {
+      state.editingKey = key;
+      const item = state.productionsRaw.find(i => (i.fingerprint_sha1 || i) === key) || state.edits[key] || {};
+      document.getElementById('edit-titulo').value = item.titulo || '';
+      document.getElementById('edit-veiculo').value = item.veiculo || '';
+      document.getElementById('edit-ano').value = item.ano || '';
+      document.getElementById('edit-doi').value = item.doi || '';
+      document.getElementById('edit-autores').value = item.autores || '';
+      document.getElementById('edit-modal').style.display = 'grid';
+    };
+
+    window.saveEdit = () => {
+      state.edits[state.editingKey] = {
+        titulo: document.getElementById('edit-titulo').value,
+        veiculo: document.getElementById('edit-veiculo').value,
+        ano: document.getElementById('edit-ano').value,
+        doi: document.getElementById('edit-doi').value,
+        autores: document.getElementById('edit-autores').value
+      };
+      persistState();
+      document.getElementById('edit-modal').style.display = 'none';
+      applyFilters();
+    };
+
+    window.toggleSection = (cat, checked) => {
+      state.productionsRaw.filter(i => (i.production_type || i.section || 'Outros') === cat).forEach(i => {
+        state.selections[i.fingerprint_sha1 || i] = checked;
+      });
+      persistState(); applyFilters();
+    };
+
+    window.downloadValidationJson = () => {
+      const items = state.productionsRaw.map(i => ({
+        fingerprint_sha1: i.fingerprint_sha1,
+        selected: !!state.selections[i.fingerprint_sha1 || i],
+        titulo: i.titulo, ano: i.ano, edits: state.edits[i.fingerprint_sha1] || null
+      }));
+      const blob = new Blob([JSON.stringify({ researcher: state.researcher, items }, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = `validacao_${state.researcher.lattes_id}.json`;
+      a.click();
+    };
+
+    document.getElementById('bd-trigger').onclick = () => {
+      if (localStorage.getItem(BD_KEY) === 'true') document.body.classList.toggle('reveal-all');
+      else document.getElementById('auth-modal').style.display = 'grid';
+    };
+
+    document.getElementById('auth-submit').onclick = () => {
+      if (document.getElementById('auth-pass').value === BD_PASS) {
+        localStorage.setItem(BD_KEY, 'true'); document.body.classList.add('reveal-all');
+        document.getElementById('auth-modal').style.display = 'none';
+      } else alert('Negado');
+    };
+
+    const eye = document.getElementById('auth-eye');
+    eye.onmousedown = () => document.getElementById('auth-pass').type = 'text';
+    eye.onmouseup = eye.onmouseleave = () => document.getElementById('auth-pass').type = 'password';
+
+    loadData();
+  </script>
+</body>
+</html>

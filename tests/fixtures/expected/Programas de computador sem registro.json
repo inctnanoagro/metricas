@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0.0",
+  "tipo_producao": "Programas de computador sem registro",
+  "source_file": "Programas de computador sem registro.html",
+  "extraction_timestamp": "2026-01-26T16:56:13.774190Z",
+  "items": [
+    {
+      "numero_item": 1,
+      "raw": "FRACETO, L. F. ; GALEMBECK, Eduardo ; YOKAICHIYA, Daniela K ; TORRES, B. B. ; MIRANDA, M. A. . Software:Sinalização hormonal via AMPc. 2001.",
+      "autores": "FRACETO, L. F.; GALEMBECK, Eduardo; YOKAICHIYA, Daniela K; TORRES, B. B.; MIRANDA, M. A.",
+      "titulo": "Software:Sinalização hormonal via AMPc",
+      "ano": 2001,
+      "mes": null,
+      "doi": null,
+      "fingerprint_sha1": "e3bea899c169ab3950728c611bc55dcac0cb5f13",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">\n<img src=\"images/curriculo/ico_relevante.gif\" style=\"icone-relevancia\"/>\n<b>FRACETO, L. F.</b>; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/2672736578186109\" tabindex=\"2378\" target=\"_blank\" title=\"Clique para visualizar o currículo\">GALEMBECK, Eduardo</a> ; <a class=\"tooltip\" href=\"http://lattes.cnpq.br/5487024766818655\" tabindex=\"2379\" target=\"_blank\" title=\"Clique para visualizar o currículo\">YOKAICHIYA, Daniela K</a> ; TORRES"
+    }
+  ],
+  "parse_metadata": {
+    "parser_version": "1.0.0",
+    "total_items": 1,
+    "parse_errors": 0,
+    "warnings": []
+  }
+}

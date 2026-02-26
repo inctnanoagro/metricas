@@ -1,0 +1,317 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inct-nanoagro.example/schemas/researcher_output.schema.json",
+  "title": "Researcher Output Schema (INCT NanoAgro) - v2",
+  "description": "Schema for validating per-researcher JSON output from batch_full_profile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "researcher",
+    "metadata",
+    "productions"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "2.0.0",
+      "description": "Schema version identifier"
+    },
+    "researcher": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "lattes_id",
+        "full_name",
+        "slug"
+      ],
+      "properties": {
+        "lattes_id": {
+          "type": "string",
+          "description": "Lattes ID extracted from filename or HTML"
+        },
+        "full_name": {
+          "type": "string",
+          "description": "Researcher full name"
+        },
+        "slug": {
+          "type": "string",
+          "description": "Slugified researcher name"
+        },
+        "last_update": {
+          "type": ["string", "null"],
+          "description": "Last update date from Lattes (DD/MM/YYYY)"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "extracted_at",
+        "source_file",
+        "total_productions",
+        "sections",
+        "filters"
+      ],
+      "properties": {
+        "extracted_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of extraction"
+        },
+        "source_file": {
+          "type": "string",
+          "description": "Source full_profile HTML filename"
+        },
+        "total_productions": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total number of extracted productions"
+        },
+        "sections": {
+          "type": "array",
+          "description": "Section-level summary",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "section_title",
+              "item_count",
+              "tipo_producao"
+            ],
+            "properties": {
+              "section_title": {
+                "type": "string",
+                "description": "Section title as shown in Lattes"
+              },
+              "item_count": {
+                "type": "integer",
+                "minimum": 0,
+                "description": "Number of items in the section"
+              },
+              "tipo_producao": {
+                "type": "string",
+                "description": "Normalized production type label"
+              }
+            }
+          }
+        },
+        "filters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["years"],
+          "properties": {
+            "years": {
+              "description": "Applied year filter (list) or 'all'",
+              "oneOf": [
+                {
+                  "type": "string",
+                  "const": "all"
+                },
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "integer",
+                    "minimum": 1800,
+                    "maximum": 2100
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "productions": {
+      "type": "array",
+      "description": "Flattened list of production items across sections",
+      "items": {
+        "$ref": "#/$defs/production_item"
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "file",
+        "lattes_id",
+        "production_type",
+        "extracted_at"
+      ],
+      "properties": {
+        "file": {
+          "type": "string",
+          "description": "Source HTML filename"
+        },
+        "lattes_id": {
+          "type": "string",
+          "description": "Lattes ID for provenance"
+        },
+        "production_type": {
+          "type": "string",
+          "description": "Section title in the original Lattes"
+        },
+        "section": {
+          "type": ["string", "null"],
+          "description": "Optional section label when production_type is overloaded"
+        },
+        "tipo_producao": {
+          "type": ["string", "null"],
+          "description": "Optional normalized production type"
+        },
+        "extracted_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Extraction timestamp"
+        }
+      }
+    },
+    "production_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "numero_item",
+        "raw"
+      ],
+      "properties": {
+        "numero_item": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Ordinal number from Lattes (1., 2., 3., etc)"
+        },
+        "raw": {
+          "type": "string",
+          "description": "Raw text extracted from span.transform for audit"
+        },
+        "autores": {
+          "type": ["string", "null"],
+          "description": "Authors semicolon-separated, normalized"
+        },
+        "titulo": {
+          "type": ["string", "null"],
+          "description": "Title when identifiable"
+        },
+        "ano": {
+          "type": ["integer", "null"],
+          "minimum": 1800,
+          "maximum": 2100,
+          "description": "Publication year"
+        },
+        "mes": {
+          "type": ["string", "null"],
+          "description": "Month abbreviation (jan., fev., mar., etc) when available"
+        },
+        "veiculo": {
+          "type": ["string", "null"],
+          "description": "Journal/newspaper/venue name"
+        },
+        "livro": {
+          "type": ["string", "null"],
+          "description": "Book name for chapters"
+        },
+        "veiculo_ou_livro": {
+          "type": ["string", "null"],
+          "description": "Unified venue field when available"
+        },
+        "periodico": {
+          "type": ["string", "null"],
+          "description": "Journal name when available"
+        },
+        "revista": {
+          "type": ["string", "null"],
+          "description": "Magazine name when available"
+        },
+        "volume": {
+          "type": ["string", "null"],
+          "description": "Volume information"
+        },
+        "paginas": {
+          "type": ["string", "null"],
+          "description": "Page range or page information"
+        },
+        "doi": {
+          "type": ["string", "null"],
+          "description": "DOI identifier without URL prefix"
+        },
+        "isbn": {
+          "type": ["string", "null"],
+          "description": "ISBN for books/chapters"
+        },
+        "editora": {
+          "type": ["string", "null"],
+          "description": "Publisher name"
+        },
+        "edicao": {
+          "type": ["string", "null"],
+          "description": "Edition information"
+        },
+        "local": {
+          "type": ["string", "null"],
+          "description": "Publication location/city"
+        },
+        "evento": {
+          "type": ["string", "null"],
+          "description": "Event name for congress papers"
+        },
+        "instituicao": {
+          "type": ["string", "null"],
+          "description": "Institution for thesis/dissertations"
+        },
+        "orientador": {
+          "type": ["string", "null"],
+          "description": "Advisor name for thesis/dissertations"
+        },
+        "tipo_orientacao": {
+          "type": ["string", "null"],
+          "description": "Type of supervision/participation"
+        },
+        "natureza": {
+          "type": ["string", "null"],
+          "description": "Nature/type of work"
+        },
+        "issn": {
+          "type": ["string", "null"],
+          "description": "ISSN for journals"
+        },
+        "url": {
+          "type": ["string", "null"],
+          "description": "URL if available"
+        },
+        "html_snippet": {
+          "type": ["string", "null"],
+          "description": "First 500 chars of HTML for debugging"
+        },
+        "fingerprint_sha1": {
+          "type": ["string", "null"],
+          "pattern": "^[a-f0-9]{40}$",
+          "description": "SHA1 hash of raw text for deduplication"
+        },
+        "parse_warnings": {
+          "type": ["array", "null"],
+          "items": {
+            "type": "string"
+          },
+          "description": "Warnings during parsing"
+        },
+        "production_type": {
+          "type": ["string", "null"],
+          "description": "Section label assigned during batch"
+        },
+        "section": {
+          "type": ["string", "null"],
+          "description": "Optional section label when production_type is overloaded"
+        },
+        "tipo_producao": {
+          "type": ["string", "null"],
+          "description": "Optional normalized production type"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        }
+      }
+    }
+  }
+}
