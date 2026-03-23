@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:14.874660",
+    "extracted_at": "2026-01-28T14:28:15.451805",
     "source_file": "2723323416837014__adriano-arrue-melo.full_profile.html",
     "total_productions": 11,
     "sections": [
@@ -95,9 +95,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "CIÊNCIA RURAL"
+      "veiculo": "CIÊNCIA RURAL",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288888+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -114,9 +123,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "Acs Agricultural Science & Technology"
+      "veiculo": "Acs Agricultural Science & Technology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288900+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -133,9 +151,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288904+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -152,9 +179,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "CIÊNCIA RURAL"
+      "veiculo": "CIÊNCIA RURAL",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288907+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -171,9 +207,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "International Journal of Tropical Insect Science (Online)"
+      "veiculo": "International Journal of Tropical Insect Science (Online)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288910+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -190,9 +235,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "INFORMAÇÕES AGRONÔMICAS"
+      "veiculo": "INFORMAÇÕES AGRONÔMICAS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288914+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -209,9 +263,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:14.843342"
+        "extracted_at": "2026-01-28T14:28:15.419310"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288917+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -228,9 +291,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:14.871535"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
-      "veiculo": "Início: 2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria. (Orientador)"
+      "veiculo": "Início: 2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria. (Orientador)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288920+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -247,9 +319,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:14.871535"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
-      "veiculo": "Início: 2024. Tese (Doutorado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
+      "veiculo": "Início: 2024. Tese (Doutorado em Engenharia Agrícola) - Universidade Federal de Santa Maria",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288923+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -266,9 +347,18 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:14.871535"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
-      "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
+      "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288927+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -285,9 +375,30 @@
         "file": "2723323416837014__adriano-arrue-melo.full_profile.html",
         "lattes_id": "2723323416837014",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:14.871535"
+        "extracted_at": "2026-01-28T14:28:15.448660"
       },
-      "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria"
+      "veiculo": "2024. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+        "applied_at": "2026-03-23T11:37:51.288930+00:00",
+        "fingerprint_match": true
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "2723323416837014__adriano-arrué-melo__validado (1).json",
+    "processed_at": "2026-03-23T11:37:51.288933+00:00",
+    "stats": {
+      "total_items": 11,
+      "matched": 11,
+      "marked_inct_true": 5,
+      "marked_inct_false": 6,
+      "unmarked": 0
+    }
+  }
 }

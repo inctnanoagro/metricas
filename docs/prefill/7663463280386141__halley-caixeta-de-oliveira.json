@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:27.204661",
+    "extracted_at": "2026-01-28T14:28:27.812498",
     "source_file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
     "total_productions": 124,
     "sections": [
@@ -64,7 +64,7 @@
       {
         "section_title": "Demais tipos de produção técnica",
         "item_count": 0,
-        "tipo_producao": "temp__demais-tipos-de-producao-tecnica"
+        "tipo_producao": "temp__demais-tipos-de-produa-a-o-ta-cnica"
       },
       {
         "section_title": "Patentes e registros",
@@ -120,9 +120,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "REVISTA ARVORE"
+      "veiculo": "REVISTA ARVORE",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332457+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -139,9 +148,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "ACS Applied Materials & Interfaces"
+      "veiculo": "ACS Applied Materials & Interfaces",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332462+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -158,9 +176,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "PLANTS"
+      "veiculo": "PLANTS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332465+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -177,9 +204,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "PLANT SCIENCE"
+      "veiculo": "PLANT SCIENCE",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332467+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -196,9 +232,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "ACTA SCIENTIARUM-AGRONOMY"
+      "veiculo": "ACTA SCIENTIARUM-AGRONOMY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332470+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -215,9 +260,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "COLLOQUIUM AGRARIAE (UNOESTE)"
+      "veiculo": "COLLOQUIUM AGRARIAE (UNOESTE)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332472+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 8,
@@ -234,9 +288,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "PLANTS"
+      "veiculo": "PLANTS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332475+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 9,
@@ -253,9 +316,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+      "veiculo": "TREES-STRUCTURE AND FUNCTION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332477+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 10,
@@ -272,9 +344,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+      "veiculo": "TREES-STRUCTURE AND FUNCTION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332479+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 11,
@@ -291,9 +372,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "ACS Omega"
+      "veiculo": "ACS Omega",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332482+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 12,
@@ -310,9 +400,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332484+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 13,
@@ -329,9 +428,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)"
+      "veiculo": "SEMINA. CIÊNCIAS AGRÁRIAS (ONLINE)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332487+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 14,
@@ -348,9 +456,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Theoretical and Experimental Plant Physiology"
+      "veiculo": "Theoretical and Experimental Plant Physiology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332489+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 15,
@@ -367,9 +484,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Theoretical and Experimental Plant Physiology"
+      "veiculo": "Theoretical and Experimental Plant Physiology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332491+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 16,
@@ -386,9 +512,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Emerging Contaminants"
+      "veiculo": "Emerging Contaminants",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332493+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 17,
@@ -405,9 +540,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332496+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 18,
@@ -424,9 +568,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "JOURNAL OF PLANT PHYSIOLOGY"
+      "veiculo": "JOURNAL OF PLANT PHYSIOLOGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332498+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 19,
@@ -443,9 +596,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Agronomy-Basel"
+      "veiculo": "Agronomy-Basel",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332500+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 20,
@@ -462,9 +624,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "TREES-STRUCTURE AND FUNCTION"
+      "veiculo": "TREES-STRUCTURE AND FUNCTION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332503+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 21,
@@ -481,9 +652,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "PLANTA"
+      "veiculo": "PLANTA",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332505+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 22,
@@ -500,9 +680,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "PLANTS"
+      "veiculo": "PLANTS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332507+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 23,
@@ -519,9 +708,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Acs Applied Nano Materials"
+      "veiculo": "Acs Applied Nano Materials",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332509+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 24,
@@ -538,9 +736,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Environmental Science-Nano"
+      "veiculo": "Environmental Science-Nano",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332512+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 25,
@@ -557,9 +764,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332514+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 26,
@@ -576,9 +792,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "ENVIRONMENTAL AND EXPERIMENTAL BOTANY"
+      "veiculo": "ENVIRONMENTAL AND EXPERIMENTAL BOTANY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332516+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 27,
@@ -595,9 +820,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:27.041120"
+        "extracted_at": "2026-01-28T14:28:27.654306"
       },
-      "veiculo": "Plant Stress"
+      "veiculo": "Plant Stress",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332519+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -614,9 +848,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Textos em jornais de notícias/revistas",
-        "extracted_at": "2026-02-25T12:52:27.046605"
+        "extracted_at": "2026-01-28T14:28:27.659664"
       },
-      "veiculo": "The Conversation Brasil"
+      "veiculo": "The Conversation Brasil",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332521+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -633,9 +876,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Textos em jornais de notícias/revistas",
-        "extracted_at": "2026-02-25T12:52:27.046605"
+        "extracted_at": "2026-01-28T14:28:27.659664"
       },
-      "veiculo": "The Conversation Brasil"
+      "veiculo": "The Conversation Brasil",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332524+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -652,9 +904,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332526+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -671,9 +932,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332529+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -690,9 +960,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332531+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -709,9 +988,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332533+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -728,9 +1016,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332536+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -747,9 +1044,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332538+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -766,9 +1072,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "10th Plant Nitric Oxide International Meeting"
+      "livro": "10th Plant Nitric Oxide International Meeting",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332540+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 8,
@@ -785,9 +1100,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "VI Congresso de Biologia da UEL"
+      "livro": "VI Congresso de Biologia da UEL",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332543+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 9,
@@ -804,9 +1128,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "VI Congresso de Biologia da UEL"
+      "livro": "VI Congresso de Biologia da UEL",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332545+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 10,
@@ -823,9 +1156,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "VI Congresso de Biologia da UEL"
+      "livro": "VI Congresso de Biologia da UEL",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332548+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 11,
@@ -842,9 +1184,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332550+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 12,
@@ -861,9 +1212,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332552+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 13,
@@ -880,9 +1240,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332555+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 14,
@@ -899,9 +1268,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332557+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 15,
@@ -918,9 +1296,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "9th Plant Nitric oxide International Meeting (PNO9)"
+      "livro": "9th Plant Nitric oxide International Meeting (PNO9)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332560+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 16,
@@ -937,9 +1324,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "26º World Congress IUFRO"
+      "livro": "26º World Congress IUFRO",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332562+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 17,
@@ -956,9 +1352,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia"
+      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332564+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 18,
@@ -975,9 +1380,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXII Congresso Brasileiro de Sementes"
+      "livro": "XXII Congresso Brasileiro de Sementes",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332567+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 19,
@@ -994,9 +1408,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXII Congresso Brasileiro de Sementes"
+      "livro": "XXII Congresso Brasileiro de Sementes",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332569+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 20,
@@ -1013,9 +1436,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332572+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 21,
@@ -1032,9 +1464,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332574+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 22,
@@ -1051,9 +1492,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332576+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 23,
@@ -1070,9 +1520,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332579+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 24,
@@ -1089,9 +1548,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332581+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 25,
@@ -1108,9 +1576,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas"
+      "livro": "XXXIII Congresso Brasileiro da Ciência das Plantas Daninhas e XXV Congresso Latinoamericano de Malezas",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332583+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 26,
@@ -1127,9 +1604,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "XXVI IUFRO World Congress"
+      "livro": "XXVI IUFRO World Congress",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332586+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 27,
@@ -1146,9 +1632,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Resumos publicados em anais de congressos",
-        "extracted_at": "2026-02-25T12:52:27.088533"
+        "extracted_at": "2026-01-28T14:28:27.702168"
       },
-      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia"
+      "livro": "II Workshop Latinoamericano en Nano y Biotecnologia",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332588+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -1165,9 +1660,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Artigos aceitos para publicação",
-        "extracted_at": "2026-02-25T12:52:27.089394"
+        "extracted_at": "2026-01-28T14:28:27.702951"
       },
-      "veiculo": "Acs Agricultural Science & Technology"
+      "veiculo": "Acs Agricultural Science & Technology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332591+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -1184,9 +1688,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332593+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -1203,9 +1716,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332596+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -1222,9 +1744,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332598+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -1241,9 +1772,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332600+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -1260,9 +1800,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)"
+      "veiculo": "2024. (Apresentação de Trabalho/Comunicação)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332603+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -1279,9 +1828,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332605+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -1298,9 +1856,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:27.094434"
+        "extracted_at": "2026-01-28T14:28:27.707693"
       },
-      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)"
+      "veiculo": "2024. (Apresentação de Trabalho/Conferência ou palestra)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332607+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -1317,9 +1884,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Assessoria e consultoria",
-        "extracted_at": "2026-02-25T12:52:27.095859"
+        "extracted_at": "2026-01-28T14:28:27.709093"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332610+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -1336,9 +1912,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Assessoria e consultoria",
-        "extracted_at": "2026-02-25T12:52:27.095859"
+        "extracted_at": "2026-01-28T14:28:27.709093"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332612+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -1355,9 +1940,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332615+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -1374,9 +1968,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332617+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -1393,9 +1996,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332619+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -1412,9 +2024,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332622+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -1431,9 +2052,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332624+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -1450,9 +2080,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332627+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -1469,9 +2108,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332629+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 8,
@@ -1488,9 +2136,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332631+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 9,
@@ -1507,9 +2164,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332634+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 10,
@@ -1526,9 +2192,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332636+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 11,
@@ -1545,9 +2220,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332638+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 12,
@@ -1564,9 +2248,18 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332641+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 13,
@@ -1583,47 +2276,74 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Trabalhos técnicos",
-        "extracted_at": "2026-02-25T12:52:27.110375"
+        "extracted_at": "2026-01-28T14:28:27.723412"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332643+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
-      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÍCULAS LIBERADORAS DE ÓXIDO NÍTRICO PARA A PROMOÇÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÇÃO CONTRA ESTRESSES. 2024, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10202400134, título: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÍCULAS LIBERADORAS DE ÓXIDO NÍTRICO PARA A PROMOÇÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÇÃO CONTRA ESTRESSES\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 23/01/2024",
+      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
       "autores": "Oliveira, H. C.; SEABRA, A. B.; ZUCARELI, C.; GOMES, D. G.; FERREIRA, A. S.; SOUZA, B. L.; PIERETTI, JOANA C.",
       "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEO CONTRA ESTRESSES",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "5c2112f3d21db191a0b6832449c36d0ebbbb8e19",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7663463280386141&sequencial=728\" title=\"Clique aqui para visualizar as informaes da patente no site do INPI\"></span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRES",
+      "fingerprint_sha1": "989dbc03ca75d0c82351934b521f2b9652861ca0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7663463280386141&sequencial=728\" title=\"Clique aqui para visualizar as informaes da patente no site do INPI\"></span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO ",
       "production_type": "Patentes e registros",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Patentes e registros",
-        "extracted_at": "2026-02-25T12:52:27.112369"
+        "extracted_at": "2026-01-28T14:28:27.725427"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332646+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 42,
-      "raw": "IVAMOTO-SUZUKI, S. T.; Oliveira, H. C. ; AMADOR, T. S.. Participação em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTÍCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÇÃO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de Conclusão de Curso (Graduação em Biotecnologia) - Universidade Estadual de Londrina.",
+      "raw": "IVAMOTO-SUZUKI, S. T.; Oliveira, H. C. ; AMADOR, T. S.. ParticipaÃ§Ã£o em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTÃCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEÃÃO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Biotecnologia) - Universidade Estadual de Londrina.",
       "autores": "IVAMOTO-SUZUKI, S. T.; Oliveira, H. C.; AMADOR, T. S.. Participao em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEO CONTRA ALTAS TEMPERATURAS.. Trabalho de Concluso de Curso (Graduao em Biotecnologia) - Universidade Estadual de Londrina",
       "titulo": "Participação em banca de JULIA CACHEFO SGARIONI",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "6b9cdb7c63fd7e6e2364b4b9df80294c4f4c569a",
+      "fingerprint_sha1": "f37f4603b7960d14810cf1fecd8e05f797135b35",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">IVAMOTO-SUZUKI, S. T.; <b>Oliveira, H. C.</b>; AMADOR, T. S..  Participao em banca de JULIA CACHEFO SGARIONI.PRIMING DE SEMENTES DE SOJA COM NANOPARTCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEO CONTRA ALTAS TEMPERATURAS.\n\t\t\t\t\t\t2025. Trabalho de Concluso de Curso (Graduao em Biotecnologia)  - Universidade Estadual de Londrina. </span></div>",
       "production_type": "Bancas",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:27.159787"
+        "extracted_at": "2026-01-28T14:28:27.767415"
       },
-      "veiculo": "PRIMING DE SEMENTES DE SOJA COM NANOPARTCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de Concluso de Curso (Graduao em Biotecnologia) - Universidade Estadual de Londrina"
+      "veiculo": "PRIMING DE SEMENTES DE SOJA COM NANOPARTCULAS DE QUITOSANA CONTENDO DOADOR DE NO PARA PROTEO CONTRA ALTAS TEMPERATURAS. 2025. Trabalho de Concluso de Curso (Graduao em Biotecnologia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332648+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 1,
@@ -1640,47 +2360,74 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Eventos",
-        "extracted_at": "2026-02-25T12:52:27.170177"
+        "extracted_at": "2026-01-28T14:28:27.777755"
       },
-      "veiculo": "2025. (Congresso)"
+      "veiculo": "2025. (Congresso)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332650+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
-      "raw": "VI CONGRESSO DE BIOLOGIA DA UEL. Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produção vegetal em um cenário de mudanças climáticas?. 2025. (Congresso).",
+      "raw": "VI CONGRESSO DE BIOLOGIA DA UEL. Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produÃ§Ã£o vegetal em um cenÃ¡rio de mudanÃ§as climÃ¡ticas?. 2025. (Congresso).",
       "autores": null,
       "titulo": "Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produção vegetal em um cenário de mudanças climáticas?",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "a92168ba2db5b1b034b58a9a99d500fbad5ecd58",
+      "fingerprint_sha1": "b0256534a0d60f3aa7df10791290caccfeb14a69",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">VI CONGRESSO DE BIOLOGIA DA UEL. Mesa Redonda - Do nano ao macro: como biomateriais e microrganismos podem beneficiar a produção vegetal em um cenário de mudanças climáticas?. 2025. (Congresso). </span></div>",
       "production_type": "Eventos",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Eventos",
-        "extracted_at": "2026-02-25T12:52:27.170177"
+        "extracted_at": "2026-01-28T14:28:27.777755"
       },
-      "veiculo": "2025. (Congresso)"
+      "veiculo": "2025. (Congresso)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332653+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 3,
-      "raw": "26º World Congress IUFRO. The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Congresso).",
+      "raw": "26Âº World Congress IUFRO. The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Congresso).",
       "autores": null,
       "titulo": "The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "5566190f4d8e58f07d4a1125f8526f6c4abb329d",
+      "fingerprint_sha1": "54baac5ca52a039a8b05b886c9c27172bc5fa08d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">26º World Congress IUFRO. The application of nitric oxide-releasing chitosan nanoparticles as a nature-based solution to improve drought tolerance of neotropical tree seedlings. 2024. (Congresso). </span></div>",
       "production_type": "Eventos",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Eventos",
-        "extracted_at": "2026-02-25T12:52:27.170177"
+        "extracted_at": "2026-01-28T14:28:27.777755"
       },
-      "veiculo": "2024. (Congresso)"
+      "veiculo": "2024. (Congresso)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332655+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 34,
@@ -1697,766 +2444,1147 @@
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Eventos",
-        "extracted_at": "2026-02-25T12:52:27.170177"
+        "extracted_at": "2026-01-28T14:28:27.777755"
       },
-      "veiculo": "2025. (Outro)"
+      "veiculo": "2025. (Outro)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332656+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 35,
-      "raw": "OLIVEIRA, H.C. . Missão de pesquisadores da Austrália e Moçambique ao Estado do Paraná. 2024. (Outro).",
+      "raw": "OLIVEIRA, H.C. . MissÃ£o de pesquisadores da AustrÃ¡lia e MoÃ§ambique ao Estado do ParanÃ¡. 2024. (Outro).",
       "autores": "OLIVEIRA, H.C.",
       "titulo": "Missão de pesquisadores da Austrália e Moçambique ao Estado do Paraná",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "c624726b1915504bce9f7e2002d15baadaa012a4",
+      "fingerprint_sha1": "83595518a8fe81551d515cd96c1c3c247051540b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Missão de pesquisadores da Austrália e Moçambique ao Estado do Paraná. 2024. (Outro). </span></div>",
       "production_type": "Eventos",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Eventos",
-        "extracted_at": "2026-02-25T12:52:27.170177"
+        "extracted_at": "2026-01-28T14:28:27.777755"
       },
-      "veiculo": "2024. (Outro)"
+      "veiculo": "2024. (Outro)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332659+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 1,
-      "raw": "Marcelo Canuto Gouveia. Tratamento de sementes com nanopartículas à base de cobre. Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "raw": "Marcelo Canuto Gouveia. Tratamento de sementes com nanopartÃ­culas Ã base de cobre. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
       "autores": null,
-      "titulo": "Tratamento de sementes com nanopartículas à base de cobre",
+      "titulo": "Tratamento de sementes com nanopartículas  base de cobre",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "76617d72881df25e839a07b8af25d9858cb75d7c",
+      "fingerprint_sha1": "77804e02ffa1129525fff7e684e0926fae8936c5",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcelo Canuto Gouveia. Tratamento de sementes com nanopartículas à base de cobre.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tDissertação (Mestrado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Início: 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332661+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 2,
-      "raw": "Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE ÓXIDO NÍTRICO SOBRE O DANO POR EMBEBIÇÃO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr. Início: 2025. Dissertação (Mestrado em Ciências Biológicas) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "raw": "Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE ÃXIDO NÃTRICO SOBRE O DANO POR EMBEBIÃÃO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr. InÃ­cio: 2025. DissertaÃ§Ã£o (Mestrado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
       "autores": null,
       "titulo": "EFEITO DO PRIMING DE SEMENTES COM DOADOR DE XIDO NTRICO SOBRE O DANO POR EMBEBIO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "45c7230d9e79836253ac295ca0f6417a62908eda",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3552348903812641\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE XIDO NTRICO SOBRE O DANO POR EMBEBIO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr.\n\t\t\t\t\tIncio: 2025.\n\t\t\t\t\tDissertao (Mestrado em Cincias Biolgicas)  - Universidade Estadual de Londrina, Coordena",
+      "fingerprint_sha1": "6961bdb9c4537a7d8541b685ed1f8c2164235160",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/3552348903812641\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Laura Lopes Maldonado. EFEITO DO PRIMING DE SEMENTES COM DOADOR DE XIDO NTRICO SOBRE O DANO POR EMBEBIO E O CRESCIMENTO INICIAL DE Erythrina falcata Benth E Glycine max (L.) Merr.\n\t\t\t\t\tIncio: 2025.\n\t\t\t\t\tDissertao (Mestrado em Cincias Biolgicas)  - Universidade Estadual de Londrina, C",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": ") Merr. Início: 2025. Dissertação (Mestrado em Ciências Biológicas) - Universidade Estadual de Londrina"
+      "veiculo": ") Merr. Início: 2025. Dissertação (Mestrado em Ciências Biológicas) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332663+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 3,
-      "raw": "José Flávio Firmani. HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO GRUPO QUÍMICO DAS TRIAZINAS: ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÉ E PÓS-EMERGENTE. Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).",
+      "raw": "JosÃ© FlÃ¡vio Firmani. HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO GRUPO QUÃMICO DAS TRIAZINAS: ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÃ E PÃS-EMERGENTE. InÃ­cio: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Coorientador).",
       "autores": null,
       "titulo": "HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO GRUPO QUÍMICO DAS TRIAZINAS: ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÉ E PÓS-EMERGENTE",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "1495cc24a4e2a83b4e046bb882ca3a656c7e4816",
+      "fingerprint_sha1": "a5c4a559ae2b775d3cdb6a9e32c4a08a7bd8b3a4",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">José Flávio Firmani. HERBICIDAS INIBIDORES DO FOTOSSISTEMA II DO  GRUPO QUÍMICO DAS TRIAZINAS:  ATRAZINA E TERBUTILAZINA SELETIVIDADE PARA CULTURAS E CONTROLE PRÉ E PÓS-EMERGENTE.\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Início: 2025. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332664+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 4,
-      "raw": "Karina Sanada. Priming de sementes com nanopartículas na mitigação do déficit hídrico em mudas de espécies arbóreas neotropicais.. Início: 2025. Tese (Doutorado em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador).",
+      "raw": "Karina Sanada. Priming de sementes com nanopartÃ­culas na mitigaÃ§Ã£o do dÃ©ficit hÃ­drico em mudas de espÃ©cies arbÃ³reas neotropicais.. InÃ­cio: 2025. Tese (Doutorado em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
       "titulo": "Priming de sementes com nanopartículas na mitigação do déficit hídrico em mudas de espécies arbóreas neotropicais",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "f0fd7cf611e353ad6bfe3b1494b030466539af3f",
+      "fingerprint_sha1": "fe9fa15233682427da13453c710926d4460933c8",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Karina Sanada. Priming de sementes com nanopartículas na mitigação do déficit hídrico  em mudas de espécies arbóreas neotropicais..\n\t\t\t\t\tInício: 2025. Tese (Doutorado em Ciências Biológicas)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2025. Tese (Doutorado em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "Início: 2025. Tese (Doutorado em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332666+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 5,
-      "raw": "João Pedro Chacon Pereira. Aplicação de bioestimulantes baseados em GABA e nanopartículas liberadoras de óxido nítrico na cultura do milho. Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).",
+      "raw": "JoÃ£o Pedro Chacon Pereira. AplicaÃ§Ã£o de bioestimulantes baseados em GABA e nanopartÃ­culas liberadoras de Ã³xido nÃ­trico na cultura do milho. InÃ­cio: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. (Orientador).",
       "autores": null,
       "titulo": "Aplicação de bioestimulantes baseados em GABA e nanopartículas liberadoras de óxido nítrico na cultura do milho",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "0d5eaab08dfaadd5bd2321e6cf0c31894761487a",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5399315095225044\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>João Pedro Chacon Pereira. Aplicação de bioestimulantes baseados em GABA e nanopartículas liberadoras de óxido nítrico na cultura do milho.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). ",
+      "fingerprint_sha1": "97363b3175b213ac4458a93d10d624c841fbb13a",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/5399315095225044\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>João Pedro Chacon Pereira. Aplicação de bioestimulantes baseados em GABA e nanopartículas liberadoras de óxido nítrico na cultura do milho.\n\t\t\t\t\tInício: 2024. Tese (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Or",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Início: 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332668+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 9,
-      "raw": "Yves Rafael Bovolenta. Início: 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico.",
+      "raw": "Yves Rafael Bovolenta. InÃ­cio: 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
       "autores": null,
       "titulo": "Início: 2025",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "2288ad2c3cdc37185d2f02f60cb730d0dda4d198",
+      "fingerprint_sha1": "0ec3fbb5430ee9691821f5c1545c598456647cb9",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Yves Rafael Bovolenta.\n\t\t\t\t\tInício: 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Universidade Estadual de Londrina"
+      "veiculo": "Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332670+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 10,
-      "raw": "Rafael Caetano da Silva. Início: 2025. Universidade Estadual de Londrina, Fundação Araucária.",
+      "raw": "Rafael Caetano da Silva. InÃ­cio: 2025. Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria.",
       "autores": null,
       "titulo": "Início: 2025",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "f312f5a384e5b1aadd72ae20eff3894f04846f98",
+      "fingerprint_sha1": "d9ef47b7d460fb7309d8737a981a2efb627b0a24",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Caetano da Silva.\n\t\t\t\t\tInício: 2025. Universidade Estadual de Londrina, Fundação Araucária. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Universidade Estadual de Londrina"
+      "veiculo": "Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332671+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 11,
-      "raw": "Isabella Martins Lourenço. Início: 2024. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico.",
+      "raw": "Isabella Martins LourenÃ§o. InÃ­cio: 2024. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico.",
       "autores": null,
       "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "681ce60e8ba09d15c2ab2ffd7c5c502bf2c5542a",
+      "fingerprint_sha1": "4eace20e3c1ee98d894c350155be7011979edd65",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabella Martins Lourenço.\n\t\t\t\t\tInício: 2024. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Universidade Estadual de Londrina"
+      "veiculo": "Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332673+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 12,
-      "raw": "Talita Amador. Início: 2024. Universidade Estadual de Londrina.",
+      "raw": "Talita Amador. InÃ­cio: 2024. Universidade Estadual de Londrina.",
       "autores": null,
       "titulo": "Início: 2024",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "8c521aa15ef18ca231e86f23d8bbbd9e7d9c9cd6",
+      "fingerprint_sha1": "c7dd83962122fbb4ad4941a1dc981fbf58eee847",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Talita Amador.\n\t\t\t\t\tInício: 2024. Universidade Estadual de Londrina. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Universidade Estadual de Londrina"
+      "veiculo": "Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332675+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 13,
-      "raw": "Danilo Ramos de Paula. Indução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador).",
+      "raw": "Danilo Ramos de Paula. InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico. InÃ­cio: 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. (Orientador).",
       "autores": null,
       "titulo": "Indução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "6809b9035e3409c9b78511c3b866b74df1872ad8",
+      "fingerprint_sha1": "e163dc5420af200cccbb7e53a28cc124872a0c2a",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danilo Ramos de Paula. Indução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico.\n\t\t\t\t\tInício: 2025. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador)"
+      "veiculo": "Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. (Orientador)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332677+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 14,
-      "raw": "Beatriz Alves de Souza. Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal. Início: 2025. Orientação de outra natureza. Universidade Estadual de Londrina. Fundação Araucária - NAPI Biodiversidade. (Orientador).",
+      "raw": "Beatriz Alves de Souza. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. InÃ­cio: 2025. OrientaÃ§Ã£o de outra natureza. Universidade Estadual de Londrina. FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. (Orientador).",
       "autores": null,
       "titulo": "Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "ff1827696ecf79d479d29f5e50d641792c3ae702",
+      "fingerprint_sha1": "8db95fe9d1671fac0005adcc60a993d68e182e63",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Alves de Souza. Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal.\n\t\t\t\t\tInício: 2025.\n\t\t\t\t\tOrientação de outra natureza. Universidade Estadual de Londrina. Fundação Araucária - NAPI Biodiversidade. (Orientador). </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Universidade Estadual de Londrina. Fundação Araucária - NAPI Biodiversidade. (Orientador)"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Universidade Estadual de Londrina. Fundação Araucária - NAPI Biodiversidade. (Orientador)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332678+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 15,
-      "raw": "José Flávio Firmani. Combinação de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L. e controle pós-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "JosÃ© FlÃ¡vio Firmani. CombinaÃ§Ã£o de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L. e controle pÃ³s-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. DissertaÃ§Ã£o (Mestrado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Combinação de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "7864cbb96257c0cfde5b221a1fddeaf53f3a6d33",
+      "fingerprint_sha1": "6c3b17f49673908fab53c0e8429947b29b21c38c",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">José Flávio Firmani. Combinação de atrazina nanoencapsulada e convencional: Seletividade para Zea mays L. e controle pós-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist.\n\t\t\t\t\t\t2025.\n\n\t\t\t\t\tDissertação  (Mestrado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixeta de Oliveira. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "e controle pós-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "e controle pós-emergente de Raphanus sativus L. e Conyza bonariensis (L.) Cronquist. 2025. Dissertação (Mestrado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332680+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 31,
-      "raw": "Rafael Caetano da Silva. O Papel do Óxido Nítrico e de Fontes Inorgânicas de Nitrogênio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses Abióticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de Botânica, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: Halley Caixeta de Oliveira.",
+      "raw": "Rafael Caetano da Silva. O Papel do Ãxido NÃ­trico e de Fontes InorgÃ¢nicas de NitrogÃªnio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses AbiÃ³ticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de BotÃ¢nica, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Coorientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "O Papel do Óxido Nítrico e de Fontes Inorgânicas de Nitrogênio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "f50f3914148bd0d056e5b2a4199a66fb8f965f57",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Caetano da Silva.\n\t\t\t\t\t\tO Papel do Óxido Nítrico e de Fontes Inorgânicas de Nitrogênio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses Abióticos.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Biodiversidade Vegetal e Meio Ambiente)  - Instituto de Botânica, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: Halley Caixeta de ",
+      "fingerprint_sha1": "17aa291648a6d014351cffbe38eb1588e8a46fe9",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Rafael Caetano da Silva.\n\t\t\t\t\t\tO Papel do Óxido Nítrico e de Fontes Inorgânicas de Nitrogênio no Desenvolvimento Radicular e nas Respostas de Arabidopsis thaliana (L.) Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses Abióticos.\n\t\t\t\t\t\t2025. Tese\n\t\t\t\t\t (Doutorado em Biodiversidade Vegetal e Meio Ambiente)  - Instituto de Botânica, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: Halley Cai",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": ") Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses Abióticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de Botânica"
+      "veiculo": ") Heynh. e Araucaria angustifolia (Bert.) Kuntze a Estresses Abióticos. 2025. Tese (Doutorado em Biodiversidade Vegetal e Meio Ambiente) - Instituto de Botânica",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332682+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 32,
-      "raw": "Bruno Teixeira de Sousa. Modo de ação da nanoatrazina em Zea mays L. e plantas daninhas sensíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Bruno Teixeira de Sousa. Modo de aÃ§Ã£o da nanoatrazina em Zea mays L. e plantas daninhas sensÃ­veis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Modo de ação da nanoatrazina em Zea mays L",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "fe6eefd0dce7775e80a74453ce2c8a70325f6927",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1223937773954109\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Bruno Teixeira de Sousa.\n\t\t\t\t\t\tModo de ação da nanoatrazina em Zea mays L. e plantas daninhas sensíveis e tolerantes ao herbicida.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixe",
+      "fingerprint_sha1": "dc4692a91cc7d800c12fb9c64a8bfd3f8577a0a0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/1223937773954109\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Bruno Teixeira de Sousa.\n\t\t\t\t\t\tModo de ação da nanoatrazina em Zea mays L. e plantas daninhas sensíveis e tolerantes ao herbicida.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halle",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "e plantas daninhas sensíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "e plantas daninhas sensíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332683+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 33,
-      "raw": "Ana Cristina Preisler. Modo de ação de nanopartículas de quitosana contendo doador de óxido nítrico em plantas de soja. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Ana Cristina Preisler. Modo de aÃ§Ã£o de nanopartÃ­culas de quitosana contendo doador de Ã³xido nÃ­trico em plantas de soja. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Modo de ação de nanopartículas de quitosana contendo doador de óxido nítrico em plantas de soja",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "ba1d310c1509d88aee35dfeb516b8c0c13bd8ebe",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7286022008401006\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ana Cristina Preisler.\n\t\t\t\t\t\tModo de ação de nanopartículas de quitosana contendo doador de óxido nítrico em plantas de soja.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley Caixeta de",
+      "fingerprint_sha1": "e950238ddb119819aa35baa3841e31cff926d7ca",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-lattes\" href=\"http://lattes.cnpq.br/7286022008401006\" target=\"_blank\"><img src=\"images/curriculo/logolattes.gif\"/></a>Ana Cristina Preisler.\n\t\t\t\t\t\tModo de ação de nanopartículas de quitosana contendo doador de óxido nítrico em plantas de soja.\n\t\t\t\t\t\t2024. Tese\n\t\t\t\t\t (Doutorado em Agronomia)  - Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Halley C",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332685+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 38,
-      "raw": "Tatiane Viegas Debiasi. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Halley Caixeta de Oliveira.",
+      "raw": "Tatiane Viegas Debiasi. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Halley Caixeta de Oliveira",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "6b0b1437d5270af58e2ed07d924200f9a5d5d6e5",
+      "fingerprint_sha1": "9a2867d0484fd6ddef90a327c6a3da3492dd41c4",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Tatiane Viegas Debiasi.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Halley Caixeta de Oliveira. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
+      },
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332687+00:00",
+        "fingerprint_match": false
       }
     },
     {
       "numero_item": 39,
-      "raw": "Bruno Teixeira de Sousa. 2025. Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Halley Caixeta de Oliveira.",
+      "raw": "Bruno Teixeira de Sousa. 2025. Universidade Estadual de Londrina, CoordenaÃ§Ã£o de AperfeiÃ§oamento de Pessoal de NÃ­vel Superior. Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Halley Caixeta de Oliveira",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "564dbd8e3d64e4709b4c12e9ce885c522409c6e8",
+      "fingerprint_sha1": "b7088c72ea2c7f98fc98ed42315d5481f3719441",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Bruno Teixeira de Sousa.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Halley Caixeta de Oliveira. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
+      },
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332688+00:00",
+        "fingerprint_match": false
       }
     },
     {
       "numero_item": 40,
-      "raw": "Diego Genuário Gomes. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Halley Caixeta de Oliveira.",
+      "raw": "Diego GenuÃ¡rio Gomes. 2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Halley Caixeta de Oliveira",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "9809c1ee78b44723a921f6edf4b54b47ad69869c",
+      "fingerprint_sha1": "0d5589f353bf82dc931e7c40116054f3175eab8f",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Diego Genuário Gomes.\n\t\t\t\t\t\t2025. Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Halley Caixeta de Oliveira. </span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
+      },
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332690+00:00",
+        "fingerprint_match": false
       }
     },
     {
       "numero_item": 43,
-      "raw": "Euller Guilherme Sawai de Carvalho. Avaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro. 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Euller Guilherme Sawai de Carvalho. AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Avaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "0d3a74c8a2f500e9644058a3e4bbed94d4adc1c1",
+      "fingerprint_sha1": "10082e9de99364ee33f856cf1f721bc457ca32ae",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tAvaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332692+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 44,
-      "raw": "Ana Kely Meira Volpato. Eficácia de nanoformulações de atrazina sobre o controle de capim-colchão (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granífero (Sorghum bicolor). 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Ana Kely Meira Volpato. EficÃ¡cia de nanoformulaÃ§Ãµes de atrazina sobre o controle de capim-colchÃ£o (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granÃ­fero (Sorghum bicolor). 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Eficácia de nanoformulações de atrazina sobre o controle de capim-colchão (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granífero (Sorghum bicolor)",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "81687e9b13bf084d4d33962df8b4019b799dcfec",
+      "fingerprint_sha1": "b00de10ae85a7f9b805629a42a59c1331b46a315",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Kely Meira Volpato.\n\t\t\t\t\t\tEficácia de nanoformulações de atrazina sobre o controle de capim-colchão (Digitaria horizontalis) e capim-marmelada (Urochloa plantaginea) e seletividade sobre sorgo granífero (Sorghum bicolor).\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332694+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 45,
-      "raw": "Marcos Luciano Manoel. Efeito De Hormônios Não Clássicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi. 2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Marcos Luciano Manoel. Efeito De HormÃ´nios NÃ£o ClÃ¡ssicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Efeito De Hormônios Não Clássicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "dcca9eb1b6a44dba547c03e5579a4b438287b999",
+      "fingerprint_sha1": "1f6c7143c4cb93061ce2bf94fc139a76fd42d022",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marcos Luciano Manoel.\n\t\t\t\t\t\tEfeito De Hormônios Não Clássicos De Defesa Vegetal Na Resposta De Arabidospsis thaliana a Aphelenchoides besseyi.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332695+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 46,
-      "raw": "Laura Lopes Maldonado. Emergência e Desenvolvimento Inicial de Plântulas de Espécies Arbóreas da Mata Atlântica em Resposta ao Priming de Sementes com Doador de Óxido Nítrico Nanoencapsulado. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Laura Lopes Maldonado. EmergÃªncia e Desenvolvimento Inicial de PlÃ¢ntulas de EspÃ©cies ArbÃ³reas da Mata AtlÃ¢ntica em Resposta ao Priming de Sementes com Doador de Ãxido NÃ­trico Nanoencapsulado. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Emergência e Desenvolvimento Inicial de Plântulas de Espécies Arbóreas da Mata Atlântica em Resposta ao Priming de Sementes com Doador de Óxido Nítrico Nanoencapsulado",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "366e9071e0ee82e41444beb515ed286771abaf60",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laura Lopes Maldonado.\n\t\t\t\t\t\tEmergência e Desenvolvimento Inicial de Plântulas de Espécies Arbóreas da Mata Atlântica em Resposta ao Priming de Sementes com Doador de Óxido Nítrico Nanoencapsulado.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t<",
+      "fingerprint_sha1": "0b2151a77a21cb04fc7cf87eb17c51e6fec587d7",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Laura Lopes Maldonado.\n\t\t\t\t\t\tEmergência e Desenvolvimento Inicial de Plântulas de Espécies Arbóreas da Mata Atlântica em Resposta ao Priming de Sementes com Doador de Óxido Nítrico Nanoencapsulado.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Ol",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332697+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 47,
-      "raw": "Julia Cabral da Silva. EFEITOS DA APLICAÇÃO DE PONTOS QUÂNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÓGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS À ACLIMATAÇÃO EM SOL PLENO. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina, Fundação Araucária. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Julia Cabral da Silva. EFEITOS DA APLICAÃÃO DE PONTOS QUÃNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLÃGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS Ã ACLIMATAÃÃO EM SOL PLENO. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "EFEITOS DA APLICAO DE PONTOS QUNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS  ACLIMATAO EM SOL PLENO",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "6cc35d9c5d22d9ada1fdeda8257d8e65b2c81993",
+      "fingerprint_sha1": "a3cf523e37d027037af92c1473c866df84ea4c08",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Julia Cabral da Silva.\n\t\t\t\t\t\tEFEITOS DA APLICAO DE PONTOS QUNTICOS DE CARBONO NA QUALIDADE MORFOFISIOLGICA DE MUDAS DE Eugenia brasiliensis SUBMETIDAS  ACLIMATAO EM SOL PLENO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Concluso de Curso. (Graduao em Cincias Biolgicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundao Araucria. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332699+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 48,
-      "raw": "Eloisa Merissi Ferreira. Efeito do priming de sementes com doador de óxido nítrico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Eloisa Merissi Ferreira. Efeito do priming de sementes com doador de Ã³xido nÃ­trico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum. 2025. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Efeito do priming de sementes com doador de óxido nítrico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "2154cdc1c284b91a5c7ea46e2926bcbd648a7427",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eloisa Merissi Ferreira.\n\t\t\t\t\t\tEfeito do priming de sementes com doador de óxido nítrico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
+      "fingerprint_sha1": "de1c8379cc67f73b33548d8a45cfd7fca4793700",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Eloisa Merissi Ferreira.\n\t\t\t\t\t\tEfeito do priming de sementes com doador de óxido nítrico nanoencapsulado no desenvolvimento inicial de Cecropia pachystachya e Solanum lycopersicum.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332700+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 49,
-      "raw": "BEATRIZ MARTINS DA COSTA PASSOS MOREIRA. Efeito de nanopartículas contendo doador de óxido nítrico no processo de transplantio de plântulas de Heliocarpus popayanensis Kunth. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "BEATRIZ MARTINS DA COSTA PASSOS MOREIRA. Efeito de nanopartÃ­culas contendo doador de Ã³xido nÃ­trico no processo de transplantio de plÃ¢ntulas de Heliocarpus popayanensis Kunth. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Efeito de nanopartículas contendo doador de óxido nítrico no processo de transplantio de plântulas de Heliocarpus popayanensis Kunth",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "1c3d35169a876c12bb5ec758ec612e008f14b361",
+      "fingerprint_sha1": "491b0cf90b49389d6e62971aefa2852e90d96854",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">BEATRIZ MARTINS DA COSTA PASSOS MOREIRA.\n\t\t\t\t\t\tEfeito de nanopartículas contendo doador de óxido nítrico no processo de transplantio de plântulas de Heliocarpus popayanensis Kunth.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Ciências Biológicas)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332702+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 50,
-      "raw": "Ana Luísa de Oliveira Simões. Efeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja. 2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Ana LuÃ­sa de Oliveira SimÃµes. Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja. 2024. Trabalho de ConclusÃ£o de Curso. (GraduaÃ§Ã£o em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Efeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "73e743c3eb5ce122507501dee6c335be487e4d58",
+      "fingerprint_sha1": "961e4c3b34e279722748593018214fbedb018fde",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Luísa de Oliveira Simões.\n\t\t\t\t\t\tEfeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tTrabalho de Conclusão de Curso. (Graduação em Agronomia)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Agronomia) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332704+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 74,
-      "raw": "Euller Guilherme Sawai de Carvalho. UTILIZAÇÃO DE NANOMATERIAIS À BASE DE CARBONO PARA INDUÇÃO DE CRESCIMENTO E PROTEÇÃO CONTRA O DÉFICIT HÍDRICO EM ALGODOEIRO. 2025. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Euller Guilherme Sawai de Carvalho. UTILIZAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO. 2025. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "UTILIZAO DE NANOMATERIAIS  BASE DE CARBONO PARA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM ALGODOEIRO",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "057c634c4058a1a9c0a3bbb674971505d34bd524",
+      "fingerprint_sha1": "9fb1567a005ee6e16cb6cc71bcc648ee55b488c1",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tUTILIZAO DE NANOMATERIAIS  BASE DE CARBONO PARA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM ALGODOEIRO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tIniciao Cientfica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientfico e Tecnolgico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2025. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332706+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 75,
-      "raw": "Ana Luísa de Oliveira Simões. Efeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja. 2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Ana LuÃ­sa de Oliveira SimÃµes. Efeitos do priming de sementes com nanopartÃ­culas de quitosana doadoras de Ã³xido nÃ­trico no desenvolvimento inicial da soja. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Efeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "b0d6d93ddc49d4e14bd8db6568b84af4461b60e4",
+      "fingerprint_sha1": "4638ef2fe1addb5a0cc3e9d8238a8c91dcaa12c7",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Ana Luísa de Oliveira Simões.\n\t\t\t\t\t\tEfeitos do priming de sementes com nanopartículas de quitosana doadoras de óxido nítrico no desenvolvimento inicial da soja.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332707+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 76,
-      "raw": "Euller Guilherme Sawai de Carvalho. Avaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro. 2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Euller Guilherme Sawai de Carvalho. AvaliaÃ§Ã£o do potencial antifÃºngico de nanopartÃ­culas biogÃªnicas de cobre sobre a ferrugem do cafeeiro. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Avaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "4ab6f5e4d1a4f8a71f60e993c56ca1c574d4d89c",
+      "fingerprint_sha1": "2b54b52df84a04423914646058b0f09648a52283",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Euller Guilherme Sawai de Carvalho.\n\t\t\t\t\t\tAvaliação do potencial antifúngico de nanopartículas biogênicas de cobre sobre a ferrugem do cafeeiro.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332709+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 77,
-      "raw": "Danilo Ramos de Paula. Indução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico. 2024. Iniciação Científica. (Graduando em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Danilo Ramos de Paula. InduÃ§Ã£o de fitoalexinas em cotilÃ©dones de soja pela aplicaÃ§Ã£o de nanopartÃ­culas de quitosana liberadoras de cobre ou Ã³xido nÃ­trico. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em CiÃªncias BiolÃ³gicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Indução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "dc3b45691e25fd9cd0419e5e0a0915beb906292d",
+      "fingerprint_sha1": "815025577673d11f809876abdaba1335572e466d",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Danilo Ramos de Paula.\n\t\t\t\t\t\tIndução de fitoalexinas em cotilédones de soja pela aplicação de nanopartículas de quitosana liberadoras de cobre ou óxido nítrico.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciação Científica. (Graduando em Ciências Biológicas)  - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Ciências Biológicas) - Universidade Estadual de Londrina. Orientador: Halley Caixeta de Oliveira",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332711+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 78,
-      "raw": "Marina Mologni Kawazoe. APLICAÇÃO DE NANOMATERIAIS À BASE DE CARBONO PARA INDUÇÃO DE CRESCIMENTO E PROTEÇÃO CONTRA O DÉFICIT HÍDRICO EM ALGODOEIRO. 2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Marina Mologni Kawazoe. APLICAÃÃO DE NANOMATERIAIS Ã BASE DE CARBONO PARA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM ALGODOEIRO. 2024. IniciaÃ§Ã£o CientÃ­fica. (Graduando em Agronomia) - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "APLICAO DE NANOMATERIAIS  BASE DE CARBONO PARA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM ALGODOEIRO",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "ed8cf1447561b3d8575d904a5abb225be9fa75c5",
+      "fingerprint_sha1": "cc8229c63fa2c0917af0e21cb5fbec5bc341d436",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Marina Mologni Kawazoe.\n\t\t\t\t\t\tAPLICAO DE NANOMATERIAIS  BASE DE CARBONO PARA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM ALGODOEIRO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tIniciao Cientfica. (Graduando em Agronomia)  - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientfico e Tecnolgico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332712+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 115,
-      "raw": "Beatriz Larissa de Souza. PERSISTÊNCIA DO EFEITO DO PRIMING COM DOADOR DE ÓXIDO NÍTRICO NANOENCAPSULADO NA INDUÇÃO DE CRESCIMENTO E PROTEÇÃO CONTRA O DÉFICIT HÍDRICO EM TRIGO. 2025. Orientação de outra natureza - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Beatriz Larissa de Souza. PERSISTÃNCIA DO EFEITO DO PRIMING COM DOADOR DE ÃXIDO NÃTRICO NANOENCAPSULADO NA INDUÃÃO DE CRESCIMENTO E PROTEÃÃO CONTRA O DÃFICIT HÃDRICO EM TRIGO. 2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "PERSISTNCIA DO EFEITO DO PRIMING COM DOADOR DE XIDO NTRICO NANOENCAPSULADO NA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM TRIGO",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "7a18b1462098fe9ec88a6b7ec28a417c7c8d7b22",
+      "fingerprint_sha1": "2ee700dfd6271f40b14e7ab977c5d0b26b15c330",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Beatriz Larissa de Souza.\n\t\t\t\t\t\tPERSISTNCIA DO EFEITO DO PRIMING COM DOADOR DE XIDO NTRICO NANOENCAPSULADO NA INDUO DE CRESCIMENTO E PROTEO CONTRA O DFICIT HDRICO EM TRIGO.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientao de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Cientfico e Tecnolgico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Orientação de outra natureza - Universidade Estadual de Londrina"
+      "veiculo": "2025. Orientação de outra natureza - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332714+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 116,
-      "raw": "Isabella Ramos Trevizani Thihara. Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal. 2025. Orientação de outra natureza - Universidade Estadual de Londrina, Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Isabella Ramos Trevizani Thihara. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. 2025. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria de Apoio ao Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "9af9d9940c8785030d5767dbc4c0eb2649457a69",
+      "fingerprint_sha1": "a9e741fdef079339a3b99a31f413a7378f08a305",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Isabella Ramos Trevizani Thihara.\n\t\t\t\t\t\tTécnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal.\n\t\t\t\t\t\t2025.\n\t\t\t\t\t\tOrientação de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2025. Orientação de outra natureza - Universidade Estadual de Londrina"
+      "veiculo": "2025. Orientação de outra natureza - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332716+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 117,
-      "raw": "Lara Raposo Bardy. Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal. 2024. Orientação de outra natureza - Universidade Estadual de Londrina, Fundação Araucária - NAPI Biodiversidade. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Lara Raposo Bardy. TÃ©cnico de nÃ­vel superior do NAPI Biodiversidade junto ao LaboratÃ³rio de Ecofisiologia Vegetal. 2024. OrientaÃ§Ã£o de outra natureza - Universidade Estadual de Londrina, FundaÃ§Ã£o AraucÃ¡ria - NAPI Biodiversidade. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "Técnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "139f105f61a2f7719317b60d32d08fa166bd64cf",
+      "fingerprint_sha1": "a3e3972f6e8a5a3f214a9692eaa0204ef3fc883b",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Lara Raposo Bardy.\n\t\t\t\t\t\tTécnico de nível superior do NAPI Biodiversidade junto ao Laboratório de Ecofisiologia Vegetal.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientação de outra natureza - Universidade Estadual de Londrina,\n\t\t\t\t\t\tFundação Araucária - NAPI Biodiversidade. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Orientação de outra natureza - Universidade Estadual de Londrina"
+      "veiculo": "2024. Orientação de outra natureza - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332717+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 118,
-      "raw": "Geovana Gabrielly Cunha. NANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÁCIDO GIBERÉLICO. 2024. Orientação de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.",
+      "raw": "Geovana Gabrielly Cunha. NANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÃCIDO GIBERÃLICO. 2024. OrientaÃ§Ã£o de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches, Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico. Orientador: Halley Caixeta de Oliveira.",
       "autores": null,
       "titulo": "NANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÁCIDO GIBERÉLICO",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "503c88980462bfe63e719a30b343c076b043a5a6",
+      "fingerprint_sha1": "aa9414ee87bd678a8066440cf59d7f8a552898b9",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">Geovana Gabrielly Cunha.\n\t\t\t\t\t\tNANOPRIMING DE SEMENTES DE Cecropia pachystachya COM ÁCIDO GIBERÉLICO.\n\t\t\t\t\t\t2024.\n\t\t\t\t\t\tOrientação de outra natureza. (Tecnico em Meio Ambiente)  - Albino Feijo Sanches,\n\t\t\t\t\t\tConselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Halley Caixeta de Oliveira.\n\t\t\t\t\t</span></div>",
       "production_type": "Orientações",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:27.190408"
+        "extracted_at": "2026-01-28T14:28:27.798131"
       },
-      "veiculo": "2024. Orientação de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches"
+      "veiculo": "2024. Orientação de outra natureza. (Tecnico em Meio Ambiente) - Albino Feijo Sanches",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332719+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 2,
-      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÍCULAS LIBERADORAS DE ÓXIDO NÍTRICO PARA A PROMOÇÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÇÃO CONTRA ESTRESSES. 2024, Brasil. Patente: Privilégio de Inovação. Número do registro: BR10202400134, título: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÍCULAS LIBERADORAS DE ÓXIDO NÍTRICO PARA A PROMOÇÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÇÃO CONTRA ESTRESSES\" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 23/01/2024",
+      "raw": "Oliveira, H. C. ; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES. 2024, Brasil. Patente: PrivilÃ©gio de InovaÃ§Ã£o. NÃºmero do registro: BR10202400134, tÃ­tulo: \"PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTÃCULAS LIBERADORAS DE ÃXIDO NÃTRICO PARA A PROMOÃÃO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEÃÃO CONTRA ESTRESSES\" , InstituiÃ§Ã£o de registro: INPI - Instituto Nacional da Propriedade Industrial. DepÃ³sito: 23/01/2024",
       "autores": "Oliveira, H. C.; SEABRA, A. B.; ZUCARELI, C.; GOMES, D. G.; FERREIRA, A. S.; SOUZA, B. L.; PIERETTI, JOANA C.",
       "titulo": "PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL E DA PROTEO CONTRA ESTRESSES",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "5c2112f3d21db191a0b6832449c36d0ebbbb8e19",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7663463280386141&sequencial=728\" title=\"Clique aqui para visualizar as informaes da patente no site do INPI\"></span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO DO CRES",
+      "fingerprint_sha1": "989dbc03ca75d0c82351934b521f2b9652861ca0",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><span class=\"ajaxINPI tooltip\" data-param=\"codigoRegistro=BR10202400134&idCNPq=7663463280386141&sequencial=728\" title=\"Clique aqui para visualizar as informaes da patente no site do INPI\"></span><b>Oliveira, H. C.</b>; SEABRA, A. B. ; ZUCARELI, C. ; GOMES, D. G. ; FERREIRA, A. S. ; SOUZA, B. L. ; PIERETTI, JOANA C. . PROCESSO DE TRATAMENTO DE SEMENTES COM NANOPARTCULAS LIBERADORAS DE XIDO NTRICO PARA A PROMOO ",
       "production_type": "Inovação",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Inovação",
-        "extracted_at": "2026-02-25T12:52:27.192413"
+        "extracted_at": "2026-01-28T14:28:27.800117"
       },
-      "veiculo": "2024"
+      "veiculo": "2024",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332721+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 2,
-      "raw": "DEBIASI, T. V. ; OLIVEIRA, H.C. . Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas. The Conversation Brasil, Brasil, 25 abr. 2025.",
+      "raw": "DEBIASI, T. V. ; OLIVEIRA, H.C. . Nanotecnologia e soluÃ§Ãµes baseadas na natureza ajudam a aumentar seguranÃ§a alimentar e mitigar mudanÃ§as climÃ¡ticas. The Conversation Brasil, Brasil, 25 abr. 2025.",
       "autores": "DEBIASI, T. V.; OLIVEIRA, H.C.",
       "titulo": "Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas",
       "ano": 2025,
       "mes": "abr",
       "doi": null,
-      "fingerprint_sha1": "fe7ecec2f3872484003bbced94db5780bbfad4f2",
+      "fingerprint_sha1": "dc8c2f56a14e694346abb7e473b8ddbdb98ada48",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">DEBIASI, T. V. ; <b>OLIVEIRA, H.C.</b> . Nanotecnologia e soluções baseadas na natureza ajudam a aumentar segurança alimentar e mitigar mudanças climáticas. The Conversation Brasil, Brasil, 25 abr.  2025. </span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:27.194607"
+        "extracted_at": "2026-01-28T14:28:27.802300"
       },
-      "veiculo": "The Conversation Brasil"
+      "veiculo": "The Conversation Brasil",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332723+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 3,
-      "raw": "Oliveira, H. C. ; GOMES, DIEGO G. ; CARVALHO, E. G. S. . Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café. The Conversation Brasil, 08 out. 2025.",
+      "raw": "Oliveira, H. C. ; GOMES, DIEGO G. ; CARVALHO, E. G. S. . SoluÃ§Ãµes baseadas na natureza: chÃ¡ verde e nanotecnologiajuntas na luta contra a doenÃ§a do cafÃ©. The Conversation Brasil, 08 out. 2025.",
       "autores": "Oliveira, H. C.; GOMES, DIEGO G.; CARVALHO, E. G. S.",
       "titulo": "Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café",
       "ano": 2025,
       "mes": "out",
       "doi": null,
-      "fingerprint_sha1": "72ac1864ab5dab0e176b0c573b85beec5f4f6041",
+      "fingerprint_sha1": "8d2e6e5a1c619f968d6728cee1f179161e0ae2f6",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>Oliveira, H. C.</b>; GOMES, DIEGO G. ; CARVALHO, E. G. S. . Soluções baseadas na natureza: chá verde e nanotecnologiajuntas na luta contra a doença do café. The Conversation Brasil, 08 out.  2025. </span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:27.194607"
+        "extracted_at": "2026-01-28T14:28:27.802300"
       },
-      "veiculo": "The Conversation Brasil"
+      "veiculo": "The Conversation Brasil",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332725+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 5,
-      "raw": "OLIVEIRA, H.C. . Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+      "raw": "OLIVEIRA, H.C. . Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (ApresentaÃ§Ã£o de Trabalho/ConferÃªncia ou palestra).",
       "autores": "OLIVEIRA, H.C.",
       "titulo": "Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "85549fa8319214787dd6665b48baaa9c0e6c6992",
+      "fingerprint_sha1": "fd5c887e6a29d6c24d016db0547c54f5af869728",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>OLIVEIRA, H.C.</b>. Nanotecnologia: Muito pequeno para ver mas grande o suficiente para mudar o mundo. 2025. (Apresentação de Trabalho/Conferência ou palestra). </span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "7663463280386141__halley-caixeta-de-oliveira.full_profile.html",
         "lattes_id": "7663463280386141",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:27.194607"
+        "extracted_at": "2026-01-28T14:28:27.802300"
       },
-      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)"
+      "veiculo": "2025. (Apresentação de Trabalho/Conferência ou palestra)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.332727+00:00",
+        "fingerprint_match": false
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "7663463280386141__halley-caixeta-de-oliveira__validado.json",
+    "processed_at": "2026-03-23T11:37:51.332728+00:00",
+    "stats": {
+      "total_items": 124,
+      "matched": 80,
+      "marked_inct_true": 56,
+      "marked_inct_false": 24,
+      "unmarked": 44
+    }
+  }
 }

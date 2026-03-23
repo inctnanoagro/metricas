@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:25.596170",
+    "extracted_at": "2026-01-28T14:28:26.211804",
     "source_file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
     "total_productions": 33,
     "sections": [
@@ -100,9 +100,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "BIOMASS & BIOENERGY"
+      "veiculo": "BIOMASS & BIOENERGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349747+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -119,9 +128,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "Maderas-Ciencia y Tecnologia"
+      "veiculo": "Maderas-Ciencia y Tecnologia",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349752+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -138,9 +156,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "QUÍMICA NOVA (ONLINE)"
+      "veiculo": "QUÍMICA NOVA (ONLINE)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349755+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -157,9 +184,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "Plant Nano Biology"
+      "veiculo": "Plant Nano Biology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349757+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -176,9 +212,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "Molecular Catalysis"
+      "veiculo": "Molecular Catalysis",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349759+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -195,9 +240,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "ACS Omega"
+      "veiculo": "ACS Omega",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349761+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -214,9 +268,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "Aqua-Water Infrastructure Ecosystems And Society"
+      "veiculo": "Aqua-Water Infrastructure Ecosystems And Society",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349763+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 8,
@@ -233,9 +296,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "JOURNAL OF MOLECULAR STRUCTURE"
+      "veiculo": "JOURNAL OF MOLECULAR STRUCTURE",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349766+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 9,
@@ -252,9 +324,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:25.508394"
+        "extracted_at": "2026-01-28T14:28:26.126588"
       },
-      "veiculo": "INTERNATIONAL JOURNAL OF PHYTOREMEDIATION"
+      "veiculo": "INTERNATIONAL JOURNAL OF PHYTOREMEDIATION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349768+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -271,9 +352,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Artigos aceitos para publicação",
-        "extracted_at": "2026-02-25T12:52:25.524116"
+        "extracted_at": "2026-01-28T14:28:26.146908"
       },
-      "veiculo": "Acs Agricultural Science & Technology"
+      "veiculo": "Acs Agricultural Science & Technology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349770+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 14,
@@ -290,9 +380,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "Modo de ação de nanoatrazina em plantas de milho e daninhas suscetíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina"
+      "veiculo": "Modo de ação de nanoatrazina em plantas de milho e daninhas suscetíveis e tolerantes ao herbicida. 2024. Tese (Doutorado em Agronomia) - Universidade Estadual de Londrina",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349772+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 21,
@@ -309,9 +408,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "A. F.; MORAIS"
+      "veiculo": "A. F.; MORAIS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349774+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 22,
@@ -328,9 +436,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "DETERMINAO VOLTAMTRICA DE MANCOZEBE EM HORTALIA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificao (Mestrando em Quimica) - Universidade Federal de Mato Grosso"
+      "veiculo": "DETERMINAO VOLTAMTRICA DE MANCOZEBE EM HORTALIA UTILIZANDO UM NANOSSENSOR MODIFICADO COM PONTOS DE CARBONO. 2024. Exame de qualificao (Mestrando em Quimica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349776+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 36,
@@ -347,9 +464,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2025. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349778+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 37,
@@ -366,9 +492,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "Participao em banca de MIRI BRANDO PEREIRA.USO DE LEOS VEGETAIS EMULSIONVEIS E GLICERINA NA AGRICULTURA. 2025. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso"
+      "veiculo": "Participao em banca de MIRI BRANDO PEREIRA.USO DE LEOS VEGETAIS EMULSIONVEIS E GLICERINA NA AGRICULTURA. 2025. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349781+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 38,
@@ -385,9 +520,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "ADSORO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACABA (ACROMIA ACULEATA) ?. 2024. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso"
+      "veiculo": "ADSORO DO CORANTE RODAMINA B POR CASCA DO FRUTO DA MACABA (ACROMIA ACULEATA) ?. 2024. Trabalho de Concluso de Curso (Graduao em Qumica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349783+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 39,
@@ -404,9 +548,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349784+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 40,
@@ -423,9 +576,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:25.561159"
+        "extracted_at": "2026-01-28T14:28:26.183327"
       },
-      "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Trabalho de Conclusão de Curso (Graduação em Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349787+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -442,9 +604,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "Início: 2024. Dissertação (Mestrado profissional em Quimica) - Universidade Federal de Mato Grosso. (Orientador)"
+      "veiculo": "Início: 2024. Dissertação (Mestrado profissional em Quimica) - Universidade Federal de Mato Grosso. (Orientador)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349789+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -461,9 +632,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2025. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
+      "veiculo": "2025. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349791+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -480,9 +660,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349793+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -499,7 +688,16 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
+      },
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349795+00:00",
+        "fingerprint_match": true
       }
     },
     {
@@ -517,7 +715,16 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
+      },
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349797+00:00",
+        "fingerprint_match": true
       }
     },
     {
@@ -535,7 +742,16 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
+      },
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349799+00:00",
+        "fingerprint_match": true
       }
     },
     {
@@ -553,9 +769,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349801+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 22,
@@ -572,9 +797,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349803+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 23,
@@ -591,9 +825,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
+      "veiculo": "2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349805+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 24,
@@ -610,9 +853,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "CRISPA. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
+      "veiculo": "CRISPA. 2025. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349807+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 25,
@@ -629,9 +881,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira"
+      "veiculo": "2024. Trabalho de Conclusão de Curso. (Graduação em Química) - Universidade Federal de Mato Grosso. Orientador: Adriano Buzutti de Siqueira",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349809+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 41,
@@ -648,9 +909,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349811+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 42,
@@ -667,9 +937,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Engenharia Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Engenharia Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349813+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 43,
@@ -686,9 +965,18 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349815+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 44,
@@ -705,9 +993,30 @@
         "file": "6569021588718910__adriano-buzutti-de-siqueira.full_profile.html",
         "lattes_id": "6569021588718910",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:25.587710"
+        "extracted_at": "2026-01-28T14:28:26.203344"
       },
-      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Iniciação Científica. (Graduando em Química) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+        "applied_at": "2026-03-23T11:37:51.349817+00:00",
+        "fingerprint_match": true
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "6569021588718910__adriano-buzutti-de-siqueira__validado.json",
+    "processed_at": "2026-03-23T11:37:51.349819+00:00",
+    "stats": {
+      "total_items": 33,
+      "matched": 33,
+      "marked_inct_true": 22,
+      "marked_inct_false": 11,
+      "unmarked": 0
+    }
+  }
 }

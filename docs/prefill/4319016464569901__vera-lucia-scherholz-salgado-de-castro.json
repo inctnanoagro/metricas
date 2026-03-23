@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:18.409958",
+    "extracted_at": "2026-01-28T14:28:19.021943",
     "source_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
     "total_productions": 7,
     "sections": [
@@ -125,9 +125,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:18.330000"
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
-      "veiculo": "ENVIRONMENTAL POLLUTION"
+      "veiculo": "ENVIRONMENTAL POLLUTION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296008+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -144,9 +153,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:18.330000"
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
-      "veiculo": "WATER AIR AND SOIL POLLUTION"
+      "veiculo": "WATER AIR AND SOIL POLLUTION",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296015+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -163,9 +181,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:18.330000"
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
-      "veiculo": "TOPICS IN CATALYSIS"
+      "veiculo": "TOPICS IN CATALYSIS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296018+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -182,9 +209,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:18.330000"
+        "extracted_at": "2026-01-28T14:28:18.941447"
       },
-      "veiculo": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE)"
+      "veiculo": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296021+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -201,9 +237,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:18.394557"
+        "extracted_at": "2026-01-28T14:28:19.006392"
       },
-      "veiculo": "TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS"
+      "veiculo": "TO STUDY THE IMPACTS OF ECO-CORONA FORMATION ON THE TOXIC POTENTIAL OF POLYSTYRENE NANOPLASTICS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296025+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -220,9 +265,18 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Bancas",
-        "extracted_at": "2026-02-25T12:52:18.394557"
+        "extracted_at": "2026-01-28T14:28:19.006392"
       },
-      "veiculo": "Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid"
+      "veiculo": "Computational-experimental approach in Environmental Nanotoxicology: Tannic Acid",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296028+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -239,9 +293,30 @@
         "file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro.full_profile.html",
         "lattes_id": "4319016464569901",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:18.403752"
+        "extracted_at": "2026-01-28T14:28:19.015682"
       },
-      "veiculo": "Embrapa Meio Ambiente"
+      "veiculo": "Embrapa Meio Ambiente",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+        "applied_at": "2026-03-23T11:37:51.296031+00:00",
+        "fingerprint_match": true
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "4319016464569901__vera-lucia-scherholz-salgado-de-castro__validado.json",
+    "processed_at": "2026-03-23T11:37:51.296034+00:00",
+    "stats": {
+      "total_items": 7,
+      "matched": 7,
+      "marked_inct_true": 5,
+      "marked_inct_false": 2,
+      "unmarked": 0
+    }
+  }
 }

@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:31.266129",
+    "extracted_at": "2026-01-28T14:28:31.920679",
     "source_file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
     "total_productions": 34,
     "sections": [
@@ -135,9 +135,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "Revista Ciencia Agronomica"
+      "veiculo": "Revista Ciencia Agronomica",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336695+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -154,9 +163,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "FRONTIERS IN MARINE SCIENCE"
+      "veiculo": "FRONTIERS IN MARINE SCIENCE",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336700+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -173,9 +191,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA"
+      "veiculo": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336703+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -192,9 +219,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY"
+      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336705+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -211,9 +247,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology"
+      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336708+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -230,9 +275,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "AQUATIC TOXICOLOGY"
+      "veiculo": "AQUATIC TOXICOLOGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336710+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 7,
@@ -249,9 +303,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "BIOMASS CONVERSION AND BIOREFINERY"
+      "veiculo": "BIOMASS CONVERSION AND BIOREFINERY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336712+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 8,
@@ -268,9 +331,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "REVISTA VIRTUAL DE QUÍMICA"
+      "veiculo": "REVISTA VIRTUAL DE QUÍMICA",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336714+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 9,
@@ -287,9 +359,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT"
+      "veiculo": "SCIENCE OF THE TOTAL ENVIRONMENT",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336717+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 10,
@@ -306,9 +387,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "RGSA (ANPAD)"
+      "veiculo": "RGSA (ANPAD)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336719+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 11,
@@ -325,9 +415,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "BOLETIM PARANAENSE DE GEOCIÊNCIAS"
+      "veiculo": "BOLETIM PARANAENSE DE GEOCIÊNCIAS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336721+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 12,
@@ -344,9 +443,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "AQUACULTURE REPORTS"
+      "veiculo": "AQUACULTURE REPORTS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336724+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 13,
@@ -363,9 +471,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336726+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 14,
@@ -382,9 +499,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336728+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 15,
@@ -401,9 +527,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:31.191950"
+        "extracted_at": "2026-01-28T14:28:31.848940"
       },
-      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES"
+      "veiculo": "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336730+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -420,9 +555,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Livros publicados/organizados ou edições",
-        "extracted_at": "2026-02-25T12:52:31.193231"
+        "extracted_at": "2026-01-28T14:28:31.850363"
       },
-      "veiculo": "1. ed. Salvador:"
+      "veiculo": "1. ed. Salvador:",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336732+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -439,9 +583,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Livros publicados/organizados ou edições",
-        "extracted_at": "2026-02-25T12:52:31.193231"
+        "extracted_at": "2026-01-28T14:28:31.850363"
       },
-      "veiculo": "1. ed. Athena: São Paulo"
+      "veiculo": "1. ed. Athena: São Paulo",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336735+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -458,9 +611,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Capítulos de livros publicados",
-        "extracted_at": "2026-02-25T12:52:31.195127"
+        "extracted_at": "2026-01-28T14:28:31.852328"
       },
-      "livro": "Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana"
+      "livro": "Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336737+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -477,9 +639,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Artigos aceitos para publicação",
-        "extracted_at": "2026-02-25T12:52:31.210453"
+        "extracted_at": "2026-01-28T14:28:31.867467"
       },
-      "veiculo": "HOEHNEA (SO PAULO)"
+      "veiculo": "HOEHNEA (SO PAULO)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336739+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -496,9 +667,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Processos ou técnicas",
-        "extracted_at": "2026-02-25T12:52:31.217446"
+        "extracted_at": "2026-01-28T14:28:31.874545"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336741+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -515,9 +695,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Entrevistas, mesas redondas, programas e comentários na mídia",
-        "extracted_at": "2026-02-25T12:52:31.218898"
+        "extracted_at": "2026-01-28T14:28:31.875993"
       },
-      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336744+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -534,9 +723,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Entrevistas, mesas redondas, programas e comentários na mídia",
-        "extracted_at": "2026-02-25T12:52:31.218898"
+        "extracted_at": "2026-01-28T14:28:31.875993"
       },
-      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336746+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -553,9 +751,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Patentes e registros",
-        "extracted_at": "2026-02-25T12:52:31.221337"
+        "extracted_at": "2026-01-28T14:28:31.878459"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336748+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -572,9 +779,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:31.245140"
+        "extracted_at": "2026-01-28T14:28:31.902500"
       },
-      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho"
+      "veiculo": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336751+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -591,9 +807,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:31.245140"
+        "extracted_at": "2026-01-28T14:28:31.902500"
       },
-      "veiculo": "2024. Dissertação (Mestrado em Engenharia de Biomateriais e Bioprocessos) - Universidade Estadual Paulista Júlio de Mesquita Filho"
+      "veiculo": "2024. Dissertação (Mestrado em Engenharia de Biomateriais e Bioprocessos) - Universidade Estadual Paulista Júlio de Mesquita Filho",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336753+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -610,9 +835,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Inovação",
-        "extracted_at": "2026-02-25T12:52:31.256732"
+        "extracted_at": "2026-01-28T14:28:31.911216"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336755+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 11,
@@ -629,9 +863,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Inovação",
-        "extracted_at": "2026-02-25T12:52:31.256732"
+        "extracted_at": "2026-01-28T14:28:31.911216"
       },
-      "veiculo": "2025"
+      "veiculo": "2025",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336758+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -648,9 +891,18 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY"
+      "veiculo": "EUROPEAN JOURNAL OF PHYCOLOGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336760+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -667,104 +919,170 @@
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology"
+      "veiculo": "- From Scientific Dissemination to the Development of Additives for Cosmetics. International Society for Applied Phycology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336762+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
-      "raw": "SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; Machado, L.P. ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e Antártica: Bioprospecção e Conservação na Década da Ciência Oceânica. 1. ed. Salvador: , 2025. v. 1. 89p .",
+      "raw": "SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; Machado, L.P. ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e AntÃ¡rtica: BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica. 1. ed. Salvador: , 2025. v. 1. 89p .",
       "autores": "SANTOS JUNIOR, A. F.; SANTOS, G. S.; Keila Almeida Santana; BRUNO, A. P.; LOPES, C. F.; PASQUALETTI, C. B.; SILVA, D. H. S.; SANTOS, G. N.; SILVA, G. S.; DEBONSI, H. M.; CASTRO-GAMBOA, I.; SILVA, I. J.; SOUZA, J. M. C.; NUNES, J. M. C.; RANGEL, K. C.; CLEMENTINO, L. C.; Machado, L.P.; GASPAR, L. R.; GRAMINHA, M. A. S.; KRESS, M. R. V. Z.; et.al",
       "titulo": "Algas Marinhas do Brasil e Antártica: Bioprospecção e Conservação na Década da Ciência Oceânica",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "797e20d94349b70c6fd7ac4989e0061fa1ca1052",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; <b>Machado, L.P.</b> ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e Antártica: Bioprospecção  e Conse",
+      "fingerprint_sha1": "a44980bdeb5bec803c58c5ebe41a154873d65068",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">SANTOS JUNIOR, A. F. ; SANTOS, G. S. ; Keila Almeida Santana ; BRUNO, A. P. ; LOPES, C. F. ; PASQUALETTI, C. B. ; SILVA, D. H. S. ; SANTOS, G. N. ; SILVA, G. S. ; DEBONSI, H. M. ; CASTRO-GAMBOA, I. ; SILVA, I. J. ; SOUZA, J. M. C. ; NUNES, J. M. C. ; RANGEL, K. C. ; CLEMENTINO, L. C. ; <b>Machado, L.P.</b> ; GASPAR, L. R. ; GRAMINHA, M. A. S. ; KRESS, M. R. V. Z. ; et.al . Algas Marinhas do Brasil e Antártica: Bioprospecção  e Co",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "1. ed. Salvador:"
+      "veiculo": "1. ed. Salvador:",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336764+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 6,
-      "raw": "Johana Marcela Concha ; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Guilherme Wolff ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão . The invisible world of brown seaweeds. 1. ed. Athena: São Paulo, 2025. v. 1. 59p .",
+      "raw": "Johana Marcela Concha ; Thalisia Cunha dos ; Clara Lopes dos ; Maria VitÃ³ria Raupp ; Guilherme Wolff ; Levi Pompermayer ; ValÃ©ria Laneuville ; Diana NegrÃ£o . The invisible world of brown seaweeds. 1. ed. Athena: SÃ£o Paulo, 2025. v. 1. 59p .",
       "autores": "Johana Marcela Concha; Thalisia Cunha dos; Clara Lopes dos; Maria Vitória Raupp; Guilherme Wolff; Levi Pompermayer; Valéria Laneuville; Diana Negrão",
       "titulo": "The invisible world of brown seaweeds",
       "ano": 2025,
       "mes": null,
       "doi": "10.22533/at.ed.607252508",
-      "fingerprint_sha1": "2c3796f82f31e22dfade39793a5e3f10f5c993f3",
+      "fingerprint_sha1": "a957250b6281ebb32c288bd050b43747e0982a61",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><a class=\"icone-producao icone-doi\" href=\"http://dx.doi.org/10.22533/at.ed.607252508\" target=\"_blank\"></a><b>Johana Marcela Concha</b>; Thalisia Cunha dos ; Clara Lopes dos ; Maria Vitória Raupp ; Guilherme Wolff ; Levi Pompermayer ; Valéria Laneuville ; Diana Negrão . The invisible world of brown seaweeds. 1. ed. Athena: São Paulo, 2025. v. 1. 59p . </span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "1. ed. Athena: São Paulo"
+      "veiculo": "1. ed. Athena: São Paulo",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336766+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 10,
-      "raw": "YOKOYA, N. S. ; SOUZA, J. M. C. ; MACHADO, L.P. . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÇÃO SUSTENTÁVEL DE BIOMASSA E DE BIOATIVOS. In: Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e Antártica Bioprospecção e Conservação na Década da Ciência Oceânica. 1ed.Salvador: , 2025, v. 1, p. 34-41.",
+      "raw": "YOKOYA, N. S. ; SOUZA, J. M. C. ; MACHADO, L.P. . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUÃÃO SUSTENTÃVEL DE BIOMASSA E DE BIOATIVOS. In: AnÃ­bal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e AntÃ¡rtica BioprospecÃ§Ã£o e ConservaÃ§Ã£o na DÃ©cada da CiÃªncia OceÃ¢nica. 1ed.Salvador: , 2025, v. 1, p. 34-41.",
       "autores": "YOKOYA, N. S.; SOUZA, J. M. C.; MACHADO, L.P",
       "titulo": "o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUO SUSTENTVEL DE BIOMASSA E DE BIOATIVOS",
       "ano": 2025,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "f910bedb2669c32629ff23cf5aebffba0434d12a",
+      "fingerprint_sha1": "2de0a5707551687efa88e53832eed85907f85c74",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\">YOKOYA, N. S. ; SOUZA, J. M. C. ; <b>MACHADO, L.P.</b> . o CULTIVO DE MACROALGAS MARINHAS PARA A PRODUO SUSTENTVEL DE BIOMASSA E DE BIOATIVOS. In: Anbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana. (Org.). Algas Marinhas Do Brasil e Antrtica Bioprospeco e Conservao na Dcada da Cincia Ocenica. 1ed.Salvador: , 2025, v. 1, p. 34-41. </span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "livro": "Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana"
+      "livro": "Aníbal de Freitas Santos Junior; Gustavo Souza dos Santos; Keila Almeida Santana",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336767+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 15,
-      "raw": "MACHADO, LEVI P. . Pesquisa descobre Biocombustível sustentável de plantas aquáticas. 2024. (Programa de rádio ou TV/Entrevista).",
+      "raw": "MACHADO, LEVI P. . Pesquisa descobre BiocombustÃ­vel sustentÃ¡vel de plantas aquÃ¡ticas. 2024. (Programa de rÃ¡dio ou TV/Entrevista).",
       "autores": "MACHADO, LEVI P.",
       "titulo": "Pesquisa descobre Biocombustível sustentável de plantas aquáticas",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "3318671b39710b814ece63f2c298f5db6d587318",
+      "fingerprint_sha1": "03204199f8d836e791df147ac181072dc0056290",
       "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>. Pesquisa descobre Biocombustível sustentável de plantas aquáticas. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Entrevista).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://www.youtube.com/watch?v=0XoYhlSr-9Q')\" src=\"http://estatico.cnpq.br/imagens/ico_pw_video.png\"/></span></div>",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2024. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336769+00:00",
+        "fingerprint_match": false
+      }
     },
     {
       "numero_item": 16,
-      "raw": "MACHADO, LEVI P. ; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática. 2024. (Programa de rádio ou TV/Comentário).",
+      "raw": "MACHADO, LEVI P. ; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustÃ­vel a partir de planta aquÃ¡tica. 2024. (Programa de rÃ¡dio ou TV/ComentÃ¡rio).",
       "autores": "MACHADO, LEVI P.; YAEKASHI, C. T.; PEIXOTO, G.",
       "titulo": "Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática",
       "ano": 2024,
       "mes": null,
       "doi": null,
-      "fingerprint_sha1": "ef876ca7fa9161642bf7867da89d650243a17f45",
-      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/11/04/pesquisa-da-unesp-araraquara-descobre-producao-de-biocombustivel-a-partir-de-planta-aquatica.ghtml')\" src=\"http://estati",
+      "fingerprint_sha1": "68055594851aa169b2608906c39f87df5d4845aa",
+      "html_snippet": "<div class=\"layout-cell layout-cell-11\"><span class=\"transform\"><b>MACHADO, LEVI P.</b>; YAEKASHI, C. T. ; PEIXOTO, G. . Pesquisa da Unesp Araraquara produz biocombustível a partir de planta aquática. 2024.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Programa de rádio ou TV/Comentário).\n\t\t\t\t\t\t<img class=\"icone-video\" onclick=\"mostrarPreviaVideo('https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/11/04/pesquisa-da-unesp-araraquara-descobre-producao-de-biocombustivel-a-partir-de-planta-aquatica.ghtml')\" src=\"http://es",
       "production_type": "Educação e Popularização de C & T",
       "source": {
         "file": "9697508931977949__levi-pompermayer-machado.full_profile.html",
         "lattes_id": "9697508931977949",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:31.261957"
+        "extracted_at": "2026-01-28T14:28:31.916468"
       },
-      "veiculo": "2024. (Programa de rádio ou TV/Comentário)"
+      "veiculo": "2024. (Programa de rádio ou TV/Comentário)",
+      "validacao_inct": {
+        "applied": false,
+        "pertence_inct": null,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+        "applied_at": "2026-03-23T11:37:51.336771+00:00",
+        "fingerprint_match": false
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "9697508931977949__levi-pompermayer-machado__validado.json",
+    "processed_at": "2026-03-23T11:37:51.336772+00:00",
+    "stats": {
+      "total_items": 34,
+      "matched": 29,
+      "marked_inct_true": 15,
+      "marked_inct_false": 14,
+      "unmarked": 5
+    }
+  }
 }

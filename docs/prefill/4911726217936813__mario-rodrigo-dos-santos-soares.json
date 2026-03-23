@@ -7,7 +7,7 @@
     "last_update": null
   },
   "metadata": {
-    "extracted_at": "2026-02-25T12:52:21.984247",
+    "extracted_at": "2026-01-28T14:28:22.599815",
     "source_file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
     "total_productions": 19,
     "sections": [
@@ -75,9 +75,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:21.969336"
+        "extracted_at": "2026-01-28T14:28:22.584565"
       },
-      "veiculo": "QUIMICA NOVA"
+      "veiculo": "QUIMICA NOVA",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.276845+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -94,9 +103,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:21.969336"
+        "extracted_at": "2026-01-28T14:28:22.584565"
       },
-      "veiculo": "BIOMASS & BIOENERGY"
+      "veiculo": "BIOMASS & BIOENERGY",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277604+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -113,9 +131,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Artigos completos publicados em periódicos",
-        "extracted_at": "2026-02-25T12:52:21.969336"
+        "extracted_at": "2026-01-28T14:28:22.584565"
       },
-      "veiculo": "ANALYTICAL LETTERS"
+      "veiculo": "ANALYTICAL LETTERS",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277613+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -132,9 +159,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Artigos aceitos para publicação",
-        "extracted_at": "2026-02-25T12:52:21.970065"
+        "extracted_at": "2026-01-28T14:28:22.585484"
       },
-      "veiculo": "Acs Agricultural Science & Technology"
+      "veiculo": "Acs Agricultural Science & Technology",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277620+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -151,9 +187,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:21.975745"
+        "extracted_at": "2026-01-28T14:28:22.591231"
       },
-      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": false,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277625+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -170,9 +215,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:21.975745"
+        "extracted_at": "2026-01-28T14:28:22.591231"
       },
-      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277630+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -189,9 +243,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Apresentações de Trabalho",
-        "extracted_at": "2026-02-25T12:52:21.975745"
+        "extracted_at": "2026-01-28T14:28:22.591231"
       },
-      "veiculo": "2025. (Apresentação de Trabalho/Congresso)"
+      "veiculo": "2025. (Apresentação de Trabalho/Congresso)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277634+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -208,9 +271,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Entrevistas, mesas redondas, programas e comentários na mídia",
-        "extracted_at": "2026-02-25T12:52:21.976634"
+        "extracted_at": "2026-01-28T14:28:22.592095"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277639+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -227,9 +299,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Entrevistas, mesas redondas, programas e comentários na mídia",
-        "extracted_at": "2026-02-25T12:52:21.976634"
+        "extracted_at": "2026-01-28T14:28:22.592095"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277643+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -246,9 +327,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Entrevistas, mesas redondas, programas e comentários na mídia",
-        "extracted_at": "2026-02-25T12:52:21.976634"
+        "extracted_at": "2026-01-28T14:28:22.592095"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277647+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -265,9 +355,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277651+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -284,9 +383,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277656+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -303,9 +411,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277660+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 4,
@@ -322,9 +439,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277664+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 5,
@@ -341,9 +467,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência"
+      "veiculo": "Início: 2025. Orientação de outra natureza. Secretaria de Estado de Ciência",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277668+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 6,
@@ -360,9 +495,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Orientações",
-        "extracted_at": "2026-02-25T12:52:21.982448"
+        "extracted_at": "2026-01-28T14:28:22.597984"
       },
-      "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso"
+      "veiculo": "2024. Dissertação (Mestrado em Quimica) - Universidade Federal de Mato Grosso",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277672+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 1,
@@ -379,9 +523,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:21.983290"
+        "extracted_at": "2026-01-28T14:28:22.598855"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277676+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 2,
@@ -398,9 +551,18 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:21.983290"
+        "extracted_at": "2026-01-28T14:28:22.598855"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277681+00:00",
+        "fingerprint_match": true
+      }
     },
     {
       "numero_item": 3,
@@ -417,9 +579,30 @@
         "file": "4911726217936813__mario-rodrigo-dos-santos-soares.full_profile.html",
         "lattes_id": "4911726217936813",
         "production_type": "Educação e Popularização de C & T",
-        "extracted_at": "2026-02-25T12:52:21.983290"
+        "extracted_at": "2026-01-28T14:28:22.598855"
       },
-      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)"
+      "veiculo": "2025. (Programa de rádio ou TV/Entrevista)",
+      "validacao_inct": {
+        "applied": true,
+        "pertence_inct": true,
+        "observacao": null,
+        "edits": null,
+        "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+        "applied_at": "2026-03-23T11:37:51.277685+00:00",
+        "fingerprint_match": true
+      }
     }
-  ]
+  ],
+  "meta_validacao_inct": {
+    "schema_version": "1.0.0",
+    "source_validation_file": "4911726217936813__mario-rodrigo-dos-santos-soares__validado.json",
+    "processed_at": "2026-03-23T11:37:51.277690+00:00",
+    "stats": {
+      "total_items": 19,
+      "matched": 19,
+      "marked_inct_true": 16,
+      "marked_inct_false": 3,
+      "unmarked": 0
+    }
+  }
 }
